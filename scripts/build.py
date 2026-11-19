@@ -97,7 +97,8 @@ def verifier_textes(objet, chemin: str) -> None:
 
 
 def attribuer(fond: gpd.GeoDataFrame, regles: list[dict], date: int) -> gpd.GeoSeries:
-    communes = fond[fond["CODE_ISO"] == "CH"]
+    # Les lacs (GARTE 13) sont dessinés dans la couche de contexte, pas attribués.
+    communes = fond[(fond["CODE_ISO"] == "CH") & (fond["GARTE"] != 13)]
     par_canton, par_district, par_commune = {}, {}, {}
     for r in regles:
         niveau, cle, t = r["niveau"], r["cle"], r["territoire"]
@@ -139,8 +140,7 @@ def construire_date(fond, donnees: dict, couleurs: dict) -> tuple[dict, dict]:
     attribution = attribuer(fond, donnees["regles"], date)
     communes = fond.loc[attribution.index].copy()
     communes["t"] = attribution
-    # Les lacs (GARTE 13) restent dans la couche de contexte, pas dans les territoires.
-    terrestres = communes[communes["GARTE"] != 13]
+    terrestres = communes
 
     stats = terrestres.groupby("t").agg(
         superficie_km2=("superficie_km2", "sum"), communes=("GDEHISTID", "count")

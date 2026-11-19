@@ -40,7 +40,7 @@
 
   /* Carte */
   var carte = L.map("carte", {
-    zoomSnap: 0.1, zoomDelta: 0.5, minZoom: 7, maxZoom: 12, attributionControl: true, renderer: L.svg({ padding: 0.5 })
+    zoomSnap: 0.1, zoomDelta: 0.5, minZoom: 6, maxZoom: 12, attributionControl: true, renderer: L.svg({ padding: 0.5 })
   });
   carte.attributionControl.setPrefix(false);
   carte.attributionControl.addAttribution("Fond communal 1850 © OFS · Textes d'après le DHS (CC BY-SA)");
@@ -260,8 +260,8 @@
       ol.textContent = "";
       ch.liste.slice(0, 10).forEach(function (c) {
         ol.appendChild(el("li", {}, [
+          document.createTextNode(c.de_nom + " → "),
           el("strong", { texte: c.vers_nom }),
-          document.createTextNode(" reçoit des terres de " + c.de_nom),
           el("span", { classe: "chiffres", texte: c.communes + " commune" + (c.communes > 1 ? "s" : "") + " de 1850, ≈" + nombre.format(c.superficie_km2) + " km²" })
         ]));
       });

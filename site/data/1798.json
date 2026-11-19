@@ -760,5 +760,538 @@
    "couleur": "#b0a89f"
   }
  ],
- "superficie_totale_km2": 39969
+ "superficie_totale_km2": 39969,
+ "changements": {
+  "depuis": 1513,
+  "liste": [
+   {
+    "de": "berne",
+    "de_nom": "Canton de Berne",
+    "vers": "canton-oberland",
+    "vers_nom": "Canton d'Oberland",
+    "communes": 58,
+    "superficie_km2": 2433
+   },
+   {
+    "de": "eveche-bale",
+    "de_nom": "Principauté épiscopale de Bâle",
+    "vers": "france",
+    "vers_nom": "République française",
+    "communes": 157,
+    "superficie_km2": 1528
+   },
+   {
+    "de": "savoie",
+    "de_nom": "Duché de Savoie",
+    "vers": "leman",
+    "vers_nom": "Canton du Léman",
+    "communes": 258,
+    "superficie_km2": 1514
+   },
+   {
+    "de": "uri",
+    "de_nom": "Canton d'Uri",
+    "vers": "canton-waldstatten",
+    "vers_nom": "Canton des Waldstätten",
+    "communes": 19,
+    "superficie_km2": 1058
+   },
+   {
+    "de": "bailliage-thurgovie",
+    "de_nom": "Landgraviat de Thurgovie",
+    "vers": "thurgovie",
+    "vers_nom": "Canton de Thurgovie",
+    "communes": 207,
+    "superficie_km2": 821
+   },
+   {
+    "de": "glaris",
+    "de_nom": "Canton de Glaris",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 25,
+    "superficie_km2": 681
+   },
+   {
+    "de": "unterwald",
+    "de_nom": "Canton d'Unterwald",
+    "vers": "canton-waldstatten",
+    "vers_nom": "Canton des Waldstätten",
+    "communes": 17,
+    "superficie_km2": 647
+   },
+   {
+    "de": "schwyz",
+    "de_nom": "Canton de Schwytz",
+    "vers": "canton-waldstatten",
+    "vers_nom": "Canton des Waldstätten",
+    "communes": 16,
+    "superficie_km2": 622
+   },
+   {
+    "de": "savoie",
+    "de_nom": "Duché de Savoie",
+    "vers": "fribourg",
+    "vers_nom": "Canton de Fribourg",
+    "communes": 152,
+    "superficie_km2": 615
+   },
+   {
+    "de": "berne",
+    "de_nom": "Canton de Berne",
+    "vers": "argovie",
+    "vers_nom": "Canton d'Argovie",
+    "communes": 108,
+    "superficie_km2": 591
+   },
+   {
+    "de": "vallemaggia",
+    "de_nom": "Bailliage du val Maggia",
+    "vers": "canton-lugano",
+    "vers_nom": "Canton de Lugano",
+    "communes": 22,
+    "superficie_km2": 587
+   },
+   {
+    "de": "sargans",
+    "de_nom": "Pays de Sargans",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 9,
+    "superficie_km2": 560
+   },
+   {
+    "de": "bailliage-locarno",
+    "de_nom": "Bailliage de Locarno",
+    "vers": "canton-lugano",
+    "vers_nom": "Canton de Lugano",
+    "communes": 42,
+    "superficie_km2": 533
+   },
+   {
+    "de": "uri",
+    "de_nom": "Canton d'Uri",
+    "vers": "canton-bellinzone",
+    "vers_nom": "Canton de Bellinzone",
+    "communes": 20,
+    "superficie_km2": 480
+   },
+   {
+    "de": "comte-neuchatel",
+    "de_nom": "Comté de Neuchâtel (occupé par les cantons)",
+    "vers": "neuchatel",
+    "vers_nom": "Principauté de Neuchâtel",
+    "communes": 51,
+    "superficie_km2": 470
+   },
+   {
+    "de": "berne",
+    "de_nom": "Canton de Berne",
+    "vers": "leman",
+    "vers_nom": "Canton du Léman",
+    "communes": 16,
+    "superficie_km2": 435
+   },
+   {
+    "de": "appenzell",
+    "de_nom": "Canton d'Appenzell",
+    "vers": "canton-santis",
+    "vers_nom": "Canton du Säntis",
+    "communes": 28,
+    "superficie_km2": 415
+   },
+   {
+    "de": "gruyere",
+    "de_nom": "Comté de Gruyère",
+    "vers": "fribourg",
+    "vers_nom": "Canton de Fribourg",
+    "communes": 33,
+    "superficie_km2": 371
+   },
+   {
+    "de": "blenio",
+    "de_nom": "Val Blenio",
+    "vers": "canton-bellinzone",
+    "vers_nom": "Canton de Bellinzone",
+    "communes": 17,
+    "superficie_km2": 361
+   },
+   {
+    "de": "toggenbourg",
+    "de_nom": "Comté de Toggenbourg",
+    "vers": "canton-santis",
+    "vers_nom": "Canton du Säntis",
+    "communes": 18,
+    "superficie_km2": 330
+   },
+   {
+    "de": "bailliage-lugano",
+    "de_nom": "Bailliage de Lugano",
+    "vers": "canton-lugano",
+    "vers_nom": "Canton de Lugano",
+    "communes": 109,
+    "superficie_km2": 322
+   },
+   {
+    "de": "bailliage-baden",
+    "de_nom": "Comté de Baden",
+    "vers": "canton-baden",
+    "vers_nom": "Canton de Baden",
+    "communes": 52,
+    "superficie_km2": 281
+   },
+   {
+    "de": "abbaye-saint-gall",
+    "de_nom": "Principauté abbatiale de Saint-Gall",
+    "vers": "canton-santis",
+    "vers_nom": "Canton du Säntis",
+    "communes": 24,
+    "superficie_km2": 274
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+    "vers": "fricktal",
+    "vers_nom": "Fricktal autrichien",
+    "communes": 38,
+    "superficie_km2": 266
+   },
+   {
+    "de": "savoie",
+    "de_nom": "Duché de Savoie",
+    "vers": "valais",
+    "vers_nom": "Canton du Valais",
+    "communes": 9,
+    "superficie_km2": 257
+   },
+   {
+    "de": "freie-aemter",
+    "de_nom": "Freie Ämter",
+    "vers": "canton-baden",
+    "vers_nom": "Canton de Baden",
+    "communes": 48,
+    "superficie_km2": 246
+   },
+   {
+    "de": "valangin",
+    "de_nom": "Seigneurie de Valangin",
+    "vers": "neuchatel",
+    "vers_nom": "Principauté de Neuchâtel",
+    "communes": 22,
+    "superficie_km2": 243
+   },
+   {
+    "de": "gruyere",
+    "de_nom": "Comté de Gruyère",
+    "vers": "canton-oberland",
+    "vers_nom": "Canton d'Oberland",
+    "communes": 3,
+    "superficie_km2": 241
+   },
+   {
+    "de": "toggenbourg",
+    "de_nom": "Comté de Toggenbourg",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 7,
+    "superficie_km2": 224
+   },
+   {
+    "de": "schwyz",
+    "de_nom": "Canton de Schwytz",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 12,
+    "superficie_km2": 214
+   },
+   {
+    "de": "bellinzone",
+    "de_nom": "Bellinzone",
+    "vers": "canton-bellinzone",
+    "vers_nom": "Canton de Bellinzone",
+    "communes": 24,
+    "superficie_km2": 212
+   },
+   {
+    "de": "zoug",
+    "de_nom": "Canton de Zoug",
+    "vers": "canton-waldstatten",
+    "vers_nom": "Canton des Waldstätten",
+    "communes": 11,
+    "superficie_km2": 207
+   },
+   {
+    "de": "savoie",
+    "de_nom": "Duché de Savoie",
+    "vers": "france",
+    "vers_nom": "République française",
+    "communes": 35,
+    "superficie_km2": 202
+   },
+   {
+    "de": "grandson",
+    "de_nom": "Bailliage de Grandson",
+    "vers": "leman",
+    "vers_nom": "Canton du Léman",
+    "communes": 25,
+    "superficie_km2": 200
+   },
+   {
+    "de": "gruyere",
+    "de_nom": "Comté de Gruyère",
+    "vers": "leman",
+    "vers_nom": "Canton du Léman",
+    "communes": 3,
+    "superficie_km2": 186
+   },
+   {
+    "de": "eveche-lausanne",
+    "de_nom": "Principauté épiscopale de Lausanne",
+    "vers": "leman",
+    "vers_nom": "Canton du Léman",
+    "communes": 25,
+    "superficie_km2": 170
+   },
+   {
+    "de": "riviera",
+    "de_nom": "Riviera",
+    "vers": "canton-bellinzone",
+    "vers_nom": "Canton de Bellinzone",
+    "communes": 6,
+    "superficie_km2": 166
+   },
+   {
+    "de": "schwarzenburg",
+    "de_nom": "Bailliage de Schwarzenburg",
+    "vers": "berne",
+    "vers_nom": "Canton de Berne",
+    "communes": 3,
+    "superficie_km2": 157
+   },
+   {
+    "de": "gaster",
+    "de_nom": "Gaster et Weesen",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 7,
+    "superficie_km2": 157
+   },
+   {
+    "de": "orbe-echallens",
+    "de_nom": "Bailliage d'Orbe-Echallens",
+    "vers": "leman",
+    "vers_nom": "Canton du Léman",
+    "communes": 29,
+    "superficie_km2": 144
+   },
+   {
+    "de": "rheintal",
+    "de_nom": "Rheintal",
+    "vers": "canton-santis",
+    "vers_nom": "Canton du Säntis",
+    "communes": 12,
+    "superficie_km2": 139
+   },
+   {
+    "de": "seigneuries-souabes",
+    "de_nom": "Seigneuries souabes du Klettgau et de Stühlingen",
+    "vers": "schaffhouse",
+    "vers_nom": "Canton de Schaffhouse",
+    "communes": 14,
+    "superficie_km2": 138
+   },
+   {
+    "de": "eveche-bale",
+    "de_nom": "Principauté épiscopale de Bâle",
+    "vers": "soleure",
+    "vers_nom": "Canton de Soleure",
+    "communes": 12,
+    "superficie_km2": 102
+   },
+   {
+    "de": "werdenberg",
+    "de_nom": "Comté de Werdenberg",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 3,
+    "superficie_km2": 101
+   },
+   {
+    "de": "uznach",
+    "de_nom": "Comté d'Uznach",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 7,
+    "superficie_km2": 89
+   },
+   {
+    "de": "mendrisio",
+    "de_nom": "Mendrisio et Balerna",
+    "vers": "canton-lugano",
+    "vers_nom": "Canton de Lugano",
+    "communes": 22,
+    "superficie_km2": 80
+   },
+   {
+    "de": "abbaye-engelberg",
+    "de_nom": "Abbaye d'Engelberg",
+    "vers": "canton-waldstatten",
+    "vers_nom": "Canton des Waldstätten",
+    "communes": 1,
+    "superficie_km2": 75
+   },
+   {
+    "de": "morat",
+    "de_nom": "Bailliage de Morat",
+    "vers": "fribourg",
+    "vers_nom": "Canton de Fribourg",
+    "communes": 21,
+    "superficie_km2": 75
+   },
+   {
+    "de": "eveche-lausanne",
+    "de_nom": "Principauté épiscopale de Lausanne",
+    "vers": "fribourg",
+    "vers_nom": "Canton de Fribourg",
+    "communes": 5,
+    "superficie_km2": 73
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+    "vers": "schaffhouse",
+    "vers_nom": "Canton de Schaffhouse",
+    "communes": 12,
+    "superficie_km2": 57
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+    "vers": "tarasp",
+    "vers_nom": "Seigneurie de Tarasp",
+    "communes": 1,
+    "superficie_km2": 47
+   },
+   {
+    "de": "eveche-geneve",
+    "de_nom": "Ville et terres de l'évêque de Genève",
+    "vers": "france",
+    "vers_nom": "République française",
+    "communes": 5,
+    "superficie_km2": 43
+   },
+   {
+    "de": "sax-forstegg",
+    "de_nom": "Seigneurie de Sax-Forstegg",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 1,
+    "superficie_km2": 42
+   },
+   {
+    "de": "lucerne",
+    "de_nom": "Canton de Lucerne",
+    "vers": "canton-baden",
+    "vers_nom": "Canton de Baden",
+    "communes": 11,
+    "superficie_km2": 41
+   },
+   {
+    "de": "bailliage-thurgovie",
+    "de_nom": "Landgraviat de Thurgovie",
+    "vers": "schaffhouse",
+    "vers_nom": "Canton de Schaffhouse",
+    "communes": 6,
+    "superficie_km2": 41
+   },
+   {
+    "de": "eveche-bale",
+    "de_nom": "Principauté épiscopale de Bâle",
+    "vers": "bale",
+    "vers_nom": "Canton de Bâle",
+    "communes": 5,
+    "superficie_km2": 22
+   },
+   {
+    "de": "rapperswil",
+    "de_nom": "Ville de Rapperswil",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 2,
+    "superficie_km2": 22
+   },
+   {
+    "de": "zurich",
+    "de_nom": "Canton de Zurich",
+    "vers": "canton-baden",
+    "vers_nom": "Canton de Baden",
+    "communes": 4,
+    "superficie_km2": 20
+   },
+   {
+    "de": "bienne",
+    "de_nom": "Ville de Bienne",
+    "vers": "france",
+    "vers_nom": "République française",
+    "communes": 4,
+    "superficie_km2": 18
+   },
+   {
+    "de": "milan",
+    "de_nom": "Duché de Milan",
+    "vers": "canton-lugano",
+    "vers_nom": "Canton de Lugano",
+    "communes": 1,
+    "superficie_km2": 18
+   },
+   {
+    "de": "gersau",
+    "de_nom": "République de Gersau",
+    "vers": "canton-waldstatten",
+    "vers_nom": "Canton des Waldstätten",
+    "communes": 1,
+    "superficie_km2": 14
+   },
+   {
+    "de": "zurich",
+    "de_nom": "Canton de Zurich",
+    "vers": "schaffhouse",
+    "vers_nom": "Canton de Schaffhouse",
+    "communes": 2,
+    "superficie_km2": 14
+   },
+   {
+    "de": "freie-aemter",
+    "de_nom": "Freie Ämter",
+    "vers": "lucerne",
+    "vers_nom": "Canton de Lucerne",
+    "communes": 2,
+    "superficie_km2": 14
+   },
+   {
+    "de": "rheintal",
+    "de_nom": "Rheintal",
+    "vers": "canton-linth",
+    "vers_nom": "Canton de la Linth",
+    "communes": 1,
+    "superficie_km2": 9
+   },
+   {
+    "de": "bienne",
+    "de_nom": "Ville de Bienne",
+    "vers": "berne",
+    "vers_nom": "Canton de Berne",
+    "communes": 2,
+    "superficie_km2": 6
+   },
+   {
+    "de": "ville-saint-gall",
+    "de_nom": "Ville de Saint-Gall",
+    "vers": "canton-santis",
+    "vers_nom": "Canton du Säntis",
+    "communes": 1,
+    "superficie_km2": 4
+   }
+  ]
+ }
 }
