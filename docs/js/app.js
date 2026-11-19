@@ -10,6 +10,8 @@
     "autre": { libelle: "Autres territoires", singulier: "Autre territoire", opacite: 0.6 }
   };
   var ORDRE = ["canton", "allie", "bailliage-commun", "etranger", "autre"];
+  // Vue ouverte par l'adresse principale (sans # dans l'URL).
+  var ACCUEIL = { date: 1848, territoire: "geneve" };
 
   var etat = {
     chronologie: [],
@@ -410,7 +412,7 @@
     dessinerContexte(r[1]);
     construireFrise();
     var h = lireHash();
-    return allerA(h ? h.date : etat.disponibles[0], h ? h.selection : null);
+    return allerA(h ? h.date : ACCUEIL.date, h ? h.selection : ACCUEIL.territoire);
   }).catch(function (e) {
     $("date-recit").textContent = "Les données n'ont pas pu être chargées. " + e.message;
   });
