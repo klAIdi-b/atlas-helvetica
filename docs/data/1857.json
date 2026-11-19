@@ -1,0 +1,784 @@
+{
+ "date": 1857,
+ "titre": "Neuchâtel libéré de la Prusse",
+ "recit": "Depuis le congrès de Vienne, Neuchâtel est à la fois un canton suisse et une principauté du roi de Prusse. Le 1er mars 1848, les républicains descendus des Montagnes s'emparent du château et proclament la République, mais Frédéric-Guillaume IV ne renonce pas à ses droits, que les puissances confirment en 1852 par le protocole de Londres. Le 3 septembre 1856, une insurrection royaliste s'empare du château, avant d'être écrasée par les républicains et les troupes fédérales. Le roi exige la libération des prisonniers, rompt les relations diplomatiques et menace d'envahir la Suisse, qui mobilise sous le général Dufour dans un grand élan patriotique. La médiation de Napoléon III aboutit au traité de Paris du 26 mai 1857, par lequel le roi renonce à Neuchâtel. La carte reste celle de 1848, avec vingt-deux cantons dont trois divisés en demi-cantons, mais Neuchâtel n'est plus qu'un canton républicain, libéré de toute prétention étrangère.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Neuchâtel, affaire de",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+  },
+  {
+   "titre": "DHS, Neuchâtel (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+  }
+ ],
+ "evenements": [
+  {
+   "annee": 1848,
+   "date_precise": "1er mars 1848",
+   "type": "revolution",
+   "titre": "Révolution neuchâteloise",
+   "lieu": "Neuchâtel",
+   "texte": "À la nouvelle de la chute de la monarchie de Juillet, les républicains prennent le contrôle du Locle et de La Chaux-de-Fonds le 29 février 1848. Le 1er mars, les milices républicaines conduites par Fritz Courvoisier et Ami Girard descendent à Neuchâtel et s'emparent du château, puis proclament la République. Le roi de Prusse délie ses sujets de leur serment sans renoncer à ses droits.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Neuchâtel, affaire de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    }
+   ]
+  },
+  {
+   "annee": 1852,
+   "date_precise": "1852",
+   "type": "traite",
+   "titre": "Protocole de Londres",
+   "lieu": "Londres",
+   "texte": "Les puissances européennes confirment par le protocole de Londres les droits du roi de Prusse sur Neuchâtel. Ce texte servira d'argument à Frédéric-Guillaume IV lors de la crise de 1856.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel, affaire de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    }
+   ]
+  },
+  {
+   "annee": 1856,
+   "date_precise": "3 et 4 septembre 1856",
+   "type": "revolution",
+   "titre": "Insurrection royaliste de Neuchâtel",
+   "lieu": "Neuchâtel",
+   "texte": "Selon un plan du comte Frédéric de Pourtalès-Steiger, les royalistes s'emparent du château de Neuchâtel. Les républicains, soutenus par les troupes envoyées par le Conseil fédéral, le reprennent et font environ 500 prisonniers.",
+   "camps": "Royalistes neuchâtelois contre républicains appuyés par des troupes fédérales",
+   "issue": "Échec de l'insurrection royaliste",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel, affaire de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    },
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    }
+   ]
+  },
+  {
+   "annee": 1856,
+   "date_precise": "13 au 27 décembre 1856",
+   "type": "autre",
+   "titre": "Crise avec la Prusse et mobilisation suisse",
+   "lieu": "Suisse",
+   "texte": "Le roi de Prusse exige la libération des prisonniers, que le Conseil fédéral subordonne à sa renonciation. La Prusse rompt ses relations diplomatiques le 13 décembre 1856 et annonce sa mobilisation, puis l'Assemblée fédérale élit Guillaume Henri Dufour général le 27 décembre. La guerre n'éclate pas, car Napoléon III obtient la libération et l'expulsion des prisonniers.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel, affaire de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    }
+   ]
+  },
+  {
+   "annee": 1857,
+   "date_precise": "26 mai 1857",
+   "type": "traite",
+   "titre": "Traité de Paris",
+   "lieu": "Paris",
+   "texte": "Après une conférence des grandes puissances tenue à Paris en mars 1857, à laquelle Johann Konrad Kern représente le Conseil fédéral, Frédéric-Guillaume IV renonce à Neuchâtel en échange de l'amnistie des insurgés. Il garde jusqu'à sa mort en 1861 le titre de prince de Neuchâtel, que la Suisse ne reconnaît pas.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel, affaire de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    },
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    }
+   ]
+  }
+ ],
+ "hors_carte": [],
+ "approximations": [
+  "Une règle par canton (colonne KTKZ du fond de 1850). Aucune modification des frontières cantonales entre 1850 et 1857 n'a été relevée dans les articles du DHS consultés.",
+  "Populations du recensement fédéral de 1860, plus proche de 1857 que celui de 1850, tirées des tableaux démographiques des articles cantonaux du DHS. Pour Berne, le chiffre vient du fichier de données du DHS (territoire de l'époque, Jura compris). Pour l'Argovie et Bâle-Campagne, il s'agit de la population au début de la période 1860-1870 donnée par le tableau du DHS. Pour Bâle-Ville et les deux Appenzell, le DHS ne donne pas le chiffre de 1860, d'où le chiffre de 1850.",
+  "Les champs langues et religion reprennent ceux de 1848 (langues officielles et recensement de 1850), sauf pour Fribourg dont le statut linguistique change en 1857.",
+  "Pour le Valais, le DHS situe la chute du régime radical aux élections de 1857 sans en préciser la date; elle peut être postérieure au traité de Paris du 26 mai.",
+  "Pour Bâle-Campagne, le DHS indique que le gouvernement élu en 1854 se retire en 1857 sans préciser le mois.",
+  "Pour le Tessin, le chef-lieu reste celui de la rotation de six ans prévue en 1814, sans vérification du chef-lieu en fonction en 1857."
+ ],
+ "confiance": "Sont sûrs la carte (identique à 1848 et au fond de 1850), la chronologie de l'affaire de Neuchâtel jusqu'au traité de Paris et les populations de 1860. Sont moins sûrs la datation exacte de certains changements de majorité cantonaux en 1857 (Valais, Bâle-Campagne) et les étiquettes résumant les régimes, construites à partir des articles du DHS.",
+ "territoires": [
+  {
+   "id": "grisons",
+   "nom": "Canton des Grisons",
+   "categorie": "canton",
+   "regime": "Démocratie représentative fédéraliste (Constitution du 1er février 1854, 14 districts, 39 cercles et 227 communes)",
+   "chef_lieu": "Coire",
+   "langues": "Allemand, romanche, italien",
+   "religion": "Confession mixte, réformés majoritaires (58 %) et catholiques (42 %) en 1850",
+   "population": {
+    "valeur": 90713,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007391/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "La Constitution de 1814/1820 devait être adaptée à l'État fédéral. Après plusieurs échecs, un nouveau texte soumis au vote des cercles est adopté le 30 novembre 1853 et entre en vigueur le 1er février 1854. Il entérine la suppression des Ligues et des juridictions, déjà intervenue en 1851, et le nouveau découpage en districts, cercles et communes. Un Code pénal, un Code civil et les codes de procédure entrent en vigueur entre 1851 et 1861. Les Grisons comptent 90'713 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ],
+   "superficie_km2": 7087,
+   "communes": 231,
+   "couleur": "#c993bd"
+  },
+  {
+   "id": "berne",
+   "nom": "Canton de Berne",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution de 1846), gouvernement de coalition entre conservateurs et radicaux",
+   "chef_lieu": "Berne",
+   "langues": "Allemand, français (Jura bernois)",
+   "religion": "Réformée très majoritaire (88 % de protestants en 1850), minorité catholique surtout dans le Jura",
+   "population": {
+    "valeur": 467141,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/download/Articles/007383/2026-02-04/med007383-008/DHS%20-%20Population%20du%20canton%20de%20Berne.xlsx",
+    "note": "recensement fédéral de 1860, territoire de l'époque (Jura compris), d'après le fichier de données du DHS"
+   },
+   "dirigeants": "Gouvernement de «fusion» entre conservateurs et radicaux depuis 1854",
+   "resume": "Devenu ville fédérale en 1848, Berne connaît vite un renversement politique. En mai 1850, les radicaux perdent de peu les élections au Grand Conseil, et un gouvernement entièrement conservateur conduit par Eduard Blösch gouverne pendant quatre ans. En 1854, la majorité conservatrice se réduit à cinq sièges, ce qui conduit à la «fusion», une coalition gouvernementale qui se maintient quand les radicaux reprennent l'avantage. Le canton, qui englobe toujours le Jura, compte 467'141 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    }
+   ],
+   "superficie_km2": 6752,
+   "communes": 519,
+   "couleur": "#d8574f"
+  },
+  {
+   "id": "valais",
+   "nom": "Canton du Valais",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution de 1848 révisée le 23 décembre 1852)",
+   "chef_lieu": "Sion",
+   "langues": "Français et allemand",
+   "religion": "Catholique quasi exclusive (99 % en 1850)",
+   "population": {
+    "valeur": 90792,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007396/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Régime radical renversé aux élections de 1857 par les conservateurs",
+   "resume": "Le régime radical installé en 1847 supprime le référendum obligatoire et prive les ecclésiastiques de leurs droits politiques, rétablis par la révision constitutionnelle du 23 décembre 1852. Paralysé par la résistance des communes et miné par la corruption, il est renversé aux élections de 1857, qui ouvrent une longue domination conservatrice. Le Valais compte 90'792 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    }
+   ],
+   "superficie_km2": 5223,
+   "communes": 168,
+   "couleur": "#e07a5f"
+  },
+  {
+   "id": "vaud",
+   "nom": "Canton de Vaud",
+   "categorie": "canton",
+   "regime": "Démocratie représentative radicale (Constitution du 10 août 1845)",
+   "chef_lieu": "Lausanne",
+   "langues": "Français",
+   "religion": "Réformée très majoritaire (96 % de protestants en 1850)",
+   "population": {
+    "valeur": 213157,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007395/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Gouvernement radical",
+   "resume": "Les radicaux arrivés au pouvoir avec la révolution de 1845 gouvernent toujours le canton. En 1857, fâché que Lausanne se soit alliée avec Fribourg pour une politique ferroviaire opposée à la sienne, le Conseil d'État met la ville sous tutelle. Vaud compte 213'157 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    }
+   ],
+   "superficie_km2": 2809,
+   "communes": 389,
+   "couleur": "#6f9f5f"
+  },
+  {
+   "id": "tessin",
+   "nom": "Canton du Tessin",
+   "categorie": "canton",
+   "regime": "Démocratie représentative, gouvernement radical",
+   "chef_lieu": "Chef-lieu itinérant (Bellinzone, Locarno et Lugano par rotation de six ans)",
+   "langues": "Italien",
+   "religion": "Catholique quasi exclusive (100 % en 1850)",
+   "population": {
+    "valeur": 116343,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007394/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Gouvernement radical; Stefano Franscini au Conseil fédéral jusqu'en 1857, puis Giovan Battista Pioda",
+   "resume": "L'opposition au gouvernement radical se renforce après 1850, en raison des difficultés économiques et de mesures anticléricales comme la suppression des couvents en 1852 et la laïcisation de l'enseignement en 1853. En 1855, le clergé est privé de ses droits politiques et le mariage civil devient obligatoire. Accusé de trop accueillir les réfugiés, le Tessin subit en 1848 et 1853 une fermeture des frontières et l'expulsion des Tessinois de Lombardie. Stefano Franscini siège au Conseil fédéral jusqu'en 1857, avant d'être remplacé par Giovan Battista Pioda. Le canton compte 116'343 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    }
+   ],
+   "superficie_km2": 2759,
+   "communes": 263,
+   "couleur": "#cf9f8a"
+  },
+  {
+   "id": "saint-gall",
+   "nom": "Canton de Saint-Gall",
+   "categorie": "canton",
+   "regime": "Démocratie représentative",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Confession mixte, catholiques majoritaires (62 %) et forte minorité réformée (38 %) en 1850",
+   "population": {
+    "valeur": 180411,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007390/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Après 1850, les conservateurs gagnent rapidement du terrain dans un canton partagé entre catholiques et réformés. Le catholicisme saint-gallois devient une force conservatrice solide, et les conservateurs lancent en 1856 le Neues Tagblatt aus der östlichen Schweiz. Menacés par l'industrialisation, les maîtres artisans fondent après 1851 des sociétés régionales. Saint-Gall compte 180'411 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    }
+   ],
+   "superficie_km2": 1951,
+   "communes": 92,
+   "couleur": "#e9c75e"
+  },
+  {
+   "id": "zurich",
+   "nom": "Canton de Zurich",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de 1831), Conseil d'État de neuf membres depuis 1849",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Réformée très majoritaire (97 % de protestants en 1850)",
+   "population": {
+    "valeur": 266265,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007381/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Majorité libérale-radicale; Alfred Escher, conseiller d'État depuis 1848",
+   "resume": "Zurich reste gouverné selon la Constitution libérale de 1831, mais son exécutif est ramené à neuf membres en 1849 et passe en 1850 à l'administration par départements. La seconde époque libérale porte le sceau d'Alfred Escher, élu au Conseil d'État en 1848, qui pose de nombreux jalons de l'État moderne. Après la crise des pommes de terre, le Grand Conseil promulgue en 1853 une loi répressive sur les indigents. Le canton compte 266'265 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    }
+   ],
+   "superficie_km2": 1661,
+   "communes": 196,
+   "couleur": "#4e79a7"
+  },
+  {
+   "id": "fribourg",
+   "nom": "Canton de Fribourg",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution révisée de mai 1857), gouvernement conservateur",
+   "chef_lieu": "Fribourg",
+   "langues": "Français et allemand (langues officielles depuis 1857, la version française faisant foi)",
+   "religion": "Catholique majoritaire (88 % en 1850), minorité réformée dans le Moratois",
+   "population": {
+    "valeur": 105523,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007379/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Coalition victorieuse en décembre 1856, aux deux tiers conservatrice",
+   "resume": "Le régime radical installé en 1847 laisse une importante œuvre législative, mais sa politique anticléricale, marquée par l'exil de l'évêque Etienne Marilley de 1848 à 1856, provoque des insurrections armées entre 1850 et 1853. L'opposition conservatrice démontre sa force à l'assemblée de Posieux en mai 1852, puis triomphe aux élections fédérales de 1854 et cantonales de 1856. La Constitution révisée est acceptée en mai 1857 par 90 % des votants, et le français et l'allemand deviennent langues officielles, la version française faisant foi. Fribourg compte 105'523 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    }
+   ],
+   "superficie_km2": 1593,
+   "communes": 286,
+   "couleur": "#3f8a86"
+  },
+  {
+   "id": "lucerne",
+   "nom": "Canton de Lucerne",
+   "categorie": "canton",
+   "regime": "Démocratie représentative, régime radical installé en 1847",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99 % en 1850)",
+   "population": {
+    "valeur": 130504,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007382/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Gouvernement et Grand Conseil radicaux",
+   "resume": "Depuis la défaite du Sonderbund, les radicaux gouvernent Lucerne. Marginalisés par les conséquences de la défaite, les conservateurs échouent à imposer une révision constitutionnelle en 1854, comme ils échoueront encore en 1862. La population recule légèrement durant les années 1850, de 132'843 habitants en 1850 à 130'504 en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    }
+   ],
+   "superficie_km2": 1429,
+   "communes": 110,
+   "couleur": "#59a6a0"
+  },
+  {
+   "id": "argovie",
+   "nom": "Canton d'Argovie",
+   "categorie": "canton",
+   "regime": "Démocratie représentative avec droits d'initiative et de révocation (Constitution de 1852)",
+   "chef_lieu": "Aarau",
+   "langues": "Allemand",
+   "religion": "Confession mixte, réformés majoritaires (54 %) et forte minorité catholique (46 %) en 1850",
+   "population": {
+    "valeur": 194208,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007392/",
+    "note": "tableau démographique du DHS (population au début de la période 1860-1870)"
+   },
+   "dirigeants": null,
+   "resume": "La Constitution de 1852 est la première à rompre avec la démocratie purement représentative, en donnant au peuple l'initiative pour la révision partielle de la Constitution et la modification des lois, ainsi que le droit de révoquer le Grand Conseil. Le Conseil d'État remplace le Petit Conseil et adopte le système des départements. La Banque d'Argovie, prévue par la Constitution, ouvre à Aarau en 1855. Troisième canton de Suisse par la population en 1850, l'Argovie compte 194'208 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    }
+   ],
+   "superficie_km2": 1395,
+   "communes": 246,
+   "couleur": "#f2a7bf"
+  },
+  {
+   "id": "uri",
+   "nom": "Canton d'Uri",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde, Constitution de 1850 en vigueur depuis 1851)",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,9 % en 1850)",
+   "population": {
+    "valeur": 14741,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007384/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Landsgemeinde; autorités conservatrices",
+   "resume": "Une commission de révision créée le 6 mai 1849 élabore la première constitution uranaise systématiquement conçue, acceptée par la landsgemeinde en 1850 et entrée en vigueur en 1851. Elle définit exactement les autorités du canton, des districts et des communes et renouvelle la géographie politique du canton, tout en déclarant encore la religion catholique romaine religion du canton. Uri compte 14'741 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    }
+   ],
+   "superficie_km2": 1058,
+   "communes": 19,
+   "couleur": "#e3b93c"
+  },
+  {
+   "id": "thurgovie",
+   "nom": "Canton de Thurgovie",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution de 1849, initiative populaire pour la révision)",
+   "chef_lieu": "Frauenfeld",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (75 % en 1850), minorité catholique (25 %)",
+   "population": {
+    "valeur": 90078,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007393/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Le «triumvirat» formé de Johann Konrad Kern, Johann Melchior Gräflein et Johann Baptist von Streng a dominé la politique thurgovienne de 1837 à 1849. Comme l'exigeait la Constitution fédérale, la Constitution cantonale de 1849 introduit la possibilité de demander par initiative populaire sa révision totale ou partielle. Johann Konrad Kern représente le Conseil fédéral à la conférence de Paris de mars 1857 sur l'affaire de Neuchâtel. Le canton compte 90'078 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    },
+    {
+     "titre": "DHS, Neuchâtel, affaire de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    }
+   ],
+   "superficie_km2": 863,
+   "communes": 213,
+   "couleur": "#a89f9a"
+  },
+  {
+   "id": "schwyz",
+   "nom": "Canton de Schwytz",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution du 27 février 1848, landsgemeinde abolie)",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,6 % en 1850)",
+   "population": {
+    "valeur": 45039,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007385/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "La Constitution de 1848 a aboli la landsgemeinde et instauré une séparation nette des pouvoirs, avec des assemblées d'arrondissement qui élisent les députés. En 1854, une tentative de révision lancée par des nostalgiques de l'Ancien Régime pour rétablir la landsgemeinde et supprimer les arrondissements échoue nettement. Après 1848, le gouvernement lance un vaste programme routier, achevé pour l'essentiel en 1860. Le canton compte 45'039 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    }
+   ],
+   "superficie_km2": 851,
+   "communes": 29,
+   "couleur": "#a8679a"
+  },
+  {
+   "id": "soleure",
+   "nom": "Canton de Soleure",
+   "categorie": "canton",
+   "regime": "Démocratie représentative élargie (Constitution de 1856, élection du Grand Conseil par le peuple et veto populaire)",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique majoritaire (88 % en 1850), minorité réformée (12 %)",
+   "population": {
+    "valeur": 69263,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007386/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Les «rouges» de Joseph Wilhelm Viktor Vigier von Steinbrugg, au pouvoir depuis 1856",
+   "resume": "La révision constitutionnelle de 1851 garantit aux non-bourgeois les mêmes droits électoraux qu'aux bourgeois. En 1856, un groupe de jeunes politiciens réunis autour de Joseph Wilhelm Viktor Vigier von Steinbrugg, surnommés les «rouges», fait accepter une nouvelle révision qui prévoit l'élection du Grand Conseil par le peuple, élargit le droit d'initiative et introduit le veto populaire. Avec l'appui des conservateurs, ils écartent les vieux-libéraux dits «gris» et prennent le pouvoir. Le Conseil d'État est ramené à cinq membres en 1856. Soleure compte 69'263 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    }
+   ],
+   "superficie_km2": 791,
+   "communes": 132,
+   "couleur": "#ea8a32"
+  },
+  {
+   "id": "neuchatel",
+   "nom": "République et canton de Neuchâtel",
+   "categorie": "canton",
+   "regime": "République démocratique représentative (Constitution de 1848), libérée des prétentions prussiennes par le traité de Paris du 26 mai 1857",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Réformée majoritaire (92 % de protestants en 1850)",
+   "population": {
+    "valeur": 87369,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007397/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Gouvernement républicain radical; Frédéric-Guillaume IV renonce à ses droits par le traité de Paris",
+   "resume": "Neuchâtel est une république depuis la révolution du 1er mars 1848, mais le roi de Prusse n'a jamais renoncé à ses droits, que les puissances confirment par le protocole de Londres de 1852. Le 3 septembre 1856, les royalistes s'emparent du château de Neuchâtel, puis les républicains, soutenus par les troupes fédérales, le reprennent et font environ 500 prisonniers. Frédéric-Guillaume IV menace d'envahir la Suisse, qui mobilise sous le général Dufour. La médiation de Napoléon III et des puissances aboutit au traité de Paris du 26 mai 1857, par lequel le roi renonce à Neuchâtel en échange de l'amnistie des insurgés. Le canton compte 87'369 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Neuchâtel, affaire de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    }
+   ],
+   "superficie_km2": 713,
+   "communes": 73,
+   "couleur": "#8e7cc3"
+  },
+  {
+   "id": "glaris",
+   "nom": "Canton de Glaris",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde, Constitution de 1837)",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (87 % de protestants en 1850), minorité catholique",
+   "population": {
+    "valeur": 33363,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007374/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "Glaris est gouverné par sa landsgemeinde selon la Constitution issue de la révision de 1836-1837. Les quatre communes du Mittelland connaissent une croissance démographique un peu plus marquée que le reste du canton entre 1850 et 1870. Le canton compte 33'363 habitants en 1860, contre 30'213 en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    }
+   ],
+   "superficie_km2": 681,
+   "communes": 25,
+   "couleur": "#5b9a4b"
+  },
+  {
+   "id": "obwald",
+   "nom": "Obwald (Unterwald-le-Haut)",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton (Constitution de 1850)",
+   "chef_lieu": "Sarnen",
+   "langues": "Allemand",
+   "religion": "Catholique (100 % en 1848 selon le DHS)",
+   "population": {
+    "valeur": 13376,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007410/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Landsgemeinde; gouvernement de treize membres",
+   "resume": "La nouvelle Constitution de 1850 abolit les magistratures militaires et institue un gouvernement de treize membres, dont au moins un par commune. La landsgemeinde reste l'autorité suprême du demi-canton. Obwald compte 13'376 habitants en 1860, un peu moins qu'en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Obwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007410/"
+    }
+   ],
+   "superficie_km2": 481,
+   "communes": 7,
+   "couleur": "#c97b95"
+  },
+  {
+   "id": "bale-campagne",
+   "nom": "Bâle-Campagne",
+   "categorie": "canton",
+   "regime": "Démocratie représentative, demi-canton (Constitution de 1850, système directorial)",
+   "chef_lieu": "Liestal",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (81 % de protestants en 1850), minorité catholique",
+   "population": {
+    "valeur": 51582,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007477/",
+    "note": "tableau démographique du DHS (population au début de la période 1860-1870)"
+   },
+   "dirigeants": "Gouvernement issu de la défaite du «parti de l'ordre» en 1854, qui doit se retirer en 1857",
+   "resume": "La Constitution de 1850 limite l'autonomie communale et remplace le gouvernement collégial par le système directorial. Le mécontentement grandit en 1853, quand la compagnie du Central-Suisse mène brutalement ses expropriations sous la protection du gouvernement. En 1854, le parti de l'ordre perd pour la première fois depuis 1838 la majorité au Conseil d'État et au Grand Conseil, mais le nouveau gouvernement, surnommé Knorzregiment, doit se retirer dès 1857. Le demi-canton compte 51'582 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle-Campagne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007477/"
+    }
+   ],
+   "superficie_km2": 428,
+   "communes": 74,
+   "couleur": "#9cc5e6"
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Canton de Schaffhouse",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1852, gouvernement de sept membres organisé en départements)",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Réformée très majoritaire (96 % de protestants en 1850)",
+   "population": {
+    "valeur": 35500,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007388/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "En 1852, Schaffhouse adopte une Constitution qui confie l'exécutif à un gouvernement de sept membres dirigeant chacun un département et qui instaure la démocratie directe. Avec la liberté de commerce introduite en 1855 et l'espace économique créé par l'État fédéral, elle crée des conditions favorables à un essor économique rapide. Le canton compte 35'500 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    }
+   ],
+   "superficie_km2": 298,
+   "communes": 36,
+   "couleur": "#f0b26e"
+  },
+  {
+   "id": "appenzell-rhodes-exterieures",
+   "nom": "Appenzell Rhodes-Extérieures",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton (Constitution de 1834)",
+   "chef_lieu": "Hérisau et Trogen (aucun chef-lieu officiel)",
+   "langues": "Allemand",
+   "religion": "Réformée quasi exclusive (98 % de protestants en 1850)",
+   "population": {
+    "valeur": 43621,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007476/",
+    "note": "recensement fédéral de 1850, le DHS ne donnant pas le chiffre de 1860 pour ce demi-canton"
+   },
+   "dirigeants": "Landsgemeinde; double gouvernement jusqu'en 1858",
+   "resume": "La landsgemeinde demeure le corps législatif et électoral du demi-canton, et sa composition s'est élargie en 1849 à l'ensemble des citoyens suisses de sexe masculin. Le gouvernement reste dédoublé de part et d'autre de la Sitter jusqu'à la Constitution de 1858. La population augmente dans toutes les régions jusqu'en 1860. Les Rhodes-Extérieures comptaient 43'621 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Extérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007476/"
+    }
+   ],
+   "superficie_km2": 246,
+   "communes": 20,
+   "couleur": "#7eb7ae"
+  },
+  {
+   "id": "geneve",
+   "nom": "République et canton de Genève",
+   "categorie": "canton",
+   "regime": "Démocratie représentative radicale (Constitution du 24 mai 1847)",
+   "chef_lieu": "Genève",
+   "langues": "Français",
+   "religion": "Confession mixte, réformés majoritaires (53 %) et forte minorité catholique (46 %) en 1850",
+   "population": {
+    "valeur": 82876,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007398/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Radicaux de James Fazy, écartés momentanément en 1853 par un gouvernement dit réparateur",
+   "resume": "James Fazy et les radicaux dominent la vie politique genevoise, même si en 1853 quelques radicaux mécontents l'écartent momentanément au profit d'un gouvernement dit réparateur. Dans les années 1850, le gouvernement genevois se distingue en refusant d'expulser des réfugiés politiques que Berne s'est engagée à renvoyer. Genève connaît une forte immigration et compte 82'876 habitants en 1860, dont 34,6 % d'étrangers.",
+   "sources": [
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    }
+   ],
+   "superficie_km2": 246,
+   "communes": 40,
+   "couleur": "#d4a017"
+  },
+  {
+   "id": "nidwald",
+   "nom": "Nidwald (Unterwald-le-Bas)",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton (Constitution de 1850)",
+   "chef_lieu": "Stans",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,9 % en 1850)",
+   "population": {
+    "valeur": 11526,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007411/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Landsgemeinde à majorité conservatrice",
+   "resume": "En 1850, Nidwald promulgue sa première Constitution élaborée de manière autonome, qui accorde les mêmes droits politiques cantonaux et communaux à tous les citoyens suisses établis de sexe masculin et de religion chrétienne. Les Ürten, qui avaient joué un rôle prépondérant avant 1798 et de 1814 à 1850, perdent leurs fonctions politiques mais gardent leurs biens. Le Piusverein, fondé en 1857, s'efforce de renforcer le poids des catholiques dans l'État fédéral radical. Le demi-canton compte 11'526 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    }
+   ],
+   "superficie_km2": 242,
+   "communes": 11,
+   "couleur": "#8f6a55"
+  },
+  {
+   "id": "zoug",
+   "nom": "Canton de Zoug",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution du 16 janvier 1848), gouvernement conservateur depuis 1850",
+   "chef_lieu": "Zoug",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99 % en 1850)",
+   "population": {
+    "valeur": 19608,
+    "annee": 1860,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007373/",
+    "note": "recensement fédéral de 1860, tableau démographique du DHS"
+   },
+   "dirigeants": "Conservateurs dominés par Franz Joseph Hegglin",
+   "resume": "Après leur victoire de 1848, les radicaux lancent un train de réformes, dont la première loi scolaire en 1849. Mais les conservateurs dominés par Franz Joseph Hegglin, l'un des chefs du Sonderbund, reprennent le pouvoir dès 1850 et imposent en 1851 des lois communales qui renforcent l'autonomie des communes au détriment des non-bourgeois. Seuls le déclin de l'«hegglianisme» et le regain des radicaux à la fin des années 1850 permettront un rapprochement entre les partis. Zoug compte 19'608 habitants en 1860.",
+   "sources": [
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    }
+   ],
+   "superficie_km2": 207,
+   "communes": 11,
+   "couleur": "#93c47d"
+  },
+  {
+   "id": "appenzell-rhodes-interieures",
+   "nom": "Appenzell Rhodes-Intérieures",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton",
+   "chef_lieu": "Appenzell",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,6 % en 1850)",
+   "population": {
+    "valeur": 11272,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007475/",
+    "note": "recensement fédéral de 1850, le DHS ne donnant pas le chiffre de 1860 pour ce demi-canton"
+   },
+   "dirigeants": "Landsgemeinde; landamman Johann Baptist Rechsteiner à la fin des années 1850",
+   "resume": "Après 1848, l'arrivée de Suisses d'autres cantons et le changement de statut des rhodes font éclater les cadres traditionnels. Le 16 octobre 1851, le Grand Conseil accorde le droit de bourgeoisie aux Heimatlos établis dans le canton. À la fin des années 1850, des cercles libéraux formés autour du landamman Johann Baptist Rechsteiner entreprennent de surmonter les contradictions entre droit cantonal et droit fédéral. Le demi-canton comptait 11'272 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Intérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007475/"
+    }
+   ],
+   "superficie_km2": 169,
+   "communes": 8,
+   "couleur": "#b49a3a"
+  },
+  {
+   "id": "bale-ville",
+   "nom": "Bâle-Ville",
+   "categorie": "canton",
+   "regime": "République représentative conservatrice, demi-canton (Constitution de 1847)",
+   "chef_lieu": "Bâle",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (81 % de protestants en 1850), minorité catholique",
+   "population": {
+    "valeur": 29698,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007478/",
+    "note": "recensement fédéral de 1850, le DHS ne donnant pas le chiffre de 1860 pour ce demi-canton"
+   },
+   "dirigeants": "Grand Conseil élu par les corporations et les assemblées de quartier, deux bourgmestres alternant chaque année",
+   "resume": "Bâle-Ville reste jusqu'en 1875 dans la tradition de l'Ancien Régime. Le Grand Conseil est élu par les corporations et par des assemblées de quartier, et les citoyens d'autres cantons n'ont pas le droit de vote. La révision du 8 avril 1847 a supprimé les juges élus à vie mais écarté la liberté d'industrie, et une nouvelle Constitution suivra le 28 février 1858. Le demi-canton comptait 29'698 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle-Ville",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007478/"
+    }
+   ],
+   "superficie_km2": 37,
+   "communes": 4,
+   "couleur": "#5b8fc6"
+  }
+ ],
+ "superficie_totale_km2": 39969,
+ "changements": {
+  "depuis": 1848,
+  "liste": []
+ }
+}

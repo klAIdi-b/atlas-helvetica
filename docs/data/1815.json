@@ -1,0 +1,1067 @@
+{
+ "date": 1815,
+ "titre": "Le Pacte fédéral et la Suisse des vingt-deux cantons",
+ "recit": "À la fin de décembre 1813, après la défaite de Napoléon à Leipzig, les armées alliées traversent la Suisse et dix anciens cantons déclarent l'acte de Médiation abrogé. Les patriciens reprennent le pouvoir à Berne, Fribourg, Soleure et Lucerne, et Berne réclame Vaud et l'Argovie, si bien que le pays frôle la guerre civile. Sous la pression des grandes puissances, la Longue Diète réunie à Zurich adopte le Pacte fédéral le 9 septembre 1814 et admet le Valais, Neuchâtel et Genève trois jours plus tard. Le 20 mars 1815, le congrès de Vienne garantit les vingt-deux cantons, attribue l'ancien évêché de Bâle à Berne et à Bâle, et le Pacte est juré à Zurich le 7 août. Le second traité de Paris du 20 novembre 1815 reconnaît la neutralité perpétuelle de la Suisse et donne à Genève six communes du Pays de Gex. La carte montre la situation à la fin de 1815, avec des frontières nationales presque définitives. Les communes savoyardes ne rejoindront Genève qu'en 1816, Gersau reste une petite république libre jusqu'en 1817 et Unterwald et Appenzell sont figurés en demi-cantons.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Pacte fédéral",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+  },
+  {
+   "titre": "DHS, Restauration",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009799/"
+  },
+  {
+   "titre": "DHS, Congrès de Vienne",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+  },
+  {
+   "titre": "DHS, Traité de Paris",
+   "url": "https://hls-dhs-dss.ch/fr/articles/017227/"
+  },
+  {
+   "titre": "DHS, Communes réunies",
+   "url": "https://hls-dhs-dss.ch/fr/articles/030186/"
+  },
+  {
+   "titre": "DHS, Gersau",
+   "url": "https://hls-dhs-dss.ch/fr/articles/000711/"
+  }
+ ],
+ "hors_carte": [
+  {
+   "nom": "Communes savoyardes non cédées et reste de la Savoie",
+   "rattachement": "savoie",
+   "note": "territoire du royaume de Sardaigne situé hors du fond de 1850, à l'exception des communes réunies à Genève en 1816"
+  }
+ ],
+ "approximations": [
+  "Unterwald et Appenzell ne comptent chacun que pour un canton à la Diète, mais le DHS les traite comme des demi-cantons (le Pacte est conclu entre vingt-quatre cantons et demi-cantons), d'où leur représentation séparée, comme en 1848.",
+  "Les six communes du Pays de Gex cédées par le second traité de Paris du 20 novembre 1815 (Versoix, Collex-Bossy, Le Grand-Saconnex, Pregny, Vernier, Meyrin) sont comptées genevoises. La date de leur remise effective n'a pas été vérifiée et le DHS précise qu'elles furent cédées en tout ou en partie.",
+  "Dix-huit communes genevoises de 1850 sont attribuées à la Sardaigne d'après la liste des communes réunies du DHS (traité de Turin de 1816). Le DHS parle de communes cédées en tout ou en partie. Bernex, Onex-Confignon, Lancy et quelques autres comprenaient peut-être des parties anciennement genevoises, et Laconnex, Puplinge, Anières, Plan-les-Ouates et Bardonnex, qui ne sont pas des communes de 1850, sont comprises dans les communes voisines.",
+  "Le Cerneux-Péquignot est compté neuchâtelois, conformément à l'article cantonal du DHS (rattachement en 1814 par le traité de Paris), alors que l'article communal précise qu'il ne devint officiellement neuchâtelois qu'en février 1819.",
+  "Rhäzüns, Bonaduz, Ems et Felsberg (seigneurie de Rhäzüns) sont inclus dans les Grisons, dont ils font partie politiquement depuis 1803. Selon le DHS, la seigneurie reste autrichienne jusqu'en 1819, année où elle est cédée au canton en vertu d'une décision du congrès de Vienne.",
+  "La vallée des Dappes, attribuée à Vaud par le congrès de Vienne, n'est pas une commune du fond de 1850 et ne peut pas être représentée.",
+  "Pour Appenzell Rhodes-Intérieures, le DHS donne deux dates d'adhésion au Pacte (mars 1815 dans l'article Pacte fédéral, 21 mai 1815 dans l'article cantonal).",
+  "Les populations sont les chiffres du DHS les plus proches de 1815, souvent de 1798 à 1803. Plusieurs portent sur le territoire actuel du canton ou sont arrondis, et ne tiennent pas compte des agrandissements de 1815 (Jura bernois, Birseck, Engelberg, communes réunies). Pour Berne, Uri, Glaris, Bâle et Appenzell Rhodes-Extérieures, aucun chiffre adapté n'a été retenu.",
+  "Engelberg est attribué à Obwald, auquel il se rattache en 1815; l'acte de réunion date de novembre 1815."
+ ],
+ "confiance": "Sont sûrs d'après le DHS la liste des vingt-deux cantons et leurs dates d'admission, l'attribution du Jura et de Bienne à Berne, du Birseck à Bâle, d'Engelberg à Obwald, le statut de Gersau de 1814 à 1817 et le calendrier des communes réunies genevoises (1815 pour le Pays de Gex, 1816 pour la Savoie). Sont moins sûrs la remise effective des communes gessiennes avant la fin de 1815, le découpage exact des communes savoyardes partiellement cédées, le cas du Cerneux-Péquignot et la représentation séparée des demi-cantons.",
+ "evenements": [
+  {
+   "annee": 1810,
+   "date_precise": "12 novembre 1810",
+   "type": "conquete",
+   "titre": "Annexion du Valais à l'Empire français",
+   "lieu": "Sion (Valais)",
+   "texte": "Napoléon décrète l'annexion de la République du Valais, dont le général César Berthier prend possession à Sion le 14 novembre. Devenu département du Simplon, du nom du col qui relie la France à l'Italie, le pays reste français jusqu'à l'arrivée des Autrichiens à Saint-Maurice le 29 décembre 1813.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Simplon (département)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008643/"
+    },
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    }
+   ]
+  },
+  {
+   "annee": 1813,
+   "date_precise": "21 au 29 décembre 1813",
+   "type": "autre",
+   "titre": "Invasion alliée et fin de la Médiation",
+   "lieu": "Bâle et Zurich",
+   "texte": "Après la défaite de Napoléon à Leipzig, la Diète proclame la neutralité de la Suisse le 18 novembre 1813, mais ne peut empêcher l'entrée de 80 000 soldats autrichiens, prussiens et russes à Bâle dès le 21 décembre. Le 29 décembre, dix anciens cantons déclarent l'acte de Médiation abrogé, ce qui ouvre la Restauration.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    },
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Restauration",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009799/"
+    }
+   ]
+  },
+  {
+   "annee": 1814,
+   "date_precise": "9 et 12 septembre 1814",
+   "type": "institution",
+   "titre": "Le Pacte fédéral et l'admission de trois nouveaux cantons",
+   "lieu": "Zurich",
+   "texte": "Sous la pression des grandes puissances, qui menacent d'une médiation forcée, la Longue Diète réunie à Zurich adopte le 9 septembre 1814 le nouveau Pacte fédéral. Trois jours plus tard, elle admet dans la Confédération le Valais, Neuchâtel et Genève, ce qui porte le nombre des cantons à vingt-deux.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    },
+    {
+     "titre": "DHS, Restauration",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009799/"
+    }
+   ]
+  },
+  {
+   "annee": 1815,
+   "date_precise": "20 mars 1815",
+   "type": "traite",
+   "titre": "Déclaration du congrès de Vienne sur la Suisse",
+   "lieu": "Vienne",
+   "texte": "Au moment où Napoléon revient de l'île d'Elbe, les puissances adoptent une déclaration qui reconnaît les vingt-deux cantons et l'intérêt européen d'une neutralité perpétuelle de la Suisse. Elle attribue l'ancien évêché de Bâle et Bienne à Berne, le Birseck à Bâle et la vallée des Dappes à Vaud, et écarte les prétentions des anciens cantons sur leurs anciens pays sujets.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    },
+    {
+     "titre": "DHS, Restauration",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009799/"
+    }
+   ]
+  },
+  {
+   "annee": 1815,
+   "date_precise": "7 août 1815",
+   "type": "alliance",
+   "titre": "Le Pacte fédéral est juré à Zurich",
+   "lieu": "Zurich",
+   "texte": "Le Pacte fédéral, quinze articles qui garantissent surtout la souveraineté des cantons, est solennellement juré à Zurich. Seul Nidwald le refuse encore et n'est ramené dans la Confédération que par l'entrée des troupes fédérales le 18 août 1815, au prix de la perte d'Engelberg.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    },
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    }
+   ]
+  },
+  {
+   "annee": 1815,
+   "date_precise": "20 novembre 1815",
+   "type": "traite",
+   "titre": "Second traité de Paris et reconnaissance de la neutralité",
+   "lieu": "Paris",
+   "texte": "Après Waterloo, les grandes puissances reconnaissent et garantissent la neutralité perpétuelle de la Suisse et l'inviolabilité de son territoire, dans un texte rédigé par le Genevois Charles Pictet de Rochemont. La France cède aussi à Genève six communes du Pays de Gex, dont Versoix, qui relient enfin la ville au canton de Vaud.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Traité de Paris",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017227/"
+    },
+    {
+     "titre": "DHS, Neutralité",
+     "url": "https://hls-dhs-dss.ch/fr/articles/016572/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ]
+  }
+ ],
+ "territoires": [
+  {
+   "id": "grisons",
+   "nom": "Canton des Grisons",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, Ligues et juridictions maîtresses de la législation (Constitution de 1814, en vigueur en 1820)",
+   "chef_lieu": "Coire",
+   "langues": "Allemand, romanche et italien",
+   "religion": "Mixte, deux tiers des autorités réservés aux protestants et un tiers aux catholiques",
+   "population": {
+    "valeur": 72903,
+    "annee": 1800,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007391/",
+    "note": "recensement officieux"
+   },
+   "dirigeants": "Petit Conseil et Grand Conseil",
+   "resume": "En janvier 1814, un putsch des aristocrates partisans de l'ancienne République des III Ligues échoue, et les Grisons, qui menaçaient de quitter la Suisse, adoptent le Pacte fédéral sous la pression des Alliés. La nouvelle Constitution, élaborée en 1814 mais en vigueur en 1820 seulement, laisse aux juridictions le contrôle de la législation. Le congrès de Vienne confirme la perte de la Valteline, de Chiavenna et de Bormio, laissés au royaume lombard-vénitien. La seigneurie de Rhäzüns ne sera cédée par l'Autriche qu'en 1819.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    },
+    {
+     "titre": "DHS, Rhäzüns (seigneurie)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008080/"
+    },
+    {
+     "titre": "DHS, Restauration",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009799/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 7087,
+   "communes": 231,
+   "couleur": "#c993bd"
+  },
+  {
+   "id": "berne",
+   "nom": "Canton de Berne",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime patricien restauré (Charte de septembre 1815)",
+   "chef_lieu": "Berne",
+   "langues": "Allemand, français dans le Jura",
+   "religion": "Réformée majoritaire, minorité catholique dans le Jura réuni en 1815",
+   "population": null,
+   "dirigeants": "Patriciat de la ville de Berne; avoyer Niklaus Rudolf von Wattenwyl",
+   "resume": "Le 23 décembre 1813, à l'entrée des troupes autrichiennes, le Grand Conseil abroge l'acte de Médiation et le lendemain le gouvernement réclame le retour de Vaud et de l'Argovie. Le congrès de Vienne écarte définitivement ces prétentions mais attribue à Berne la plus grande partie de l'ancien évêché de Bâle et la ville de Bienne, réunies au canton par l'Acte de réunion négocié à Bienne en novembre 1815. La Charte de septembre 1815 rétablit un Grand Conseil de 299 membres, dont 200 pour la ville, et un Petit Conseil de 27 membres. Le canton devient confessionnellement mixte et garantit aux Jurassiens catholiques la liberté de croyance. Berne est l'un des trois Vororte du Pacte fédéral.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Jura bernois",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008577/"
+    },
+    {
+     "titre": "DHS, Actes de réunion",
+     "url": "https://hls-dhs-dss.ch/fr/articles/042768/"
+    },
+    {
+     "titre": "DHS, Bienne (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000222/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 6752,
+   "communes": 519,
+   "couleur": "#d8574f"
+  },
+  {
+   "id": "valais",
+   "nom": "Canton du Valais",
+   "categorie": "canton",
+   "regime": "Canton du Pacte fédéral (Acte de réunion du 4 août 1815), État très fédératif, Constitution du 12 mai 1815",
+   "chef_lieu": "Sion",
+   "langues": "Français et allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 60344,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007396/",
+    "note": "estimation, dix-sept ans avant la date"
+   },
+   "dirigeants": "Gouvernement provisoire (décembre 1813-1815), puis Diète cantonale et Conseil d'État de cinq membres",
+   "resume": "Annexé à l'Empire en 1810 comme département du Simplon, le Valais est libéré par l'entrée d'un régiment autrichien à Saint-Maurice le 29 décembre 1813 et placé sous un gouvernement provisoire. Poussé par les Alliés, il demande en mai 1814 son rattachement à la Confédération, qui l'admet le 12 septembre 1814. La Constitution du 12 mai 1815 restaure un État très fédératif où chaque dizain et l'évêque envoient quatre députés à la Diète cantonale, ce qui défavorise le Bas-Valais plus peuplé. Les Alliés imposent un découpage en treize dizains, et l'Acte de réunion du 4 août 1815 fait du Valais le vingtième canton.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Simplon (département)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008643/"
+    },
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    }
+   ],
+   "superficie_km2": 5223,
+   "communes": 168,
+   "couleur": "#e07a5f"
+  },
+  {
+   "id": "vaud",
+   "nom": "Canton de Vaud",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime représentatif conservateur (cens élevé, exécutif prépondérant), Constitution d'août 1814",
+   "chef_lieu": "Lausanne",
+   "langues": "Français",
+   "religion": "Réformée (culte catholique autorisé depuis 1810)",
+   "population": {
+    "valeur": 148000,
+    "annee": 1815,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007395/",
+    "note": "chiffre arrondi"
+   },
+   "dirigeants": "Conseil d'État de treize membres",
+   "resume": "La chute de Napoléon plonge le canton dans l'inquiétude, car Berne réclame dès décembre 1813 le retour du Pays de Vaud. Les dirigeants vaudois doivent accepter en août 1814 une constitution plus sévère, avec un cens plus élevé et une cooptation qui complète le Grand Conseil. Le congrès de Vienne écarte définitivement les prétentions bernoises et attribue à Vaud la vallée des Dappes. Vaud doit en revanche dédommager les anciens cantons pour la perte de droits seigneuriaux.",
+   "sources": [
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    },
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 2809,
+   "communes": 389,
+   "couleur": "#6f9f5f"
+  },
+  {
+   "id": "tessin",
+   "nom": "Canton du Tessin",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime représentatif conservateur (cens élevé, exécutif prépondérant), Constitution de 1814",
+   "chef_lieu": "Bellinzone, Locarno et Lugano à tour de rôle (rotation de six ans)",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 90000,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007394/",
+    "note": "chiffre arrondi, dix-sept ans avant la date"
+   },
+   "dirigeants": "Gouvernement issu de l'assemblée de Giubiasco (août 1814), puis Conseil d'État",
+   "resume": "Occupé de 1810 à 1813 par les troupes du royaume d'Italie, le Tessin retrouve sa liberté à la chute de Napoléon. En 1814, une révision modérément libérale de la Constitution échoue en raison de l'intervention des puissances européennes, et les députés des cercles réunis à Giubiasco en août nomment un gouvernement provisoire. Pour apaiser les rivalités régionales, la nouvelle Constitution fait alterner le chef-lieu entre Bellinzone, Locarno et Lugano tous les six ans. Le congrès de Vienne écarte les prétentions d'Uri sur la Léventine et laisse Campione au royaume lombard-vénitien.",
+   "sources": [
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 2759,
+   "communes": 263,
+   "couleur": "#cf9f8a"
+  },
+  {
+   "id": "saint-gall",
+   "nom": "Canton de Saint-Gall",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime représentatif conservateur (cens élevé, exécutif prépondérant), Constitution de 1814 fondée sur la parité confessionnelle",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Mixte, catholiques et réformés",
+   "population": {
+    "valeur": 135209,
+    "annee": 1809,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007390/",
+    "note": "premier dénombrement de tout le canton"
+   },
+   "dirigeants": "Grand Conseil divisé en collèges catholique et protestant pour les affaires confessionnelles",
+   "resume": "Après la chute de Napoléon en 1814, le jeune canton manque d'éclater. Le pays de Sargans, qui veut rejoindre Glaris, est occupé en 1814 par des troupes fédérales et reste saint-gallois. La Constitution de 1814 repose sur la parité confessionnelle, et le congrès de Vienne écarte les prétentions de Schwytz et de Glaris. Saint-Gall doit en revanche verser des indemnités pour les droits seigneuriaux perdus, et une pension est promise au prince-abbé dépossédé.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 1951,
+   "communes": 92,
+   "couleur": "#e9c75e"
+  },
+  {
+   "id": "zurich",
+   "nom": "Canton de Zurich",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime patricien ou bourgeois restauré (Petit et Grand Conseils dominés par le chef-lieu), Constitution de 1814",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Réformée (culte catholique toléré depuis 1807)",
+   "population": {
+    "valeur": 179000,
+    "annee": 1800,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007381/"
+   },
+   "dirigeants": "Bourgmestre Hans von Reinhard, chef de la délégation suisse au congrès de Vienne",
+   "resume": "La Constitution de la Restauration (1814) rend à Zurich un Grand Conseil de 212 membres, dont 130 cooptés qui privilégient les citadins et 51 seulement élus par les corporations rurales. Canton directeur, Zurich conduit en 1814 le camp modéré qui veut maintenir les dix-neuf cantons face aux cantons conservateurs groupés autour de Berne. La Longue Diète siège à Zurich d'avril 1814 à août 1815, et c'est là que le Pacte fédéral est juré le 7 août 1815. Le Zurichois Hans von Reinhard dirige la délégation de la Diète au congrès de Vienne. Avec Berne et Lucerne, Zurich est désormais l'un des trois Vororte qui accueillent la Diète à tour de rôle.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    },
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 1661,
+   "communes": 196,
+   "couleur": "#4e79a7"
+  },
+  {
+   "id": "fribourg",
+   "nom": "Canton de Fribourg",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime patricien ou bourgeois restauré (Petit et Grand Conseils dominés par le chef-lieu), Constitution du 10 mai 1814",
+   "chef_lieu": "Fribourg",
+   "langues": "Allemand et français (allemand langue du gouvernement de 1814 à 1830)",
+   "religion": "Catholique, minorité réformée dans le Moratois",
+   "population": {
+    "valeur": 74000,
+    "annee": 1811,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007379/",
+    "note": "chiffre arrondi, dans les limites actuelles du canton"
+   },
+   "dirigeants": "Patriciat; Grand Conseil de 144 députés à vie; évêque Pierre Tobie Yenni dès 1815",
+   "resume": "Le Grand Conseil dénonce l'acte de Médiation le 10 janvier 1814 et le patriciat reprend le pouvoir. La charte du 10 mai 1814, d'inspiration réactionnaire, est imposée malgré les protestations de la Gruyère et du Moratois et crée un Grand Conseil de 144 députés à vie. Le procès des opposants menés par Joseph de Praroman et François Duc émeut l'Europe en décembre 1814 et une amnistie n'intervient qu'en juillet 1815. Un contingent fribourgeois débarque à Genève le 1er juin 1814 et le canton participe aux opérations de 1815 contre Napoléon. Münchenwiler et Clavaleyres sont bernois depuis 1807.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Villars-les-Moines",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000399/"
+    }
+   ],
+   "superficie_km2": 1593,
+   "communes": 286,
+   "couleur": "#3f8a86"
+  },
+  {
+   "id": "lucerne",
+   "nom": "Canton de Lucerne",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime patricien ou bourgeois restauré (Petit et Grand Conseils dominés par le chef-lieu), Constitution du 29 mars 1814",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 90871,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007382/",
+    "note": "recensement de la République helvétique, dix-sept ans avant la date"
+   },
+   "dirigeants": "Conseil et Cent, partagé entre 50 représentants de la ville et 50 de la campagne",
+   "resume": "Le 16 février 1814, des patriciens et des bourgeois de la ville renversent le gouvernement de la Médiation. La Constitution du 29 mars 1814 institue un Grand Conseil («Conseil et Cent») de 50 représentants de la ville et 50 de la campagne. Un mouvement d'opposition rurale qui exige en mai 1814 la réélection du Grand Conseil est réprimé par la police. Le Pacte fédéral fait de Lucerne l'un des trois Vororte, avec Zurich et Berne.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    },
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    }
+   ],
+   "superficie_km2": 1429,
+   "communes": 110,
+   "couleur": "#59a6a0"
+  },
+  {
+   "id": "argovie",
+   "nom": "Canton d'Argovie",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime représentatif conservateur (cens élevé, exécutif prépondérant), Constitution de 1814",
+   "chef_lieu": "Aarau",
+   "langues": "Allemand",
+   "religion": "Mixte, réformés et catholiques",
+   "population": {
+    "valeur": 131000,
+    "annee": 1803,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007392/",
+    "note": "chiffre arrondi, douze ans avant la date"
+   },
+   "dirigeants": "Petit Conseil de treize membres; Albrecht Rengger défend le canton à Vienne",
+   "resume": "L'existence même du canton est menacée par les revendications de Berne sur l'Argovie. Elle est confirmée par le congrès de Vienne grâce au talent diplomatique d'Albrecht Rengger et à l'influence de Frédéric César de La Harpe sur le tsar Alexandre Ier. Le Fricktal a souffert en 1813-1814 du passage des troupes alliées, qui a coûté 1,8 million de francs aux communes et au canton. La Constitution de 1814 reprend celle de 1803, mais porte le Petit Conseil de neuf à treize membres et la durée des mandats de cinq à douze ans.",
+   "sources": [
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 1395,
+   "communes": 246,
+   "couleur": "#f2a7bf"
+  },
+  {
+   "id": "uri",
+   "nom": "Canton d'Uri",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, démocratie d'assemblée (landsgemeinde)",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landsgemeinde",
+   "resume": "Uri dénonce l'acte de Médiation le 29 décembre 1813. Contrairement à Schwytz et à Nidwald, qui rêvent de restaurer l'alliance de 1315, il se rallie au camp mené par Zurich, favorable à une Confédération des dix-neuf cantons. Il réclame pourtant la Léventine, ancien bailliage uranais, mais le congrès de Vienne écarte cette prétention. La landsgemeinde accepte le Pacte fédéral le 5 mai 1815.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 1058,
+   "communes": 19,
+   "couleur": "#e3b93c"
+  },
+  {
+   "id": "thurgovie",
+   "nom": "Canton de Thurgovie",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime représentatif conservateur (cens élevé, exécutif prépondérant), Constitution de 1814",
+   "chef_lieu": "Frauenfeld",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire, minorité catholique",
+   "population": {
+    "valeur": 70878,
+    "annee": 1801,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007393/",
+    "note": "premier recensement, quatorze ans avant la date"
+   },
+   "dirigeants": "Petit Conseil et Grand Conseil",
+   "resume": "L'Assemblée fédérale du 29 décembre 1813 décide que les nouveaux cantons seront maintenus comme membres égaux d'une nouvelle Confédération. Une commission constituante formée à la fin de janvier 1814 rédige une constitution qui reprend les structures de la Médiation en y mêlant des éléments conservateurs. Le principe de la souveraineté populaire, incarné de fait par le Grand Conseil, est vidé de son sens. Rome approuve la séparation des paroisses thurgoviennes du diocèse de Constance au 1er janvier 1815.",
+   "sources": [
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    }
+   ],
+   "superficie_km2": 863,
+   "communes": 213,
+   "couleur": "#a89f9a"
+  },
+  {
+   "id": "schwyz",
+   "nom": "Canton de Schwytz",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, démocratie d'assemblée (landsgemeinde)",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 34138,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007385/",
+    "note": "territoire de référence non précisé par le DHS"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "La suspension de l'acte de Médiation réveille les conflits internes. En février 1814, l'Ancien Pays tente de réserver la participation politique à ses seuls bourgeois, avant de reconnaître dans l'accord de 1814 l'égalité de tous les citoyens du canton. Schwytz n'adhère au Pacte fédéral qu'en mars 1815. Ses prétentions sur Uznach, le Gaster et Sargans sont écartées à Vienne, et Gersau redevient une république libre en 1814.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 837,
+   "communes": 28,
+   "couleur": "#a8679a"
+  },
+  {
+   "id": "soleure",
+   "nom": "Canton de Soleure",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime patricien ou bourgeois restauré (Petit et Grand Conseils dominés par le chef-lieu), Constitution du 17 août 1814",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique, minorité réformée dans le Bucheggberg",
+   "population": {
+    "valeur": 45840,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007386/",
+    "note": "dix-sept ans avant la date"
+   },
+   "dirigeants": "Gouvernement des anciens conseillers d'avant 1798",
+   "resume": "Après la chute de la Médiation et la répression du soulèvement des patriotes d'Olten, les conseillers d'avant la Révolution forment un gouvernement provisoire. Ils élaborent la Constitution patricienne du 17 août 1814. Le Pacte fédéral autorise Soleure à conclure des capitulations militaires avec la France et le Royaume-Uni des Pays-Bas. En 1814, le canton, sauf le Bucheggberg protestant, est attribué au diocèse de Bâle.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    },
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    }
+   ],
+   "superficie_km2": 791,
+   "communes": 132,
+   "couleur": "#ea8a32"
+  },
+  {
+   "id": "neuchatel",
+   "nom": "Canton et principauté de Neuchâtel",
+   "categorie": "canton",
+   "regime": "Principauté du roi de Prusse et canton suisse (double statut)",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Réformée, paroisses catholiques du Landeron, de Cressier et du Cerneux-Péquignot",
+   "population": {
+    "valeur": 51300,
+    "annee": 1815,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007397/"
+   },
+   "dirigeants": "Frédéric-Guillaume III, roi de Prusse et prince de Neuchâtel, et le Conseil d'État",
+   "resume": "Cédée à Napoléon en 1806, la principauté a eu pour prince le maréchal Louis-Alexandre Berthier, qui ne vint jamais à Neuchâtel. Le roi de Prusse Frédéric-Guillaume III la récupère en 1814, mais les partisans d'un rapprochement avec la Suisse obtiennent le 12 septembre 1814 que la Diète l'accepte comme vingt et unième canton. Neuchâtel est désormais à la fois canton suisse et principauté prussienne, une situation qui durera jusqu'en 1848 et ne sera réglée qu'en 1857. Il reçoit Le Cerneux-Péquignot, cédé par la France en 1814, et l'ensemble du franc-alleu de Lignières en 1815.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Cerneux-Péquignot, Le",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002843/"
+    },
+    {
+     "titre": "DHS, Affaire de Neuchâtel",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 713,
+   "communes": 73,
+   "couleur": "#8e7cc3"
+  },
+  {
+   "id": "glaris",
+   "nom": "Canton de Glaris",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, démocratie d'assemblée (landsgemeinde), Constitution de 1814",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire, minorité catholique",
+   "population": null,
+   "dirigeants": "Landsgemeinde",
+   "resume": "La Constitution de 1814 maintient pour l'essentiel l'organisation rétablie en 1803. Glaris revendique avec Schwytz Uznach, le Gaster et Sargans, et le pays de Sargans souhaite lui être rattaché, mais il est occupé en 1814 par des troupes fédérales et reste saint-gallois. Le congrès de Vienne écarte définitivement ces prétentions. Les paroisses glaronaises sont détachées du diocèse de Constance en 1814.",
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    },
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 681,
+   "communes": 25,
+   "couleur": "#5b9a4b"
+  },
+  {
+   "id": "obwald",
+   "nom": "Obwald (Unterwald-le-Haut)",
+   "categorie": "canton",
+   "regime": "Demi-canton d'Unterwald, démocratie d'assemblée (landsgemeinde), Constitution de 1814",
+   "chef_lieu": "Sarnen",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 10580,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007410/",
+    "note": "seize ans avant la date, sans Engelberg"
+   },
+   "dirigeants": "Landsgemeinde et landammans",
+   "resume": "Obwald se donne en 1814 sa première constitution propre, fondée sur le Code de 1792. En 1815, la vallée et l'abbaye d'Engelberg, en butte à la politique réactionnaire de Nidwald, se rattachent à Obwald, dont elles forment la septième commune. Une partie de leurs anciens droits leur est garantie par les actes de réunion des 19 et 24 novembre 1815. Avec Nidwald, Obwald forme le canton d'Unterwald, qui n'a qu'une voix à la Diète.",
+   "sources": [
+    {
+     "titre": "DHS, Obwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007410/"
+    },
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    }
+   ],
+   "superficie_km2": 481,
+   "communes": 7,
+   "couleur": "#c97b95"
+  },
+  {
+   "id": "bale",
+   "nom": "Canton de Bâle",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime patricien ou bourgeois restauré (Petit et Grand Conseils dominés par le chef-lieu), Constitution révisée le 4 mars 1814",
+   "chef_lieu": "Bâle",
+   "langues": "Allemand",
+   "religion": "Réformée, minorité catholique dans le Birseck réuni en 1815",
+   "population": null,
+   "dirigeants": "Petit Conseil présidé par deux bourgmestres",
+   "resume": "Dès le 21 décembre 1813, 80 000 soldats autrichiens, prussiens et russes entrent à Bâle et occupent la ville et le canton jusqu'au 20 juin 1814. La Constitution révisée le 4 mars 1814 rétablit en droit la prépondérance de la ville sur la campagne. Le congrès de Vienne attribue au canton les bailliages épiscopaux de Pfeffingen et du Birseck, dont Bâle prend possession le 28 décembre 1815 après l'acte de réunion du 7 novembre. Le recensement de 1815 compte 16 674 habitants en ville et 28 416 à la campagne.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Birseck",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007560/"
+    },
+    {
+     "titre": "DHS, Actes de réunion",
+     "url": "https://hls-dhs-dss.ch/fr/articles/042768/"
+    }
+   ],
+   "superficie_km2": 465,
+   "communes": 78,
+   "couleur": "#7fb2dc"
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Canton de Schaffhouse",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, régime patricien ou bourgeois restauré (Petit et Grand Conseils dominés par le chef-lieu)",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 24889,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007388/",
+    "note": "population sur le territoire du canton actuel, dix-sept ans avant la date"
+   },
+   "dirigeants": "Petit Conseil et Grand Conseil",
+   "resume": "La Restauration de 1814 institue un Grand Conseil de 74 membres, dont 52 pour les villes. L'année 1814 est la seule de la période où le canton connaît un excédent de mortalité. Il espère s'agrandir de quelques villages badois, mais le congrès de Vienne ne lui accorde rien.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 298,
+   "communes": 36,
+   "couleur": "#f0b26e"
+  },
+  {
+   "id": "appenzell-rhodes-exterieures",
+   "nom": "Appenzell Rhodes-Extérieures",
+   "categorie": "canton",
+   "regime": "Demi-canton d'Appenzell, démocratie d'assemblée (landsgemeinde), quasi-constitution de juin 1814",
+   "chef_lieu": "Trogen et Hérisau (deux chancelleries)",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Landsgemeinde et Conseils",
+   "resume": "La «quasi-constitution» de juin 1814, qui n'est pas soumise au peuple, entre en vigueur dans le cadre du Pacte fédéral et restera valable jusqu'en 1834. Les deux demi-cantons n'ont ensemble qu'une voix à la Diète, et chacun désigne à tour de rôle le délégué. Le DHS donne environ 39 000 habitants en 1794 et 39 789 en 1836, soit une population à peu près stable.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Extérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007476/"
+    },
+    {
+     "titre": "DHS, Appenzell Rhodes-Intérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007475/"
+    }
+   ],
+   "superficie_km2": 246,
+   "communes": 20,
+   "couleur": "#7eb7ae"
+  },
+  {
+   "id": "nidwald",
+   "nom": "Nidwald (Unterwald-le-Bas)",
+   "categorie": "canton",
+   "regime": "Demi-canton d'Unterwald, démocratie d'assemblée (landsgemeinde), Ancien Régime restauré",
+   "chef_lieu": "Stans",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 8496,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007411/",
+    "note": "seize ans avant la date"
+   },
+   "dirigeants": "Landsgemeinde conservatrice",
+   "resume": "À la chute de l'Empire, les conservateurs nidwaldiens restaurent l'Ancien Régime et refusent les pleins droits civiques aux gens d'Engelberg. Nidwald rejette le Pacte fédéral et se retire de la Confédération, alors que Hergiswil et Engelberg proclament leur adhésion. Il faut l'entrée des troupes fédérales, le 18 août 1815, pour le ramener dans la Confédération. Le prix à payer est la perte d'Engelberg, attribué à Obwald par la Diète.",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    },
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    }
+   ],
+   "superficie_km2": 242,
+   "communes": 11,
+   "couleur": "#8f6a55"
+  },
+  {
+   "id": "zoug",
+   "nom": "Canton de Zoug",
+   "categorie": "canton",
+   "regime": "Canton souverain du Pacte fédéral, démocratie d'assemblée (landsgemeinde), Constitution de 1814",
+   "chef_lieu": "Zoug",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 12749,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007373/",
+    "note": "dix-sept ans avant la date; le DHS donne près de 14 000 habitants en 1817"
+   },
+   "dirigeants": "Conseil cantonal",
+   "resume": "Après l'abolition de l'acte de Médiation, Zoug se donne en 1814 une nouvelle constitution, et le Conseil de la ville et bailliage devient le Conseil cantonal. Comme Uri, il prétend un moment retrouver ses anciens bailliages. Le premier journal zougois, consacré aux quatre cantons de Suisse centrale, paraît en 1814.",
+   "sources": [
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    },
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    }
+   ],
+   "superficie_km2": 207,
+   "communes": 11,
+   "couleur": "#93c47d"
+  },
+  {
+   "id": "appenzell-rhodes-interieures",
+   "nom": "Appenzell Rhodes-Intérieures",
+   "categorie": "canton",
+   "regime": "Demi-canton d'Appenzell, démocratie d'assemblée (landsgemeinde), Constitution de 1814",
+   "chef_lieu": "Appenzell",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 8489,
+    "annee": 1801,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007475/",
+    "note": "quatorze ans avant la date"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "Après la chute de l'Empire, la landsgemeinde adopte au début de juillet 1814 une nouvelle constitution, mais refuse le Pacte fédéral. Le demi-canton est l'un des derniers à l'accepter, le 21 mai 1815, après plusieurs refus et en exigeant des garanties pour la religion, l'indépendance et les frontières. Il est détaché en 1814 du diocèse de Constance, comme les autres territoires suisses qui en relevaient.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Intérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007475/"
+    },
+    {
+     "titre": "DHS, Pacte fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009809/"
+    }
+   ],
+   "superficie_km2": 169,
+   "communes": 8,
+   "couleur": "#b49a3a"
+  },
+  {
+   "id": "geneve",
+   "nom": "Canton de Genève",
+   "categorie": "canton",
+   "regime": "Canton du Pacte fédéral, république conservatrice (Constitution d'août 1814, cens électoral élevé)",
+   "chef_lieu": "Genève",
+   "langues": "Français",
+   "religion": "Réformée, avec une minorité catholique dans les communes réunies",
+   "population": {
+    "valeur": 31000,
+    "annee": 1814,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007398/",
+    "note": "chiffre arrondi, avant l'apport des communes réunies"
+   },
+   "dirigeants": "Conseil d'État de 28 membres nommés à vie; Ami Lullin et Joseph Des Arts à la tête du gouvernement provisoire de 1814",
+   "resume": "Occupée en décembre 1813 par le général autrichien Bubna, Genève se donne un gouvernement provisoire conservateur qui espère le retour à l'indépendance, et les troupes suisses débarquent au Port-Noir le 1er juin 1814. La Diète l'admet comme canton le 12 septembre 1814. Pour la relier à la Suisse, le second traité de Paris du 20 novembre 1815 lui donne Versoix, Collex-Bossy, Pregny, Vernier, Meyrin et Le Grand-Saconnex, pris au Pays de Gex. Carouge et les autres communes savoyardes promises à Vienne ne lui seront cédées que par le traité de Turin du 16 mars 1816. La Constitution d'août 1814 confie le gouvernement à un Conseil d'État de 28 membres nommés à vie.",
+   "sources": [
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    },
+    {
+     "titre": "DHS, Communes réunies",
+     "url": "https://hls-dhs-dss.ch/fr/articles/030186/"
+    },
+    {
+     "titre": "DHS, Turin, traité de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017224/"
+    },
+    {
+     "titre": "DHS, Traité de Paris",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017227/"
+    }
+   ],
+   "superficie_km2": 144,
+   "communes": 22,
+   "couleur": "#d4a017"
+  },
+  {
+   "id": "savoie",
+   "nom": "Royaume de Sardaigne (Savoie)",
+   "categorie": "etranger",
+   "regime": "Monarchie de la maison de Savoie",
+   "chef_lieu": "Turin",
+   "langues": "Français (francoprovençal) en Savoie",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Victor-Emmanuel Ier, roi de Sardaigne",
+   "resume": "À la fin de 1815, les communes savoyardes du roi de Sardaigne entourent encore, sur la rive gauche, la ville de Genève et ses anciennes terres. Le protocole du congrès de Vienne du 29 mars 1815 prévoit que Victor-Emmanuel Ier cédera à Genève une partie du littoral et le pied du Salève, mais les conférences qui suivent échouent. Le traité de Turin du 16 mars 1816 donnera finalement à Genève Carouge et les autres communes réunies savoyardes, qui comptent 12 700 habitants en 1816. La neutralité suisse est étendue au nord de la Savoie.",
+   "sources": [
+    {
+     "titre": "DHS, Turin, traité de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017224/"
+    },
+    {
+     "titre": "DHS, Communes réunies",
+     "url": "https://hls-dhs-dss.ch/fr/articles/030186/"
+    },
+    {
+     "titre": "DHS, Congrès de Vienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008922/"
+    }
+   ],
+   "superficie_km2": 102,
+   "communes": 18,
+   "couleur": "#a7a29b"
+  },
+  {
+   "id": "gersau",
+   "nom": "République de Gersau",
+   "categorie": "autre",
+   "regime": "Petite république libre restaurée (1814-1817) avec l'autorisation de Schwytz",
+   "chef_lieu": "Gersau",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landamman et assemblée de Gersau",
+   "resume": "Gersau, sur la rive du lac des Quatre-Cantons, a été un district du canton de Schwytz sous la Médiation. La république libre, née au XIVe siècle, est restaurée de 1814 à 1817 avec l'autorisation formelle de Schwytz. En 1817, la Diète, s'appuyant sur le congrès de Vienne et sur la garantie territoriale du Pacte de 1815, la rattachera à perpétuité au canton de Schwytz. Le DHS compte environ 1000 habitants en 1774 et 1585 en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Gersau",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000711/"
+    },
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    }
+   ],
+   "superficie_km2": 14,
+   "communes": 1,
+   "couleur": "#9b8ec7"
+  }
+ ],
+ "superficie_totale_km2": 39969,
+ "changements": {
+  "depuis": 1803,
+  "liste": [
+   {
+    "de": "france",
+    "de_nom": "République française",
+    "vers": "berne",
+    "vers_nom": "Canton de Berne",
+    "communes": 152,
+    "superficie_km2": 1488
+   },
+   {
+    "de": "france",
+    "de_nom": "République française",
+    "vers": "geneve",
+    "vers_nom": "Canton de Genève",
+    "communes": 22,
+    "superficie_km2": 144
+   },
+   {
+    "de": "france",
+    "de_nom": "République française",
+    "vers": "savoie",
+    "vers_nom": "Royaume de Sardaigne (Savoie)",
+    "communes": 18,
+    "superficie_km2": 102
+   },
+   {
+    "de": "nidwald",
+    "de_nom": "Nidwald (Unterwald-le-Bas)",
+    "vers": "obwald",
+    "vers_nom": "Obwald (Unterwald-le-Haut)",
+    "communes": 1,
+    "superficie_km2": 75
+   },
+   {
+    "de": "france",
+    "de_nom": "République française",
+    "vers": "bale",
+    "vers_nom": "Canton de Bâle",
+    "communes": 9,
+    "superficie_km2": 58
+   },
+   {
+    "de": "france",
+    "de_nom": "République française",
+    "vers": "neuchatel",
+    "vers_nom": "Canton et principauté de Neuchâtel",
+    "communes": 1,
+    "superficie_km2": 16
+   },
+   {
+    "de": "schwyz",
+    "de_nom": "Canton de Schwytz",
+    "vers": "gersau",
+    "vers_nom": "République de Gersau",
+    "communes": 1,
+    "superficie_km2": 14
+   },
+   {
+    "de": "fribourg",
+    "de_nom": "Canton de Fribourg",
+    "vers": "berne",
+    "vers_nom": "Canton de Berne",
+    "communes": 2,
+    "superficie_km2": 4
+   }
+  ]
+ }
+}

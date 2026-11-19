@@ -1,0 +1,965 @@
+{
+ "date": 1833,
+ "titre": "Régénération et partage de Bâle",
+ "recit": "Au lendemain de la révolution de Juillet à Paris, une vague de journées révolutionnaires renverse en 1830-1831 les gouvernements de la Restauration dans onze cantons, qui adoptent des constitutions libérales fondées sur la souveraineté populaire. Les cantons régénérés s'unissent en 1832 dans le concordat des Sept et veulent réviser le Pacte fédéral de 1815, tandis que les conservateurs forment la Ligue de Sarnen. Les crises les plus graves éclatent là où les campagnes réclament l'égalité des droits. Les districts extérieurs de Schwytz font sécession dès 1831, et la campagne bâloise se constitue en canton le 17 mars 1832. Après le combat de la Hülftenschanze le 3 août 1833, la Diète prononce le 26 août la séparation complète de Bâle, et le projet de Pacte Rossi a échoué le 7 juillet devant les citoyens lucernois. La carte montre la situation de l'été 1833, avec Bâle divisé pour de bon et Schwytz encore coupé en deux, avant sa réunification par la Constitution du 13 octobre 1833. Les autres frontières sont celles du fond communal de 1850.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Régénération",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+  },
+  {
+   "titre": "DHS, Sarnen, Ligue de",
+   "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+  },
+  {
+   "titre": "DHS, Bâle (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+  },
+  {
+   "titre": "DHS, Pacte Rossi",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009810/"
+  }
+ ],
+ "evenements": [
+  {
+   "annee": 1830,
+   "date_precise": "22 novembre 1830",
+   "type": "revolution",
+   "titre": "Landsgemeinde d'Uster et Régénération",
+   "lieu": "Uster (Zurich)",
+   "texte": "Sous l'influence de la révolution de Juillet à Paris, les anciennes élites sont chassées du pouvoir en 1830-1831 dans onze cantons, dont Zurich, Berne, Lucerne et Vaud, à la suite de pétitions et de journées révolutionnaires. À Uster, quelque 10'000 personnes réunies le 22 novembre 1830 adoptent un mémorial qui conduit à la Constitution zurichoise de 1831. Les nouvelles constitutions imposent l'élection directe, la séparation des pouvoirs et un droit de vote étendu.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    },
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    }
+   ]
+  },
+  {
+   "annee": 1832,
+   "date_precise": "17 mars 1832",
+   "type": "alliance",
+   "titre": "Concordat des Sept",
+   "lieu": "Lucerne",
+   "texte": "Lors d'une Diète extraordinaire à Lucerne, sept cantons régénérés (Lucerne, Zurich, Berne, Soleure, Saint-Gall, Argovie et Thurgovie) se garantissent mutuellement leurs constitutions libérales. Le concordat proposa aussi un avant-projet de Constitution fédérale et resta en principe en vigueur jusqu'en 1848.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Concordat des Sept",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017232/"
+    }
+   ]
+  },
+  {
+   "annee": 1832,
+   "date_precise": "14 et 15 novembre 1832",
+   "type": "alliance",
+   "titre": "Ligue de Sarnen",
+   "lieu": "Sarnen (Obwald)",
+   "texte": "En réaction à la division provisoire de Bâle décidée par la Diète, Uri, Schwytz, Obwald, Nidwald, Neuchâtel et Bâle-Ville forment une ligue conservatrice opposée au concordat des Sept et à la révision du Pacte fédéral. Ses membres tiennent une Diète séparée à Schwytz en 1833, puis la Diète fédérale dissout la Ligue le 12 août 1833 après avoir fait occuper Schwytz-Intérieur et Bâle-Ville.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    }
+   ]
+  },
+  {
+   "annee": 1833,
+   "date_precise": "7 juillet 1833",
+   "type": "institution",
+   "titre": "Échec du Pacte Rossi",
+   "lieu": "Lucerne",
+   "texte": "Rédigé sous la direction de Gallus Jakob Baumgartner avec le Genevois Pellegrino Rossi comme rapporteur, le projet d'Acte fédéral du 15 décembre 1832 prévoyait un Conseil fédéral, une Cour fédérale et l'unification des douanes, des postes et de la monnaie. Accepté par une dizaine de cantons, il est définitivement compromis le 7 juillet 1833, quand les citoyens du canton directeur de Lucerne le refusent en votation.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Pacte Rossi",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009810/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    }
+   ]
+  },
+  {
+   "annee": 1833,
+   "date_precise": "3 août 1833",
+   "type": "bataille",
+   "titre": "Combat de la Hülftenschanze",
+   "lieu": "Entre Pratteln et Augst (Bâle-Campagne)",
+   "texte": "Dernière tentative de la ville de Bâle pour soumettre la campagne, l'expédition de ses milices s'achève par un désastre à la Hülftenschanze, et plusieurs soldats en fuite sont massacrés. Quelques jours plus tôt, le 31 juillet, Schwytz-Intérieur avait occupé Küssnacht, ce qui décida la Diète à lever des troupes.",
+   "camps": "Milices de la ville de Bâle contre les campagnards de Bâle-Campagne, renforcés de quelques réfugiés polonais",
+   "issue": "Victoire des campagnards",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    }
+   ]
+  },
+  {
+   "annee": 1833,
+   "date_precise": "26 août 1833",
+   "type": "institution",
+   "titre": "Partage du canton de Bâle",
+   "lieu": "Diète fédérale",
+   "texte": "La Diète fédérale décide la séparation complète du canton de Bâle en deux demi-cantons, sous réserve d'une réunification volontaire. Bâle-Ville ne garde que la ville et les communes de Riehen, Bettingen et Petit-Huningue, et les biens sont partagés au prorata de la population. En octobre, la réunification de Schwytz met fin à l'autre scission de l'année.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Bâle-Ville",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007478/"
+    },
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    }
+   ]
+  }
+ ],
+ "territoires": [
+  {
+   "id": "zurich",
+   "nom": "Canton de Zurich",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de la Régénération du 20 mars 1831)",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Réformée très majoritaire (97 % de protestants au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": "Grand Conseil à majorité libérale et radicale depuis les élections de 1832",
+   "resume": "Le 22 novembre 1830, une centaine de libéraux réunissent à Uster une landsgemeinde d'environ 10'000 personnes, dont les revendications sont consignées dans le mémorial d'Uster. Le Grand Conseil prononce alors sa dissolution, et une nouvelle Constitution, adoptée par le peuple le 20 mars 1831, entre en vigueur le 23 mars. Elle garantit la liberté religieuse et lance la construction d'une instruction publique moderne. Libéraux et radicaux obtiennent la majorité aux élections de 1832, et Zurich adhère au concordat des Sept. Le DHS ne donne pas de recensement cantonal pour ces années, le canton comptera 250'698 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    },
+    {
+     "titre": "DHS, Concordat des Sept",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017232/"
+    }
+   ]
+  },
+  {
+   "id": "berne",
+   "nom": "Canton de Berne",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution du 31 juillet 1831)",
+   "chef_lieu": "Berne",
+   "langues": "Allemand, français (Jura bernois)",
+   "religion": "Réformée très majoritaire (88 % de protestants au recensement fédéral de 1850), minorité catholique surtout dans le Jura",
+   "population": null,
+   "dirigeants": "Grand Conseil à majorité libérale depuis l'automne 1831",
+   "resume": "Préparée par une commission de dix-sept membres présidée par Karl Koch, la nouvelle Constitution est acceptée le 31 juillet 1831 par 93 % des votants, avec une faible participation. Les élections de l'automne 1831 donnent la majorité aux libéraux, et les anciennes élites sont chassées du pouvoir. La Constitution garantit la liberté de croyance, et le canton entre en 1832 dans le concordat des Sept. Parmi les libéraux, ceux qu'on appelle radicaux jugent déjà que les réformes ne sont pas allées assez loin.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    },
+    {
+     "titre": "DHS, Concordat des Sept",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017232/"
+    }
+   ]
+  },
+  {
+   "id": "lucerne",
+   "nom": "Canton de Lucerne",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de 1831)",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99 % au recensement fédéral de 1850)",
+   "population": {
+    "valeur": 124541,
+    "annee": 1837,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007382/",
+    "note": "recensement cantonal de 1837 donné dans le tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "La Régénération commence en novembre 1830 dans la vallée de la Suhr. Entrée en vigueur sans possibilité de révision pendant dix ans, la Constitution libérale de 1831 réalise la souveraineté populaire sous forme représentative, et le libéralisme domine la politique lucernoise durant les années 1830. Le canton adhère au concordat des Sept en 1832 et soutient la révision du Pacte fédéral. Pourtant, le 7 juillet 1833, les citoyens lucernois refusent en votation le projet de Pacte Rossi, alors que Lucerne devait accueillir les nouvelles institutions fédérales.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    },
+    {
+     "titre": "DHS, Concordat des Sept",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017232/"
+    },
+    {
+     "titre": "DHS, Pacte Rossi",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009810/"
+    }
+   ]
+  },
+  {
+   "id": "uri",
+   "nom": "Canton d'Uri",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde)",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,9 % au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": "Landsgemeinde et Conseil, avec un Conseil secret",
+   "resume": "Uri reste gouverné par sa landsgemeinde, qui demeure l'autorité suprême du canton. En 1833, la landsgemeinde rejette le projet de réforme du Pacte fédéral, et en 1834 elle repousse encore une motion réclamant des éléments libéraux comme la publicité des délibérations du Conseil ou la suppression du Conseil secret. Opposé à la partition de Bâle et de Schwytz, Uri fait partie de la Ligue de Sarnen formée en novembre 1832. Le canton comptera 14'505 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    },
+    {
+     "titre": "DHS, Landsgemeinde",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010239/"
+    }
+   ]
+  },
+  {
+   "id": "schwyz",
+   "nom": "Canton de Schwytz (Ancien Pays)",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), régime de l'Ancien Pays",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,6 % au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": "Autorités conservatrices de l'Ancien Pays (districts de Schwytz et de Wollerau)",
+   "resume": "Depuis 1831, le canton est coupé en deux. L'Ancien Pays, autour du bourg de Schwytz, conserve la partie intérieure ainsi que Wollerau, tandis que les districts extérieurs ont fait sécession. Membre de la Ligue de Sarnen, il tente le 31 juillet 1833 de régler la crise par la force en occupant Küssnacht, ce qui provoque l'intervention de la Diète et l'occupation fédérale en août. Sous cette pression, une Constitution qui accorde l'égalité des droits à tous les habitants est acceptée par la landsgemeinde du 13 octobre 1833 et met fin à la scission. Le canton entier comptait 38'351 habitants en 1833 selon le DHS.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    }
+   ]
+  },
+  {
+   "id": "schwytz-exterieur",
+   "nom": "Canton de Schwytz-Extérieur",
+   "categorie": "canton",
+   "regime": "Demi-canton dissident à régime libéral (Constitution de 1832)",
+   "chef_lieu": null,
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive",
+   "population": null,
+   "dirigeants": "Conseil (Landrat) de Schwytz-Extérieur, dominé par les libéraux de la Marche",
+   "resume": "En 1830, encouragés par la révolution de Juillet, les districts de la Marche, d'Einsiedeln, de Küssnacht et de Pfäffikon réclament une représentation proportionnelle au sein des autorités cantonales. Faute de compromis avec l'Ancien Pays, ils s'en séparent en 1831, créent un Conseil (Landrat) à Einsiedeln et adoptent une Constitution en 1832. La Diète reconnaît Schwytz-Extérieur comme canton au printemps 1833, tout en demandant la réunification. Après l'occupation fédérale d'août 1833, la Constitution acceptée le 13 octobre 1833 réunit le canton et met fin à ce demi-canton éphémère.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Marche",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007414/"
+    },
+    {
+     "titre": "DHS, Höfe",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007418/"
+    },
+    {
+     "titre": "DHS, Küssnacht (SZ)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000715/"
+    },
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    }
+   ]
+  },
+  {
+   "id": "obwald",
+   "nom": "Obwald",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton",
+   "chef_lieu": "Sarnen",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,9 % au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": "Landsgemeinde; le landamman Nikodem Spichtig",
+   "resume": "Obwald est gouverné par sa landsgemeinde, mais en 1829 les citoyens ont perdu le droit de présenter directement une motion à l'assemblée. Le landamman Nikodem Spichtig, dont le DHS souligne l'autoritarisme dans les années 1830 et 1840, fait adhérer le demi-canton à la Ligue de Sarnen, conclue sur son territoire les 14 et 15 novembre 1832. Obwald comptera 13'799 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Obwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007410/"
+    },
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    }
+   ]
+  },
+  {
+   "id": "nidwald",
+   "nom": "Nidwald",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton",
+   "chef_lieu": "Stans",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,9 % au recensement fédéral de 1850)",
+   "population": {
+    "valeur": 10480,
+    "annee": 1835,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007411/",
+    "note": "recensement de 1835 cité par le DHS"
+   },
+   "dirigeants": "Landsgemeinde à majorité conservatrice",
+   "resume": "La première moitié du XIXe siècle est marquée à Nidwald par les tensions entre forces libérales et conservatrices. Dès les années 1830, des personnalités libérales favorables à l'ouverture vers la Confédération gagnent en influence, mais le demi-canton reste dans le camp conservateur et adhère à la Ligue de Sarnen. Le DHS recense 10'480 habitants en 1835.",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    }
+   ]
+  },
+  {
+   "id": "glaris",
+   "nom": "Canton de Glaris",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), régime des concordats confessionnels de 1623 et 1683",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (87 % de protestants au recensement fédéral de 1850), minorité catholique",
+   "population": null,
+   "dirigeants": "Landsgemeinde; quelques familles dirigeantes",
+   "resume": "Un concordat conclu en 1683, qui complète celui de 1623, sert toujours de Constitution au canton, organisé selon la séparation des confessions. Le débat constitutionnel se rallume au début des années 1830, mais les propositions de changement échouent devant la landsgemeinde en 1831 et 1832, car les citoyens disposent déjà de droits de participation étendus. Glaris soutient pourtant les efforts de révision du Pacte fédéral. La réforme ne s'impose qu'en 1836-1837.",
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    }
+   ]
+  },
+  {
+   "id": "zoug",
+   "nom": "Canton de Zoug",
+   "categorie": "canton",
+   "regime": "Régime conservateur (Constitution de 1814, Conseil cantonal et landsgemeinde)",
+   "chef_lieu": "Zoug",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99 % au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Zoug vit sous la Constitution cantonale de 1814, qui reprend les acquis de la Médiation, et conserve sa landsgemeinde jusqu'en 1848. La modernisation se poursuit de manière hésitante dans les années 1830, malgré l'adhésion du canton au groupe des cantons conservateurs. L'industrialisation s'accélère à partir de cette décennie. Zoug comptera 17'461 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    },
+    {
+     "titre": "DHS, Landsgemeinde",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010239/"
+    }
+   ]
+  },
+  {
+   "id": "fribourg",
+   "nom": "Canton de Fribourg",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de janvier 1831, non soumise au peuple)",
+   "chef_lieu": "Fribourg",
+   "langues": "Français et allemand (bilinguisme de fait, le français étant la langue du gouvernement depuis 1831)",
+   "religion": "Catholique majoritaire (88 % au recensement fédéral de 1850), minorité réformée dans le Moratois",
+   "population": {
+    "valeur": 91145,
+    "annee": 1836,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007379/",
+    "note": "recensement de 1836 donné dans le tableau démographique du DHS"
+   },
+   "dirigeants": "Libéraux issus du patriciat libéral, de la bourgeoisie urbaine et de la paysannerie aisée",
+   "resume": "Le 2 décembre 1830, la pression populaire lors de la journée des bâtons amène le Grand Conseil à mettre fin à l'hégémonie du patriciat. Une Constituante élue rédige entre le 7 et le 24 janvier 1831 une Constitution qui consacre la souveraineté du peuple exercée par ses représentants et proclame les libertés fondamentales, sans être soumise au peuple. Le français redevient la langue du gouvernement. L'influence libérale se heurte bientôt aux conservateurs appuyés par le clergé, qui triompheront aux élections de 1834.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    }
+   ]
+  },
+  {
+   "id": "soleure",
+   "nom": "Canton de Soleure",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de 1831)",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique majoritaire (88 % au recensement fédéral de 1850), minorité réformée",
+   "population": null,
+   "dirigeants": "Josef Munzinger, élu à la présidence du canton en décembre 1832",
+   "resume": "Une campagne de presse et un mouvement populaire culminant lors de l'assemblée de Balsthal conduisent à la fin de janvier 1831 à une révision constitutionnelle. L'élection de Josef Munzinger à la tête du canton en décembre 1832 marque l'arrivée au pouvoir des libéraux, qui conquièrent aussi la majorité du Grand Conseil. Le canton adhère au concordat des Sept, et son Grand Conseil approuve en 1833 le projet avorté de réforme du Pacte fédéral. L'école obligatoire est inscrite dans la loi en 1832.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    },
+    {
+     "titre": "DHS, Concordat des Sept",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017232/"
+    }
+   ]
+  },
+  {
+   "id": "bale-ville",
+   "nom": "Bâle-Ville",
+   "categorie": "canton",
+   "regime": "République représentative conservatrice, demi-canton (Constitution adoptée par la bourgeoisie le 3 octobre 1833)",
+   "chef_lieu": "Bâle",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (81 % de protestants au recensement fédéral de 1850), minorité catholique",
+   "population": null,
+   "dirigeants": "Autorités de la ville, élues par les corporations et les assemblées de quartier",
+   "resume": "Après la défaite de ses milices à la Hülftenschanze le 3 août 1833, la ville de Bâle doit accepter l'arrêté de la Diète du 26 août 1833 qui prononce la séparation complète du canton. Le nouveau demi-canton, officiellement nommé Basel-Stadttheil, ne comprend outre la ville que trois communes de la rive droite du Rhin, Riehen, Bettingen et Petit-Huningue. Il adopte une Constitution le 3 octobre 1833, qui maintient le Grand Conseil dans la tradition de l'Ancien Régime. Le partage des biens au prorata de la population ne lui laisse qu'environ un tiers de la fortune cantonale.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle-Ville",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007478/"
+    },
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    }
+   ]
+  },
+  {
+   "id": "bale-campagne",
+   "nom": "Bâle-Campagne",
+   "categorie": "canton",
+   "regime": "Démocratie représentative radicale, demi-canton (Constitution du 27 avril 1832)",
+   "chef_lieu": "Liestal",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (81 % de protestants au recensement fédéral de 1850), minorité catholique",
+   "population": {
+    "valeur": 41120,
+    "annee": 1837,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007477/",
+    "note": "premier recensement cantonal à peu près fiable, selon le DHS"
+   },
+   "dirigeants": "Stephan Gutzwiller et Emil Remigius Frey, chefs des deux tendances du nouveau canton",
+   "resume": "Les campagnards, mécontents d'une représentation inférieure à leur poids démographique, se soulèvent dès janvier 1831. Après que le Grand Conseil de Bâle eut retiré son administration aux communes récalcitrantes, le canton de Bâle-Campagne se constitue le 17 mars 1832 et se donne une Constitution qui institue le référendum constitutionnel obligatoire. La Diète reconnaît d'abord une séparation partielle, puis, après la victoire des campagnards à la Hülftenschanze le 3 août 1833, la séparation complète le 26 août. En 1837, le demi-canton compte 41'120 habitants.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle-Campagne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007477/"
+    },
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    }
+   ]
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Canton de Schaffhouse",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de 1831)",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Réformée très majoritaire (96 % de protestants au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Un procès pour haute trahison intenté à septante-trois citoyens de la campagne dresse celle-ci contre la ville et contribue, avec la révolution de Juillet, à la révolution libérale de 1831. La Constitution de 1831 impose la souveraineté populaire, la séparation des pouvoirs et la publicité des séances du parlement. La justice devient indépendante du gouvernement grâce à la création d'une cour d'appel et d'un tribunal cantonal. Schaffhouse comptera 35'300 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    }
+   ]
+  },
+  {
+   "id": "appenzell-rhodes-exterieures",
+   "nom": "Appenzell Rhodes-Extérieures",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton, régime de la quasi-constitution de 1814",
+   "chef_lieu": "Hérisau et Trogen (aucun chef-lieu officiel)",
+   "langues": "Allemand",
+   "religion": "Réformée quasi exclusive (98 % de protestants au recensement fédéral de 1850)",
+   "population": {
+    "valeur": 39789,
+    "annee": 1836,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007476/",
+    "note": "recensement de 1836 cité par le DHS"
+   },
+   "dirigeants": "Landsgemeinde; le landamman Jakob Nagel est médiateur fédéral à Schwytz en 1833",
+   "resume": "Le demi-canton vit encore sous une quasi-constitution de 1814, qui n'a pas été soumise au peuple, mais la publication des comptes de l'État et du Landbuch prépare la Constitution de 1834. La Régénération éveille l'intérêt de larges milieux pour les affaires fédérales, et la presse comme la population soutiennent les Bâlois de la campagne pendant les troubles de la séparation. Le landamman Jakob Nagel sert de médiateur fédéral à Schwytz en 1833. Les Rhodes-Extérieures comptent 39'789 habitants en 1836.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Extérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007476/"
+    }
+   ]
+  },
+  {
+   "id": "appenzell-rhodes-interieures",
+   "nom": "Appenzell Rhodes-Intérieures",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton (Constitution de 1829)",
+   "chef_lieu": "Appenzell",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,6 % au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": "Landsgemeinde, landamman et Grand Conseil",
+   "resume": "En 1829, la landsgemeinde a largement accepté un nouveau texte constitutionnel qui rend à chaque citoyen le droit de proposer des lois à l'assemblée, en passant par le Grand Conseil. Sur le plan suisse, les Rhodes-Intérieures s'opposent dans les années 1830 aux thèses des radicaux, qu'il s'agisse de la révision du Pacte fédéral, de la centralisation ou de l'anticléricalisme. Le demi-canton comptera 11'272 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Intérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007475/"
+    }
+   ]
+  },
+  {
+   "id": "saint-gall",
+   "nom": "Canton de Saint-Gall",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution de mars 1831, Grand Conseil organe suprême)",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Confession mixte, catholiques majoritaires (62 %) et forte minorité réformée (38 %) au recensement fédéral de 1850",
+   "population": null,
+   "dirigeants": "Conseil d'État de sept membres; Gallus Jakob Baumgartner chef des libéraux",
+   "resume": "En 1830, des assemblées populaires se tiennent à Altstätten, Wattwil et Sankt Gallenkappel contre le régime de la Restauration. Après de vifs débats entre conservateurs religieux partisans de la démocratie directe et libéraux conduits par Gallus Jakob Baumgartner, les électeurs adoptent en mars 1831 une Constitution qui fait du Grand Conseil l'organe suprême et étend le droit de vote aux hommes dès 21 ans. Un Conseil d'État de sept membres remplace le Petit Conseil, et le canton adhère au concordat des Sept. Le projet de Pacte Rossi est élaboré en 1832 sous l'égide du Saint-Gallois Baumgartner.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    },
+    {
+     "titre": "DHS, Concordat des Sept",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017232/"
+    },
+    {
+     "titre": "DHS, Pacte Rossi",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009810/"
+    }
+   ]
+  },
+  {
+   "id": "grisons",
+   "nom": "Canton des Grisons",
+   "categorie": "canton",
+   "regime": "Démocratie à structure très fédéraliste (Constitution de 1814/1820, juridictions et communes autonomes)",
+   "chef_lieu": "Coire",
+   "langues": "Allemand, romanche, italien",
+   "religion": "Confession mixte, réformés majoritaires (58 %) et catholiques (42 %) au recensement fédéral de 1850",
+   "population": null,
+   "dirigeants": null,
+   "resume": "La Constitution de 1814, entrée en vigueur en 1820 seulement, laisse aux juridictions et aux communes le contrôle de la législation et réduit à l'impuissance les institutions cantonales. Dans la première moitié des années 1830 apparaissent les premiers libéraux, qui veulent renforcer le canton aux dépens de l'autonomie communale. Leurs propositions de réforme échouent, comme celle de 1834 et 1835 qui visait à abaisser la majorité exigée pour réviser la Constitution. Les Grisons compteront 89'895 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ]
+  },
+  {
+   "id": "argovie",
+   "nom": "Canton d'Argovie",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de 1831, Grand Conseil de deux cents députés)",
+   "chef_lieu": "Aarau",
+   "langues": "Allemand",
+   "religion": "Confession mixte, réformés majoritaires (54 %) et forte minorité catholique (46 %) au recensement fédéral de 1850",
+   "population": {
+    "valeur": 182755,
+    "annee": 1837,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007392/",
+    "note": "recensement de 1836-1837 donné dans le tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "À la fin de 1830, une partie de la classe dirigeante favorable à une révision libérale s'allie aux campagnards mécontents des Freie Ämter, réunis en assemblée à Wohlenschwil le 7 novembre. Le 6 décembre 1830, lors du Freiämtersturm, les insurgés conduits par l'aubergiste Johann Heinrich Fischer s'emparent d'Aarau sans faire de blessés. La Constitution de 1831 élargit les droits fondamentaux et fait du Grand Conseil de deux cents députés l'autorité prépondérante. En 1832, l'Argovie entre dans le concordat des Sept et soutient la révision du Pacte fédéral.",
+   "sources": [
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    },
+    {
+     "titre": "DHS, Concordat des Sept",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017232/"
+    }
+   ]
+  },
+  {
+   "id": "thurgovie",
+   "nom": "Canton de Thurgovie",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution du 14 avril 1831)",
+   "chef_lieu": "Frauenfeld",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (75 % au recensement fédéral de 1850), minorité catholique (25 %)",
+   "population": null,
+   "dirigeants": "Libéraux menés par le pasteur Thomas Bornhauser",
+   "resume": "Le pasteur Thomas Bornhauser convoque à Weinfelden les assemblées populaires des 22 octobre et 18 novembre 1830, qui imposent des élections plus respectueuses de la souveraineté populaire. Élaborée par une commission dominée par Joachim Leonz Eder, la Constitution du 14 avril 1831 est approuvée le 26 avril par 10'044 oui contre 432 non. Cas unique, elle inscrit dans la loi fondamentale la volonté de réviser le Pacte fédéral, et la Thurgovie entre en 1832 dans le concordat des Sept. En 1833, une loi scolaire libérale et la fondation de l'école normale de Kreuzlingen posent les bases d'une instruction publique moderne.",
+   "sources": [
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    },
+    {
+     "titre": "DHS, Concordat des Sept",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017232/"
+    }
+   ]
+  },
+  {
+   "id": "tessin",
+   "nom": "Canton du Tessin",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution révisée de 1830)",
+   "chef_lieu": "Chef-lieu itinérant (Bellinzone, Locarno et Lugano par rotation de six ans)",
+   "langues": "Italien",
+   "religion": "Catholique quasi exclusive (100 % au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Au Tessin, la révision intervient avant même la révolution de Juillet à Paris. Contre la volonté du landamman Giovanni Battista Quadri, le Grand Conseil vote le 23 juin 1830 une révision de la Constitution, ratifiée par les assemblées populaires le 4 juillet. Après 1830, les divergences sur le rôle de l'État donnent naissance aux deux partis historiques, les libéraux ou radicaux et les modérés ou conservateurs. Le canton comptera 117'759 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    }
+   ]
+  },
+  {
+   "id": "vaud",
+   "nom": "Canton de Vaud",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de juin 1831, suffrage universel masculin)",
+   "chef_lieu": "Lausanne",
+   "langues": "Français",
+   "religion": "Réformée très majoritaire (96 % de protestants au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": "Conseil d'État libéral de neuf membres",
+   "resume": "Après une révision jugée insuffisante au printemps 1830, la révolution éclate le 18 décembre 1830 et renverse le Conseil d'État de Jules Muret. Une nouvelle Constitution adoptée par le peuple en juin 1831 consacre le suffrage universel masculin et ramène le Conseil d'État à neuf membres. Le régime libéral soigne l'instruction publique, mais se voit bientôt débordé par l'aile la plus avancée du mouvement, qui alimente le jeune courant radical en progression dès 1833-1834. Vaud comptera 199'575 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    }
+   ]
+  },
+  {
+   "id": "valais",
+   "nom": "Canton du Valais",
+   "categorie": "canton",
+   "regime": "Démocratie indirecte à caractère fortement fédératif (Constitution du 12 mai 1815, souveraineté de la commune et du dizain)",
+   "chef_lieu": "Sion",
+   "langues": "Français et allemand",
+   "religion": "Catholique quasi exclusive (99 % au recensement fédéral de 1850)",
+   "population": null,
+   "dirigeants": "Conseil d'État de cinq membres et Diète des dizains",
+   "resume": "Le Valais vit sous la Constitution du 12 mai 1815, qui restaure un État fortement fédératif où la souveraineté appartient à la commune et au dizain. La Régénération y échoue au début des années 1830, et le canton prend part aux délibérations de la Ligue de Sarnen sans y adhérer. Dans ces années, à la faveur du projet de révision du Pacte fédéral, les tendances libérale et conservatrice s'affirment et posent les bases de leurs programmes. Le Valais comptera 81'559 habitants en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    },
+    {
+     "titre": "DHS, Concordat des Sept",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017232/"
+    }
+   ]
+  },
+  {
+   "id": "neuchatel",
+   "nom": "Principauté et canton de Neuchâtel",
+   "categorie": "canton",
+   "regime": "Principauté du roi de Prusse et canton suisse, avec un Corps législatif élu au suffrage censitaire depuis 1831",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Réformée majoritaire (92 % de protestants au recensement fédéral de 1850)",
+   "population": {
+    "valeur": 54800,
+    "annee": 1832,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007397/",
+    "note": "chiffre arrondi donné par le DHS"
+   },
+   "dirigeants": "Frédéric-Guillaume III, roi de Prusse et prince de Neuchâtel",
+   "resume": "Depuis 1814, Neuchâtel a un double statut, principauté du roi de Prusse en union personnelle et canton de la Confédération. En 1831, Frédéric-Guillaume III remplace les Audiences générales par un Corps législatif élu au suffrage censitaire, mais les démocrates restent frustrés et deux tentatives républicaines, dont l'insurrection conduite par Alphonse Bourquin, échouent. Méfiante envers une Suisse où les radicaux progressent, la principauté rejoint en 1832 la Ligue de Sarnen et demande sans succès au roi la dissolution du lien confédéral. Le DHS compte 54'800 habitants en 1832.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Sarnen, Ligue de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017233/"
+    },
+    {
+     "titre": "DHS, Régénération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009800/"
+    },
+    {
+     "titre": "DHS, Paris, traités de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017227/"
+    }
+   ]
+  },
+  {
+   "id": "geneve",
+   "nom": "Canton de Genève",
+   "categorie": "canton",
+   "regime": "République représentative (Constitution de 1814, Conseil d'État et Conseil représentatif, suffrage censitaire)",
+   "chef_lieu": "Genève",
+   "langues": "Français",
+   "religion": "Confession mixte, réformés majoritaires (53 %) et forte minorité catholique (46 %) au recensement fédéral de 1850",
+   "population": {
+    "valeur": 58666,
+    "annee": 1836,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007398/",
+    "note": "recensement de 1836 donné dans le tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Genève vit sous la Constitution de 1814, qui confie l'exécutif à un Conseil d'État inclus dans un vaste Conseil représentatif de 250 députés, élu avec un cens élevé. Les réformes, d'abord timides, s'accélèrent dans la première moitié des années 1830 et modernisent l'administration, le culte, l'instruction publique et la justice. Le Genevois Pellegrino Rossi est le rapporteur du projet de révision du Pacte fédéral de décembre 1832, qui porte son nom. Genève compte 58'666 habitants en 1836.",
+   "sources": [
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    },
+    {
+     "titre": "DHS, Pacte Rossi",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009810/"
+    }
+   ]
+  }
+ ],
+ "regles": [
+  {
+   "niveau": "canton",
+   "cle": "ZH",
+   "territoire": "zurich"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BE",
+   "territoire": "berne"
+  },
+  {
+   "niveau": "canton",
+   "cle": "LU",
+   "territoire": "lucerne"
+  },
+  {
+   "niveau": "canton",
+   "cle": "UR",
+   "territoire": "uri"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SZ",
+   "territoire": "schwyz"
+  },
+  {
+   "niveau": "canton",
+   "cle": "OW",
+   "territoire": "obwald"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NW",
+   "territoire": "nidwald"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GL",
+   "territoire": "glaris"
+  },
+  {
+   "niveau": "canton",
+   "cle": "ZG",
+   "territoire": "zoug"
+  },
+  {
+   "niveau": "canton",
+   "cle": "FR",
+   "territoire": "fribourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SO",
+   "territoire": "soleure"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BS",
+   "territoire": "bale-ville"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BL",
+   "territoire": "bale-campagne"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SH",
+   "territoire": "schaffhouse"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AR",
+   "territoire": "appenzell-rhodes-exterieures"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AI",
+   "territoire": "appenzell-rhodes-interieures"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SG",
+   "territoire": "saint-gall"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GR",
+   "territoire": "grisons"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AG",
+   "territoire": "argovie"
+  },
+  {
+   "niveau": "canton",
+   "cle": "TG",
+   "territoire": "thurgovie"
+  },
+  {
+   "niveau": "canton",
+   "cle": "TI",
+   "territoire": "tessin"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VD",
+   "territoire": "vaud"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VS",
+   "territoire": "valais"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NE",
+   "territoire": "neuchatel"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GE",
+   "territoire": "geneve"
+  },
+  {
+   "niveau": "district",
+   "cle": 10096,
+   "territoire": "schwytz-exterieur",
+   "commentaire": "BEZHISTID, Bezirk March (la Marche)"
+  },
+  {
+   "niveau": "district",
+   "cle": 10060,
+   "territoire": "schwytz-exterieur",
+   "commentaire": "BEZHISTID, Bezirk Einsiedeln"
+  },
+  {
+   "niveau": "district",
+   "cle": 10140,
+   "territoire": "schwytz-exterieur",
+   "commentaire": "BEZHISTID, Bezirk Küssnacht"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11961,
+   "territoire": "schwytz-exterieur",
+   "commentaire": "GDEHISTID, Freienbach (ancien district de Pfäffikon)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12007,
+   "territoire": "schwytz-exterieur",
+   "commentaire": "GDEHISTID, Feusisberg (rattaché au Vorderer Hof de Pfäffikon, cas douteux)"
+  }
+ ],
+ "hors_carte": [],
+ "approximations": [
+  "La carte représente l'été 1833. Schwytz-Extérieur, reconnu par la Diète au printemps 1833, disparaît avec la Constitution acceptée par la landsgemeinde du 13 octobre 1833; à la fin de l'année, le canton de Schwytz est de nouveau uni comme en 1850.",
+  "Schwytz-Extérieur est représenté par les districts de 1850 de la Marche, d'Einsiedeln et de Küssnacht et par la commune de Freienbach (ancien district de Pfäffikon), selon le DHS. Wollerau, resté fidèle à l'Ancien Pays, reste à Schwytz.",
+  "Feusisberg est attribué à Schwytz-Extérieur parce que le DHS le range dans le Vorderer Hof de Pfäffikon, mais le DHS précise que les communes de 1848 ne correspondaient pas entièrement aux anciens districts de Pfäffikon et de Wollerau (Schindellegi, dans la commune de Feusisberg, relevait du Hinterer Hof).",
+  "Le DHS ne dit pas explicitement de quel côté se trouvaient Gersau et Reichenburg (rattaché définitivement à Schwytz en 1831 et compris dans le district de la Marche en 1850). Gersau est laissé à l'Ancien Pays et Reichenburg suit la Marche.",
+  "Le chef-lieu de Schwytz-Extérieur n'est pas indiqué par les articles du DHS consultés, qui mentionnent seulement la création de son Conseil à Einsiedeln; le champ est laissé vide.",
+  "Après l'arrêté du 26 août 1833, Bâle-Ville comprend la ville, Riehen, Bettingen et Petit-Huningue, ce qui correspond au demi-canton du fond de 1850. Entre mars 1832 et août 1833, plusieurs communes de la campagne restées fidèles à la ville (hautes vallées de l'Ergolz et de Reigoldswil) ne sont pas représentées.",
+  "Les autres frontières cantonales sont celles du fond de 1850; aucun changement entre 1833 et 1850 n'a été relevé dans les articles du DHS consultés.",
+  "Populations, seuls les recensements cantonaux cités par le DHS entre 1832 et 1837 sont retenus (Lucerne, Nidwald, Fribourg, Bâle-Campagne, Appenzell Rhodes-Extérieures, Argovie, Neuchâtel, Genève). Pour les autres, le champ est vide et le chiffre fédéral de 1850 est cité dans le résumé. Le chiffre de 38'351 habitants donné pour Schwytz en 1833 concerne le canton entier et n'a pas été réparti entre les deux parties.",
+  "Les religions sont décrites d'après le recensement fédéral de 1850, le DHS ne donnant pas de répartition confessionnelle pour 1833."
+ ],
+ "confiance": "Sont sûrs la chronologie de la Régénération, du concordat des Sept, de la Ligue de Sarnen, du Pacte Rossi et du partage de Bâle, ainsi que la composition de Bâle-Ville après le 26 août 1833. Sont moins sûrs le découpage exact de Schwytz-Extérieur à l'échelle des communes de 1850 (Feusisberg, Gersau, Reichenburg) et les étiquettes résumant les régimes cantonaux, construites à partir des articles du DHS."
+}

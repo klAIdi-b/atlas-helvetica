@@ -1,0 +1,997 @@
+{
+ "date": 1979,
+ "titre": "Création du canton du Jura",
+ "recit": "Attribué au canton de Berne par le congrès de Vienne en 1815, l'ancien évêché de Bâle forme le Jura bernois, où la question jurassienne se développe à partir de 1947. En 1970, un amendement à la Constitution bernoise accorde aux communes du Jura bernois et du Laufonnais le droit de disposer d'elles-mêmes. Le 23 juin 1974, le peuple des sept districts accepte de justesse la création d'un nouveau canton, puis une série de plébiscites en cascade, en 1975, en fixe les limites au nord catholique et francophone. Le 24 septembre 1978, le peuple suisse et tous les cantons approuvent la création du canton du Jura, qui entre en souveraineté le 1er janvier 1979. La carte montre les vingt-six cantons et demi-cantons de 1979, sur le fond communal de 1850. Le Jura réunit les districts de Delémont, Porrentruy et Franches-Montagnes et huit communes du district de Moutier, tandis que le Jura-Sud et le Laufonnais, désormais enclavé, restent bernois.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Jura (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007399/"
+  },
+  {
+   "titre": "DHS, Jura bernois",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008577/"
+  },
+  {
+   "titre": "DHS, Moutier (district)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008507/"
+  },
+  {
+   "titre": "DHS, Laufon (district)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008482/"
+  }
+ ],
+ "evenements": [
+  {
+   "annee": 1974,
+   "date_precise": "23 juin 1974",
+   "type": "autre",
+   "titre": "Premier plébiscite jurassien",
+   "lieu": "Sept districts du Jura bernois",
+   "texte": "Avec une participation de 90 %, le peuple des sept districts jurassiens accepte la création d'un canton du Jura par 36'802 oui contre 34'057 non. Ce vote d'autodétermination, rendu possible par l'additif constitutionnel bernois de 1970, est considéré comme l'acte fondateur de l'État jurassien. Le district de Moutier vote majoritairement non.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Jura (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007399/"
+    },
+    {
+     "titre": "DHS, Moutier (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008507/"
+    },
+    {
+     "titre": "DHS, Laufon (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008482/"
+    }
+   ]
+  },
+  {
+   "annee": 1975,
+   "date_precise": "16 mars, 7 et 14 septembre 1975",
+   "type": "autre",
+   "titre": "Plébiscites en cascade",
+   "lieu": "Districts et communes du Jura bernois",
+   "texte": "Le 16 mars 1975, les districts du sud décident de rester bernois. Lors des sous-plébiscites de septembre, huit communes catholiques du district de Moutier choisissent de rejoindre le futur canton, tandis que Roggenburg et Rebévelier le quittent. Vellerat, favorable au Jura mais sans frontière commune avec lui, est exclu du vote et reste bernois jusqu'en 1996.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Jura (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007399/"
+    },
+    {
+     "titre": "DHS, Moutier (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008507/"
+    },
+    {
+     "titre": "DHS, Delémont (bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007610/"
+    },
+    {
+     "titre": "DHS, Vellerat",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000427/"
+    }
+   ]
+  },
+  {
+   "annee": 1977,
+   "date_precise": "20 mars 1977",
+   "type": "institution",
+   "titre": "Constitution jurassienne",
+   "lieu": "Delémont",
+   "texte": "Élue le 21 mars 1976, l'Assemblée constituante de 50 membres achève ses travaux le 3 février 1977. La charte fondamentale de la République et Canton du Jura est ratifiée par 80 % des votants le 20 mars 1977, puis garantie par les Chambres fédérales en septembre 1977, à l'exception de son article 138 sur la réunion du Jura resté bernois.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Jura (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007399/"
+    }
+   ]
+  },
+  {
+   "annee": 1978,
+   "date_precise": "24 septembre 1978",
+   "type": "institution",
+   "titre": "Votation fédérale sur le canton du Jura",
+   "lieu": "Suisse",
+   "texte": "Le peuple suisse, par 82 % de oui, et tous les cantons acceptent de modifier la Constitution fédérale pour créer le canton du Jura. En novembre, les Jurassiens adoptent leurs premières lois et élisent leur Parlement et leur Gouvernement.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Jura (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007399/"
+    }
+   ]
+  },
+  {
+   "annee": 1979,
+   "date_precise": "1er janvier 1979",
+   "type": "institution",
+   "titre": "Entrée en souveraineté du canton du Jura",
+   "lieu": "Delémont",
+   "texte": "La Constituante ayant remis ses pouvoirs aux nouvelles autorités le 6 décembre 1978, la République et Canton du Jura entre en souveraineté le 1er janvier 1979 comme 26e canton suisse. Une centaine d'accords passés avec Berne assurent la continuité administrative.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Jura (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007399/"
+    }
+   ]
+  }
+ ],
+ "territoires": [
+  {
+   "id": "zurich",
+   "nom": "Canton de Zurich",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1869, avec référendum, initiative législative et initiative individuelle)",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Confession mixte, réformés majoritaires (56 %) et catholiques (35 %) en 1980",
+   "population": {
+    "valeur": 1122839,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007381/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Canton le plus peuplé de Suisse depuis le milieu des années 1950, Zurich vit sous la Constitution de 1869, issue de la victoire des démocrates, qui a introduit le référendum législatif obligatoire et l'initiative individuelle. Après l'avoir refusé quatre fois, il accepte le suffrage féminin en 1970. L'éventail des partis se transforme et, entre 1974 et 1992, près d'un tiers des projets officiels échouent devant le peuple, surtout en matière de transports et d'environnement. Le parti des Verts y est fondé en 1978.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    }
+   ]
+  },
+  {
+   "id": "berne",
+   "nom": "Canton de Berne",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1893)",
+   "chef_lieu": "Berne",
+   "langues": "Allemand, français (Jura bernois)",
+   "religion": "Réformée majoritaire (78 % de protestants en 1980), minorités catholiques",
+   "population": {
+    "valeur": 912022,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/download/Articles/007383/2026-02-04/med007383-008/DHS%20-%20Population%20du%20canton%20de%20Berne.xlsx",
+    "note": "recensement fédéral de 1980, territoire de 1979 (Laufonnais compris, sans le canton du Jura), d'après le fichier de données du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Le 1er janvier 1979, la partie nord du Jura bernois se sépare de Berne pour former le canton du Jura, au terme de longues disputes. Berne garde les trois districts francophones du sud, qui ont choisi en 1975 de rester bernois, ainsi que le Laufonnais germanophone, désormais isolé du reste du canton et qui ne passera à Bâle-Campagne qu'en 1994. Le canton vit sous la Constitution de 1893 et a introduit le suffrage féminin en matière communale en 1968. Il compte 912'022 habitants en 1980, contre 983'296 en 1970 dans ses frontières d'avant la séparation.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Jura bernois",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008577/"
+    },
+    {
+     "titre": "DHS, Laufon (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008482/"
+    }
+   ]
+  },
+  {
+   "id": "lucerne",
+   "nom": "Canton de Lucerne",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1875, plusieurs fois révisée)",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique majoritaire (82 % en 1980), minorité réformée (13 %)",
+   "population": {
+    "valeur": 296159,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007382/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Lucerne vit sous la Constitution cantonale de 1875, révisée partiellement à de nombreuses reprises, notamment pour l'élection du gouvernement par le peuple et le scrutin proportionnel. Le parti conservateur populaire devient démocrate-chrétien en 1970. Le canton accepte le suffrage féminin en 1970 au niveau cantonal, et Josi Meier devient en 1971 la première conseillère nationale de l'histoire suisse. La croissance de la ville ralentit après 1970 au profit de l'agglomération et des régions voisines.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    }
+   ]
+  },
+  {
+   "id": "uri",
+   "nom": "Canton d'Uri",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (landsgemeinde supprimée en 1928)",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand",
+   "religion": "Catholique très majoritaire (91 % en 1980)",
+   "population": {
+    "valeur": 33883,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007384/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": "Conseil d'État de sept membres à majorité démocrate-chrétienne",
+   "resume": "Uri a supprimé sa landsgemeinde en 1928. Le parti démocrate-chrétien domine le Grand Conseil et le Conseil d'État, où il détient quatre sièges sur sept en 1980. Le suffrage féminin est introduit en 1972. Le canton compte 33'883 habitants en 1980, un peu moins qu'en 1970.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Landsgemeinde",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010239/"
+    }
+   ]
+  },
+  {
+   "id": "schwyz",
+   "nom": "Canton de Schwytz",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (landsgemeinde supprimée en 1848)",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique très majoritaire (87 % en 1980)",
+   "population": {
+    "valeur": 97354,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007385/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Le parti démocrate-chrétien, qui réunit depuis 1971 conservateurs populaires et chrétiens-sociaux, détient la majorité au Grand Conseil et au Conseil d'État. En réaction, une section du parti des paysans, artisans et bourgeois apparaît en 1972 et rejoint l'Union démocratique du centre en 1975. À partir des années 1970, l'évolution des valeurs rapproche les Schwytzois des autres Suisses. Le canton compte 97'354 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Landsgemeinde",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010239/"
+    }
+   ]
+  },
+  {
+   "id": "obwald",
+   "nom": "Obwald (Unterwald-le-Haut)",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe avec landsgemeinde, demi-canton (Constitution de 1968)",
+   "chef_lieu": "Sarnen",
+   "langues": "Allemand",
+   "religion": "Catholique très majoritaire (92 % en 1980)",
+   "population": {
+    "valeur": 25865,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007410/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "Obwald a révisé totalement sa Constitution en 1968 et conserve sa landsgemeinde, malgré les refus de suppression de 1966 et 1973. Le suffrage féminin y est introduit en 1972. En 1980, le canton rachète la centrale du lac de Lungern pour la gérer lui-même. Le demi-canton compte 25'865 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Obwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007410/"
+    },
+    {
+     "titre": "DHS, Landsgemeinde",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010239/"
+    }
+   ]
+  },
+  {
+   "id": "nidwald",
+   "nom": "Nidwald (Unterwald-le-Bas)",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe avec landsgemeinde, demi-canton (Constitution de 1965)",
+   "chef_lieu": "Stans",
+   "langues": "Allemand",
+   "religion": "Catholique majoritaire (86 % en 1980)",
+   "population": {
+    "valeur": 28617,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007411/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "La Constitution de 1965 a entraîné une refonte presque complète de la législation, achevée à la fin des années 1970, et favorisé l'avènement d'une société de services. Le suffrage féminin est introduit sans grande opposition en 1972, et le parti démocrate-chrétien naît en 1970 de la fusion des chrétiens-sociaux et des conservateurs populaires. La landsgemeinde subsistera jusqu'en 1996. Le demi-canton compte 28'617 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, Landsgemeinde",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010239/"
+    }
+   ]
+  },
+  {
+   "id": "glaris",
+   "nom": "Canton de Glaris",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe avec landsgemeinde (Constitution de 1887)",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Confession mixte, réformés majoritaires (52 %) et catholiques (43 %) en 1980",
+   "population": {
+    "valeur": 36718,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007374/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "Glaris vit sous la Constitution de 1887, qui établit un régime solide dont les grandes lignes perdurent. La landsgemeinde reste l'organe suprême du canton, mais l'élection des conseillers d'État et aux États se fait au scrutin secret depuis 1971. Le canton compte 36'718 habitants en 1980, moins qu'en 1970.",
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    },
+    {
+     "titre": "DHS, Landsgemeinde",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010239/"
+    }
+   ]
+  },
+  {
+   "id": "zoug",
+   "nom": "Canton de Zoug",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution du 31 janvier 1894)",
+   "chef_lieu": "Zoug",
+   "langues": "Allemand",
+   "religion": "Catholique majoritaire (75 % en 1980), minorité réformée (19 %)",
+   "population": {
+    "valeur": 75930,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007373/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Zoug vit toujours sous la Constitution du 31 janvier 1894, complétée en 1976 par l'introduction d'un tribunal administratif. Après un refus à 76 % en 1959, le suffrage féminin est accepté en 1971 par 59 % de oui. Le canton connaît une forte croissance, passant de 67'996 habitants en 1970 à 75'930 en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    }
+   ]
+  },
+  {
+   "id": "fribourg",
+   "nom": "Canton de Fribourg",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1857, révisée dans les années 1970)",
+   "chef_lieu": "Fribourg",
+   "langues": "Français et allemand (61 % de francophones en 1980)",
+   "religion": "Catholique très majoritaire (83 % en 1980)",
+   "population": {
+    "valeur": 185246,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007379/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "En 1966, la plupart des chrétiens-sociaux quittent le parti conservateur, qui perd la majorité au Grand Conseil qu'il détenait depuis 1857. La Constitution de 1857 est révisée pour élargir les droits politiques, avec le suffrage féminin en 1971, l'élection des conseillers aux États et des préfets par le peuple et le référendum financier obligatoire en 1972. En 1971, le corps électoral remplace les radicaux par les socialistes au Conseil d'État, puis fait l'inverse en 1976. Le canton compte 185'246 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    }
+   ]
+  },
+  {
+   "id": "soleure",
+   "nom": "Canton de Soleure",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1887)",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Confession mixte, catholiques majoritaires (55 %) et réformés (37 %) en 1980",
+   "population": {
+    "valeur": 218102,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007386/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Soleure vit sous la Constitution de 1887, qui a fixé l'organisation des départements gardée pour l'essentiel jusqu'au XXIe siècle. Les libéraux, puis radicaux, y ont régné seuls de 1831 à 1887 et gardé la prépondérance jusqu'en 1952. Le suffrage féminin obligatoire en matière communale et cantonale est encore refusé en 1968, mais accepté dans les villes. Le canton compte 218'102 habitants en 1980, un peu moins qu'en 1970.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    }
+   ]
+  },
+  {
+   "id": "bale-ville",
+   "nom": "Bâle-Ville",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe, demi-canton (Constitution du 9 mai 1875)",
+   "chef_lieu": "Bâle",
+   "langues": "Allemand",
+   "religion": "Confession mixte, réformés (33 %), catholiques (25 %) et forte part d'autres confessions ou sans confession (41 %) en 1990",
+   "population": {
+    "valeur": 199411,
+    "annee": 1990,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007478/",
+    "note": "recensement fédéral de 1990, le DHS ne donnant pas le chiffre de 1980 pour ce demi-canton"
+   },
+   "dirigeants": null,
+   "resume": "Bâle-Ville vit sous la Constitution du 9 mai 1875, dont les principes sont toujours en vigueur et qui a été complétée par la séparation de l'Église et de l'État en 1910 et un article sur la réunification en 1938. Le suffrage féminin y est introduit dès 1966 aux plans cantonal et communal. Depuis 1969-1970, la ville perd des habitants, jusqu'à 1,5 % par an dans les années 1970. Bâle-Campagne participe depuis 1976 au financement de son université.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle-Ville",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007478/"
+    }
+   ]
+  },
+  {
+   "id": "bale-campagne",
+   "nom": "Bâle-Campagne",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe, demi-canton (Constitution de 1892, en révision depuis 1978)",
+   "chef_lieu": "Liestal",
+   "langues": "Allemand",
+   "religion": "Confession mixte (proportions de 1980 non données par le DHS)",
+   "population": {
+    "valeur": 219822,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007477/",
+    "note": "tableau démographique du DHS (population au début de la période 1980-1990)"
+   },
+   "dirigeants": null,
+   "resume": "Devancé seulement par Genève, Vaud, Neuchâtel et Bâle-Ville, Bâle-Campagne a inscrit le suffrage féminin dans sa Constitution en 1967. La cinquième Constitution, de 1892, est mise en révision en 1978 et sera remplacée en 1987. Depuis 1975, l'opposition à la centrale nucléaire de Kaiseraugst mobilise la population, et une initiative adoptée en 1978 oblige les autorités à refuser toute centrale atomique dans la région. La création du canton du Jura isole le Laufonnais bernois, qui choisira plus tard de rejoindre Bâle-Campagne.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle-Campagne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007477/"
+    },
+    {
+     "titre": "DHS, Laufon (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008482/"
+    }
+   ]
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Canton de Schaffhouse",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (62 % en 1980), minorité catholique (28 %)",
+   "population": {
+    "valeur": 69413,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007388/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Trois grands partis se partagent depuis 1920 l'essentiel des sièges du Grand Conseil. L'introduction du suffrage féminin en 1971 double le corps électoral, qui passe de 18'875 à 40'702 personnes, sans modifier les rapports de force. Le canton compte 69'413 habitants en 1980, moins qu'en 1970.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    }
+   ]
+  },
+  {
+   "id": "appenzell-rhodes-exterieures",
+   "nom": "Appenzell Rhodes-Extérieures",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe avec landsgemeinde, demi-canton",
+   "chef_lieu": "Hérisau (siège du gouvernement et du Grand Conseil), Trogen (siège de la cour suprême)",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (59 % en 1990), minorité catholique (31 %)",
+   "population": {
+    "valeur": 52229,
+    "annee": 1990,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007476/",
+    "note": "recensement fédéral de 1990, le DHS ne donnant pas le chiffre de 1980 pour ce demi-canton"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "La landsgemeinde reste l'organe législatif et électoral du demi-canton. Les femmes n'y votent pas encore, car le suffrage féminin n'est introduit qu'en 1972 sur le plan communal et en 1989 sur le plan cantonal, notamment par crainte que la landsgemeinde n'en fasse les frais. Désigné par la Constitution de 1876 comme siège ordinaire du gouvernement et du Grand Conseil, Hérisau est le chef-lieu de fait.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Extérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007476/"
+    },
+    {
+     "titre": "DHS, Landsgemeinde",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010239/"
+    }
+   ]
+  },
+  {
+   "id": "appenzell-rhodes-interieures",
+   "nom": "Appenzell Rhodes-Intérieures",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe avec landsgemeinde, demi-canton (Constitution de 1872)",
+   "chef_lieu": "Appenzell",
+   "langues": "Allemand",
+   "religion": "Catholique très majoritaire (86 % en 1990)",
+   "population": {
+    "valeur": 13870,
+    "annee": 1990,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007475/",
+    "note": "recensement fédéral de 1990, le DHS ne donnant pas le chiffre de 1980 pour ce demi-canton"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "La landsgemeinde y garde des compétences parmi les plus étendues de Suisse, avec la libre intervention des participants. Le suffrage féminin cantonal est refusé en 1973, puis encore en 1982 et 1990, avant d'être imposé par le Tribunal fédéral en novembre 1990. La population, qui avait diminué depuis 1910, ne recommence à croître que dans les années 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Intérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007475/"
+    },
+    {
+     "titre": "DHS, Landsgemeinde",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010239/"
+    }
+   ]
+  },
+  {
+   "id": "saint-gall",
+   "nom": "Canton de Saint-Gall",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Confession mixte, catholiques majoritaires (61 %) et réformés (34 %) en 1980",
+   "population": {
+    "valeur": 391995,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007390/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "En prenant le nom de parti démocrate-chrétien en 1970, les conservateurs se présentent comme une force du centre et obtiennent en 1972 la majorité absolue au Grand Conseil, sans la majorité au Conseil d'État. Une initiative adoptée en 1970 entraîne la fusion des écoles confessionnelles et met fin à la polarisation confessionnelle de la politique. Le canton compte 391'995 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    }
+   ]
+  },
+  {
+   "id": "grisons",
+   "nom": "Canton des Grisons",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1892)",
+   "chef_lieu": "Coire",
+   "langues": "Allemand, romanche, italien",
+   "religion": "Confession mixte, catholiques (51 %) et réformés (45 %) en 1980",
+   "population": {
+    "valeur": 164641,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007391/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": "Conseil d'État de cinq membres",
+   "resume": "Les Grisons vivent sous la Constitution de 1892, qui ne subit au XXe siècle aucune révision complète. L'exécutif de cinq membres, appelé Petit Conseil jusqu'en 1971, prend alors le nom de Conseil d'État. Le suffrage féminin est introduit en 1972 au niveau du canton et des cercles. Le canton trilingue compte 164'641 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ]
+  },
+  {
+   "id": "argovie",
+   "nom": "Canton d'Argovie",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1885, en révision totale)",
+   "chef_lieu": "Aarau",
+   "langues": "Allemand",
+   "religion": "Confession mixte (proportions de 1980 non données par le DHS)",
+   "population": {
+    "valeur": 453442,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007392/",
+    "note": "tableau démographique du DHS (population au début de la période 1980-1990)"
+   },
+   "dirigeants": null,
+   "resume": "La révision totale de la Constitution de 1885, lancée avec enthousiasme en 1972, n'aboutit qu'en 1980 et sans bouleversement. En 1979, le peuple refuse un projet qui voulait rendre facultatif le référendum législatif et financier, jusqu'alors obligatoire. Les nouveaux quartiers se multiplient près de Zurich et de Bâle, le long des autoroutes. L'Argovie compte 453'442 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    }
+   ]
+  },
+  {
+   "id": "thurgovie",
+   "nom": "Canton de Thurgovie",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1869)",
+   "chef_lieu": "Frauenfeld",
+   "langues": "Allemand",
+   "religion": "Confession mixte, réformés majoritaires (54 %) et catholiques (41 %) en 1980",
+   "population": {
+    "valeur": 183795,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007393/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "La Thurgovie vit sous la Constitution de 1869, restée en vigueur avec des amendements. L'idée d'une révision totale, lancée en 1970, aboutira à la Constitution de 1987. Le suffrage féminin n'est introduit sur le plan cantonal qu'en 1971. Le canton compte 183'795 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    }
+   ]
+  },
+  {
+   "id": "tessin",
+   "nom": "Canton du Tessin",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1830, formellement révisée en 1967)",
+   "chef_lieu": "Bellinzone",
+   "langues": "Italien",
+   "religion": "Catholique très majoritaire (87 % en 1980)",
+   "population": {
+    "valeur": 265899,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007394/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Le Tessin a introduit le suffrage féminin en 1969, cinquième canton suisse à le faire. La Constitution de 1830 a fait l'objet d'une révision formelle en 1967, et en 1975 l'alinéa qui reconnaissait le catholicisme comme religion cantonale est supprimé. La modernisation économique et sociale ne bouleverse pas les rapports politiques. Le canton compte 265'899 habitants en 1980, dont près d'un quart d'étrangers.",
+   "sources": [
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    }
+   ]
+  },
+  {
+   "id": "vaud",
+   "nom": "Canton de Vaud",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe",
+   "chef_lieu": "Lausanne",
+   "langues": "Français",
+   "religion": "Confession mixte, réformés majoritaires (57 %) et catholiques (36 %) en 1980",
+   "population": {
+    "valeur": 528747,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007395/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": "Conseil d'État selon la «formule magique» vaudoise de 1962 (trois radicaux, deux socialistes, un libéral, un agrarien)",
+   "resume": "Premier canton à adopter le suffrage féminin, en 1959, Vaud est gouverné depuis 1962 selon une «formule magique» réunissant au Conseil d'État trois radicaux, deux socialistes, un libéral et un agrarien. Cette répartition ne sera remise en cause que dans les années 1980. Le canton compte 528'747 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    }
+   ]
+  },
+  {
+   "id": "valais",
+   "nom": "Canton du Valais",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution de 1907)",
+   "chef_lieu": "Sion",
+   "langues": "Français et allemand",
+   "religion": "Catholique très majoritaire (93 % en 1980)",
+   "population": {
+    "valeur": 218707,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007396/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": "Majorité conservatrice démocrate-chrétienne depuis 1857",
+   "resume": "Le Valais vit sous la Constitution de 1907, plusieurs fois révisée, et sous une majorité conservatrice ininterrompue depuis 1857. Le Conseil d'État dirige dix départements à partir de 1977. L'opposition radicale, ancrée dans les districts francophones, trouve à la fin des années 1970 une certaine assise dans le Haut-Valais. Le canton compte 218'707 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    }
+   ]
+  },
+  {
+   "id": "neuchatel",
+   "nom": "République et Canton de Neuchâtel",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution du 21 novembre 1858, plusieurs fois modifiée)",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Confession mixte, réformés majoritaires (54 %) et catholiques (36 %) en 1980",
+   "population": {
+    "valeur": 158368,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007397/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Neuchâtel vit sous la Constitution du 21 novembre 1858, modifiée à de nombreuses reprises, surtout en matière de droits populaires. En 1959, il est le deuxième canton après Vaud à accepter le suffrage féminin sur le plan cantonal. La population recule de 169'173 habitants en 1970 à 158'368 en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    }
+   ]
+  },
+  {
+   "id": "geneve",
+   "nom": "République et canton de Genève",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe",
+   "chef_lieu": "Genève",
+   "langues": "Français",
+   "religion": "Confession mixte, catholiques majoritaires (51 %) et réformés (31 %) en 1980",
+   "population": {
+    "valeur": 349040,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007398/",
+    "note": "recensement fédéral de 1980, tableau démographique du DHS"
+   },
+   "dirigeants": null,
+   "resume": "Après l'introduction du suffrage féminin sur le plan fédéral en 1971, Genève élit avec Lise Girardin la première conseillère aux États de Suisse. Le canton se distingue par une population très internationale, avec près d'un tiers d'étrangers en 1980, et par une majorité catholique (51 %). Genève compte 349'040 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    }
+   ]
+  },
+  {
+   "id": "jura",
+   "nom": "République et Canton du Jura",
+   "categorie": "canton",
+   "regime": "Démocratie semi-directe (Constitution du 20 mars 1977), Parlement de 60 membres et Gouvernement de cinq ministres",
+   "chef_lieu": "Delémont",
+   "langues": "Français (Ederswiler seule commune germanophone)",
+   "religion": "Catholique très majoritaire (75 % de la population en 2000, d'après le DHS)",
+   "population": {
+    "valeur": 64986,
+    "annee": 1980,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007399/",
+    "note": "recensement fédéral de 1980 cité par le DHS"
+   },
+   "dirigeants": "Parlement et Gouvernement élus en novembre 1978",
+   "resume": "La République et Canton du Jura, 26e canton suisse, entre en souveraineté le 1er janvier 1979. Il réunit les trois districts à majorité séparatiste de Porrentruy, Delémont et Franches-Montagnes, augmentés de huit communes du district de Moutier, la partie catholique et francophone de l'ancien Jura bernois. Sa Constitution, ratifiée par 80 % des votants le 20 mars 1977, reconnaît notamment les droits au travail, au logement et de grève,. Le Gouvernement et le Parlement siègent à Delémont. Le canton compte 64'986 habitants en 1980.",
+   "sources": [
+    {
+     "titre": "DHS, Jura (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007399/"
+    },
+    {
+     "titre": "DHS, Delémont (bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007610/"
+    },
+    {
+     "titre": "DHS, Moutier (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008507/"
+    }
+   ]
+  }
+ ],
+ "regles": [
+  {
+   "niveau": "canton",
+   "cle": "ZH",
+   "territoire": "zurich"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BE",
+   "territoire": "berne"
+  },
+  {
+   "niveau": "canton",
+   "cle": "LU",
+   "territoire": "lucerne"
+  },
+  {
+   "niveau": "canton",
+   "cle": "UR",
+   "territoire": "uri"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SZ",
+   "territoire": "schwyz"
+  },
+  {
+   "niveau": "canton",
+   "cle": "OW",
+   "territoire": "obwald"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NW",
+   "territoire": "nidwald"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GL",
+   "territoire": "glaris"
+  },
+  {
+   "niveau": "canton",
+   "cle": "ZG",
+   "territoire": "zoug"
+  },
+  {
+   "niveau": "canton",
+   "cle": "FR",
+   "territoire": "fribourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SO",
+   "territoire": "soleure"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BS",
+   "territoire": "bale-ville"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BL",
+   "territoire": "bale-campagne"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SH",
+   "territoire": "schaffhouse"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AR",
+   "territoire": "appenzell-rhodes-exterieures"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AI",
+   "territoire": "appenzell-rhodes-interieures"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SG",
+   "territoire": "saint-gall"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GR",
+   "territoire": "grisons"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AG",
+   "territoire": "argovie"
+  },
+  {
+   "niveau": "canton",
+   "cle": "TG",
+   "territoire": "thurgovie"
+  },
+  {
+   "niveau": "canton",
+   "cle": "TI",
+   "territoire": "tessin"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VD",
+   "territoire": "vaud"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VS",
+   "territoire": "valais"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NE",
+   "territoire": "neuchatel"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GE",
+   "territoire": "geneve"
+  },
+  {
+   "niveau": "district",
+   "cle": 10145,
+   "territoire": "jura",
+   "commentaire": "BEZHISTID, District de Delémont"
+  },
+  {
+   "niveau": "district",
+   "cle": 10147,
+   "territoire": "jura",
+   "commentaire": "BEZHISTID, District de Porrentruy"
+  },
+  {
+   "niveau": "district",
+   "cle": 10159,
+   "territoire": "jura",
+   "commentaire": "BEZHISTID, District des Franches-Montagnes"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11246,
+   "territoire": "berne",
+   "commentaire": "GDEHISTID, Roggenburg (district de Delémont, rattaché au Laufonnais bernois en 1976)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11247,
+   "territoire": "berne",
+   "commentaire": "GDEHISTID, Rebévelier (district de Delémont, rattaché au district bernois de Moutier)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10985,
+   "territoire": "jura",
+   "commentaire": "GDEHISTID, Châtillon (district de Moutier, rattaché à Delémont en 1975)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10986,
+   "territoire": "jura",
+   "commentaire": "GDEHISTID, Corban (district de Moutier, rattaché à Delémont en 1975)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10987,
+   "territoire": "jura",
+   "commentaire": "GDEHISTID, Courchapoix (district de Moutier, rattaché à Delémont en 1975)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10989,
+   "territoire": "jura",
+   "commentaire": "GDEHISTID, Courrendlin (district de Moutier, rattaché à Delémont en 1975)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10996,
+   "territoire": "jura",
+   "commentaire": "GDEHISTID, Mervelier (district de Moutier, rattaché à Delémont en 1975)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11002,
+   "territoire": "jura",
+   "commentaire": "GDEHISTID, Rossemaison (district de Moutier, rattaché à Delémont en 1975)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10977,
+   "territoire": "jura",
+   "commentaire": "GDEHISTID, Lajoux (district de Moutier, rattaché aux Franches-Montagnes en 1975)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10960,
+   "territoire": "jura",
+   "commentaire": "GDEHISTID, Les Genevez (district de Moutier, rattaché aux Franches-Montagnes en 1975)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10610,
+   "territoire": "berne",
+   "commentaire": "GDEHISTID, Vellerat (resté bernois contre sa volonté jusqu'en 1996)"
+  }
+ ],
+ "hors_carte": [],
+ "approximations": [
+  "Le fond est celui des communes de 1850. Le Jura reçoit les districts de 1850 de Delémont, Porrentruy et Franches-Montagnes, sans Roggenburg ni Rebévelier, et les huit communes du district de Moutier rattachées en 1975 (Châtillon, Corban, Courchapoix, Courrendlin, Lajoux, Les Genevez, Mervelier, Rossemaison), conformément au DHS.",
+  "Ederswiler, seule commune germanophone, reste au Jura bien qu'elle ait voté non en 1974, faute de frontière commune avec le Laufonnais. Vellerat reste bernois en 1979 (rattaché au Jura en 1996) et Moutier aussi (vote de 2021, effet en 2026).",
+  "Les limites des communes de 1850 ne coïncident pas forcément avec celles de 1979 (fusions et rectifications); le tracé de la frontière Berne-Jura est donc approximatif à l'échelle locale.",
+  "Le Laufonnais reste bernois jusqu'au 1er janvier 1994 et apparaît comme une enclave bernoise entre le Jura, Soleure et Bâle-Campagne. Roggenburg, rattaché au Laufonnais en 1976, est attribué à Berne.",
+  "Les autres frontières cantonales sont celles du fond de 1850. Les petites rectifications intervenues entre 1850 et 1979 n'ont pas été recherchées systématiquement et ne sont pas représentées.",
+  "Populations du recensement de 1980 tirées des tableaux du DHS. Pour Berne, le chiffre vient du fichier de données du DHS (territoire de 1979, Laufonnais compris). Pour l'Argovie et Bâle-Campagne, il s'agit de la population au début de la période 1980-1990 du tableau du DHS. Pour Bâle-Ville et les deux Appenzell, le DHS ne donne pas 1980, d'où le recensement de 1990.",
+  "Religions d'après les pourcentages de 1980 des tableaux du DHS; pour Bâle-Ville et les Appenzell, pourcentages calculés à partir des effectifs de 1990; pour le Jura, chiffre de 2000; pour l'Argovie et Bâle-Campagne, le DHS ne donne pas de répartition proche de 1979.",
+  "Langues, sauf mention, langues officielles selon le DHS.",
+  "Le régime est résumé par «démocratie semi-directe» pour tous les cantons; les constitutions citées sont celles que le DHS indique en vigueur à l'époque. La landsgemeinde existe encore en 1979 à Obwald, Nidwald, Glaris et dans les deux Appenzell."
+ ],
+ "confiance": "Sont sûrs le territoire du Jura en 1979 (communes précisées par le DHS), la chronologie des plébiscites, de la Constitution jurassienne et de la votation fédérale, ainsi que les populations de 1980 pour la plupart des cantons. Sont moins sûrs le tracé local de la frontière Berne-Jura sur le fond de 1850, l'absence de représentation des petites rectifications de frontières cantonales intervenues entre 1850 et 1979, et l'étiquette générique des régimes."
+}

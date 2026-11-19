@@ -1,0 +1,1939 @@
+{
+ "date": 1797,
+ "titre": "La Confédération à la veille de sa chute",
+ "recit": "À l'automne 1797, entre la perte de la Valteline le 10 octobre et l'occupation française du sud de l'évêché de Bâle le 15 décembre, l'Ancienne Confédération vit ses derniers mois. Ce Corps helvétique n'est pas un État mais un réseau d'alliances entre treize cantons souverains, dont Unterwald et Appenzell divisés en demi-cantons, et des pays alliés aux statuts très divers, de la principauté abbatiale de Saint-Gall aux républiques du Valais et des III Ligues, en passant par Bienne, Genève, Mulhouse et Neuchâtel, principauté du roi de Prusse depuis 1707. Les cantons-villes dominent de vastes pays sujets, comme le Pays de Vaud bernois, fondu ici dans la couleur de Berne, tandis que de nombreux bailliages communs sont gouvernés à plusieurs, du comté de Baden aux bailliages tessinois. La paix d'Aarau de 1712 a donné l'avantage aux cantons protestants, qui gouvernent seuls Baden et les Freie Ämter inférieurs et sont entrés dans les autres bailliages communs. Autour de la Confédération, la France révolutionnaire tient depuis 1793 le nord de l'évêché de Bâle et la Savoie, et la République cisalpine vient d'annexer les pays sujets des Grisons. L'Autriche garde encore le Fricktal, Tarasp et Rhäzüns. Quelques semaines plus tard, la dernière Diète, réunie du 26 décembre 1797 au 31 janvier 1798, se montrera incapable de réformer la vieille Confédération avant l'invasion française.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Révolution française",
+   "url": "https://hls-dhs-dss.ch/fr/articles/017216/"
+  },
+  {
+   "titre": "DHS, Pays alliés",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+  },
+  {
+   "titre": "DHS, Bailliages communs",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+  },
+  {
+   "titre": "DHS, Corps helvétique",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009824/"
+  },
+  {
+   "titre": "DHS, Villmergen, seconde guerre de",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+  },
+  {
+   "titre": "DHS, Valteline",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007135/"
+  },
+  {
+   "titre": "DHS, Mont-Terrible",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008642/"
+  }
+ ],
+ "evenements": [
+  {
+   "annee": 1653,
+   "date_precise": "février à juin 1653",
+   "type": "revolution",
+   "titre": "Guerre des Paysans",
+   "lieu": "Entlebuch, Emmental, campagnes soleuroises et bâloises",
+   "texte": "Une dévaluation monétaire décidée par Berne, Soleure et Fribourg déclenche la révolte des sujets ruraux de Lucerne, Berne, Soleure et Bâle, qui fondent à Huttwil une ligue des paysans. Après des sièges de Lucerne et de Berne, les insurgés négocient, puis sont durement réprimés, leurs chefs exécutés ou bannis.",
+   "camps": "Sujets ruraux de Lucerne, Berne, Soleure et Bâle contre les gouvernements urbains et la Diète",
+   "issue": "Défaite des paysans et répression",
+   "sources": [
+    {
+     "titre": "DHS, Paysans, guerre des (1653)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008909/"
+    }
+   ]
+  },
+  {
+   "annee": 1656,
+   "date_precise": "24 janvier 1656",
+   "type": "bataille",
+   "titre": "Première guerre de Villmergen",
+   "lieu": "Villmergen (Freie Ämter)",
+   "texte": "Zurich et Berne déclarent la guerre aux cantons catholiques pour modifier l'ordre issu de 1531. Les Lucernois et les Zougois surprennent l'armée bernoise près de Villmergen, et la troisième paix nationale, conclue à Baden le 7 mars 1656, rétablit le statu quo.",
+   "camps": "Zurich et Berne contre Lucerne, Uri, Schwytz, Unterwald et Zoug",
+   "issue": "Victoire des cantons catholiques",
+   "sources": [
+    {
+     "titre": "DHS, Villmergen, première guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008910/"
+    }
+   ]
+  },
+  {
+   "annee": 1707,
+   "date_precise": "3 novembre 1707",
+   "type": "institution",
+   "titre": "Neuchâtel passe au roi de Prusse",
+   "lieu": "Neuchâtel",
+   "texte": "À la mort de Marie de Nemours, le tribunal des Trois-États choisit le roi de Prusse Frédéric Ier comme prince de Neuchâtel, écartant les prétendants français. La principauté reste prussienne jusqu'en 1848, sauf entre 1806 et 1814.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Prusse",
+     "url": "https://hls-dhs-dss.ch/fr/articles/006637/"
+    }
+   ]
+  },
+  {
+   "annee": 1712,
+   "date_precise": "25 juillet et 11 août 1712",
+   "type": "traite",
+   "titre": "Seconde guerre de Villmergen et paix d'Aarau",
+   "lieu": "Villmergen et Aarau",
+   "texte": "Née du conflit entre le Toggenbourg et le prince-abbé de Saint-Gall, la guerre se décide le 25 juillet près de Villmergen, où les Bernois battent les troupes de Suisse centrale. La paix d'Aarau du 11 août donne Baden et les Freie Ämter inférieurs à Zurich, Berne et Glaris, fait entrer Berne dans le gouvernement des autres bailliages communs et instaure la parité confessionnelle.",
+   "camps": "Zurich et Berne contre Lucerne, Uri, Schwytz, Unterwald et Zoug",
+   "issue": "Victoire des cantons protestants",
+   "sources": [
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    },
+    {
+     "titre": "DHS, Paix nationales",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009807/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "annee": 1793,
+   "date_precise": "23 mars 1793",
+   "type": "conquete",
+   "titre": "Le nord de l'évêché de Bâle devient français",
+   "lieu": "Porrentruy",
+   "texte": "Occupé par les troupes françaises dès avril 1792, le nord de l'évêché devient la République rauracienne en décembre 1792, puis est réuni à la France le 23 mars 1793 sous le nom de département du Mont-Terrible. Les bailliages du sud, réputés helvétiques, restent épargnés jusqu'en décembre 1797.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, République rauracienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007625/"
+    },
+    {
+     "titre": "DHS, Mont-Terrible",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008642/"
+    },
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    }
+   ]
+  },
+  {
+   "annee": 1797,
+   "date_precise": "10 octobre 1797",
+   "type": "conquete",
+   "titre": "Perte de la Valteline",
+   "lieu": "Valteline, Chiavenna et Bormio",
+   "texte": "Après avoir chassé le gouverneur grison en juin 1797, les Valtelinois obtiennent de Bonaparte la réunion de leur pays, ainsi que de Chiavenna et Bormio, à la République cisalpine. Les III Ligues perdent ainsi des pays sujets qu'elles tenaient depuis 1512.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Valteline",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007135/"
+    },
+    {
+     "titre": "DHS, République cisalpine",
+     "url": "https://hls-dhs-dss.ch/fr/articles/006621/"
+    },
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ]
+  }
+ ],
+ "hors_carte": [
+  {
+   "nom": "Valteline, Chiavenna et Bormio",
+   "rattachement": "republique-cisalpine",
+   "note": "Pays sujets des III Ligues de 1512 à 1797, réunis à la République cisalpine le 10 octobre 1797, hors du fond de 1850."
+  },
+  {
+   "nom": "République cisalpine (Lombardie et Émilie)",
+   "rattachement": "republique-cisalpine",
+   "note": "État voisin, hors du fond de 1850."
+  },
+  {
+   "nom": "Mulhouse",
+   "rattachement": "mulhouse",
+   "note": "Pays allié depuis 1515, enclave en Alsace, réunie à la France en 1798, hors du fond de 1850."
+  },
+  {
+   "nom": "Nord de l'évêché de Bâle hors de Suisse et pays de Montbéliard",
+   "rattachement": "france",
+   "note": "Partie du département du Mont-Terrible située hors du fond de 1850 (Montbéliard rattaché en 1797)."
+  },
+  {
+   "nom": "Pays de Gex, Savoie et Alsace",
+   "rattachement": "france",
+   "note": "Territoires français entourant la Confédération; les communes genevoises réunies en 1815-1816 sont figurées."
+  },
+  {
+   "nom": "Seigneurie de Schliengen",
+   "rattachement": "eveche-bale",
+   "note": "Seule seigneurie septentrionale restée à l'évêque après 1793, sur la rive droite du Rhin, hors du fond de 1850."
+  },
+  {
+   "nom": "Paroisses de Kadelburg, Lienheim et Hohentengen",
+   "rattachement": "bailliage-baden",
+   "note": "Dépendances du comté de Baden sur la rive droite du Rhin, hors du fond de 1850."
+  },
+  {
+   "nom": "Possessions de l'abbaye de Saint-Gall en Brisgau et en Souabe",
+   "rattachement": "abbaye-saint-gall",
+   "note": "Ebringen, Norsingen et Neuravensburg, hors du fond de 1850."
+  },
+  {
+   "nom": "Autriche antérieure (Brisgau, Forêt-Noire) et Tyrol",
+   "rattachement": "fricktal",
+   "note": "Possessions habsbourgeoises voisines, hors du fond de 1850."
+  }
+ ],
+ "approximations": [
+  "La carte figure l'automne 1797, après le 10 octobre (Valteline cisalpine) et avant le 15 décembre (occupation du sud de l'évêché de Bâle par la France).",
+  "Les territoires sujets d'un seul canton sont fondus dans ce canton, à savoir Pays de Vaud, Aigle, Payerne, Avenches, Pays-d'Enhaut, Saanen et Argovie bernoise (Berne), Léventine et Urseren (Uri), Marche, Höfe, Küssnacht et Einsiedeln (Schwytz), Werdenberg (Glaris), Sax-Forstegg, Stein am Rhein, Ramsen, Dörflingen et Kelleramt (Zurich), Merenschwand (Lucerne), Bas-Valais (Valais).",
+  "Unterwald et Appenzell sont représentés par leurs demi-cantons, Obwald, Nidwald et les deux Rhodes, chacun ayant son propre gouvernement.",
+  "La limite entre Freie Ämter supérieurs et inférieurs, tracée en 1712 de Fahrwangen à Oberlunkhofen, est approchée commune par commune; tout le district de Bremgarten (sauf le Kelleramt) ainsi que Rottenschwil, Werd et Waltenschwil sont placés dans les Freie Ämter inférieurs, le reste du district de Muri dans les supérieurs. Bünzen, Besenbüren et Waldhäusern, proches de la ligne, sont douteux.",
+  "Berikon, Rudolfstetten, Widen, Zufikon, Eggenwil et la ville de Bremgarten sont comptés dans les Freie Ämter inférieurs; certains relevaient peut-être du comté de Baden, gouverné par les mêmes cantons. Les communes du district de Baden issues des Freie Ämter (Wohlenschwil, Mägenwil) et la ville de Mellingen restent dans le comté de Baden.",
+  "Les quatre communes du Kelleramt (Unterlunkhofen, Oberlunkhofen, Jonen, Arni-Islisberg) sont données à Zurich, qui y partageait l'exercice de la justice avec la ville de Bremgarten.",
+  "Dans la vallée de la Limmat, Dietikon, Schlieren, Oetwil an der Limmat et Hüttikon sont attribués au comté de Baden; Urdorf, Weiningen, Geroldswil et les Engstringen, où Zurich tenait la basse justice sous la haute justice de Baden, sont laissés à Zurich.",
+  "Rheinau, seigneurie de son abbaye sous la haute justice du bailli de Thurgovie, est rattachée à la Thurgovie.",
+  "Le Bucheggberg est laissé à Soleure, bien que Berne y ait conservé des droits de haute justice; la Montagne de Diesse, coseigneurie de Berne et du prince-évêque, est rattachée au sud de l'évêché.",
+  "Tout le district de Moutier, y compris les villages catholiques de Sous-les-Roches (Courrendlin, Corban, Courchapoix, Mervelier, Schelten), est compté dans le sud de l'évêché; le DHS indique pour plusieurs d'entre eux une appartenance à la prévôté jusqu'en 1797, mais le sort de cette partie entre 1793 et 1797 n'a pas été vérifié pour chaque commune.",
+  "Dans l'Amtsbezirk Biel, seuls Bienne, Bözingen, Vingelz et Evilard sont attribués à Bienne; Mett et Madretsch, villages du bailliage bernois de Nidau, sont laissés à Berne.",
+  "Dans le district d'Arlesheim, Binningen, Bottmingen, Biel, Benken, Münchenstein et Muttenz restent bâlois; les autres communes (Birseck, Pfeffingen, Allschwil, Schönenbuch) sont françaises. Olsberg (BL), rive gauche du Violenbach, est bâloise, Olsberg (AG) autrichienne.",
+  "Unterleibstadt, dont l'appartenance au Fricktal ou au comté de Baden était controversée, est comptée autrichienne avec tout le district de Laufenburg.",
+  "À Genève, seules Genève, Plainpalais, Eaux-Vives, Le Petit-Saconnex, Cologny, Vandoeuvres, Chêne-Bougeries, Genthod, Céligny, Jussy, Satigny, Dardagny, Russin, Cartigny, Avully et Chancy, absentes de la liste des communes réunies, sont attribuées à la République; les communes réunies partiellement cédées en 1815-1816 sont entièrement françaises, et Avully et Chancy n'avaient qu'une souveraineté genevoise limitée.",
+  "Le bailliage de Morat, la limite entre Grandson et le reste du Pays de Vaud et le bailliage d'Orbe-Echallens (district d'Echallens et Orbe) reprennent les délimitations de 1513 sans nouvelle vérification commune par commune.",
+  "Les quatre districts toggenbourgeois sont attribués au Toggenbourg, alors qu'une partie de l'Untertoggenburg relevait probablement de l'Alte Landschaft abbatiale. Le district de See est attribué au comté d'Uznach, sauf Rapperswil et Jona.",
+  "Prugiasco, qui relevait de la Léventine jusqu'en 1798, est laissé au val Blenio. La baronnie de Haldenstein, liée aux Ligues par un accord de protection, et le Misox sont fondus dans les Grisons.",
+  "La catégorie 'autre' regroupe le sud de l'évêché de Bâle, Gersau et Engelberg, liés aux cantons sans être des pays alliés de plein droit; le Toggenbourg, Rapperswil, Genève, Neuchâtel et Mulhouse, dont le statut d'allié est variable, sont classés 'allie'."
+ ],
+ "confiance": "Sont sûrs la liste des cantons et des pays alliés, les cantons gouvernants des bailliages communs après la paix d'Aarau de 1712, le rattachement du nord de l'évêché de Bâle à la France en 1793, la perte de la Valteline le 10 octobre 1797, le statut prussien de Neuchâtel et le maintien autrichien du Fricktal, de Tarasp et de Rhäzüns. Sont moins sûrs la limite entre Freie Ämter supérieurs et inférieurs, les limites fines à Genève, dans la vallée de la Limmat, dans le district de Moutier et dans les zones morcelées héritées de 1513 (Toggenbourg, district de See, Morat, Grandson). Les populations ne sont données que lorsqu'un chiffre précis figure dans le DHS, souvent pour des territoires qui ne coïncident pas exactement avec ceux de 1797.",
+ "territoires": [
+  {
+   "id": "berne",
+   "nom": "Canton de Berne",
+   "categorie": "canton",
+   "regime": "République aristocratique (patriciat)",
+   "chef_lieu": "Berne",
+   "langues": "Allemand, français",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 323008,
+    "annee": 1764,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007383/",
+    "note": "recensement de 1764 dans les frontières de l'époque, dont 112 346 habitants dans le Pays de Vaud et 40 276 dans l'Argovie bernoise ; chiffre antérieur de plus de vingt ans"
+   },
+   "dirigeants": "Avoyers et conseils de la ville de Berne, issus d'un cercle restreint de familles patriciennes",
+   "resume": "Berne est le plus grand État de la Confédération. Outre l'Argovie bernoise, tenue depuis 1415, il domine depuis 1536 le Pays de Vaud francophone, découpé en bailliages dont le nombre est fixé à seize au début du XVIIIe siècle, ainsi que le mandement d'Aigle et, depuis le partage du comté de Gruyère en 1555, Saanen et le Pays-d'Enhaut. Le pouvoir se concentre dans un nombre décroissant de familles, 243 en 1784 contre 540 en 1650. Berne partage avec Fribourg quatre bailliages communs et, depuis 1712, siège dans le gouvernement de Baden, des Freie Ämter, de la Thurgovie, du Rheintal et de Sargans. Les troubles vaudois de 1791 et la menace française ébranlent le régime à la veille de 1798.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    },
+    {
+     "titre": "DHS, Gruyère (comté, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008148/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 8163,
+   "communes": 807,
+   "couleur": "#d8574f"
+  },
+  {
+   "id": "grisons",
+   "nom": "République des III Ligues (Grisons)",
+   "categorie": "allie",
+   "regime": "République fédérative de trois ligues et de communes souveraines",
+   "chef_lieu": "Coire",
+   "langues": "Romanche, allemand, italien",
+   "religion": "Réformée et catholique",
+   "population": {
+    "valeur": 72903,
+    "annee": 1800,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007391/",
+    "note": "recensement officieux, sans la Valteline"
+   },
+   "dirigeants": "Diète des III Ligues et communes",
+   "resume": "La république des III Ligues réunit la Ligue grise, la Ligue de la Maison-Dieu et la Ligue des Dix-Juridictions, alliées des cantons à des titres divers. Au XVIIIe siècle, la puissante famille Salis domine la politique, en liaison avec l'Autriche, ce qui provoque un soulèvement contre le parti aristocratique en 1794. Le 10 octobre 1797, Bonaparte réunit la Valteline, Chiavenna et Bormio à la République cisalpine, et les Ligues perdent ces pays sujets qu'elles tenaient depuis 1512. Dans les Grisons subsistent des enclaves autrichiennes, Rhäzüns et Tarasp, ainsi que la baronnie libre de Haldenstein, fondue ici dans les Ligues.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    },
+    {
+     "titre": "DHS, Valteline",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007135/"
+    },
+    {
+     "titre": "DHS, Haldenstein",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001597/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ],
+   "superficie_km2": 6975,
+   "communes": 226,
+   "couleur": "#c993bd"
+  },
+  {
+   "id": "valais",
+   "nom": "Valais (république des Sept Dizains)",
+   "categorie": "allie",
+   "regime": "République des Sept Dizains, avec le Bas-Valais comme pays sujet",
+   "chef_lieu": "Sion",
+   "langues": "Français, allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 60344,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007396/",
+    "note": "estimation de la population résidante, Bas-Valais compris"
+   },
+   "dirigeants": "Diète et dizains du Haut-Valais ; prince-évêque de Sion, privé de la souveraineté temporelle depuis 1634",
+   "resume": "Depuis 1613 et définitivement 1634, les familles dirigeantes des sept dizains du Haut-Valais (Conches, Brigue, Viège, Rarogne, Loèche, Sierre et Sion) ont obligé l'évêque à renoncer à la souveraineté temporelle. Le Pays du Valais est allié des cantons de Suisse centrale et de Berne. Le Bas-Valais, dont la frontière avec la Savoie est fixée à Saint-Gingolph par le traité de Thonon de 1569, est un pays sujet des dizains, figuré ici dans la couleur du Valais. Ses habitants se soulèvent en 1790 et 1791 contre les gouverneurs du Haut.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    },
+    {
+     "titre": "DHS, Révolution française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017216/"
+    }
+   ],
+   "superficie_km2": 5223,
+   "communes": 168,
+   "couleur": "#e07a5f"
+  },
+  {
+   "id": "zurich",
+   "nom": "Canton de Zurich",
+   "categorie": "canton",
+   "regime": "République urbaine dirigée par les conseils et les corporations",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 179000,
+    "annee": 1800,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007381/",
+    "note": "le DHS indique que la population passa de 115 000 à 179 000 habitants jusqu'en 1800"
+   },
+   "dirigeants": "Bourgmestres et conseils de la ville de Zurich",
+   "resume": "La ville de Zurich gouverne un vaste territoire rural divisé en bailliages, dont Kibourg et Grüningen. Elle tient aussi la ville sujette de Stein am Rhein avec Hemishofen, la haute juridiction de Ramsen depuis un traité de 1770 avec l'Autriche, Dörflingen acheté la même année, et le bailliage de Sax-Forstegg dans la vallée du Rhin, acquis en 1615 surtout pour des motifs confessionnels. La haute justice du Kelleramt, autour de Lunkhofen, lui revient depuis 1415, exercée conjointement avec Bremgarten. Depuis la paix d'Aarau de 1712, Zurich partage avec Berne et Glaris le gouvernement de Baden et des Freie Ämter inférieurs. En novembre 1794, le Mémorial de Stäfa, par lequel les industriels des bords du lac réclament en vain l'égalité économique avec la ville, montre la montée des revendications des campagnes.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    },
+    {
+     "titre": "DHS, Sax-Forstegg",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007647/"
+    },
+    {
+     "titre": "DHS, Ramsen",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001287/"
+    },
+    {
+     "titre": "DHS, Dörflingen",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001268/"
+    },
+    {
+     "titre": "DHS, Kelleramt",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008509/"
+    },
+    {
+     "titre": "DHS, Révolution française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017216/"
+    }
+   ],
+   "superficie_km2": 1724,
+   "communes": 200,
+   "couleur": "#4e79a7"
+  },
+  {
+   "id": "uri",
+   "nom": "Canton d'Uri",
+   "categorie": "canton",
+   "regime": "Démocratie à landsgemeinde",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand, italien (Léventine)",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landsgemeinde et landamman",
+   "resume": "Uri est un canton à landsgemeinde qui a accordé la combourgeoisie à la vallée d'Urseren. Il tient seul la Léventine, acquise au XVe siècle et restée pays sujet jusqu'en 1798, qui compte 9643 habitants en 1798. Après le soulèvement de la Léventine en 1755, Uri supprime la plupart des privilèges du bailliage. Avec Schwytz et Nidwald, il gouverne aussi Bellinzone, la Riviera et le val Blenio. Le DHS donne 9464 habitants pour Uri à la fin du XVIIIe siècle, et 10 607 avec l'Urseren.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Léventine",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008543/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 1538,
+   "communes": 39,
+   "couleur": "#e3b93c"
+  },
+  {
+   "id": "fribourg",
+   "nom": "Canton de Fribourg",
+   "categorie": "canton",
+   "regime": "République aristocratique (patriciat)",
+   "chef_lieu": "Fribourg",
+   "langues": "Français, allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Avoyers et conseils de la ville de Fribourg, tenus par le patriciat",
+   "resume": "Fribourg a pris sa part de la conquête du Pays de Vaud en 1536, avec Estavayer, Saint-Aubin, Surpierre, Romont, Rue, Châtel-Saint-Denis, Attalens, Vaulruz et Vuippens, puis en 1537 Bulle, La Roche, Riaz et Albeuve, anciennes terres de l'évêque de Lausanne. En 1555, la faillite du dernier comte de Gruyère lui a donné le pays de Montbovon à La Tour-de-Trême, le reste du comté allant à Berne. De 1602 à 1798, l'État vit sous le régime du patriciat, enclave catholique entourée de terres bernoises. Il partage avec Berne quatre bailliages communs. Le DHS estime la population du territoire cantonal actuel à 66 000 habitants en 1798.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Gruyère (comté, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008148/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 1518,
+   "communes": 265,
+   "couleur": "#3f8a86"
+  },
+  {
+   "id": "lucerne",
+   "nom": "Canton de Lucerne",
+   "categorie": "canton",
+   "regime": "République aristocratique (patriciat)",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 90871,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007382/",
+    "note": "recensement de la République helvétique"
+   },
+   "dirigeants": "Avoyers et conseils de la ville de Lucerne, tenus par le patriciat",
+   "resume": "Lucerne gouverne ses bailliages ruraux par l'intermédiaire de son patriciat urbain. Elle tient aussi, à l'ouest de la Reuss, le bailliage de Merenschwand, racheté en 1394, dont les habitants élisent un bailli patricien de Lucerne. La guerre des Paysans de 1653 est partie de l'Entlebuch lucernois. Sa population atteint 89 000 âmes en 1782 et 90 871 en 1798. En 1795, un mouvement d'opposition se forme au sein même du patriciat avec la Société du vendredi.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    },
+    {
+     "titre": "DHS, Merenschwand",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001789/"
+    },
+    {
+     "titre": "DHS, Paysans, guerre des (1653)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008909/"
+    }
+   ],
+   "superficie_km2": 1398,
+   "communes": 99,
+   "couleur": "#59a6a0"
+  },
+  {
+   "id": "france",
+   "nom": "République française",
+   "categorie": "etranger",
+   "regime": "République (Directoire)",
+   "chef_lieu": "Paris",
+   "langues": "Français",
+   "religion": "Catholique en majorité",
+   "population": null,
+   "dirigeants": "Directoire exécutif",
+   "resume": "Depuis 1792, la France révolutionnaire encercle la Confédération. Le nord de l'évêché de Bâle, après l'éphémère République rauracienne, est réuni à la France le 23 mars 1793 et forme le département du Mont-Terrible, avec Porrentruy pour chef-lieu, Delémont, les Franches-Montagnes, le Laufonnais et le Birseck. La Savoie, conquise en 1792, est elle aussi un département français, si bien que les villages savoyards et le Pays de Gex qui entourent Genève sont français. Le coup d'État du 18 fructidor (4 septembre 1797) porte au pouvoir un Directoire hostile à la Confédération.",
+   "sources": [
+    {
+     "titre": "DHS, Mont-Terrible",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008642/"
+    },
+    {
+     "titre": "DHS, République rauracienne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007625/"
+    },
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    },
+    {
+     "titre": "DHS, Communes réunies",
+     "url": "https://hls-dhs-dss.ch/fr/articles/030186/"
+    },
+    {
+     "titre": "DHS, Révolution française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017216/"
+    }
+   ],
+   "superficie_km2": 1068,
+   "communes": 123,
+   "couleur": "#9aa0a6"
+  },
+  {
+   "id": "bailliage-thurgovie",
+   "nom": "Landgraviat de Thurgovie",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Frauenfeld",
+   "langues": "Allemand",
+   "religion": "Réformée en majorité et catholique",
+   "population": {
+    "valeur": 70878,
+    "annee": 1801,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007393/",
+    "note": "premier recensement, peu après la fin de l'Ancien Régime"
+   },
+   "dirigeants": "Zurich, Lucerne, Uri, Schwytz, Unterwald, Zoug, Glaris et, depuis 1712, Berne",
+   "resume": "La Thurgovie, conquise sur l'Autriche en 1460, est un bailliage commun que la terminologie officielle appelle encore landgraviat. Berne y est admis en 1712, et la Diète des cantons siège à Frauenfeld depuis 1713, les catholiques refusant de se rendre à Baden. En 1711, on estime que 59 600 personnes y vivent, dont 45 030 protestants. Le bailli exerce aussi la haute justice sur les terres de l'abbaye de Rheinau et sur Diessenhofen.",
+   "sources": [
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    },
+    {
+     "titre": "DHS, Rheinau (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000032/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    }
+   ],
+   "superficie_km2": 872,
+   "communes": 214,
+   "couleur": "#d6bf8a"
+  },
+  {
+   "id": "schwyz",
+   "nom": "Canton de Schwytz",
+   "categorie": "canton",
+   "regime": "Démocratie à landsgemeinde",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 34138,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007385/",
+    "note": "chiffre donné pour le territoire du canton actuel, Gersau compris"
+   },
+   "dirigeants": "Landsgemeinde et landamman",
+   "resume": "Schwytz est un canton à landsgemeinde dont les principes écrits, présentés en 1704 par le landamman Jost Rudolf von Reding, servent de constitution. Le Pays de Schwytz domine des pays sujets ou protégés comme la Marche, les Höfe, Küssnacht et le territoire de l'abbaye d'Einsiedeln, fondus ici dans sa couleur. Avec Glaris, il gouverne le comté d'Uznach, le Gaster et Gams, et avec Uri et Nidwald les bailliages de Bellinzone, de la Riviera et du Blenio. La paix d'Aarau de 1712 lui a fait perdre ses droits sur Baden, les Freie Ämter inférieurs et le protectorat de Rapperswil.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Einsiedeln (abbaye)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/011491/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    }
+   ],
+   "superficie_km2": 837,
+   "communes": 28,
+   "couleur": "#a8679a"
+  },
+  {
+   "id": "soleure",
+   "nom": "Canton de Soleure",
+   "categorie": "canton",
+   "regime": "République aristocratique (patriciat)",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 45840,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007386/",
+    "note": "chiffre apuré par le DHS à partir du recensement helvétique"
+   },
+   "dirigeants": "Avoyers et Petit Conseil, devenu vers 1690 un corps purement patricien",
+   "resume": "La ville et république de Soleure gouverne ses bailliages ruraux par un avoyer élu pratiquement à vie, qui alterne avec l'ancien avoyer. Au nord du Jura, elle tient Dorneck et, depuis un arbitrage confédéral de 1522, la seigneurie de Thierstein avec la haute justice. Le Bucheggberg et le Kriegstetten forment ses bailliages au sud de l'Aar. Protectrice de l'abbaye de Bellelay dans le sud de l'évêché de Bâle, Soleure reste neutre lors des deux guerres de Villmergen.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    },
+    {
+     "titre": "DHS, Bellelay",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008492/"
+    },
+    {
+     "titre": "DHS, Villmergen, première guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008910/"
+    }
+   ],
+   "superficie_km2": 791,
+   "communes": 132,
+   "couleur": "#ea8a32"
+  },
+  {
+   "id": "glaris",
+   "nom": "Canton de Glaris",
+   "categorie": "canton",
+   "regime": "Démocratie à landsgemeinde, divisée selon la confession",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Réformée et catholique (canton paritaire)",
+   "population": null,
+   "dirigeants": "Landsgemeinde et landamman",
+   "resume": "Glaris est un canton à landsgemeinde où la Réforme a entraîné une division confessionnelle des institutions. Depuis 1517, il administre seul l'ancien comté de Werdenberg (Buchs, Grabs, Sevelen) comme un bailliage, par des baillis résidant au château, et y réprime par la force l'affaire de Werdenberg en 1719-1722. Il gouverne avec Schwytz le comté d'Uznach, le Gaster et Gams. Canton devenu paritaire, il est associé en 1712 à Zurich et Berne pour Baden et les Freie Ämter inférieurs, et partage avec eux le protectorat de Rapperswil. Le canton compte près de 23 000 âmes vers 1800.",
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    },
+    {
+     "titre": "DHS, Werdenberg",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007646/"
+    },
+    {
+     "titre": "DHS, Gams",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001347/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    }
+   ],
+   "superficie_km2": 781,
+   "communes": 28,
+   "couleur": "#5b9a4b"
+  },
+  {
+   "id": "neuchatel",
+   "nom": "Principauté de Neuchâtel",
+   "categorie": "allie",
+   "regime": "Principauté sous la souveraineté du roi de Prusse",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Roi de Prusse, prince de Neuchâtel, représenté par un gouverneur et le Conseil d'État",
+   "resume": "La principauté réunit depuis 1592 le comté de Neuchâtel et la seigneurie de Valangin. À la mort de Marie de Nemours, le tribunal des Trois-États désigne le 3 novembre 1707 le roi de Prusse Frédéric Ier comme prince, écartant les prétendants français. Liée par combourgeoisie à Berne, Fribourg, Soleure et Lucerne, Neuchâtel est un pays allié sans siège à la Diète. Sa population, l'une des plus dynamiques des cantons industrialisés, passe de 32 300 habitants en 1752 à 48 700 en 1806.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Neuchâtel, affaire de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ],
+   "superficie_km2": 713,
+   "communes": 73,
+   "couleur": "#8e7cc3"
+  },
+  {
+   "id": "eveche-bale",
+   "nom": "Sud de l'évêché de Bâle (bailliages helvétiques)",
+   "categorie": "autre",
+   "regime": "Seigneuries de la principauté épiscopale comprises dans la neutralité helvétique",
+   "chef_lieu": "Moutier, Courtelary, La Neuveville",
+   "langues": "Français",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Prince-évêque de Bâle, réfugié à Constance depuis 1792 ; conseils provisoires en Erguël et dans la prévôté",
+   "resume": "Après l'annexion du nord de l'évêché par la France en 1793, il ne reste au prince-évêque que les seigneuries méridionales, réputées helvétiques grâce à leurs combourgeoisies avec Berne, Bienne et Soleure, à savoir l'Erguël, Orvin, la prévôté de Moutier-Grandval, La Neuveville, la Montagne de Diesse partagée avec Berne, et l'abbaye de Bellelay. Ces terres réformées échappent à l'occupation de 1792, mais l'Erguël rompt avec le prince et la prévôté se donne en janvier 1793 un gouvernement provisoire sous la protection de Berne. La prévôté compte 5915 habitants au recensement épiscopal de 1770. Le 15 décembre 1797, en vertu du traité de Campoformio, le général Gouvion Saint-Cyr prendra possession de ces bailliages pour la France.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    },
+    {
+     "titre": "DHS, Moutier-Grandval",
+     "url": "https://hls-dhs-dss.ch/fr/articles/012011/"
+    },
+    {
+     "titre": "DHS, Erguël",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008439/"
+    },
+    {
+     "titre": "DHS, Diesse, Montagne de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008502/"
+    },
+    {
+     "titre": "DHS, Bellelay",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008492/"
+    }
+   ],
+   "superficie_km2": 608,
+   "communes": 58,
+   "couleur": "#8fb3c9"
+  },
+  {
+   "id": "vallemaggia",
+   "nom": "Bailliage du val Maggia",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun (bailliages italiens)",
+   "chef_lieu": null,
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Les douze cantons (tous sauf Appenzell)",
+   "resume": "Conquis au début du XVIe siècle, ce bailliage est l'un des quatre bailliages italiens gouvernés par les douze cantons, Appenzell excepté. Un bailli désigné à tour de rôle pour deux ans y exerce la justice, et rend ses comptes aux délégués des cantons réunis en sindicato. De 1513 à 1798, la vallée porte en allemand le nom de Meiental ou Mainthal.",
+   "sources": [
+    {
+     "titre": "DHS, Vallemaggia",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008548/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 587,
+   "communes": 22,
+   "couleur": "#a98551"
+  },
+  {
+   "id": "sargans",
+   "nom": "Pays de Sargans",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Sargans",
+   "langues": "Allemand",
+   "religion": "Catholique (réformée à Wartau)",
+   "population": null,
+   "dirigeants": "Zurich, Lucerne, Uri, Schwytz, Unterwald, Zoug, Glaris et, depuis 1712, Berne",
+   "resume": "Le comté de Sargans, acquis en 1483, forme un bailliage commun administré jusqu'en 1798 par les sept anciens cantons, rejoints par Berne en 1712. Les baillis catholiques ont combattu la Réforme, et seule la paroisse de Wartau est restée protestante. Le bailliage exerce aussi la haute juridiction à Wartau, seigneurie glaronaise.",
+   "sources": [
+    {
+     "titre": "DHS, Sarganserland",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007645/"
+    },
+    {
+     "titre": "DHS, Wartau",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001351/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 560,
+   "communes": 9,
+   "couleur": "#b9935a"
+  },
+  {
+   "id": "toggenbourg",
+   "nom": "Comté de Toggenbourg",
+   "categorie": "allie",
+   "regime": "Pays sujet de l'abbaye doté d'un statut de pays allié",
+   "chef_lieu": "Lichtensteig",
+   "langues": "Allemand",
+   "religion": "Réformée et catholique",
+   "population": null,
+   "dirigeants": "Prince-abbé de Saint-Gall, représenté par un bailli à Lichtensteig ; combourgeoisie avec Schwytz et Glaris",
+   "resume": "Acheté par l'abbaye de Saint-Gall en 1468, le Toggenbourg garde une large autonomie, un Conseil et la combourgeoisie de 1436 avec Schwytz et Glaris, qui lui donne rang de pays allié sans siège à la Diète. Son soulèvement contre le prince-abbé, au sujet d'une route par le Ricken, est à l'origine de la seconde guerre de Villmergen en 1712. La paix de Baden de 1718 l'a replacé sous l'autorité de l'abbé, avec la garantie de la coexistence des deux confessions. L'agitation révolutionnaire y éclate en 1797-1798.",
+   "sources": [
+    {
+     "titre": "DHS, Toggenbourg",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007642/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    }
+   ],
+   "superficie_km2": 554,
+   "communes": 25,
+   "couleur": "#9fc5e8"
+  },
+  {
+   "id": "bailliage-locarno",
+   "nom": "Bailliage de Locarno",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun (bailliages italiens)",
+   "chef_lieu": "Locarno",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Les douze cantons (tous sauf Appenzell)",
+   "resume": "Conquis au début du XVIe siècle, ce bailliage est l'un des quatre bailliages italiens gouvernés par les douze cantons, Appenzell excepté. Un bailli désigné à tour de rôle pour deux ans y exerce la justice, et rend ses comptes aux délégués des cantons réunis en sindicato. Brissago, soumise en 1521, y est annexée avec une juridiction séparée et ses propres podestats, choisis dans la famille Orelli.",
+   "sources": [
+    {
+     "titre": "DHS, Locarno (pieve, bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008544/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    },
+    {
+     "titre": "DHS, Brissago",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002092/"
+    }
+   ],
+   "superficie_km2": 551,
+   "communes": 43,
+   "couleur": "#d6bf8a"
+  },
+  {
+   "id": "bale",
+   "nom": "Canton de Bâle",
+   "categorie": "canton",
+   "regime": "République urbaine dirigée par les conseils et les corporations",
+   "chef_lieu": "Bâle",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Bourgmestres et conseils de la ville de Bâle",
+   "resume": "La ville de Bâle domine une campagne divisée depuis 1640 en bailliages (Liestal, Waldenburg, Homburg, Farnsburg, Münchenstein, Riehen et Petit-Huningue). Elle a agrandi son territoire au XVIe siècle avec Riehen (1522), Biel et Benken (1526), Binningen et Bottmingen (gages de 1534, acquis en 1585), puis Petit-Huningue en 1640. Les villages de l'évêque autour de la ville, Birseck et Pfeffingen, sont devenus français en 1793. La campagne compte 26 235 habitants en 1798, et la ville 16 674 en 1815.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Binningen",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001193/"
+    },
+    {
+     "titre": "DHS, Biel-Benken",
+     "url": "https://hls-dhs-dss.ch/fr/articles/016128/"
+    },
+    {
+     "titre": "DHS, Petit-Huningue",
+     "url": "https://hls-dhs-dss.ch/fr/articles/003331/"
+    },
+    {
+     "titre": "DHS, Olsberg (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001802/"
+    }
+   ],
+   "superficie_km2": 407,
+   "communes": 69,
+   "couleur": "#7fb2dc"
+  },
+  {
+   "id": "obwald",
+   "nom": "Obwald",
+   "categorie": "canton",
+   "regime": "Démocratie à landsgemeinde (demi-canton d'Unterwald)",
+   "chef_lieu": "Sarnen",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 10580,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007410/"
+   },
+   "dirigeants": "Landsgemeinde et landamman",
+   "resume": "Obwald forme avec Nidwald le canton d'Unterwald, mais chacune des deux vallées a sa propre landsgemeinde et son propre gouvernement. Obwald compte 8885 habitants en 1743 et 10 580 en 1799. Avec les autres cantons de Suisse centrale, il participe au gouvernement des bailliages communs, mais il perd en 1712 ses droits sur Baden, les Freie Ämter inférieurs et Rapperswil. L'abbaye d'Engelberg, voisine, reste une seigneurie distincte.",
+   "sources": [
+    {
+     "titre": "DHS, Obwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007410/"
+    },
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    }
+   ],
+   "superficie_km2": 406,
+   "communes": 6,
+   "couleur": "#c97b95"
+  },
+  {
+   "id": "blenio",
+   "nom": "Val Blenio",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": null,
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Uri, Schwytz et Nidwald",
+   "resume": "Ce bailliage est l'un des trois pays sujets que se partagent Uri, Schwytz et Nidwald au sud du Saint-Gothard, à côté de la Léventine, sujette du seul canton d'Uri. La vallée est passée aux Suisses en 1495, quand ses habitants ont juré fidélité aux occupants uranais. La paix d'Arona de 1503 l'a donnée à Uri, Schwytz et Nidwald, qui la conservent jusqu'en 1798 sous le nom allemand de Bollenz.",
+   "sources": [
+    {
+     "titre": "DHS, Blenio (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008541/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 361,
+   "communes": 17,
+   "couleur": "#d9c28f"
+  },
+  {
+   "id": "bailliage-lugano",
+   "nom": "Bailliage de Lugano",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun (bailliages italiens)",
+   "chef_lieu": "Lugano",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Les douze cantons (tous sauf Appenzell)",
+   "resume": "Conquis au début du XVIe siècle, ce bailliage est l'un des quatre bailliages italiens gouvernés par les douze cantons, Appenzell excepté. Un bailli désigné à tour de rôle pour deux ans y exerce la justice, et rend ses comptes aux délégués des cantons réunis en sindicato. Le bailliage comprend aussi des terres privilégiées comme Morcote, Sonvico, Ponte Tresa et le fief de Magliaso, tenu par la famille Beroldingen depuis 1668. La pieve compte environ 29 700 habitants en 1783.",
+   "sources": [
+    {
+     "titre": "DHS, Lugano (pieve, bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008545/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 322,
+   "communes": 109,
+   "couleur": "#b9935a"
+  },
+  {
+   "id": "bailliage-baden",
+   "nom": "Comté de Baden",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Baden",
+   "langues": "Allemand",
+   "religion": "Catholique en majorité, avec des minorités protestantes et juives",
+   "population": null,
+   "dirigeants": "Zurich, Berne et Glaris depuis 1712",
+   "resume": "Le comté de Baden est le premier des bailliages communs, conquis en 1415. Depuis la défaite des catholiques en 1712, il est gouverné par Zurich et Berne, qui fournissent chacun le bailli sept années sur seize, et par Glaris deux années. Il comprend notamment les bailliages de Wettingen, Dietikon et Siggenthal, et les bailliages extérieurs de Klingnau, Zurzach et Kaiserstuhl. C'est le seul bailliage commun où les juifs sont tolérés, à Endingen et Lengnau depuis 1774. Les villages de Dietikon, Schlieren, Oetwil an der Limmat et Hüttikon, zurichois depuis 1803, en font partie.",
+   "sources": [
+    {
+     "titre": "DHS, Baden (comté, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008296/"
+    },
+    {
+     "titre": "DHS, Hüttikon",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000067/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    }
+   ],
+   "superficie_km2": 301,
+   "communes": 56,
+   "couleur": "#c8a96e"
+  },
+  {
+   "id": "abbaye-saint-gall",
+   "nom": "Principauté abbatiale de Saint-Gall",
+   "categorie": "allie",
+   "regime": "Principauté ecclésiastique, pays allié et protectorat de quatre cantons",
+   "chef_lieu": "Saint-Gall (abbaye)",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Prince-abbé de Saint-Gall ; cantons protecteurs Zurich, Lucerne, Schwytz et Glaris",
+   "resume": "Le prince-abbé gouverne en monarque presque absolu l'Alte Landschaft, de Wil à Rorschach, ainsi que le Toggenbourg acheté en 1468. Pays allié représenté à la Diète, l'abbaye est sous la protection de Zurich, Lucerne, Schwytz et Glaris. Occupée et pillée par les Zurichois en 1712, elle n'a été rétablie qu'à la paix de Baden de 1718. Sous la pression de l'agitation révolutionnaire, l'abbé accorde en 1795 un traité à l'amiable à ses sujets de l'Alte Landschaft.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (principauté abbatiale)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008394/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    },
+    {
+     "titre": "DHS, Révolution française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017216/"
+    }
+   ],
+   "superficie_km2": 274,
+   "communes": 24,
+   "couleur": "#e9c75e"
+  },
+  {
+   "id": "fricktal",
+   "nom": "Fricktal autrichien",
+   "categorie": "etranger",
+   "regime": "Seigneuries de l'Autriche antérieure",
+   "chef_lieu": "Rheinfelden",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Maison d'Autriche, par le gouvernement de l'Autriche antérieure à Fribourg-en-Brisgau",
+   "resume": "Le Fricktal forme les seigneuries autrichiennes de Rheinfelden et de Laufenburg, rattachées à l'Autriche antérieure dont le gouvernement siège à Fribourg-en-Brisgau depuis 1648. Plusieurs cantons ont tenté en vain de l'acquérir entre 1639 et 1748. Au traité de Campoformio (17 octobre 1797), l'Autriche cède le Fricktal à la France, mais la clause reste lettre morte jusqu'au traité de Lunéville de 1801. Il ne rejoindra la Suisse qu'en 1802-1803.",
+   "sources": [
+    {
+     "titre": "DHS, Fricktal",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008297/"
+    },
+    {
+     "titre": "DHS, Olsberg (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001802/"
+    }
+   ],
+   "superficie_km2": 266,
+   "communes": 38,
+   "couleur": "#8a8178"
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Canton de Schaffhouse",
+   "categorie": "canton",
+   "regime": "République urbaine dirigée par les conseils et les corporations",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 24889,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007388/",
+    "note": "population du territoire du canton actuel"
+   },
+   "dirigeants": "Bourgmestres et conseils de la ville de Schaffhouse",
+   "resume": "Schaffhouse a complété sa souveraineté sur ses campagnes au cours des XVIe et XVIIe siècles. Elle a acquis Schleitheim des comtes de Lupfen en 1530, la haute justice du Klettgau des comtes de Sulz en 1657 et celle du Reiat, avec Buch, sur l'Autriche en 1723. Stein am Rhein, Hemishofen, Ramsen et Dörflingen restent en revanche zurichois jusqu'en 1798. Les troubles de Hallau en 1790 annoncent la révolte des campagnes de 1798.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    },
+    {
+     "titre": "DHS, Klettgau",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007545/"
+    },
+    {
+     "titre": "DHS, Reiat",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007547/"
+    },
+    {
+     "titre": "DHS, Schleitheim",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001283/"
+    },
+    {
+     "titre": "DHS, Buch (SH)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001285/"
+    }
+   ],
+   "superficie_km2": 265,
+   "communes": 32,
+   "couleur": "#f0b26e"
+  },
+  {
+   "id": "appenzell-rhodes-exterieures",
+   "nom": "Appenzell Rhodes-Extérieures",
+   "categorie": "canton",
+   "regime": "Démocratie à landsgemeinde (demi-canton)",
+   "chef_lieu": "Trogen et Hérisau",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 39000,
+    "annee": 1794,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007476/"
+   },
+   "dirigeants": "Landsgemeinde et landamman",
+   "resume": "Le canton d'Appenzell s'est divisé en 1597 en deux demi-cantons selon la confession. Les six rhodes extérieures, réformées, sont Urnäsch, Hérisau, Hundwil supérieur et inférieur, Teufen et Trogen. Leur population passe de 19 000 habitants en 1597 à 39 000 en 1794, portée par l'industrie textile à domicile. Avec les Rhodes-Intérieures, elles participent au gouvernement du Rheintal.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007389/"
+    },
+    {
+     "titre": "DHS, Appenzell Rhodes-Extérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007476/"
+    }
+   ],
+   "superficie_km2": 246,
+   "communes": 20,
+   "couleur": "#7eb7ae"
+  },
+  {
+   "id": "nidwald",
+   "nom": "Nidwald",
+   "categorie": "canton",
+   "regime": "Démocratie à landsgemeinde (demi-canton d'Unterwald)",
+   "chef_lieu": "Stans",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 8496,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007411/"
+   },
+   "dirigeants": "Landsgemeinde et landamman",
+   "resume": "Nidwald constitue l'autre moitié du canton d'Unterwald, avec sa landsgemeinde et son landamman. Il est seul, parmi les deux vallées, à partager avec Uri et Schwytz le gouvernement des bailliages de Bellinzone, de la Riviera et du val Blenio. Le pays compte 8496 âmes en 1799. Comme les autres cantons catholiques, il a été écarté en 1712 du gouvernement de Baden et des Freie Ämter inférieurs.",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 242,
+   "communes": 11,
+   "couleur": "#8f6a55"
+  },
+  {
+   "id": "bellinzone",
+   "nom": "Bellinzone",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Bellinzone",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Uri, Schwytz et Nidwald",
+   "resume": "Ce bailliage est l'un des trois pays sujets que se partagent Uri, Schwytz et Nidwald au sud du Saint-Gothard, à côté de la Léventine, sujette du seul canton d'Uri. Contrôlé par les Confédérés depuis avril 1500, le bourg leur est reconnu par le traité d'Arona en 1503. De 1501 à 1798, le bourg et le comté sont administrés par les trois cantons à tour de rôle.",
+   "sources": [
+    {
+     "titre": "DHS, Bellinzone (pieve, bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008540/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 212,
+   "communes": 24,
+   "couleur": "#c8a96e"
+  },
+  {
+   "id": "zoug",
+   "nom": "Canton de Zoug",
+   "categorie": "canton",
+   "regime": "Ville et bailliage de Zoug",
+   "chef_lieu": "Zoug",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 12749,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007373/"
+   },
+   "dirigeants": "Autorités de la ville et du bailliage de Zoug",
+   "resume": "Jusqu'en 1798, Zoug se nomme officiellement ville et bailliage de Zoug, associant la ville à des communes rurales extérieures. Son territoire correspond depuis 1500 environ à peu près au canton actuel. Quelques droits étrangers y subsistent jusqu'en 1798, comme la haute justice zurichoise à Steinhausen et la petite seigneurie de Buonas. Zoug compte 12 749 habitants en 1798.",
+   "sources": [
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    }
+   ],
+   "superficie_km2": 207,
+   "communes": 11,
+   "couleur": "#93c47d"
+  },
+  {
+   "id": "grandson",
+   "nom": "Bailliage de Grandson",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Grandson",
+   "langues": "Français",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 5955,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007574/"
+   },
+   "dirigeants": "Berne et Fribourg, en alternance",
+   "resume": "Ce bailliage est l'un des quatre que Berne et Fribourg administrent en commun, le bailli étant désigné à tour de rôle par chacune des deux villes. La Réforme l'y a emporté partout entre 1531 (Fiez) et 1564 (Bonvillars), malgré la résistance de Fribourg. En 1798, le bailliage compte 5955 habitants.",
+   "sources": [
+    {
+     "titre": "DHS, Grandson (seigneurie, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007574/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 200,
+   "communes": 25,
+   "couleur": "#c8a96e"
+  },
+  {
+   "id": "appenzell-rhodes-interieures",
+   "nom": "Appenzell Rhodes-Intérieures",
+   "categorie": "canton",
+   "regime": "Démocratie à landsgemeinde (demi-canton)",
+   "chef_lieu": "Appenzell",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landsgemeinde et landamman",
+   "resume": "Les Rhodes-Intérieures forment depuis la division de 1597 le demi-canton catholique d'Appenzell, avec l'enclave d'Oberegg. Vers 1800, le Pays intérieur compte 7400 habitants et Hirschberg-Oberegg environ 1400. Le demi-canton prend part, avec les Rhodes-Extérieures, à l'administration du Rheintal.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007389/"
+    },
+    {
+     "titre": "DHS, Appenzell Rhodes-Intérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007475/"
+    }
+   ],
+   "superficie_km2": 169,
+   "communes": 8,
+   "couleur": "#b49a3a"
+  },
+  {
+   "id": "riviera",
+   "nom": "Riviera",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Osogna",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Uri, Schwytz et Nidwald",
+   "resume": "Ce bailliage est l'un des trois pays sujets que se partagent Uri, Schwytz et Nidwald au sud du Saint-Gothard, à côté de la Léventine, sujette du seul canton d'Uri. Attribuée à Uri en 1499-1500, la Riviera devient vite un bailliage commun des trois cantons, dont le chef-lieu est Osogna depuis 1573. Elle s'étend de Biasca au pont de Cassero, près de Claro.",
+   "sources": [
+    {
+     "titre": "DHS, Riviera (bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008547/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 166,
+   "communes": 6,
+   "couleur": "#b38b5d"
+  },
+  {
+   "id": "freie-aemter",
+   "nom": "Freie Ämter supérieurs",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Muri",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Zurich, Lucerne, Uri, Schwytz, Unterwald, Zoug, Glaris et Berne",
+   "resume": "Depuis la paix d'Aarau de 1712, les Freie Ämter sont coupés en deux par une ligne allant du gibet de Fahrwangen au clocher d'Oberlunkhofen. La partie méridionale, autour de Muri, Meienberg et Hitzkirch, reste aux sept anciens cantons, auxquels s'ajoute Berne. Le bailliage de Hitzkirch, aujourd'hui lucernois, en fait partie. Le bailli ne réside pas et ne vient que pour les hommages et les sessions de son tribunal.",
+   "sources": [
+    {
+     "titre": "DHS, Freie Ämter",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008298/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    }
+   ],
+   "superficie_km2": 161,
+   "communes": 30,
+   "couleur": "#a98551"
+  },
+  {
+   "id": "gaster",
+   "nom": "Gaster et Gams",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": null,
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Schwytz et Glaris",
+   "resume": "Le Gaster, avec Weesen, est de 1438 à 1798 un bailliage commun de Schwytz et Glaris. Il garde toutefois son Conseil, son tribunal, son administration et sa landsgemeinde, selon un coutumier qui lui assure des droits étendus. La seigneurie de Gams, achetée par les deux cantons en 1497, lui est rattachée avec ses droits confirmés par charte.",
+   "sources": [
+    {
+     "titre": "DHS, Gaster",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007644/"
+    },
+    {
+     "titre": "DHS, Gams",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001347/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 157,
+   "communes": 7,
+   "couleur": "#d9c28f"
+  },
+  {
+   "id": "schwarzenburg",
+   "nom": "Bailliage de Schwarzenburg",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Schwarzenburg",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Berne et Fribourg, en alternance",
+   "resume": "Ce bailliage est l'un des quatre que Berne et Fribourg administrent en commun, le bailli étant désigné à tour de rôle par chacune des deux villes. Héritier de la seigneurie de Grasbourg, il est commun aux deux villes depuis 1423. Berne y exerce une influence prépondérante, son droit s'y applique et la Réforme y a été introduite entre 1529 et 1532, si bien que Fribourg se plaint en vain devant la Diète à partir de 1646.",
+   "sources": [
+    {
+     "titre": "DHS, Schwarzenburg (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008452/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 157,
+   "communes": 3,
+   "couleur": "#cdb27a"
+  },
+  {
+   "id": "rheintal",
+   "nom": "Rheintal",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Rheineck",
+   "langues": "Allemand",
+   "religion": "Réformée et catholique",
+   "population": null,
+   "dirigeants": "Zurich, Lucerne, Uri, Schwytz, Unterwald, Zoug, Glaris, Appenzell et, depuis 1712, Berne",
+   "resume": "Conquis par Appenzell au XVe siècle, le Rheintal est devenu bailliage commun en 1490, gouverné par les sept anciens cantons et Appenzell. La paix d'Aarau de 1712 y fait entrer Berne. La Réforme s'y est imposée en 1529, sauf à Montlingen et Oberriet, avant une recatholicisation partielle en 1531, si bien que la vallée reste confessionnellement mixte.",
+   "sources": [
+    {
+     "titre": "DHS, Rheintal",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007648/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 148,
+   "communes": 13,
+   "couleur": "#cdb27a"
+  },
+  {
+   "id": "orbe-echallens",
+   "nom": "Bailliage d'Orbe-Echallens",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Echallens",
+   "langues": "Français",
+   "religion": "Réformée et catholique",
+   "population": null,
+   "dirigeants": "Berne et Fribourg, en alternance",
+   "resume": "Ce bailliage est l'un des quatre que Berne et Fribourg administrent en commun, le bailli étant désigné à tour de rôle par chacune des deux villes. Les habitants y disposent de la liberté de conscience, et chaque paroisse peut voter l'abolition de la messe, ce qui fait d'Echallens une terre confessionnellement mixte. C'est le seul bailliage bernois comptant des catholiques entre 1536 et 1798, et les querelles confessionnelles y restent fréquentes.",
+   "sources": [
+    {
+     "titre": "DHS, Echallens (bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007592/"
+    },
+    {
+     "titre": "DHS, Orbe (seigneurie, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007580/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 144,
+   "communes": 29,
+   "couleur": "#d6bf8a"
+  },
+  {
+   "id": "freie-aemter-inferieurs",
+   "nom": "Freie Ämter inférieurs",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Bremgarten",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Zurich, Berne et Glaris",
+   "resume": "La paix d'Aarau de 1712 a retiré aux cantons catholiques les Freie Ämter inférieurs, au nord de la ligne Fahrwangen-Oberlunkhofen, qui comprennent le Niederamt (Villmergen, Wohlen, Dottikon, Hägglingen, Niederwil, Wohlenschwil, Sarmenstorf), le bailliage de Hermetschwil et une partie de celui de Boswil. Administrés désormais par Zurich, Berne et Glaris, ils forment avec Baden un pont territorial entre Zurich et Berne. Les petites villes de Bremgarten et Mellingen, autonomes, relèvent des mêmes cantons.",
+   "sources": [
+    {
+     "titre": "DHS, Freie Ämter",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008298/"
+    },
+    {
+     "titre": "DHS, Baden (comté, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008296/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    }
+   ],
+   "superficie_km2": 108,
+   "communes": 25,
+   "couleur": "#bf9a63"
+  },
+  {
+   "id": "geneve",
+   "nom": "République de Genève",
+   "categorie": "allie",
+   "regime": "République urbaine, révolutionnaire depuis 1792",
+   "chef_lieu": "Genève",
+   "langues": "Français",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Conseils de la République, sous la Constitution du 5 février 1794",
+   "resume": "La Seigneurie et République de Genève est un pays allié sans siège à la Diète, lié avant tout à Berne et, depuis 1584, à Zurich. Son territoire comprend la ville, les Franchises, les mandements de Peney et de Jussy, Genthod, Céligny et quelques villages de la Champagne, partiellement arrondis par les traités de 1749 et 1754. En décembre 1792, les opposants au gouvernement aristocratique prennent le pouvoir, et la Constitution de 1794 introduit la séparation des pouvoirs et la démocratie directe. La ville compte 27 400 habitants en 1790 et 24 500 en 1800, la campagne 4432 en 1797-1798. Elle sera occupée par la France le 15 avril 1798.",
+   "sources": [
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    },
+    {
+     "titre": "DHS, Communes réunies",
+     "url": "https://hls-dhs-dss.ch/fr/articles/030186/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ],
+   "superficie_km2": 97,
+   "communes": 16,
+   "couleur": "#d4a017"
+  },
+  {
+   "id": "uznach",
+   "nom": "Comté d'Uznach",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Uznach",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Schwytz et Glaris",
+   "resume": "Engagé à Schwytz et Glaris entre 1437 et 1440, puis vendu en 1469, le comté d'Uznach est leur bailliage commun jusqu'en 1798. Schwytz a empêché la propagation de la Réforme, et tous les baillis sont catholiques depuis 1638. En mars 1798, ses habitants tenteront de former avec le Gaster, la Marche et Rapperswil un canton dit unter dem Walensee.",
+   "sources": [
+    {
+     "titre": "DHS, Uznach (comté, bailliage)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007643/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 89,
+   "communes": 7,
+   "couleur": "#b38b5d"
+  },
+  {
+   "id": "mendrisio",
+   "nom": "Bailliage de Mendrisio",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun (bailliages italiens)",
+   "chef_lieu": "Mendrisio",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Les douze cantons (tous sauf Appenzell)",
+   "resume": "Conquis au début du XVIe siècle, ce bailliage est l'un des quatre bailliages italiens gouvernés par les douze cantons, Appenzell excepté. Un bailli désigné à tour de rôle pour deux ans y exerce la justice, et rend ses comptes aux délégués des cantons réunis en sindicato. Comme les autres bailliages tessinois, il est convoité par les patriotes cisalpins, qui veulent annexer les régions suisses du sud des Alpes.",
+   "sources": [
+    {
+     "titre": "DHS, Mendrisio (bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008546/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    },
+    {
+     "titre": "DHS, République cisalpine",
+     "url": "https://hls-dhs-dss.ch/fr/articles/006621/"
+    }
+   ],
+   "superficie_km2": 80,
+   "communes": 22,
+   "couleur": "#cdb27a"
+  },
+  {
+   "id": "abbaye-engelberg",
+   "nom": "Abbaye d'Engelberg",
+   "categorie": "autre",
+   "regime": "Seigneurie abbatiale sous protection des cantons",
+   "chef_lieu": "Engelberg",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Abbé d'Engelberg ; cantons protecteurs Lucerne, Schwytz, Obwald et Nidwald",
+   "resume": "L'abbaye bénédictine d'Engelberg exerce la seigneurie sur sa haute vallée sous la tutelle des cantons protecteurs. Au XVIIIe siècle, l'accroissement de la souveraineté du petit État monastique permet aux abbés de développer l'exportation de bétail et de fromages vers la Lombardie. Le couvent, détruit par un incendie en 1729, a été reconstruit et son église consacrée en 1745. Sous la pression des habitants de la vallée, il renoncera à ses droits de seigneurie en 1798.",
+   "sources": [
+    {
+     "titre": "DHS, Engelberg (abbaye)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008557/"
+    }
+   ],
+   "superficie_km2": 75,
+   "communes": 1,
+   "couleur": "#a7c3a0"
+  },
+  {
+   "id": "morat",
+   "nom": "Bailliage de Morat",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Morat",
+   "langues": "Allemand, français",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Berne et Fribourg, en alternance",
+   "resume": "Ce bailliage est l'un des quatre que Berne et Fribourg administrent en commun, le bailli étant désigné à tour de rôle par chacune des deux villes. Les baillis résident au château de Morat, réaménagé au milieu du XVIIIe siècle, et la ville garde ses statuts, codifiés en 1715. Le bailliage a adopté la Réforme en 1530.",
+   "sources": [
+    {
+     "titre": "DHS, Morat (bailliage)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013097/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ],
+   "superficie_km2": 75,
+   "communes": 21,
+   "couleur": "#b9935a"
+  },
+  {
+   "id": "rhazuns",
+   "nom": "Seigneurie de Rhäzüns",
+   "categorie": "etranger",
+   "regime": "Seigneurie autrichienne, juridiction membre de la Ligue grise",
+   "chef_lieu": "Rhäzüns",
+   "langues": "Romanche, allemand",
+   "religion": "Catholique (réformée à Felsberg)",
+   "population": null,
+   "dirigeants": "Maison d'Autriche, administration habsbourgeoise depuis 1696",
+   "resume": "Acquise par Maximilien Ier en 1497, la seigneurie de Rhäzüns comprend les villages de Rhäzüns, Bonaduz, Ems et Felsberg. Ses quatre villages forment une juridiction de la Ligue grise, et le titre de seigneur de Rhäzüns donne à l'empereur un droit de présentation du président de la Ligue jusqu'à la fin du XVIIIe siècle. Elle ne sera cédée aux Grisons qu'en 1819.",
+   "sources": [
+    {
+     "titre": "DHS, Rhäzüns (seigneurie)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008080/"
+    }
+   ],
+   "superficie_km2": 66,
+   "communes": 4,
+   "couleur": "#a39383"
+  },
+  {
+   "id": "tarasp",
+   "nom": "Seigneurie de Tarasp",
+   "categorie": "etranger",
+   "regime": "Seigneurie autrichienne, fief d'Empire",
+   "chef_lieu": "Tarasp",
+   "langues": "Romanche",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Princes von Dietrichstein, sous la maison d'Autriche",
+   "resume": "La seigneurie de Tarasp, sur la rive droite de l'Inn en Basse-Engadine, appartient à l'Autriche depuis 1464. En 1687, l'empereur Léopold Ier l'a donnée en fief d'Empire héréditaire aux princes von Dietrichstein. Elle ne passera aux Grisons qu'en 1803.",
+   "sources": [
+    {
+     "titre": "DHS, Tarasp (seigneurie, commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001524/"
+    }
+   ],
+   "superficie_km2": 47,
+   "communes": 1,
+   "couleur": "#a39383"
+  },
+  {
+   "id": "rapperswil",
+   "nom": "Ville de Rapperswil",
+   "categorie": "allie",
+   "regime": "Ville-État sous protectorat des cantons",
+   "chef_lieu": "Rapperswil",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Avoyer et conseils de la ville ; cantons protecteurs Zurich, Berne et Glaris depuis 1712",
+   "resume": "Rapperswil est un pays allié des cantons depuis 1464. Pendant la première guerre de Villmergen, en 1656, la ville résiste victorieusement au siège des Zurichois. La paix d'Aarau de 1712 transfère le protectorat d'Uri, Schwytz et Unterwald à Zurich, Berne et Glaris, ce dont la ville se félicite après avoir pris ses distances avec Schwytz. Jona, terre de la ville, est figurée avec elle.",
+   "sources": [
+    {
+     "titre": "DHS, Rapperswil (SG)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001371/"
+    },
+    {
+     "titre": "DHS, Villmergen, seconde guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008911/"
+    }
+   ],
+   "superficie_km2": 22,
+   "communes": 2,
+   "couleur": "#a2c4c9"
+  },
+  {
+   "id": "bienne",
+   "nom": "Ville de Bienne",
+   "categorie": "allie",
+   "regime": "Ville municipale sous suzeraineté du prince-évêque de Bâle",
+   "chef_lieu": "Bienne",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 1698,
+    "annee": 1770,
+    "source": "https://hls-dhs-dss.ch/fr/articles/000222/",
+    "note": "chiffre de 1770, antérieur de plus de vingt ans"
+   },
+   "dirigeants": "Conseils de la ville ; maire représentant le prince-évêque",
+   "resume": "Bienne relève nominalement du prince-évêque de Bâle, mais elle est liée par combourgeoisie à Berne, Fribourg et Soleure et siège de plein droit à la Diète depuis 1667. Sa charte de franchises de 1296, élargie en 1352, reste en vigueur jusqu'en 1798. La ville a perdu l'Erguël en 1606, à la suite de l'affaire de l'échange de Bienne. Elle est figurée avec sa mairie, à savoir Bienne, Bözingen, Vingelz et Evilard.",
+   "sources": [
+    {
+     "titre": "DHS, Bienne (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000222/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    },
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    }
+   ],
+   "superficie_km2": 18,
+   "communes": 4,
+   "couleur": "#b4a7d6"
+  },
+  {
+   "id": "gersau",
+   "nom": "République de Gersau",
+   "categorie": "autre",
+   "regime": "Petite république à landsgemeinde",
+   "chef_lieu": "Gersau",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landsgemeinde et landamman de Gersau",
+   "resume": "Gersau, sur la rive du lac des Quatre-Cantons, est une république libre depuis son rachat de 1390, reconnue par l'empereur Sigismond en 1433. Elle a parmi les Confédérés un statut équivalent à celui de pays allié, les Waldstätten assurant sa protection contre son contingent d'hommes armés, et le pouvoir appartient à sa landsgemeinde dirigée par un landamman. Son hôtel de ville, construit en 1745, est le centre politique du petit État. Elle deviendra en 1798 une simple municipalité, puis un district du canton de Schwytz.",
+   "sources": [
+    {
+     "titre": "DHS, Gersau",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000711/"
+    }
+   ],
+   "superficie_km2": 14,
+   "communes": 1,
+   "couleur": "#9b8ec7"
+  },
+  {
+   "id": "ville-saint-gall",
+   "nom": "Ville de Saint-Gall",
+   "categorie": "allie",
+   "regime": "République urbaine dirigée par les corporations",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Bourgmestre en charge, ancien bourgmestre et bailli impérial, alternant chaque année",
+   "resume": "La ville impériale de Saint-Gall, protestante depuis 1528, forme une enclave dans l'Alte Landschaft de l'abbaye. Pays allié de six cantons, elle siège à la Diète. Trois magistrats, le bourgmestre en charge, l'ancien bourgmestre et le bailli impérial, se relaient à sa tête. Vers 1800, elle est le centre commercial de l'industrie textile de la région.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001321/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    },
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    }
+   ],
+   "superficie_km2": 4,
+   "communes": 1,
+   "couleur": "#f3a64b"
+  },
+  {
+   "id": "mulhouse",
+   "nom": "Ville de Mulhouse",
+   "categorie": "allie",
+   "regime": "République urbaine",
+   "chef_lieu": "Mulhouse",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 6018,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007089/"
+   },
+   "dirigeants": "Bourgmestre et conseils de la ville",
+   "resume": "Mulhouse est un pays allié des cantons depuis le pacte du 19 janvier 1515. Enclave au milieu de l'Alsace devenue française, la petite république vit ses derniers mois d'indépendance. Elle sera réunie à la France en 1798. Elle est hors du fond de carte.",
+   "sources": [
+    {
+     "titre": "DHS, Mulhouse",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007089/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ],
+   "superficie_km2": null,
+   "communes": 0,
+   "couleur": "#c9a0a0"
+  },
+  {
+   "id": "republique-cisalpine",
+   "nom": "République cisalpine",
+   "categorie": "etranger",
+   "regime": "République sœur de la France",
+   "chef_lieu": "Milan",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 3240000,
+    "annee": 1797,
+    "source": "https://hls-dhs-dss.ch/fr/articles/006621/"
+   },
+   "dirigeants": "Directoire cisalpin",
+   "resume": "Créée le 29 juin 1797 par Bonaparte et le Directoire, la République cisalpine s'étend sur la Lombardie et une partie de l'Émilie. Le 10 octobre 1797, Bonaparte lui réunit la Valteline, Chiavenna et Bormio, pays sujets des III Ligues. Ses partisans visent aussi les bailliages tessinois.",
+   "sources": [
+    {
+     "titre": "DHS, République cisalpine",
+     "url": "https://hls-dhs-dss.ch/fr/articles/006621/"
+    },
+    {
+     "titre": "DHS, Valteline",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007135/"
+    }
+   ],
+   "superficie_km2": null,
+   "communes": 0,
+   "couleur": "#b0a89f"
+  }
+ ],
+ "superficie_totale_km2": 39969,
+ "changements": {
+  "depuis": 1648,
+  "liste": [
+   {
+    "de": "eveche-bale",
+    "de_nom": "Principauté épiscopale de Bâle",
+    "vers": "france",
+    "vers_nom": "République française",
+    "communes": 99,
+    "superficie_km2": 920
+   },
+   {
+    "de": "comte-neuchatel",
+    "de_nom": "Comté puis principauté de Neuchâtel",
+    "vers": "neuchatel",
+    "vers_nom": "Principauté de Neuchâtel",
+    "communes": 73,
+    "superficie_km2": 713
+   },
+   {
+    "de": "unterwald",
+    "de_nom": "Canton d'Unterwald",
+    "vers": "obwald",
+    "vers_nom": "Obwald",
+    "communes": 6,
+    "superficie_km2": 406
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+    "vers": "fricktal",
+    "vers_nom": "Fricktal autrichien",
+    "communes": 38,
+    "superficie_km2": 266
+   },
+   {
+    "de": "unterwald",
+    "de_nom": "Canton d'Unterwald",
+    "vers": "nidwald",
+    "vers_nom": "Nidwald",
+    "communes": 11,
+    "superficie_km2": 242
+   },
+   {
+    "de": "freie-aemter",
+    "de_nom": "Freie Ämter",
+    "vers": "freie-aemter-inferieurs",
+    "vers_nom": "Freie Ämter inférieurs",
+    "communes": 25,
+    "superficie_km2": 108
+   },
+   {
+    "de": "savoie",
+    "de_nom": "Duché de Savoie",
+    "vers": "france",
+    "vers_nom": "République française",
+    "communes": 17,
+    "superficie_km2": 99
+   },
+   {
+    "de": "grisons",
+    "de_nom": "Trois Ligues (Grisons)",
+    "vers": "rhazuns",
+    "vers_nom": "Seigneurie de Rhäzüns",
+    "communes": 4,
+    "superficie_km2": 66
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+    "vers": "tarasp",
+    "vers_nom": "Seigneurie de Tarasp",
+    "communes": 1,
+    "superficie_km2": 47
+   },
+   {
+    "de": "lucerne",
+    "de_nom": "Canton de Lucerne",
+    "vers": "freie-aemter",
+    "vers_nom": "Freie Ämter supérieurs",
+    "communes": 11,
+    "superficie_km2": 41
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+    "vers": "schaffhouse",
+    "vers_nom": "Canton de Schaffhouse",
+    "communes": 10,
+    "superficie_km2": 38
+   },
+   {
+    "de": "zurich",
+    "de_nom": "Canton de Zurich",
+    "vers": "bailliage-baden",
+    "vers_nom": "Comté de Baden",
+    "communes": 4,
+    "superficie_km2": 20
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+    "vers": "zurich",
+    "vers_nom": "Canton de Zurich",
+    "communes": 2,
+    "superficie_km2": 19
+   },
+   {
+    "de": "freie-aemter",
+    "de_nom": "Freie Ämter",
+    "vers": "zurich",
+    "vers_nom": "Canton de Zurich",
+    "communes": 4,
+    "superficie_km2": 18
+   },
+   {
+    "de": "freie-aemter",
+    "de_nom": "Freie Ämter",
+    "vers": "lucerne",
+    "vers_nom": "Canton de Lucerne",
+    "communes": 2,
+    "superficie_km2": 14
+   },
+   {
+    "de": "eveche-bale",
+    "de_nom": "Principauté épiscopale de Bâle",
+    "vers": "bale",
+    "vers_nom": "Canton de Bâle",
+    "communes": 4,
+    "superficie_km2": 12
+   },
+   {
+    "de": "zurich",
+    "de_nom": "Canton de Zurich",
+    "vers": "bailliage-thurgovie",
+    "vers_nom": "Landgraviat de Thurgovie",
+    "communes": 1,
+    "superficie_km2": 9
+   },
+   {
+    "de": "bienne",
+    "de_nom": "Ville de Bienne",
+    "vers": "berne",
+    "vers_nom": "Canton de Berne",
+    "communes": 2,
+    "superficie_km2": 6
+   }
+  ]
+ }
+}

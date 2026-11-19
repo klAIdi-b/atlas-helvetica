@@ -114,6 +114,124 @@
   "La catégorie 'autre' regroupe des seigneuries et principautés ecclésiastiques liées à la Confédération sans en être alliées formelles en 1513 (évêchés de Bâle, Lausanne et Genève, Valangin, Engelberg, Gersau, Werdenberg, Sax-Forstegg)."
  ],
  "confiance": "Sont sûrs la liste des treize cantons avec l'entrée d'Appenzell le 17 décembre 1513, la composition et les cantons gouvernants des bailliages communs allemands, tessinois et bernois-fribourgeois, l'occupation de Neuchâtel (1512-1529), le statut savoyard du Pays de Vaud, de Monthey et des terres fribourgeoises de l'ouest, l'Autriche au Fricktal, Mulhouse non encore alliée. Sont moins sûrs les limites fines dans les zones morcelées (Fribourg, Gruyère, Genève, Klettgau et Reiat, Birseck et Thierstein, district de See, Untertoggenburg), où les juridictions médiévales ne suivent pas les communes de 1850, ainsi que le classement des petits territoires sans alliance formelle. Les populations ne sont données que lorsqu'un chiffre précis figure dans le DHS.",
+ "evenements": [
+  {
+   "annee": 1499,
+   "date_precise": "Janvier à septembre 1499",
+   "type": "bataille",
+   "titre": "Guerre de Souabe et paix de Bâle",
+   "lieu": "Frontière du Rhin, des Grisons au Sundgau",
+   "texte": "Dix cantons et leurs alliés affrontent la maison de Habsbourg-Autriche et la Ligue de Souabe sur trois fronts, des Grisons à Bâle, et l'emportent notamment au Bruderholz, à Schwaderloh, à Calven et à Dornach (22 juillet). La paix signée à Bâle le 22 septembre 1499 rétablit pour l'essentiel la situation antérieure, mais transfère aux Confédérés la haute juridiction sur la Thurgovie, jusque-là engagée à la ville de Constance. Le Rhin et le lac de Constance deviennent une frontière politique durable.",
+   "camps": "Dix cantons confédérés et leurs alliés grisons contre la maison de Habsbourg-Autriche, l'empereur Maximilien Ier et la Ligue de Souabe",
+   "issue": "Victoire des Confédérés, paix de Bâle du 22 septembre 1499",
+   "sources": [
+    {
+     "titre": "DHS, Souabe, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008888/"
+    },
+    {
+     "titre": "DHS, Bâle, paix de (1499)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008892/"
+    }
+   ]
+  },
+  {
+   "annee": 1500,
+   "date_precise": "Avril 1500",
+   "type": "conquete",
+   "titre": "Les Confédérés prennent Bellinzone",
+   "lieu": "Bellinzone, Riviera et val Blenio",
+   "texte": "Après la conquête du Milanais par Louis XII et la capture du duc Ludovic Sforza lors de la trahison de Novare (avril 1500), des troupes suisses s'emparent de Bellinzone, de la Riviera et du val Blenio. Bellinzone est sous le contrôle des Confédérés dès avril 1500. Le traité d'Arona (1503) fait reconnaître par le roi de France ces territoires comme bailliages d'Uri, de Schwytz et de Nidwald.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Italie, guerres d'",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008893/"
+    },
+    {
+     "titre": "DHS, Bellinzone (pieve, bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008540/"
+    }
+   ]
+  },
+  {
+   "annee": 1501,
+   "date_precise": "Juin et août 1501",
+   "type": "alliance",
+   "titre": "Entrée de Bâle et de Schaffhouse dans la Confédération",
+   "lieu": "Bâle et Schaffhouse",
+   "texte": "Conséquence directe de la guerre de Souabe, Bâle puis Schaffhouse entrent dans la Confédération en 1501 comme membres de plein droit. Bâle, qui se heurtait aux Soleurois dans le Sisgau, a tiré les leçons de la guerre, tandis que la campagne schaffhousoise avait beaucoup souffert des combats de 1499. Schaffhouse devient ainsi le douzième canton.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Souabe, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008888/"
+    },
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    }
+   ]
+  },
+  {
+   "annee": 1513,
+   "date_precise": "6 juin 1513",
+   "type": "bataille",
+   "titre": "Bataille de Novare",
+   "lieu": "Novare (Italie du Nord)",
+   "texte": "Protecteurs du duché de Milan depuis l'expédition de Pavie (1512), qui a installé Maximilien Sforza, les Confédérés affrontent l'armée de Louis XII revenue en Lombardie. Le 6 juin au petit matin, ils prennent l'ennemi en tenaille et mettent en fuite lansquenets, infanterie et cavalerie françaises. Cette victoire marque le sommet de leur puissance militaire, peu après que les garnisons françaises ont été chassées des châteaux de Lugano et de Locarno.",
+   "camps": "Confédérés contre l'armée du roi de France Louis XII",
+   "issue": "Victoire des Confédérés",
+   "sources": [
+    {
+     "titre": "DHS, Novare, batailles de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008894/"
+    },
+    {
+     "titre": "DHS, Italie, guerres d'",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008893/"
+    }
+   ]
+  },
+  {
+   "annee": 1513,
+   "date_precise": "Septembre 1513",
+   "type": "bataille",
+   "titre": "Expédition de Dijon",
+   "lieu": "Dijon (Bourgogne)",
+   "texte": "Profitant de la défaite française de Guinegatte face à Henri VIII et à Maximilien Ier, les Confédérés assiègent Dijon à partir du 7 septembre 1513 avec l'appui du duc Ulrich de Wurtemberg. Le gouverneur Louis de La Trémoille capitule quelques jours plus tard et signe un traité par lequel la France renonce à Milan et promet 400 000 écus. Louis XII ne ratifie jamais ce traité, et les troupes confédérées, désunies, se sont déjà retirées.",
+   "camps": "Confédérés, avec le duc Ulrich de Wurtemberg, contre la garnison française de Louis de La Trémoille",
+   "issue": "Capitulation de Dijon, mais traité jamais ratifié par Louis XII",
+   "sources": [
+    {
+     "titre": "DHS, Dijon, expédition de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008895/"
+    }
+   ]
+  },
+  {
+   "annee": 1513,
+   "date_precise": "17 décembre 1513",
+   "type": "alliance",
+   "titre": "Appenzell, treizième canton",
+   "lieu": "Appenzell",
+   "texte": "Les demandes d'Appenzell pour devenir canton à part entière avaient été repoussées en 1501, 1510 et 1512 par les cantons protecteurs de l'abbaye de Saint-Gall. Après la crise provoquée par le siège de Dijon, les Confédérés l'admettent dans l'alliance le 17 décembre 1513. À la Diète de janvier 1514, l'amman Hans Meggeli prend ostensiblement la treizième place, devant l'abbé et la ville de Saint-Gall.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Appenzell (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007389/"
+    }
+   ]
+  }
+ ],
  "territoires": [
   {
    "id": "grisons",
@@ -368,8 +486,8 @@
      "url": "https://hls-dhs-dss.ch/fr/articles/000601/"
     }
    ],
-   "superficie_km2": 1426,
-   "communes": 108,
+   "superficie_km2": 1437,
+   "communes": 109,
    "couleur": "#59a6a0"
   },
   {
@@ -889,7 +1007,7 @@
    "langues": "Allemand",
    "religion": "Catholique (avant la Réforme)",
    "population": null,
-   "dirigeants": "Zurich, Lucerne, Uri, Schwytz, Unterwald, Zoug et Glaris",
+   "dirigeants": "Zurich, Lucerne, Schwytz, Unterwald, Zoug et Glaris (Uri n'y entre qu'en 1532)",
    "resume": "Conquis en 1415, les Freie Ämter s'étendent sur quarante-cinq communes des vallées de la Reuss et de la Bünz. Ils sont divisés en treize petits bailliages, dont Muri, Meienberg, Hitzkirch, Villmergen et Wohlen. Le bailli, nommé pour deux ans, n'y réside pas et vient surtout tenir les tribunaux. Les villes de Bremgarten et Mellingen, qui conservent de larges droits, sont comptées ici dans cet ensemble.",
    "sources": [
     {
@@ -909,8 +1027,8 @@
      "url": "https://hls-dhs-dss.ch/fr/articles/000601/"
     }
    ],
-   "superficie_km2": 260,
-   "communes": 50,
+   "superficie_km2": 249,
+   "communes": 49,
    "couleur": "#a98551"
   },
   {
@@ -1513,7 +1631,7 @@
    ],
    "superficie_km2": null,
    "communes": 0,
-   "couleur": "#c0c0c0"
+   "couleur": "#b0a0a0"
   },
   {
    "id": "mulhouse",
@@ -1534,7 +1652,7 @@
    ],
    "superficie_km2": null,
    "communes": 0,
-   "couleur": "#b5b0a8"
+   "couleur": "#c9a0a0"
   },
   {
    "id": "ossola",
@@ -1559,8 +1677,149 @@
    ],
    "superficie_km2": null,
    "communes": 0,
-   "couleur": "#c0c0c0"
+   "couleur": "#b8aa98"
   }
  ],
- "superficie_totale_km2": 39969
+ "superficie_totale_km2": 39969,
+ "changements": {
+  "depuis": 1481,
+  "liste": [
+   {
+    "de": "milan",
+    "de_nom": "Duché de Milan",
+    "vers": "vallemaggia",
+    "vers_nom": "Bailliage du val Maggia",
+    "communes": 22,
+    "superficie_km2": 587
+   },
+   {
+    "de": "milan",
+    "de_nom": "Duché de Milan",
+    "vers": "bailliage-locarno",
+    "vers_nom": "Bailliage de Locarno",
+    "communes": 42,
+    "superficie_km2": 533
+   },
+   {
+    "de": "milan",
+    "de_nom": "Duché de Milan",
+    "vers": "blenio",
+    "vers_nom": "Val Blenio",
+    "communes": 17,
+    "superficie_km2": 361
+   },
+   {
+    "de": "milan",
+    "de_nom": "Duché de Milan",
+    "vers": "bailliage-lugano",
+    "vers_nom": "Bailliage de Lugano",
+    "communes": 109,
+    "superficie_km2": 322
+   },
+   {
+    "de": "comte-sargans",
+    "de_nom": "Comté de Sargans",
+    "vers": "sargans",
+    "vers_nom": "Pays de Sargans",
+    "communes": 4,
+    "superficie_km2": 246
+   },
+   {
+    "de": "milan",
+    "de_nom": "Duché de Milan",
+    "vers": "bellinzone",
+    "vers_nom": "Bellinzone",
+    "communes": 24,
+    "superficie_km2": 212
+   },
+   {
+    "de": "milan",
+    "de_nom": "Duché de Milan",
+    "vers": "riviera",
+    "vers_nom": "Riviera",
+    "communes": 6,
+    "superficie_km2": 166
+   },
+   {
+    "de": "appenzell",
+    "de_nom": "Pays d'Appenzell",
+    "vers": "rheintal",
+    "vers_nom": "Rheintal",
+    "communes": 13,
+    "superficie_km2": 148
+   },
+   {
+    "de": "milan",
+    "de_nom": "Duché de Milan",
+    "vers": "mendrisio",
+    "vers_nom": "Mendrisio et Balerna",
+    "communes": 22,
+    "superficie_km2": 80
+   },
+   {
+    "de": "eveche-bale",
+    "de_nom": "Principauté épiscopale de Bâle",
+    "vers": "soleure",
+    "vers_nom": "Canton de Soleure",
+    "communes": 11,
+    "superficie_km2": 75
+   },
+   {
+    "de": "gruyere",
+    "de_nom": "Comté de Gruyère",
+    "vers": "fribourg",
+    "vers_nom": "Canton de Fribourg",
+    "communes": 2,
+    "superficie_km2": 58
+   },
+   {
+    "de": "werdenberg",
+    "de_nom": "Comté de Werdenberg",
+    "vers": "sargans",
+    "vers_nom": "Pays de Sargans",
+    "communes": 1,
+    "superficie_km2": 42
+   },
+   {
+    "de": "eglisau",
+    "de_nom": "Seigneurie d'Eglisau",
+    "vers": "zurich",
+    "vers_nom": "Canton de Zurich",
+    "communes": 5,
+    "superficie_km2": 38
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+    "vers": "gaster",
+    "vers_nom": "Gaster et Weesen",
+    "communes": 1,
+    "superficie_km2": 22
+   },
+   {
+    "de": "eveche-bale",
+    "de_nom": "Principauté épiscopale de Bâle",
+    "vers": "bale",
+    "vers_nom": "Canton de Bâle",
+    "communes": 2,
+    "superficie_km2": 21
+   },
+   {
+    "de": "stein-am-rhein",
+    "de_nom": "Ville de Stein am Rhein",
+    "vers": "zurich",
+    "vers_nom": "Canton de Zurich",
+    "communes": 2,
+    "superficie_km2": 14
+   },
+   {
+    "de": "zurich",
+    "de_nom": "Canton de Zurich",
+    "vers": "habsbourg",
+    "vers_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+    "communes": 1,
+    "superficie_km2": 6
+   }
+  ]
+ }
 }

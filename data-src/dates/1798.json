@@ -1252,5 +1252,127 @@
   "La seigneurie de Rhäzüns (autrichienne mais membre de la Ligue grise) est incluse dans les Grisons.",
   "Le canton de Baden comprend les districts argoviens de Baden, Zurzach, Bremgarten et Muri de 1850, moins le bailliage lucernois de Merenschwand (Merenschwand et Benzenschwil, restés lucernois)."
  ],
- "confiance": "Sont sûrs d'après le DHS la liste des dix-huit cantons et leurs chefs-lieux, la composition des cantons créés en 1798 (Oberland, Baden, Waldstätten, Linth, Säntis, Bellinzone, Lugano, Léman), les dates d'annexion de Genève, Mulhouse, Bienne et du sud de l'évêché, le statut de Neuchâtel, du Fricktal, de Tarasp et des Grisons, ainsi que les cas de Hitzkirch, Merenschwand, Dietikon, Schlieren, Hüttikon, Dörflingen, Ramsen et Diessenhofen. Sont moins sûrs le partage exact du district de Thoune, la limite Linth-Säntis dans le Toggenbourg, la frontière de Bienne et quelques communes isolées (Rheinau, Schwarzenburg, Urdorf). Les noms des préfets ne sont donnés que lorsque le DHS les cite."
+ "confiance": "Sont sûrs d'après le DHS la liste des dix-huit cantons et leurs chefs-lieux, la composition des cantons créés en 1798 (Oberland, Baden, Waldstätten, Linth, Säntis, Bellinzone, Lugano, Léman), les dates d'annexion de Genève, Mulhouse, Bienne et du sud de l'évêché, le statut de Neuchâtel, du Fricktal, de Tarasp et des Grisons, ainsi que les cas de Hitzkirch, Merenschwand, Dietikon, Schlieren, Hüttikon, Dörflingen, Ramsen et Diessenhofen. Sont moins sûrs le partage exact du district de Thoune, la limite Linth-Säntis dans le Toggenbourg, la frontière de Bienne et quelques communes isolées (Rheinau, Schwarzenburg, Urdorf). Les noms des préfets ne sont donnés que lorsque le DHS les cite.",
+ "evenements": [
+  {
+   "annee": 1798,
+   "date_precise": "24 janvier 1798",
+   "type": "revolution",
+   "titre": "Révolution vaudoise",
+   "lieu": "Lausanne et Pays de Vaud",
+   "texte": "Encouragés par la présence d'une division française près de Versoix, les patriotes vaudois font éclater la révolution le 24 janvier 1798. À Lausanne, les délégués des villes et des villages se constituent en Assemblée représentative provisoire du Pays de Vaud et les baillis bernois se retirent. Le nom de République lémanique, employé dès 1790 par Frédéric-César de La Harpe, n'est pas officiellement proclamé, et l'incident de Thierrens (25 janvier) sert de prétexte à l'entrée des troupes françaises le 28 janvier.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Révolution helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017217/"
+    },
+    {
+     "titre": "DHS, République lémanique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/022729/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "1er au 5 mars 1798",
+   "type": "conquete",
+   "titre": "Invasion française et chute de Berne",
+   "lieu": "Soleure, Fribourg et Berne",
+   "texte": "Les troupes françaises attaquent le 1er mars 1798 à la fois depuis l'ancien évêché de Bâle et depuis le Pays de Vaud. Soleure capitule, Fribourg et Morat sont pris, et le gouvernement bernois abdique le 4 mars. Le 5 mars, le général Schauenburg reçoit la capitulation de Berne, dont les trésors seront emportés en France.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Invasion française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008915/"
+    },
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "Début mars 1798",
+   "type": "bataille",
+   "titre": "Batailles du Grauholz et de Neuenegg",
+   "lieu": "Grauholz et Neuenegg (Berne)",
+   "texte": "Après l'abdication de leur gouvernement, les troupes bernoises tentent encore d'arrêter l'avance française. Au nord, battues près de Fraubrunnen, elles subissent une défaite définitive au Grauholz, tandis qu'au sud elles arrêtent les Français près de Neuenegg, un succès qui n'a plus d'influence sur le cours de la guerre. Les combats font 700 morts du côté bernois.",
+   "camps": "Troupes bernoises contre l'armée française",
+   "issue": "Défaite bernoise au Grauholz, succès bernois sans lendemain à Neuenegg, occupation de Berne le 5 mars",
+   "sources": [
+    {
+     "titre": "DHS, Invasion française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008915/"
+    },
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "12 avril 1798",
+   "type": "institution",
+   "titre": "Proclamation de la République helvétique",
+   "lieu": "Aarau",
+   "texte": "Le 12 avril 1798, des députés de dix cantons réunis à Aarau proclament la République helvétique. Sa Constitution, octroyée par la France, adapte la Constitution française de 1795 et fait de la Suisse un État unitaire. Dès le 4 avril, la Suisse ne comptait déjà plus aucun pays sujet.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    },
+    {
+     "titre": "DHS, Révolution helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017217/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "Avril au 4 mai 1798",
+   "type": "bataille",
+   "titre": "Résistance de la Suisse centrale",
+   "lieu": "Schwytz, Rothenthurm et Morgarten",
+   "texte": "Schwytz, Nidwald et Uri refusent la nouvelle Constitution et lèvent 10 000 hommes sous le commandement d'Alois Reding. La contre-attaque du général Schauenburg fait capituler Zoug, Lucerne et Glaris, et les victoires schwytzoises de Rothenthurm et de Morgarten ne renversent pas la situation. Le 4 mai 1798, la landsgemeinde de Schwytz abandonne la lutte, et le même jour le commissaire Rapinat crée le canton des Waldstätten pour réduire le poids des cantons récalcitrants.",
+   "camps": "Schwytz, Nidwald, Uri et leurs alliés contre l'armée française du général Schauenburg",
+   "issue": "Victoire française, capitulation de Schwytz le 4 mai 1798",
+   "sources": [
+    {
+     "titre": "DHS, Invasion française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008915/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "9 septembre 1798",
+   "type": "bataille",
+   "titre": "Journées de terreur de Nidwald",
+   "lieu": "Stans, Ennetmoos, Stansstad et Buochs (Nidwald)",
+   "texte": "Le serment civique imposé le 12 juillet 1798 provoque une insurrection à Nidwald, dont une landsgemeinde refuse le 29 août l'ultimatum des autorités helvétiques. Le 9 septembre, l'armée française du général Schauenburg écrase la révolte, puis se livre à des massacres qui font environ 300 victimes, hommes, femmes et enfants, en plus d'une centaine de morts au combat dans chaque camp. Ennetmoos, Stansstad, Buochs et Stans sont dévastés.",
+   "camps": "Insurgés nidwaldiens contre l'armée française du général Schauenburg, appelée par les autorités helvétiques",
+   "issue": "Victoire française suivie de massacres",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ]
+  }
+ ]
 }

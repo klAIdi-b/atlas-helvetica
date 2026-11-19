@@ -1,0 +1,1837 @@
+{
+ "date": 1291,
+ "titre": "Le pacte des trois vallées",
+ "recit": "Au mois d'août 1291, les hommes de la vallée d'Uri, la communauté de Schwytz et celle de la vallée inférieure d'Unterwald, c'est-à-dire Nidwald, scellent une alliance d'assistance mutuelle et d'arbitrage. Le pacte suit de quelques semaines la mort du roi Rodolphe de Habsbourg, survenue le 15 juillet, dans une région où sa maison vient d'acheter les droits de l'abbaye de Murbach sur Lucerne et sur des domaines d'Unterwald. Les historiens actuels y voient une paix territoriale parmi bien d'autres, qui insiste autant sur l'entraide que sur l'obéissance due aux seigneurs, et non l'acte de naissance d'un État, Roger Sablonier allant jusqu'à le tenir pour un document de 1309 antidaté. Le récit du Grütli, de Guillaume Tell et de la destruction des châteaux n'apparaît que dans les années 1470, et le parchemin de 1291, oublié, n'est retrouvé qu'en 1758. La carte montre trois petites communautés alpines au milieu d'un paysage dominé par les Habsbourg, héritiers des Kibourg, et par la Savoie, maîtresse du Pays de Vaud et du Bas-Valais. Autour d'eux s'étend une mosaïque d'évêchés, d'abbayes, de comtes et de villes d'Empire comme Zurich, Berne ou Soleure. Obwald est figuré à part, car sa mention dans le pacte est une adjonction postérieure et son adhésion reste obscure.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Confédération",
+   "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+  },
+  {
+   "titre": "DHS, Pactes fédéraux",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009600/"
+  },
+  {
+   "titre": "DHS, Nidwald",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+  },
+  {
+   "titre": "DHS, Schwytz (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+  },
+  {
+   "titre": "DHS, Rodolphe Ier (Saint Empire romain germanique)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/029461/"
+  }
+ ],
+ "territoires": [
+  {
+   "id": "uri",
+   "nom": "Uri (communauté de la vallée)",
+   "categorie": "canton",
+   "regime": "Communauté de vallée d'Empire",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Amman de la vallée, à la fois chef local et officier royal",
+   "resume": "Les gens d'Uri agissent collectivement depuis longtemps et possèdent un sceau à tête de taureau attesté en 1243. Un privilège du roi Henri, fils de Frédéric II, leur aurait conféré l'immédiateté impériale en 1231, mais l'acte n'est connu que par Aegidius Tschudi. Le pays reste traversé de seigneuries foncières, celles du Fraumünster de Zurich, de l'abbaye de Wettingen et des barons d'Attinghausen. La vallée d'Urseren, qui relève de l'abbaye de Disentis et d'un bailliage impérial passé aux Habsbourg en 1283, est figurée à part.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Frédéric II",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029200/"
+    }
+   ]
+  },
+  {
+   "id": "schwyz",
+   "nom": "Schwytz (communauté de la vallée)",
+   "categorie": "canton",
+   "regime": "Communauté de vallée d'Empire",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Landamman et gens de Schwytz",
+   "resume": "La vallée de Schwytz a reçu de l'empereur Frédéric II en 1240 l'immédiateté impériale, et ses structures communales se renforcent dans la seconde moitié du XIIIe siècle. Les Habsbourg y détiennent des patronages et, depuis 1283, l'avouerie de l'abbaye d'Einsiedeln, avec laquelle les Schwytzois se disputent des alpages et des forêts. Rodolphe Ier favorise pourtant leurs libertés, par exemple avec la lettre sur les juges de février 1291. La figure retient le district de Schwytz de 1850, alors qu'Arth n'est incorporé au pays qu'au XIVe siècle.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Rodolphe Ier (Saint Empire romain germanique)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029461/"
+    }
+   ]
+  },
+  {
+   "id": "unterwald",
+   "nom": "Nidwald (vallée inférieure d'Unterwald)",
+   "categorie": "canton",
+   "regime": "Communauté paroissiale et de vallée",
+   "chef_lieu": "Stans",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les historiens identifient Nidwald à la communauté des hommes de la vallée inférieure mentionnée dans le pacte de 1291, scellé du sceau de la communauté de Stans. Les Habsbourg y détiennent des droits de justice et, depuis 1291, les droits fonciers de Murbach-Lucerne, tandis que l'abbaye d'Engelberg possède le domaine de Buochs. La vallée ne dispose sans doute alors que de structures communautaires paroissiales assez faibles, et certains historiens voient en elle l'associé cadet d'Uri et de Schwytz.",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    }
+   ]
+  },
+  {
+   "id": "obwald",
+   "nom": "Obwald (vallée supérieure d'Unterwald)",
+   "categorie": "autre",
+   "regime": "Communauté de vallée en formation sous seigneurs ecclésiastiques et habsbourgeois",
+   "chef_lieu": "Sarnen",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "La mention de la vallée supérieure dans le pacte de 1291 est une adjonction postérieure, et une éventuelle adhésion plus tardive d'Obwald reste un point obscur. Les gens de Sarnen forment pourtant une communauté de vallée attestée dès 1247. L'achat par les Habsbourg, en 1291, des droits du prieuré de Lucerne dans le haut pays a pu favoriser la formation de cette communauté. Le DHS fait d'Obwald un membre de l'alliance peut-être peu après 1291 et probablement avant 1309, d'où sa figuration à part.",
+   "sources": [
+    {
+     "titre": "DHS, Obwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007410/"
+    },
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    }
+   ]
+  },
+  {
+   "id": "abbaye-engelberg",
+   "nom": "Abbaye d'Engelberg",
+   "categorie": "autre",
+   "regime": "Seigneurie abbatiale",
+   "chef_lieu": "Engelberg",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "L'abbaye bénédictine a constitué pour l'essentiel au XIIIe siècle un territoire allant de Grafenort au col des Surenen, où l'abbé revendique haute et basse justice. Rodolphe Ier de Habsbourg en devient l'avoué en 1274. Depuis la fin du XIIIe siècle, Uri lui dispute les alpages situés au-delà des Surenen.",
+   "sources": [
+    {
+     "titre": "DHS, Engelberg (abbaye)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008557/"
+    },
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    }
+   ]
+  },
+  {
+   "id": "abbaye-einsiedeln",
+   "nom": "Abbaye d'Einsiedeln",
+   "categorie": "autre",
+   "regime": "Seigneurie abbatiale, principauté d'Empire",
+   "chef_lieu": "Einsiedeln",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les abbés d'Einsiedeln portent le titre de princes d'Empire, attesté en 1274, et possèdent depuis le Xe siècle des domaines au bord du lac de Zurich, à Pfäffikon et Wollerau notamment. L'avouerie du couvent, après les Rapperswil, est aux mains des Habsbourg depuis 1283. Le conflit de frontières avec Schwytz, le Marchenstreit, reprend vers 1300. Les Höfe sont rattachés ici à l'abbaye par approximation.",
+   "sources": [
+    {
+     "titre": "DHS, Einsiedeln (abbaye de bénédictins)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/011491/"
+    },
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    }
+   ]
+  },
+  {
+   "id": "zurich",
+   "nom": "Ville impériale de Zurich",
+   "categorie": "autre",
+   "regime": "Ville d'Empire gouvernée par son Conseil",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Conseil de la ville",
+   "resume": "Zurich jouit de l'immédiateté impériale depuis l'extinction des Zähringen en 1218, et son Conseil agit de plus en plus de façon autonome après 1250. Son influence reste limitée à son ressort propre jusqu'au milieu du XIVe siècle, car la campagne environnante relève surtout des Habsbourg. Après la mort de Rodolphe Ier, la ville conclut à la fin de 1291 une alliance défensive limitée avec Uri et Schwytz, mais elle est vaincue à Winterthour en 1292.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    }
+   ]
+  },
+  {
+   "id": "berne",
+   "nom": "Ville impériale de Berne",
+   "categorie": "autre",
+   "regime": "Ville d'Empire gouvernée par son avoyer et son Conseil",
+   "chef_lieu": "Berne",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Avoyer et Conseil",
+   "resume": "Berne dépend directement de l'empereur depuis 1218 et cherche protection par un réseau d'alliances avec Fribourg, l'évêque de Sion, le Hasli, Bienne et même la Savoie, dont le comte exerce un protectorat en 1291. Rodolphe Ier a confirmé ses franchises en 1274, mais la ville a refusé son impôt, résisté à deux sièges en 1288 puis été battue à la Schosshalde en 1289. Son expansion territoriale ne commence que vers 1300, aussi seule la commune de Berne est figurée.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    }
+   ]
+  },
+  {
+   "id": "soleure",
+   "nom": "Ville impériale de Soleure",
+   "categorie": "autre",
+   "regime": "Ville d'Empire",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Ancienne ville des Zähringen, Soleure relève de l'Empire depuis leur extinction en 1218. Les comtes de Buchegg, landgraves sur la rive droite de l'Aar, détiennent l'avouerie du chapitre de Saint-Ours. Son alliance avec Berne remonte peut-être à 1295 et sa politique territoriale ne commence qu'en 1344, d'où une figuration limitée à la commune de Soleure.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    },
+    {
+     "titre": "DHS, Frédéric II",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029200/"
+    }
+   ]
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Ville de Schaffhouse",
+   "categorie": "autre",
+   "regime": "Ville d'Empire en voie d'émancipation de l'abbaye d'Allerheiligen",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "L'abbaye d'Allerheiligen reste nominalement seigneur de la ville, mais Schaffhouse fait retour à l'Empire à la mort de Berthold V de Zähringen en 1218. Les bourgeois s'émancipent au XIIIe siècle, avec un sceau municipal dès 1253 et un Conseil mentionné en 1272. Seule la commune de Schaffhouse est figurée comme ville, le reste du canton étant compté aux Habsbourg.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    }
+   ]
+  },
+  {
+   "id": "fribourg",
+   "nom": "Ville de Fribourg (sous les Habsbourg)",
+   "categorie": "autre",
+   "regime": "Ville seigneuriale autonome sous suzeraineté habsbourgeoise",
+   "chef_lieu": "Fribourg",
+   "langues": "Français et allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Avoyer et Conseil, sous l'autorité des Habsbourg",
+   "resume": "Fondée par les Zähringen puis passée aux Kibourg, Fribourg s'est placée en 1263 sous la protection de Rodolphe de Habsbourg et appartient à sa maison depuis 1277. Les Habsbourg lui retirent entre 1289 et 1308 le droit d'élire son avoyer et son curé. La ville est bilingue dès l'origine et rivale de Berne. Le territoire figuré, la commune de Fribourg et le district de la Singine, est une approximation de sa zone d'influence.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Habsbourg, maison de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019506/"
+    }
+   ]
+  },
+  {
+   "id": "habsbourg",
+   "nom": "Maison de Habsbourg",
+   "categorie": "etranger",
+   "regime": "Seigneuries patrimoniales et biens d'Empire de la maison de Habsbourg",
+   "chef_lieu": "Lenzbourg pour les possessions argoviennes",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Roi Rodolphe Ier (mort le 15 juillet 1291), puis ses fils les ducs d'Autriche",
+   "resume": "Rodolphe IV de Habsbourg, roi des Romains sous le nom de Rodolphe Ier depuis 1273, s'est emparé de l'essentiel de l'héritage des Kibourg contre la Savoie, avec la Thurgovie, Glaris et le Gaster. Il acquiert Fribourg en 1277, soumet Berne en 1288 et achète en 1291 les droits de l'abbaye de Murbach sur Lucerne et ses domaines. La maison tient ainsi l'Argovie, la majeure partie des campagnes lucernoise, zougoise et zurichoise, et la route du Gothard jusqu'à l'Urseren. La couleur regroupe aussi la branche des Habsbourg-Laufenbourg, landgraves du Klettgau.",
+   "sources": [
+    {
+     "titre": "DHS, Habsbourg, maison de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019506/"
+    },
+    {
+     "titre": "DHS, Rodolphe Ier (Saint Empire romain germanique)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029461/"
+    },
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    },
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    },
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    },
+    {
+     "titre": "DHS, Klettgau",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007545/"
+    }
+   ]
+  },
+  {
+   "id": "kibourg-berthoud",
+   "nom": "Comté de Kibourg-Berthoud",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale",
+   "chef_lieu": "Berthoud",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Eberhard Ier de Habsbourg-Laufenbourg et Anna de Kibourg",
+   "resume": "Né en 1273 du mariage d'Anna de Kibourg avec Eberhard Ier de Habsbourg-Laufenbourg, ce comté réunit la partie occidentale de l'ancien domaine des Kibourg. Il comprend la Haute-Argovie avec Berthoud, Wangen an der Aare et Landshut, ainsi que la ville et le bailliage de Thoune. La famille, déjà endettée, oscille entre l'alliance autrichienne et celle de Berne.",
+   "sources": [
+    {
+     "titre": "DHS, Kibourg, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019520/"
+    }
+   ]
+  },
+  {
+   "id": "rapperswil",
+   "nom": "Comté de Rapperswil",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale",
+   "chef_lieu": "Rapperswil",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Comtesse Elisabeth de Rapperswil",
+   "resume": "La seigneurie des comtes de Rapperswil s'étire de l'Oberland zurichois à la Suisse centrale, avec la ville neuve de Rapperswil et l'ancien château d'Alt-Rapperswil à Altendorf. Le mariage de l'héritière Elisabeth avec Ludwig von Homberg, vers 1282, tend les relations avec les Habsbourg, qui revendiquent aussi la succession. La figure retient la région du district du Lac (sans Uznach) et la Marche, par approximation.",
+   "sources": [
+    {
+     "titre": "DHS, Rapperswil (SG)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001371/"
+    },
+    {
+     "titre": "DHS, Rapperswil, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019535/"
+    },
+    {
+     "titre": "DHS, Homberg, von",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019519/"
+    }
+   ]
+  },
+  {
+   "id": "toggenbourg",
+   "nom": "Comté de Toggenbourg",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale",
+   "chef_lieu": null,
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Comtes de Toggenbourg",
+   "resume": "Comtes depuis 1209, les Toggenbourg ont perdu Wil au profit de l'abbaye de Saint-Gall mais tiennent la vallée de la Thur et le comté d'Uznach, qu'ils ont élevé au rang de ville. Après une crise à la fin du XIIIe siècle, ils étendront leur pouvoir au siècle suivant.",
+   "sources": [
+    {
+     "titre": "DHS, Toggenbourg, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019545/"
+    },
+    {
+     "titre": "DHS, Uznach (comté, bailliage)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007643/"
+    },
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    }
+   ]
+  },
+  {
+   "id": "werdenberg",
+   "nom": "Comtes de Werdenberg",
+   "categorie": "autre",
+   "regime": "Seigneuries comtales",
+   "chef_lieu": "Werdenberg et Sargans",
+   "langues": "Allemand, romanche",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Branche détachée des Montfort entre 1245 et 1260, les Werdenberg ont créé les centres de pouvoir de Sargans et de Werdenberg et une administration indépendante. Ils contrôlent les voies du lac de Walenstadt et de la vallée du Rhin. Les Habsbourg s'avancent toutefois dans la région du lac de Walenstadt dès la fin du XIIIe siècle.",
+   "sources": [
+    {
+     "titre": "DHS, Werdenberg, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019548/"
+    },
+    {
+     "titre": "DHS, Sarganserland",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007645/"
+    }
+   ]
+  },
+  {
+   "id": "seigneurie-sax",
+   "nom": "Barons de Sax (Misox et Sax)",
+   "categorie": "autre",
+   "regime": "Seigneurie baronniale",
+   "chef_lieu": "Mesocco",
+   "langues": "Lombard, allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les von Sax, possessionnés des deux côtés des Alpes, détiennent les principaux droits souverains dans la Mesolcina et la Calanca, avec le château de Mesocco, et la seigneurie de Sax dans la vallée du Rhin. Ils ont atteint un premier apogée au début du XIIIe siècle grâce à l'abbaye de Saint-Gall et à plusieurs avoueries.",
+   "sources": [
+    {
+     "titre": "DHS, Sax, von",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019541/"
+    }
+   ]
+  },
+  {
+   "id": "abbaye-saint-gall",
+   "nom": "Principauté abbatiale de Saint-Gall",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique d'Empire",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Abbé Wilhelm von Montfort, contesté par l'anti-abbé Konrad von Gundelfingen (1288-1291)",
+   "resume": "Prince d'Empire depuis 1207, l'abbé gouverne une seigneurie territoriale entre Rorschach et Wil, dans le Bas-Toggenbourg et au pays d'Appenzell. Rodolphe Ier lui a opposé un anti-abbé et fondé Schwarzenbach pour concurrencer Wil. La ville de Saint-Gall, encore dirigée par un amman nommé par l'abbé, reçoit de lui des franchises en 1291 et figure donc dans la principauté. Les communes jurées des Appenzellois, attestées au XIIIe siècle, restent sujettes de l'abbaye.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (principauté abbatiale)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008394/"
+    },
+    {
+     "titre": "DHS, Appenzell (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007389/"
+    }
+   ]
+  },
+  {
+   "id": "eveche-constance",
+   "nom": "Principauté épiscopale de Constance",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique",
+   "chef_lieu": "Constance",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "L'évêché de Constance accroît ses biens au XIIIe siècle et atteint son apogée territorial vers 1302. Sur le territoire suisse, l'évêque tient Bischofszell, rachète en 1282 et 1285 la ville et le château d'Arbon et a acheté en 1265 à Reichenau le chapitre et le domaine de Zurzach, qui forment un bailliage épiscopal.",
+   "sources": [
+    {
+     "titre": "DHS, Constance (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008561/"
+    },
+    {
+     "titre": "DHS, Arbon",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001852/"
+    },
+    {
+     "titre": "DHS, Zurzach",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001851/"
+    },
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    }
+   ]
+  },
+  {
+   "id": "eveche-bale",
+   "nom": "Principauté épiscopale de Bâle",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique d'Empire",
+   "chef_lieu": "Bâle",
+   "langues": "Français, allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Enrichis par l'argent du Rhin, les évêques de Bâle achètent seigneuries et droits au XIIIe siècle, de l'Ajoie à la vallée de la Suze, et ont reçu en 1234 l'avouerie de Bienne. Ils transforment en fiefs la plupart des seigneuries du Sisgau, dont celles des Frobourg et des Homberg, et fonderont Laufon vers 1295. La ville de Bâle, encore soumise à l'évêque, ne s'émancipera qu'au XIVe siècle, aussi est-elle comprise dans la principauté.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    },
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    }
+   ]
+  },
+  {
+   "id": "frobourg",
+   "nom": "Comtes de Frobourg",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale tenue en partie en fief de l'évêque de Bâle",
+   "chef_lieu": "Château de Frohburg",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les Frobourg tiennent en fief de l'évêque de Bâle les droits comtaux du Buchsgau et, après 1223, du Sisgau. Fondateurs de Waldenburg, Zofingue, Liestal, Olten et Wiedlisbach, ils ont dû renoncer vers 1270-1280 à leurs ambitions princières et vendre Waldenburg à l'évêque en 1265, qui la leur rend en fief. Ils vendront Zofingue et Aarbourg aux Habsbourg vers 1300.",
+   "sources": [
+    {
+     "titre": "DHS, Frobourg, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019513/"
+    },
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    }
+   ]
+  },
+  {
+   "id": "thierstein",
+   "nom": "Comtes de Thierstein",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale",
+   "chef_lieu": null,
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Héritiers d'une partie des comtes de Soyhières, les Thierstein possèdent des biens dans la vallée de la Birse et le Schwarzbubenland, avec les châteaux de Dorneck et de Neu-Thierstein, et tiennent de l'évêque de Bâle la seigneurie de Pfeffingen.",
+   "sources": [
+    {
+     "titre": "DHS, Thierstein, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019544/"
+    }
+   ]
+  },
+  {
+   "id": "neuchatel-nidau",
+   "nom": "Comtes de Neuchâtel-Nidau et branches apparentées",
+   "categorie": "autre",
+   "regime": "Seigneuries comtales",
+   "chef_lieu": "Nidau",
+   "langues": "Allemand, français",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Issus du partage de la maison de Neuchâtel vers 1218, les comtes de Nidau tiennent depuis 1276 le landgraviat de la rive gauche de l'Aar et étendent leurs possessions le long du Jura. Les branches de Strassberg et d'Aarberg en sont issues. La couleur regroupe ces trois lignées dans le Seeland et la région de Granges.",
+   "sources": [
+    {
+     "titre": "DHS, Nidau, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019530/"
+    },
+    {
+     "titre": "DHS, Neuchâtel, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019528/"
+    },
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    }
+   ]
+  },
+  {
+   "id": "seigneuries-aar",
+   "nom": "Terres d'Empire et seigneuries de la région de l'Aar",
+   "categorie": "autre",
+   "regime": "Mosaïque de seigneuries nobles et de terres d'Empire",
+   "chef_lieu": "Aucun",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Entre l'Aar, la Sarine et les Alpes, le pays est morcelé en seigneuries de familles nobles et en terres relevant directement de l'Empire. L'Oberland dépend de l'empereur, le Hasli est une vallée d'Empire alliée à Berne depuis 1275, Laupen une petite ville d'Empire dotée de franchises en 1275 et la Grasbourg un bailliage impérial. Cette couleur regroupe ces terres sans maître dominant, faute de pouvoir figurer chaque seigneurie.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Oberhasli",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008451/"
+    },
+    {
+     "titre": "DHS, Laupen",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008447/"
+    },
+    {
+     "titre": "DHS, Schwarzenburg (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008452/"
+    }
+   ]
+  },
+  {
+   "id": "comte-neuchatel",
+   "nom": "Seigneurie de Neuchâtel",
+   "categorie": "autre",
+   "regime": "Seigneurie, vassale des Chalon depuis 1288",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Affaiblis par le partage de 1218, les seigneurs de Neuchâtel perdent l'immédiateté impériale en 1288 et deviennent vassaux des Chalon, qui leur donnent en fief le Val-de-Travers et Boudevilliers. Ils concluent une combourgeoisie avec Fribourg en 1290. Rodolphe IV, dit Rollin, rétablira le titre comtal en 1296 après sa victoire de Coffrane sur les Aarberg-Valangin.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Neuchâtel, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019528/"
+    }
+   ]
+  },
+  {
+   "id": "valangin",
+   "nom": "Seigneurie de Valangin",
+   "categorie": "autre",
+   "regime": "Seigneurie",
+   "chef_lieu": "Valangin",
+   "langues": "Français",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "La seigneurie de Valangin est aux mains des Aarberg, branche des Neuchâtel-Nidau, depuis au moins 1242. Ses seigneurs rivalisent avec ceux de Neuchâtel, qui les battront à Coffrane en 1296 et imposeront leur suzeraineté.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Aarberg, d'",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019508/"
+    }
+   ]
+  },
+  {
+   "id": "savoie",
+   "nom": "Comté de Savoie",
+   "categorie": "etranger",
+   "regime": "Principauté comtale structurée en bailliages et châtellenies",
+   "chef_lieu": "Chillon pour le Chablais, Moudon pour le Vaud",
+   "langues": "Français (parlers romands)",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Comte de Savoie; Pays de Vaud en apanage des Savoie-Vaud depuis 1285",
+   "resume": "Établie depuis le XIIe siècle en Chablais, la maison de Savoie a pris possession du Pays de Vaud entre 1240 et 1260 sous Pierre II, qui a obtenu l'hommage de nombreux seigneurs vaudois et fribourgeois et créé les châtellenies de Moudon, Romont, Rue et Yverdon. Elle tient aussi la seigneurie de Cerlier depuis 1265 et le Bas-Valais jusqu'aux portes de Sion. Son expansion marque le pas à la fin du XIIIe siècle face aux Habsbourg, qui assiègent Payerne en 1283. Les seigneuries de Grandson, d'Orbe et d'Échallens, tenues par d'autres familles, sont fondues dans sa couleur par approximation.",
+   "sources": [
+    {
+     "titre": "DHS, Savoie, maison de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019505/"
+    },
+    {
+     "titre": "DHS, Savoie, Pierre II de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017867/"
+    },
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    },
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Nidau, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019530/"
+    }
+   ]
+  },
+  {
+   "id": "eveche-lausanne",
+   "nom": "Terres de l'évêque de Lausanne",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique",
+   "chef_lieu": "Lausanne",
+   "langues": "Français (parlers romands)",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Détenteur depuis 1011 des droits comtaux sur le Pays de Vaud, l'évêque a dû céder aux Savoie une partie de son temporel. Il garde Lausanne, Lavaux, Lucens, Bulle, Avenches et La Roche, enclavés dans la province savoyarde. Les conflits avec la Savoie ne s'apaisent qu'à partir des années 1320.",
+   "sources": [
+    {
+     "titre": "DHS, Lausanne (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008559/"
+    },
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    }
+   ]
+  },
+  {
+   "id": "gruyere",
+   "nom": "Comté de Gruyère",
+   "categorie": "autre",
+   "regime": "Comté vassal de la Savoie",
+   "chef_lieu": "Gruyères",
+   "langues": "Français (parlers romands), allemand à Gessenay",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Guillemette de Grandson gouverne à la place du comte Pierre II vieillissant",
+   "resume": "Les comtes de Gruyère se sont placés sous la suzeraineté savoyarde en 1244, tout en conservant une grande indépendance. Leur comté s'étend de la haute Sarine au Pays-d'Enhaut et à Gessenay. Veuve de Pierre le Jeune, Guillemette de Grandson dirige le comté dès 1290-1291.",
+   "sources": [
+    {
+     "titre": "DHS, Gruyère, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019516/"
+    },
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    }
+   ]
+  },
+  {
+   "id": "eveche-geneve",
+   "nom": "Ville et terres de l'évêque de Genève",
+   "categorie": "autre",
+   "regime": "Seigneurie épiscopale",
+   "chef_lieu": "Genève",
+   "langues": "Français (parlers romands)",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Après de longs conflits, les comtes de Genève ont dû reconnaître la prépondérance de l'évêque sur la cité par une série de traités entre 1124 et 1219. L'évêque tient la ville et quelques mandements, au milieu des terres du chapitre, du prieuré de Saint-Victor, des comtes de Genève et de la Savoie.",
+   "sources": [
+    {
+     "titre": "DHS, Genève, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019515/"
+    },
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    }
+   ]
+  },
+  {
+   "id": "comte-genevois",
+   "nom": "Comté de Genevois et seigneuries ecclésiastiques genevoises",
+   "categorie": "autre",
+   "regime": "Comté, seigneuries du chapitre et du prieuré de Saint-Victor",
+   "chef_lieu": "Annecy",
+   "langues": "Français (parlers romands)",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Repliés au sud du Léman après avoir tout perdu au nord du lac vers 1250, les comtes de Genève gouvernent depuis Annecy. Dans la campagne genevoise, ils reconnaissent entre 1260 et 1304 au prieuré de Saint-Victor et en 1295 au chapitre cathédral la seigneurie de nombreux villages, en se réservant le dernier supplice. Cette couleur regroupe ces terres, mêlées de possessions savoyardes.",
+   "sources": [
+    {
+     "titre": "DHS, Genève, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019515/"
+    },
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    }
+   ]
+  },
+  {
+   "id": "valais",
+   "nom": "Comté épiscopal de Sion (Valais)",
+   "categorie": "autre",
+   "regime": "Principauté épiscopale",
+   "chef_lieu": "Sion",
+   "langues": "Français et allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Évêque de Sion",
+   "resume": "Le prince-évêque de Sion contrôle le territoire allant de Martigny au col de la Furka, mais la Savoie s'implante en Valais central et revendique le droit de lui conférer l'investiture. Des communautés du pays, attestées en 1286, participent déjà à la vie politique à côté de la noblesse et du clergé. En 1293, la Savoie reconnaîtra les droits régaliens de l'évêque.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Sion (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008560/"
+    }
+   ]
+  },
+  {
+   "id": "eveche-coire",
+   "nom": "Principauté épiscopale de Coire",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique",
+   "chef_lieu": "Coire",
+   "langues": "Romanche, allemand, lombard",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "La seigneurie de l'évêque de Coire, la plus étendue de Rhétie, comprend la ville et ses environs, le val Bregaglia, des terres en Haute et en Basse-Engadine et l'abbaye de Müstair. Pendant le Grand Interrègne, l'évêque a dû se défendre contre la noblesse locale. La couleur englobe aussi, par approximation, l'Oberhalbstein, le Schanfigg et le val de Poschiavo, dont le statut à cette date n'a pas été vérifié.",
+   "sources": [
+    {
+     "titre": "DHS, Coire (diocèse, évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/011403/"
+    },
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ]
+  },
+  {
+   "id": "abbaye-disentis",
+   "nom": "Abbaye de Disentis (Cadi)",
+   "categorie": "autre",
+   "regime": "Seigneurie abbatiale",
+   "chef_lieu": "Disentis",
+   "langues": "Romanche",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "L'abbaye impériale de Disentis, gardienne du col du Lukmanier, étend sa seigneurie, la Cadi, de Brigels au col de la Furka. Elle apparaît en 1251 comme personne morale. Les comtes de Werdenberg-Heiligenberg en exercent l'avouerie depuis la fin du XIIIe siècle.",
+   "sources": [
+    {
+     "titre": "DHS, Disentis",
+     "url": "https://hls-dhs-dss.ch/fr/articles/011490/"
+    },
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ]
+  },
+  {
+   "id": "barons-vaz",
+   "nom": "Barons de Vaz",
+   "categorie": "autre",
+   "regime": "Seigneurie baronniale",
+   "chef_lieu": "Château de Belfort",
+   "langues": "Romanche, allemand (Walser)",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Johannes von Vaz, sous la tutelle du comte Hugo II von Werdenberg-Heiligenberg",
+   "resume": "Les barons de Vaz sont vers 1270-1333 la principale puissance politique de Rhétie avec le chapitre de Coire. Ils tiennent des alleux à Obervaz et au Heinzenberg, des fiefs épiscopaux comme le Schams, le Rheinwald et Safien, et ont accueilli les colons walser à Davos, avec qui leur tuteur conclut un accord en 1289.",
+   "sources": [
+    {
+     "titre": "DHS, Vaz, von",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019791/"
+    },
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ]
+  },
+  {
+   "id": "seigneuries-rhetiques",
+   "nom": "Seigneuries laïques de Rhétie",
+   "categorie": "autre",
+   "regime": "Petites seigneuries nobles",
+   "chef_lieu": "Aucun",
+   "langues": "Romanche, allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Hors des terres de l'évêque et des grandes familles, la Rhétie est morcelée en petites seigneuries laïques, celles des Belmont, des Rhäzüns, des Wildenberg ou des Aspermont. Cette couleur les regroupe dans la Surselva moyenne, la région d'Imboden et le bas de la vallée du Rhin.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ]
+  },
+  {
+   "id": "come",
+   "nom": "Commune de Côme",
+   "categorie": "etranger",
+   "regime": "Commune urbaine lombarde dominée par les Rusca",
+   "chef_lieu": "Côme",
+   "langues": "Lombard",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Commune de Côme, dominée par la famille des Rusca",
+   "resume": "Le Tessin est déchiré depuis le milieu du XIIIe siècle par les affrontements entre guelfes et gibelins. La puissante famille comasque des Rusca s'impose à Côme, dans le Sottoceneri et à Bellinzone. Côme ne passera aux Visconti de Milan qu'en 1335.",
+   "sources": [
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    }
+   ]
+  },
+  {
+   "id": "milan",
+   "nom": "Archevêché et seigneurie de Milan",
+   "categorie": "etranger",
+   "regime": "Seigneurie urbaine des Visconti, droits du chapitre cathédral dans les vallées",
+   "chef_lieu": "Milan",
+   "langues": "Lombard",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Archevêque Othon Visconti, maître de la seigneurie de Milan depuis 1277",
+   "resume": "Les vallées dites ambrosiennes, Léventine, Blenio et Riviera, relèvent du chapitre cathédral de Milan. La lignée montante des Visconti trouve des appuis dans ces vallées et dans le Locarnais, auprès des Capitanei de Locarno. L'attribution du Locarnais et du val Maggia à cette couleur est une approximation.",
+   "sources": [
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    }
+   ]
+  }
+ ],
+ "regles": [
+  {
+   "niveau": "canton",
+   "cle": "UR",
+   "territoire": "uri"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11784,
+   "territoire": "habsbourg",
+   "commentaire": "Andermatt ; vallée d'Urseren, bailliage impérial aux Habsbourg depuis 1283"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12213,
+   "territoire": "habsbourg",
+   "commentaire": "Hospental ; vallée d'Urseren"
+  },
+  {
+   "niveau": "commune",
+   "cle": 13165,
+   "territoire": "habsbourg",
+   "commentaire": "Realp ; vallée d'Urseren"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SZ",
+   "territoire": "schwyz",
+   "commentaire": "vallée de Schwytz"
+  },
+  {
+   "niveau": "district",
+   "cle": 10060,
+   "territoire": "abbaye-einsiedeln",
+   "commentaire": "Bezirk Einsiedeln"
+  },
+  {
+   "niveau": "district",
+   "cle": 10058,
+   "territoire": "abbaye-einsiedeln",
+   "commentaire": "Bezirk Höfe ; domaines de l'abbaye, approximation"
+  },
+  {
+   "niveau": "district",
+   "cle": 10096,
+   "territoire": "rapperswil",
+   "commentaire": "Bezirk March ; région d'Alt-Rapperswil, approximation"
+  },
+  {
+   "niveau": "district",
+   "cle": 10140,
+   "territoire": "habsbourg",
+   "commentaire": "Bezirk Küssnacht"
+  },
+  {
+   "niveau": "district",
+   "cle": 10059,
+   "territoire": "habsbourg",
+   "commentaire": "Bezirk Gersau ; biens de Muri passés aux Habsbourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NW",
+   "territoire": "unterwald",
+   "commentaire": "Nidwald, vallée inférieure"
+  },
+  {
+   "niveau": "canton",
+   "cle": "OW",
+   "territoire": "obwald",
+   "commentaire": "Obwald, vallée supérieure"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12287,
+   "territoire": "abbaye-engelberg",
+   "commentaire": "Engelberg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "LU",
+   "territoire": "habsbourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "ZG",
+   "territoire": "habsbourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GL",
+   "territoire": "habsbourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "ZH",
+   "territoire": "habsbourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AG",
+   "territoire": "habsbourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "TG",
+   "territoire": "habsbourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SH",
+   "territoire": "habsbourg"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16286,
+   "territoire": "zurich",
+   "commentaire": "Zurich ; ville impériale"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16532,
+   "territoire": "schaffhouse",
+   "commentaire": "Schaffhouse ; ville"
+  },
+  {
+   "niveau": "district",
+   "cle": 10017,
+   "territoire": "frobourg",
+   "commentaire": "Bezirk Zofingen ; Zofingue et Aarbourg, vendues aux Habsbourg vers 1300"
+  },
+  {
+   "niveau": "district",
+   "cle": 10014,
+   "territoire": "eveche-constance",
+   "commentaire": "Bezirk Bischofszell"
+  },
+  {
+   "niveau": "district",
+   "cle": 10001,
+   "territoire": "eveche-constance",
+   "commentaire": "Bezirk Arbon ; seigneurie d'Arbon rachetée en 1282-1285"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10328,
+   "territoire": "eveche-constance",
+   "commentaire": "Zurzach ; bailliage épiscopal de Zurzach"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12893,
+   "territoire": "eveche-constance",
+   "commentaire": "Rietheim ; bailliage épiscopal de Zurzach"
+  },
+  {
+   "niveau": "commune",
+   "cle": 13183,
+   "territoire": "eveche-constance",
+   "commentaire": "Rekingen ; bailliage épiscopal de Zurzach"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12404,
+   "territoire": "eveche-constance",
+   "commentaire": "Mellikon ; bailliage épiscopal de Zurzach"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BS",
+   "territoire": "eveche-bale",
+   "commentaire": "ville épiscopale de Bâle"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BL",
+   "territoire": "eveche-bale",
+   "commentaire": "Sisgau et Birseck, fiefs et terres de l'évêque, approximation"
+  },
+  {
+   "niveau": "district",
+   "cle": 10141,
+   "territoire": "frobourg",
+   "commentaire": "Bezirk Waldenburg ; fief épiscopal tenu par les Frobourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SO",
+   "territoire": "seigneuries-aar",
+   "commentaire": "Bucheggberg et Kriegstetten, terres des comtes de Buchegg"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10384,
+   "territoire": "soleure",
+   "commentaire": "Soleure ; ville impériale"
+  },
+  {
+   "niveau": "district",
+   "cle": 10097,
+   "territoire": "neuchatel-nidau",
+   "commentaire": "Bezirk Lebern ; comtes de Strassberg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10138,
+   "territoire": "frobourg",
+   "commentaire": "Bezirk Balsthal-Gäu"
+  },
+  {
+   "niveau": "district",
+   "cle": 10137,
+   "territoire": "frobourg",
+   "commentaire": "Bezirk Balsthal-Tal"
+  },
+  {
+   "niveau": "district",
+   "cle": 10111,
+   "territoire": "frobourg",
+   "commentaire": "Bezirk Olten"
+  },
+  {
+   "niveau": "district",
+   "cle": 10084,
+   "territoire": "frobourg",
+   "commentaire": "Bezirk Gösgen"
+  },
+  {
+   "niveau": "district",
+   "cle": 10094,
+   "territoire": "thierstein",
+   "commentaire": "Bezirk Thierstein"
+  },
+  {
+   "niveau": "district",
+   "cle": 10099,
+   "territoire": "thierstein",
+   "commentaire": "Bezirk Dorneck"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BE",
+   "territoire": "seigneuries-aar",
+   "commentaire": "Oberland, Laupen, Grasbourg, seigneuries du Plateau"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16401,
+   "territoire": "berne",
+   "commentaire": "Berne ; ville impériale"
+  },
+  {
+   "niveau": "district",
+   "cle": 10083,
+   "territoire": "kibourg-berthoud",
+   "commentaire": "Amtsbezirk Burgdorf"
+  },
+  {
+   "niveau": "district",
+   "cle": 10136,
+   "territoire": "kibourg-berthoud",
+   "commentaire": "Amtsbezirk Wangen"
+  },
+  {
+   "niveau": "district",
+   "cle": 10072,
+   "territoire": "kibourg-berthoud",
+   "commentaire": "Amtsbezirk Aarwangen"
+  },
+  {
+   "niveau": "district",
+   "cle": 10150,
+   "territoire": "kibourg-berthoud",
+   "commentaire": "Amtsbezirk Thun"
+  },
+  {
+   "niveau": "district",
+   "cle": 10149,
+   "territoire": "kibourg-berthoud",
+   "commentaire": "Amtsbezirk Trachselwald"
+  },
+  {
+   "niveau": "district",
+   "cle": 10117,
+   "territoire": "kibourg-berthoud",
+   "commentaire": "Amtsbezirk Fraubrunnen ; Landshut"
+  },
+  {
+   "niveau": "district",
+   "cle": 10158,
+   "territoire": "neuchatel-nidau",
+   "commentaire": "Amtsbezirk Nidau"
+  },
+  {
+   "niveau": "district",
+   "cle": 10069,
+   "territoire": "neuchatel-nidau",
+   "commentaire": "Amtsbezirk Büren"
+  },
+  {
+   "niveau": "district",
+   "cle": 10073,
+   "territoire": "neuchatel-nidau",
+   "commentaire": "Amtsbezirk Aarberg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10118,
+   "territoire": "savoie",
+   "commentaire": "Amtsbezirk Erlach ; seigneurie de Cerlier, savoyarde depuis 1265"
+  },
+  {
+   "niveau": "district",
+   "cle": 10154,
+   "territoire": "gruyere",
+   "commentaire": "Amtsbezirk Saanen ; Gessenay"
+  },
+  {
+   "niveau": "district",
+   "cle": 10056,
+   "territoire": "eveche-bale",
+   "commentaire": "Amtsbezirk Biel"
+  },
+  {
+   "niveau": "district",
+   "cle": 10067,
+   "territoire": "eveche-bale",
+   "commentaire": "District de Courtelary"
+  },
+  {
+   "niveau": "district",
+   "cle": 10122,
+   "territoire": "eveche-bale",
+   "commentaire": "District de Moutier"
+  },
+  {
+   "niveau": "district",
+   "cle": 10124,
+   "territoire": "eveche-bale",
+   "commentaire": "District de la Neuveville"
+  },
+  {
+   "niveau": "district",
+   "cle": 10145,
+   "territoire": "eveche-bale",
+   "commentaire": "District de Delémont"
+  },
+  {
+   "niveau": "district",
+   "cle": 10159,
+   "territoire": "eveche-bale",
+   "commentaire": "District des Franches-Montagnes"
+  },
+  {
+   "niveau": "district",
+   "cle": 10147,
+   "territoire": "eveche-bale",
+   "commentaire": "District de Porrentruy"
+  },
+  {
+   "niveau": "district",
+   "cle": 10144,
+   "territoire": "eveche-bale",
+   "commentaire": "Amtsbezirk Laufen"
+  },
+  {
+   "niveau": "canton",
+   "cle": "FR",
+   "territoire": "savoie",
+   "commentaire": "noblesse soumise par Pierre II, Romont, Rue, Morat"
+  },
+  {
+   "niveau": "district",
+   "cle": 10102,
+   "territoire": "fribourg",
+   "commentaire": "Bezirk Sense"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11954,
+   "territoire": "fribourg",
+   "commentaire": "Fribourg ; ville"
+  },
+  {
+   "niveau": "district",
+   "cle": 10105,
+   "territoire": "gruyere",
+   "commentaire": "District de la Gruyère"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11462,
+   "territoire": "eveche-lausanne",
+   "commentaire": "Bulle ; terre de l'évêque de Lausanne"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12574,
+   "territoire": "eveche-lausanne",
+   "commentaire": "La Roche ; terre de l'évêque de Lausanne"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VD",
+   "territoire": "savoie",
+   "commentaire": "Pays de Vaud savoyard"
+  },
+  {
+   "niveau": "district",
+   "cle": 10048,
+   "territoire": "eveche-lausanne",
+   "commentaire": "District de Lausanne"
+  },
+  {
+   "niveau": "district",
+   "cle": 10047,
+   "territoire": "eveche-lausanne",
+   "commentaire": "District de Lavaux"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11661,
+   "territoire": "eveche-lausanne",
+   "commentaire": "Avenches"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12758,
+   "territoire": "eveche-lausanne",
+   "commentaire": "Lucens"
+  },
+  {
+   "niveau": "district",
+   "cle": 10055,
+   "territoire": "gruyere",
+   "commentaire": "District du Pays-d'Enhaut"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VS",
+   "territoire": "valais"
+  },
+  {
+   "niveau": "district",
+   "cle": 10013,
+   "territoire": "savoie",
+   "commentaire": "District de Monthey ; Valais savoyard"
+  },
+  {
+   "niveau": "district",
+   "cle": 10177,
+   "territoire": "savoie",
+   "commentaire": "District de Saint-Maurice ; Valais savoyard"
+  },
+  {
+   "niveau": "district",
+   "cle": 10033,
+   "territoire": "savoie",
+   "commentaire": "District d'Entremont ; Valais savoyard"
+  },
+  {
+   "niveau": "district",
+   "cle": 10034,
+   "territoire": "savoie",
+   "commentaire": "District de Conthey ; Valais savoyard"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11763,
+   "territoire": "valais",
+   "commentaire": "Ardon ; terre épiscopale"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11418,
+   "territoire": "valais",
+   "commentaire": "Chamoson ; terre épiscopale"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NE",
+   "territoire": "comte-neuchatel"
+  },
+  {
+   "niveau": "district",
+   "cle": 10185,
+   "territoire": "valangin",
+   "commentaire": "District du Val-de-Ruz"
+  },
+  {
+   "niveau": "district",
+   "cle": 10191,
+   "territoire": "valangin",
+   "commentaire": "District de la Chaux-de-Fonds"
+  },
+  {
+   "niveau": "district",
+   "cle": 10183,
+   "territoire": "valangin",
+   "commentaire": "District du Locle"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12601,
+   "territoire": "comte-neuchatel",
+   "commentaire": "La Brévine ; approximation, partie de la seigneurie de Neuchâtel"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12604,
+   "territoire": "comte-neuchatel",
+   "commentaire": "La Chaux-du-Milieu ; approximation, partie de la seigneurie de Neuchâtel"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16346,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Les Ponts-de-Martel ; approximation, partie de la seigneurie de Neuchâtel"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16239,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Brot-Dessus ; approximation, partie de la seigneurie de Neuchâtel"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16240,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Plamboz ; approximation, partie de la seigneurie de Neuchâtel"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12610,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Le Cerneux-Péquignot ; approximation, partie de la seigneurie de Neuchâtel"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11841,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Boudevilliers ; fief reçu des Chalon en 1288"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GE",
+   "territoire": "comte-genevois",
+   "commentaire": "terres du chapitre, de Saint-Victor et des comtes"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16445,
+   "territoire": "eveche-geneve",
+   "commentaire": "Genève ; cité épiscopale et faubourgs"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16448,
+   "territoire": "eveche-geneve",
+   "commentaire": "Plainpalais ; cité épiscopale et faubourgs"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16446,
+   "territoire": "eveche-geneve",
+   "commentaire": "Eaux-Vives ; cité épiscopale et faubourgs"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16140,
+   "territoire": "eveche-geneve",
+   "commentaire": "Jussy ; mandement épiscopal"
+  },
+  {
+   "niveau": "commune",
+   "cle": 13051,
+   "territoire": "eveche-geneve",
+   "commentaire": "Satigny ; mandement épiscopal de Peney"
+  },
+  {
+   "niveau": "canton",
+   "cle": "TI",
+   "territoire": "milan",
+   "commentaire": "vallées ambrosiennes et Locarnais"
+  },
+  {
+   "niveau": "district",
+   "cle": 10003,
+   "territoire": "come",
+   "commentaire": "Distretto di Lugano"
+  },
+  {
+   "niveau": "district",
+   "cle": 10002,
+   "territoire": "come",
+   "commentaire": "Distretto di Mendrisio"
+  },
+  {
+   "niveau": "district",
+   "cle": 10007,
+   "territoire": "come",
+   "commentaire": "Distretto di Bellinzona"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GR",
+   "territoire": "eveche-coire"
+  },
+  {
+   "niveau": "district",
+   "cle": 10169,
+   "territoire": "abbaye-disentis",
+   "commentaire": "Bezirk Vorderrhein ; Cadi"
+  },
+  {
+   "niveau": "district",
+   "cle": 10189,
+   "territoire": "barons-vaz",
+   "commentaire": "Bezirk Albula ; Obervaz et Belfort"
+  },
+  {
+   "niveau": "district",
+   "cle": 10175,
+   "territoire": "barons-vaz",
+   "commentaire": "Bezirk Oberlandquart ; Davos"
+  },
+  {
+   "niveau": "district",
+   "cle": 10166,
+   "territoire": "barons-vaz",
+   "commentaire": "Bezirk Heinzenberg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10184,
+   "territoire": "barons-vaz",
+   "commentaire": "Bezirk Hinterrhein ; Schams et Rheinwald"
+  },
+  {
+   "niveau": "district",
+   "cle": 10193,
+   "territoire": "seigneuries-rhetiques",
+   "commentaire": "Bezirk Glenner"
+  },
+  {
+   "niveau": "district",
+   "cle": 10162,
+   "territoire": "seigneuries-rhetiques",
+   "commentaire": "Bezirk Imboden"
+  },
+  {
+   "niveau": "district",
+   "cle": 10160,
+   "territoire": "seigneuries-rhetiques",
+   "commentaire": "Bezirk Unterlandquart"
+  },
+  {
+   "niveau": "district",
+   "cle": 10165,
+   "territoire": "seigneurie-sax",
+   "commentaire": "Distretto di Moësa ; Mesolcina et Calanca"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SG",
+   "territoire": "abbaye-saint-gall"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AI",
+   "territoire": "abbaye-saint-gall",
+   "commentaire": "Appenzell, bailliages de l'abbaye"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AR",
+   "territoire": "abbaye-saint-gall",
+   "commentaire": "Appenzell, bailliages de l'abbaye"
+  },
+  {
+   "niveau": "district",
+   "cle": 10201,
+   "territoire": "toggenbourg",
+   "commentaire": "Bezirk Neutoggenburg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10202,
+   "territoire": "toggenbourg",
+   "commentaire": "Bezirk Obertoggenburg ; approximation"
+  },
+  {
+   "niveau": "district",
+   "cle": 10174,
+   "territoire": "werdenberg",
+   "commentaire": "Bezirk Werdenberg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10161,
+   "territoire": "werdenberg",
+   "commentaire": "Bezirk Sargans"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10090,
+   "territoire": "seigneurie-sax",
+   "commentaire": "Sennwald ; seigneurie de Sax"
+  },
+  {
+   "niveau": "district",
+   "cle": 10194,
+   "territoire": "habsbourg",
+   "commentaire": "Bezirk Gaster ; avouerie de Schänis"
+  },
+  {
+   "niveau": "district",
+   "cle": 10203,
+   "territoire": "rapperswil",
+   "commentaire": "Bezirk See"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10109,
+   "territoire": "toggenbourg",
+   "commentaire": "Uznach ; comté d'Uznach, approximation"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10110,
+   "territoire": "toggenbourg",
+   "commentaire": "Schmerikon ; comté d'Uznach, approximation"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10114,
+   "territoire": "toggenbourg",
+   "commentaire": "Gommiswald ; comté d'Uznach, approximation"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10117,
+   "territoire": "toggenbourg",
+   "commentaire": "Ernetschwil ; comté d'Uznach, approximation"
+  },
+  {
+   "niveau": "district",
+   "cle": 10173,
+   "territoire": "habsbourg",
+   "commentaire": "Bezirk Oberrheintal ; approximation"
+  },
+  {
+   "niveau": "district",
+   "cle": 10172,
+   "territoire": "habsbourg",
+   "commentaire": "Bezirk Unterrheintal ; approximation"
+  }
+ ],
+ "hors_carte": [
+  {
+   "nom": "Duchés d'Autriche et de Styrie, Autriche antérieure (Alsace, Brisgau, Forêt-Noire)",
+   "rattachement": "habsbourg",
+   "note": "Possessions des Habsbourg hors du fond de carte."
+  },
+  {
+   "nom": "Comté de Savoie, Chablais au sud du Léman, Bugey et Piémont",
+   "rattachement": "savoie",
+   "note": "Cœur des États savoyards, hors du fond de carte."
+  },
+  {
+   "nom": "Comté de Genevois (Annecy)",
+   "rattachement": "comte-genevois",
+   "note": "Centre du comté des comtes de Genève, en Haute-Savoie actuelle."
+  },
+  {
+   "nom": "Ville de Côme et ses terres lombardes",
+   "rattachement": "come",
+   "note": "Hors du fond de carte."
+  },
+  {
+   "nom": "Ville de Milan",
+   "rattachement": "milan",
+   "note": "Hors du fond de carte."
+  },
+  {
+   "nom": "Ville de Constance et terres épiscopales au nord du lac",
+   "rattachement": "eveche-constance",
+   "note": "Hors du fond de carte."
+  },
+  {
+   "nom": "Possessions de l'abbaye de Saint-Gall en Souabe et au Vorarlberg",
+   "rattachement": "abbaye-saint-gall",
+   "note": "Hors du fond de carte."
+  }
+ ],
+ "approximations": [
+  "Le territoire de chaque communauté alliée est figuré par les communes de 1850, alors que les communautés de vallée de 1291 n'ont pas de frontières précises et restent traversées de seigneuries foncières.",
+  "Arth, incorporé à Schwytz seulement au XIVe siècle, est laissé dans la couleur de Schwytz avec tout le district de 1850.",
+  "Obwald est figuré comme territoire distinct parce que sa mention dans le pacte est une adjonction postérieure, mais il faisait peut-être déjà partie de l'alliance.",
+  "La couleur des Habsbourg regroupe la branche aînée et celle des Habsbourg-Laufenbourg, ainsi que de nombreuses seigneuries nobles et ecclésiastiques qui relèvent de leur suzeraineté ou de leur avouerie en Argovie, à Lucerne, à Zoug, à Glaris et dans les campagnes zurichoise et thurgovienne.",
+  "Les campagnes zurichoise et schaffhousoise sont entièrement attribuées aux Habsbourg, alors que les Rapperswil, les Toggenbourg, les Regensberg et d'autres seigneurs y détiennent des droits.",
+  "Le Rheintal saint-gallois est attribué aux Habsbourg par déduction, Rheineck étant une ville d'Empire de 1276 à 1309 et Altstätten une fondation de l'abbaye de Saint-Gall.",
+  "Le Haut-Toggenbourg, acquis par les comtes de Toggenbourg au XIVe siècle seulement, est déjà compté dans leur comté.",
+  "Les Höfe sont attribués à l'abbaye d'Einsiedeln et la Marche au comté de Rapperswil sans vérification commune par commune.",
+  "La couleur des terres d'Empire et seigneuries de l'Aar regroupe une mosaïque de seigneuries bernoises et soleuroises (Oberland, Hasli, Laupen, Grasbourg, comtes de Buchegg) qui n'ont pas de maître commun.",
+  "Le district de Fraubrunnen est entièrement donné aux Kibourg-Berthoud à cause de Landshut, et celui de Trachselwald à cause de Huttwil, sans vérification de détail.",
+  "La ville de Bâle, soumise à l'évêque jusqu'au XIVe siècle, est fondue dans la principauté épiscopale, de même que le Sisgau où les Homberg et les Frobourg tiennent leurs seigneuries en fief de l'évêque.",
+  "Le canton de Fribourg hors Gruyère, Singine et ville de Fribourg est attribué à la Savoie, alors qu'il compte de nombreuses seigneuries vassales et des terres de l'évêque de Lausanne.",
+  "Grandson, Orbe, Échallens et la vallée de Joux, tenus par d'autres familles ou abbayes, sont fondus dans la couleur savoyarde.",
+  "La limite du Valais savoyard suit les districts de 1850 (Monthey, Saint-Maurice, Entremont, Conthey sauf Ardon et Chamoson), ce qui est une approximation des châtellenies.",
+  "Aux Grisons, l'attribution par district simplifie fortement une mosaïque de seigneuries; le val de Poschiavo est laissé à l'évêque de Coire sans vérification.",
+  "Au Tessin, le Locarnais et le val Maggia sont rattachés à Milan à cause des liens des Capitanei de Locarno avec les Visconti, ce qui reste une approximation."
+ ],
+ "confiance": "Sont sûrs l'existence du pacte attesté en août 1291 entre Uri, Schwytz et Nidwald, la prépondérance des Habsbourg après 1264 et leur achat des droits de Murbach en 1291, la domination savoyarde sur le Pays de Vaud et le Chablais, l'immédiateté de Zurich, Berne et Soleure. Sont incertains la place d'Obwald dans l'alliance, la date même du pacte, que certains historiens placent en 1309, et toutes les limites internes du Plateau, de la Rhétie et du Tessin, où la carte par districts simplifie un réseau de droits enchevêtrés. Aucune population n'est donnée, faute de chiffre précis dans le DHS pour cette date.",
+ "evenements": [
+  {
+   "annee": 1231,
+   "date_precise": "1231",
+   "type": "institution",
+   "titre": "Privilège d'Uri",
+   "lieu": "Uri",
+   "texte": "Le roi Henri, fils de l'empereur Frédéric II, accorde en 1231 un privilège aux gens d'Uri. Selon un acte connu seulement par Aegidius Tschudi et dont l'authenticité est en partie contestée, il les rachète au comte Rodolphe de Habsbourg, leur confère l'immédiateté impériale et promet de ne jamais les remettre en gage ni en fief.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Frédéric II",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029200/"
+    },
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    }
+   ]
+  },
+  {
+   "annee": 1240,
+   "date_precise": "1240",
+   "type": "institution",
+   "titre": "Privilège de Schwytz",
+   "lieu": "Schwytz",
+   "texte": "En 1240, l'empereur Frédéric II accorde à la vallée de Schwytz l'immédiateté impériale pour services rendus. Avec le privilège d'Uri, cette politique lui permet d'éviter une trop forte concentration des pouvoirs au débouché nord du Gothard. Le roi Adolphe de Nassau ne reconnaîtra ces privilèges qu'en 1297.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Frédéric II",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029200/"
+    },
+    {
+     "titre": "DHS, Adolphe de Nassau",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029201/"
+    }
+   ]
+  },
+  {
+   "annee": 1264,
+   "date_precise": "1263-1264",
+   "type": "autre",
+   "titre": "Les Habsbourg recueillent l'héritage des Kibourg",
+   "lieu": "Suisse orientale et Plateau",
+   "texte": "La mort de Hartmann V de Kibourg en 1263, puis celle de son oncle Hartmann IV en 1264, éteignent cette grande maison comtale. Rodolphe de Habsbourg, neveu de Hartmann IV, s'empare de l'essentiel de la succession contre les prétentions de la Savoie, dont la Thurgovie, Glaris et le Gaster. La partie occidentale, autour de Berthoud et de Thoune, passe en 1273 par mariage à une branche des Habsbourg-Laufenbourg.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Kibourg, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019520/"
+    },
+    {
+     "titre": "DHS, Habsbourg, maison de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019506/"
+    }
+   ]
+  },
+  {
+   "annee": 1273,
+   "date_precise": "1er octobre 1273",
+   "type": "institution",
+   "titre": "Rodolphe de Habsbourg élu roi des Romains",
+   "lieu": "Saint Empire romain germanique",
+   "texte": "Sans doute le noble le plus puissant du sud-ouest de l'Empire, le comte Rodolphe IV de Habsbourg est élu inopinément roi des Romains, ce qui met fin au Grand Interrègne. Il renforce la paix territoriale et l'administration des biens impériaux, puis conquiert les duchés autrichiens qu'il donne en fief à ses fils en 1282.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Rodolphe Ier (Saint Empire romain germanique)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029461/"
+    }
+   ]
+  },
+  {
+   "annee": 1291,
+   "date_precise": "15 juillet 1291",
+   "type": "autre",
+   "titre": "Mort de Rodolphe Ier",
+   "lieu": "Spire",
+   "texte": "Le roi Rodolphe meurt à Spire le 15 juillet 1291. La même année, sa maison a acheté les droits de l'abbaye de Murbach sur la ville de Lucerne et sur ses domaines, notamment à Stans, Alpnach et Giswil. Son fils Albert n'est pas élu roi et doit affronter dans ses terres de l'ouest une coalition de seigneurs et de villes.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Rodolphe Ier (Saint Empire romain germanique)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029461/"
+    },
+    {
+     "titre": "DHS, Habsbourg, maison de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019506/"
+    },
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    }
+   ]
+  },
+  {
+   "annee": 1291,
+   "date_precise": "août 1291",
+   "type": "alliance",
+   "titre": "Pacte d'Uri, de Schwytz et de Nidwald",
+   "lieu": "Suisse centrale",
+   "texte": "Les hommes d'Uri, de Schwytz et de la vallée inférieure d'Unterwald concluent une alliance de durée indéfinie, attestée en août 1291 et peut-être plus ancienne. Elle prévoit l'assistance militaire et l'arbitrage entre alliés tout en insistant sur l'obéissance due aux seigneurs. Longtemps tenue pour l'acte fondateur de la Suisse, elle est aujourd'hui lue comme une paix territoriale, et Roger Sablonier y voit même un document de 1309 antidaté.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Confédération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+    },
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Pactes fédéraux",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009600/"
+    }
+   ]
+  }
+ ]
+}

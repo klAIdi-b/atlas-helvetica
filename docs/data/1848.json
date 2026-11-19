@@ -30,11 +30,116 @@
   "Population de 1850 tirée des tableaux statistiques des articles cantonaux du DHS (recensement fédéral). Pour Berne, le chiffre de 458'302 vient du fichier de données du graphique de l'article du DHS (territoire de l'époque, Jura compris); le tableau de l'article donne 413'468 pour le territoire cantonal de 1990.",
   "Les pourcentages confessionnels sont calculés à partir des effectifs de protestants et de catholiques du recensement de 1850 donnés par le DHS (pour les Grisons, pourcentages donnés directement par le DHS).",
   "Les langues indiquées sont les langues officielles selon le DHS, car la composition linguistique de 1850 n'est pas donnée (les tableaux commencent en 1880). Fribourg est qualifié de bilingue de fait entre 1798 et 1856.",
-  "Pour le Tessin, le DHS indique un chef-lieu tournant entre Bellinzone, Locarno et Lugano selon une rotation de six ans (Constitution de 1814) jusqu'à l'établissement d'un chef-lieu permanent à Bellinzone en 1878; le chef-lieu en fonction en 1848 n'a pas été vérifié.",
   "Pour Zoug, le DHS donne le 22 novembre 1847 (article cantonal) et le 21 novembre (article Sonderbund) pour la capitulation; le résumé mentionne les deux dates.",
   "Pour les Grisons, Schaffhouse et l'Argovie, le DHS ne nomme pas les dirigeants de 1848, d'où la valeur null."
  ],
  "confiance": "Sont sûrs le découpage cantonal (identique au fond de 1850), rôle de chaque canton dans le Sonderbund et vote sur la Constitution fédérale, populations du recensement de 1850, chronologie fédérale (12 septembre, 6 et 16 novembre, 28 novembre 1848) et affaire de Neuchâtel. Sont moins sûrs la formulation synthétique des régimes (étiquettes résumant les constitutions décrites par le DHS), rôle militaire exact de Zurich et de Vaud en 1847 (le DHS cantonal ne le détaille pas, déduit de l'article Sonderbund qui parle de tous les cantons radicaux), chef-lieu du Tessin en 1848.",
+ "evenements": [
+  {
+   "annee": 1841,
+   "date_precise": "13 janvier 1841",
+   "type": "autre",
+   "titre": "Affaire des couvents d'Argovie",
+   "lieu": "Argovie",
+   "texte": "Après l'écrasement à Villmergen d'un soulèvement des conservateurs catholiques du Freiamt, le Grand Conseil argovien vote le 13 janvier 1841, sur proposition d'Augustin Keller, la suppression de tous les couvents du canton, dont Muri, Wettingen et Fahr. La Diète juge cette décision contraire au Pacte de 1815, qui garantit les couvents, puis déclare l'affaire réglée en 1843 après le rétablissement des quatre couvents de femmes. Les tensions confessionnelles n'en sont pas apaisées.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Argovie, affaire des couvents d'",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017240/"
+    }
+   ]
+  },
+  {
+   "annee": 1845,
+   "date_precise": "8 décembre 1844 et 31 mars 1845",
+   "type": "bataille",
+   "titre": "Expéditions des corps francs",
+   "lieu": "Lucerne, Emmenbrücke et Malters",
+   "texte": "Pour protester contre l'appel aux jésuites et renverser le gouvernement conservateur de Lucerne, des francs-tireurs radicaux de Lucerne, d'Argovie, de Soleure et de Bâle-Campagne lancent deux expéditions. La première, le 8 décembre 1844, tourne court. La seconde, menée par Ulrich Ochsenbein avec 3500 hommes, atteint les portes de Lucerne le 31 mars 1845, puis se débande dans la nuit, laissant plus de 120 victimes et environ 2000 prisonniers.",
+   "camps": "Corps francs radicaux contre les troupes du gouvernement lucernois",
+   "issue": "Échec des corps francs",
+   "sources": [
+    {
+     "titre": "DHS, Corps francs, expéditions des",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008682/"
+    }
+   ]
+  },
+  {
+   "annee": 1845,
+   "date_precise": "11 décembre 1845",
+   "type": "alliance",
+   "titre": "Fondation du Sonderbund",
+   "lieu": "Lucerne",
+   "texte": "En réaction à l'affaire des couvents et aux expéditions des corps francs, sept cantons conservateurs catholiques concluent à Lucerne une alliance de défense mutuelle dotée d'un Conseil de guerre. Défensif, ce pacte contrevient pourtant au Pacte fédéral par les pouvoirs extraordinaires qu'il confère à ce Conseil. D'abord secret, il est rendu public en juin 1846, et la Diète en décide la dissolution le 20 juillet 1847.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ]
+  },
+  {
+   "annee": 1847,
+   "date_precise": "3 au 29 novembre 1847",
+   "type": "bataille",
+   "titre": "Guerre du Sonderbund",
+   "lieu": "Fribourg, Lucerne (Gisikon et Meierskappel), Tessin",
+   "texte": "Après l'échec d'une attaque du Sonderbund au Tessin par le Gothard, l'armée fédérale du général Guillaume-Henri Dufour fait capituler Fribourg le 14 novembre, puis Zoug, et remporte le 23 novembre les combats de Gisikon et de Meierskappel devant Lucerne. Entre le 25 et le 29 novembre, les cantons primitifs et le Valais se soumettent sans combattre. Cette guerre de vingt-cinq jours fait 93 morts et 510 blessés.",
+   "camps": "Armée de la Diète, commandée par le général Dufour, contre les troupes des sept cantons du Sonderbund",
+   "issue": "Victoire de l'armée fédérale et dissolution du Sonderbund",
+   "sources": [
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ]
+  },
+  {
+   "annee": 1848,
+   "date_precise": "12 septembre 1848",
+   "type": "institution",
+   "titre": "Constitution fédérale",
+   "lieu": "Berne",
+   "texte": "Dès février 1848, une commission de la Diète rédige en quelques semaines une Constitution qui crée l'État fédéral, profitant des révolutions qui paralysent les grandes puissances. Acceptée par le peuple dans la majorité des cantons en juillet et août, elle est déclarée par la Diète, le 12 septembre 1848, loi fondamentale de la Confédération. Le Conseil national et le Conseil des États, élus en octobre, se réunissent à Berne le 6 novembre.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ]
+  },
+  {
+   "annee": 1848,
+   "date_precise": "16 novembre 1848",
+   "type": "institution",
+   "titre": "Élection du premier Conseil fédéral",
+   "lieu": "Berne",
+   "texte": "Réunis en Assemblée fédérale, le Conseil national et le Conseil des États désignent le 16 novembre 1848 les sept premiers conseillers fédéraux. Tous radicaux, ce sont Jonas Furrer (Zurich), Ulrich Ochsenbein (Berne), Henri Druey (Vaud), Josef Munzinger (Soleure), Stefano Franscini (Tessin), Friedrich Frey-Herosé (Argovie) et Wilhelm Mathias Näff (Saint-Gall).",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Conseil fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010085/"
+    },
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    }
+   ]
+  }
+ ],
  "territoires": [
   {
    "id": "grisons",
@@ -161,7 +266,7 @@
    "nom": "Canton du Tessin",
    "categorie": "canton",
    "regime": "Démocratie représentative, gouvernement radical",
-   "chef_lieu": "Chef-lieu itinérant (Bellinzone, Locarno et Lugano par rotation de six ans)",
+   "chef_lieu": "Lugano (chef-lieu tournant, siège du gouvernement de 1845 à 1851)",
    "langues": "Italien",
    "religion": "Catholique quasi exclusive (100 % en 1850)",
    "population": {
@@ -183,6 +288,10 @@
     {
      "titre": "DHS, Constitution fédérale",
      "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    },
+    {
+     "titre": "DHS, Lugano (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002177/"
     }
    ],
    "superficie_km2": 2759,
@@ -788,231 +897,15 @@
  ],
  "superficie_totale_km2": 39969,
  "changements": {
-  "depuis": 1798,
+  "depuis": 1833,
   "liste": [
    {
-    "de": "canton-oberland",
-    "de_nom": "Canton d'Oberland",
-    "vers": "berne",
-    "vers_nom": "Canton de Berne",
-    "communes": 61,
-    "superficie_km2": 2674
-   },
-   {
-    "de": "leman",
-    "de_nom": "Canton du Léman",
-    "vers": "vaud",
-    "vers_nom": "Canton de Vaud",
-    "communes": 356,
-    "superficie_km2": 2648
-   },
-   {
-    "de": "canton-lugano",
-    "de_nom": "Canton de Lugano",
-    "vers": "tessin",
-    "vers_nom": "Canton du Tessin",
-    "communes": 196,
-    "superficie_km2": 1541
-   },
-   {
-    "de": "france",
-    "de_nom": "République française",
-    "vers": "berne",
-    "vers_nom": "Canton de Berne",
-    "communes": 152,
-    "superficie_km2": 1488
-   },
-   {
-    "de": "canton-bellinzone",
-    "de_nom": "Canton de Bellinzone",
-    "vers": "tessin",
-    "vers_nom": "Canton du Tessin",
-    "communes": 67,
-    "superficie_km2": 1219
-   },
-   {
-    "de": "canton-linth",
-    "de_nom": "Canton de la Linth",
-    "vers": "saint-gall",
-    "vers_nom": "Canton de Saint-Gall",
-    "communes": 37,
-    "superficie_km2": 1203
-   },
-   {
-    "de": "canton-waldstatten",
-    "de_nom": "Canton des Waldstätten",
-    "vers": "uri",
-    "vers_nom": "Canton d'Uri",
-    "communes": 19,
-    "superficie_km2": 1058
-   },
-   {
-    "de": "canton-santis",
-    "de_nom": "Canton du Säntis",
-    "vers": "saint-gall",
-    "vers_nom": "Canton de Saint-Gall",
-    "communes": 55,
-    "superficie_km2": 747
-   },
-   {
-    "de": "canton-linth",
-    "de_nom": "Canton de la Linth",
-    "vers": "glaris",
-    "vers_nom": "Canton de Glaris",
-    "communes": 25,
-    "superficie_km2": 681
-   },
-   {
-    "de": "canton-waldstatten",
-    "de_nom": "Canton des Waldstätten",
+    "de": "schwytz-exterieur",
+    "de_nom": "Canton de Schwytz-Extérieur",
     "vers": "schwyz",
     "vers_nom": "Canton de Schwytz",
-    "communes": 17,
-    "superficie_km2": 637
-   },
-   {
-    "de": "canton-baden",
-    "de_nom": "Canton de Baden",
-    "vers": "argovie",
-    "vers_nom": "Canton d'Argovie",
-    "communes": 98,
-    "superficie_km2": 524
-   },
-   {
-    "de": "canton-waldstatten",
-    "de_nom": "Canton des Waldstätten",
-    "vers": "obwald",
-    "vers_nom": "Obwald (Unterwald-le-Haut)",
-    "communes": 7,
-    "superficie_km2": 481
-   },
-   {
-    "de": "bale",
-    "de_nom": "Canton de Bâle",
-    "vers": "bale-campagne",
-    "vers_nom": "Bâle-Campagne",
-    "communes": 65,
-    "superficie_km2": 370
-   },
-   {
-    "de": "fricktal",
-    "de_nom": "Fricktal autrichien",
-    "vers": "argovie",
-    "vers_nom": "Canton d'Argovie",
-    "communes": 38,
-    "superficie_km2": 266
-   },
-   {
-    "de": "canton-santis",
-    "de_nom": "Canton du Säntis",
-    "vers": "appenzell-rhodes-exterieures",
-    "vers_nom": "Appenzell Rhodes-Extérieures",
-    "communes": 20,
-    "superficie_km2": 246
-   },
-   {
-    "de": "france",
-    "de_nom": "République française",
-    "vers": "geneve",
-    "vers_nom": "République et canton de Genève",
-    "communes": 40,
-    "superficie_km2": 246
-   },
-   {
-    "de": "canton-waldstatten",
-    "de_nom": "Canton des Waldstätten",
-    "vers": "nidwald",
-    "vers_nom": "Nidwald (Unterwald-le-Bas)",
-    "communes": 11,
-    "superficie_km2": 242
-   },
-   {
-    "de": "canton-linth",
-    "de_nom": "Canton de la Linth",
-    "vers": "schwyz",
-    "vers_nom": "Canton de Schwytz",
-    "communes": 12,
-    "superficie_km2": 214
-   },
-   {
-    "de": "canton-waldstatten",
-    "de_nom": "Canton des Waldstätten",
-    "vers": "zoug",
-    "vers_nom": "Canton de Zoug",
-    "communes": 11,
-    "superficie_km2": 207
-   },
-   {
-    "de": "canton-santis",
-    "de_nom": "Canton du Säntis",
-    "vers": "appenzell-rhodes-interieures",
-    "vers_nom": "Appenzell Rhodes-Intérieures",
-    "communes": 8,
-    "superficie_km2": 169
-   },
-   {
-    "de": "fribourg",
-    "de_nom": "Canton de Fribourg",
-    "vers": "vaud",
-    "vers_nom": "Canton de Vaud",
-    "communes": 33,
-    "superficie_km2": 160
-   },
-   {
-    "de": "france",
-    "de_nom": "République française",
-    "vers": "bale-campagne",
-    "vers_nom": "Bâle-Campagne",
-    "communes": 9,
-    "superficie_km2": 58
-   },
-   {
-    "de": "tarasp",
-    "de_nom": "Seigneurie de Tarasp",
-    "vers": "grisons",
-    "vers_nom": "Canton des Grisons",
-    "communes": 1,
-    "superficie_km2": 47
-   },
-   {
-    "de": "canton-baden",
-    "de_nom": "Canton de Baden",
-    "vers": "lucerne",
-    "vers_nom": "Canton de Lucerne",
     "communes": 13,
-    "superficie_km2": 44
-   },
-   {
-    "de": "schaffhouse",
-    "de_nom": "Canton de Schaffhouse",
-    "vers": "thurgovie",
-    "vers_nom": "Canton de Thurgovie",
-    "communes": 6,
-    "superficie_km2": 41
-   },
-   {
-    "de": "bale",
-    "de_nom": "Canton de Bâle",
-    "vers": "bale-ville",
-    "vers_nom": "Bâle-Ville",
-    "communes": 4,
-    "superficie_km2": 37
-   },
-   {
-    "de": "canton-baden",
-    "de_nom": "Canton de Baden",
-    "vers": "zurich",
-    "vers_nom": "Canton de Zurich",
-    "communes": 4,
-    "superficie_km2": 20
-   },
-   {
-    "de": "lucerne",
-    "de_nom": "Canton de Lucerne",
-    "vers": "argovie",
-    "vers_nom": "Canton d'Argovie",
-    "communes": 2,
-    "superficie_km2": 14
+    "superficie_km2": 336
    }
   ]
  }

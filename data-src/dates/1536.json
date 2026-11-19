@@ -1,0 +1,2527 @@
+{
+ "date": 1536,
+ "titre": "Réforme et conquête du Pays de Vaud",
+ "recit": "Entre 1513 et 1536, la Confédération change de visage. Battus à Marignan en septembre 1515, les Confédérés renoncent à leur politique d'expansion en Italie, mais la Paix perpétuelle conclue avec François Ier en 1516 leur laisse les bailliages tessinois, Mendrisio compris dès 1521. La Réforme, partie de Zurich avec Zwingli au début des années 1520, divise ensuite les cantons. Berne, Bâle, Schaffhouse et les villes alliées l'adoptent, tandis que les cinq cantons de Suisse centrale, Fribourg et Soleure restent catholiques, et que Glaris et Appenzell laissent le choix à leurs communes. La victoire catholique de Kappel en 1531, où Zwingli est tué, fige pour longtemps cette géographie confessionnelle. Au début de 1536, Berne vient au secours de Genève, sa combourgeoise, puis conquiert le Pays de Vaud savoyard, le Pays de Gex et le Chablais jusqu'à Thonon, tandis que Fribourg prend Romont, Estavayer et Châtel-Saint-Denis et que le Valais occupe Monthey et Évian. La carte montre une Confédération agrandie vers le Léman, une Genève devenue république réformée et la disparition de la principauté épiscopale de Lausanne. Les fiches indiquent désormais la confession de chaque territoire.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Vaud",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+  },
+  {
+   "titre": "DHS, Réforme",
+   "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+  },
+  {
+   "titre": "DHS, Kappel, guerres de",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+  },
+  {
+   "titre": "DHS, Marignan, bataille de",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008896/"
+  },
+  {
+   "titre": "DHS, Paix perpétuelle (1516)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008898/"
+  },
+  {
+   "titre": "DHS, Genève (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+  },
+  {
+   "titre": "DHS, Savoie",
+   "url": "https://hls-dhs-dss.ch/fr/articles/006641/"
+  }
+ ],
+ "evenements": [
+  {
+   "annee": 1515,
+   "date_precise": "13 et 14 septembre 1515",
+   "type": "bataille",
+   "titre": "Bataille de Marignan",
+   "lieu": "Marignan (Melegnano), près de Milan",
+   "texte": "Les Suisses qui défendent le duché de Milan de leur protégé Maximilien Sforza affrontent l'armée du roi de France François Ier, appuyée par une forte artillerie. L'arrivée de 12 000 Vénitiens en renfort décide de la bataille, qui coûte la vie à 9000 à 10 000 Suisses, près de la moitié des contingents engagés. Après Marignan, les cantons abandonnent leur politique d'expansion.",
+   "camps": "Confédérés contre le roi de France François Ier et Venise",
+   "issue": "Victoire française, retraite des Confédérés sur Milan",
+   "sources": [
+    {
+     "titre": "DHS, Marignan, bataille de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008896/"
+    }
+   ]
+  },
+  {
+   "annee": 1516,
+   "date_precise": "29 novembre 1516",
+   "type": "traite",
+   "titre": "Paix perpétuelle avec la France",
+   "lieu": "Fribourg",
+   "texte": "Les treize cantons et leurs alliés concluent avec François Ier une paix perpétuelle par laquelle ils renoncent à leur protectorat sur Milan. Ils refusent de céder leurs bailliages italiens contre une indemnité, si bien que le futur Tessin reste en mains confédérées, Mendrisio compris dès 1521. L'alliance française restera jusqu'à la Révolution un pilier de la diplomatie helvétique.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Paix perpétuelle (1516)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008898/"
+    }
+   ]
+  },
+  {
+   "annee": 1525,
+   "date_precise": "avril 1525",
+   "type": "revolution",
+   "titre": "La Réforme à Zurich",
+   "lieu": "Zurich",
+   "texte": "Soutenu par le Conseil de Zurich contre l'évêque de Constance, Ulrich Zwingli prêche la Bible comme seul fondement de la foi. Les images sont enlevées des églises en juin 1524, les biens du clergé sécularisés en décembre, et la messe est abolie en avril 1525. Berne suit en 1528, Bâle et Schaffhouse en 1529.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "annee": 1529,
+   "date_precise": "26 juin 1529",
+   "type": "traite",
+   "titre": "Première paix de Kappel",
+   "lieu": "Kappel am Albis (Zurich)",
+   "texte": "Après l'exécution d'un pasteur à Schwytz, Zurich déclare la guerre aux cinq cantons catholiques et marche sur Kappel, mais une médiation conduite par le Glaronais Hans Aebli évite l'effusion de sang. La paix permet à la Réforme de continuer à s'étendre dans les bailliages communs. Selon la tradition, les soldats des deux camps partagent une soupe au lait sur la frontière.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    }
+   ]
+  },
+  {
+   "annee": 1531,
+   "date_precise": "11 octobre 1531",
+   "type": "bataille",
+   "titre": "Bataille de Kappel",
+   "lieu": "Kappel am Albis (Zurich)",
+   "texte": "Pressés par un blocus des vivres, les cinq cantons catholiques attaquent l'armée zurichoise, arrivée en ordre dispersé, et la mettent en fuite. Environ 500 Zurichois sont tués, dont Ulrich Zwingli. La seconde paix de Kappel, signée le 20 novembre 1531, laisse chaque canton choisir sa confession et favorise le catholicisme dans les bailliages communs.",
+   "camps": "Cinq cantons catholiques (Lucerne, Uri, Schwytz, Unterwald, Zoug) contre Zurich",
+   "issue": "Victoire des cantons catholiques",
+   "sources": [
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "annee": 1536,
+   "date_precise": "janvier à mars 1536",
+   "type": "conquete",
+   "titre": "Conquête du Pays de Vaud",
+   "lieu": "Pays de Vaud, Genève et Chablais",
+   "texte": "Venues au nom de la combourgeoisie pour libérer Genève du blocus savoyard, les troupes bernoises de Hans Franz Nägeli conquièrent au printemps 1536 le Pays de Vaud, le Pays de Gex et le Chablais. Fribourg prend Romont, Estavayer et Châtel-Saint-Denis, et le Valais occupe Monthey et Évian. Berne organise sa conquête en bailliages par les statuts du 13 mai 1536 et y impose la Réforme.",
+   "camps": "Berne, avec Fribourg et le Valais, contre le duc Charles III de Savoie",
+   "issue": "Conquête bernoise du Pays de Vaud",
+   "sources": [
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    },
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Savoie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/006641/"
+    }
+   ]
+  }
+ ],
+ "territoires": [
+  {
+   "id": "zurich",
+   "nom": "Canton de Zurich",
+   "categorie": "canton",
+   "regime": "République urbaine dirigée par les conseils et les corporations",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Réformé (Réforme introduite de 1523 à 1525)",
+   "population": {
+    "valeur": 80000,
+    "annee": 1570,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007381/",
+    "note": "estimation du DHS vers 1570, plus de 20 ans après la date"
+   },
+   "dirigeants": "Bourgmestre et conseils de la ville de Zurich",
+   "resume": "Zurich est le berceau de la Réforme suisse. Sous l'impulsion d'Ulrich Zwingli, curé du Grossmünster depuis 1518, le Conseil fait enlever les images des églises en 1524 et abolit la messe en avril 1525. L'élan zurichois est brisé par la défaite de Kappel, le 11 octobre 1531, où Zwingli trouve la mort, et la seconde paix de Kappel ruine les visées de la ville sur la Suisse orientale. Son territoire, constitué au XVe siècle, comprend aussi Stein am Rhein. La population du canton croît jusque vers 1570, où elle atteint environ 80 000 habitants.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    }
+   ]
+  },
+  {
+   "id": "berne",
+   "nom": "Canton de Berne",
+   "categorie": "canton",
+   "regime": "République urbaine aristocratique (avoyer, Petit et Grand Conseil)",
+   "chef_lieu": "Berne",
+   "langues": "Allemand, français dans le mandement d'Aigle et le Pays de Vaud",
+   "religion": "Réformé (mandat du 7 février 1528)",
+   "population": null,
+   "dirigeants": "Avoyer et conseils de la ville de Berne",
+   "resume": "Berne adopte la Réforme par son mandat du 7 février 1528, après la dispute de Berne, et devient le pilier du camp protestant. Au début de 1536, ses troupes conduites par Hans Franz Nägeli viennent délivrer Genève, sa combourgeoise, puis conquièrent sans coup férir le Pays de Vaud savoyard, le Pays de Gex, le bailliage de Ternier, Gaillard et le Chablais jusqu'à Thonon, ainsi que l'essentiel des terres de l'évêque de Lausanne. Le Pays de Vaud est organisé en bailliages par les statuts du 13 mai 1536 et la Réforme y est imposée par les édits des 19 octobre et 24 décembre 1536. Ces conquêtes, comme l'Argovie bernoise et le mandement d'Aigle, sont fondues ici dans la couleur du canton. Berne devient ainsi le plus grand État-cité au nord des Alpes.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    },
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    },
+    {
+     "titre": "DHS, Oron-le-Châtel",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002563/"
+    }
+   ]
+  },
+  {
+   "id": "lucerne",
+   "nom": "Canton de Lucerne",
+   "categorie": "canton",
+   "regime": "République urbaine aristocratique (avoyer et conseils)",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 20000,
+    "annee": 1500,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007382/",
+    "note": "estimation du DHS vers 1500, plus de 20 ans avant la date"
+   },
+   "dirigeants": "Avoyer et conseils de la ville de Lucerne",
+   "resume": "Lucerne fait partie des cinq cantons de Suisse centrale qui affirment à Beckenried, en 1524, leur volonté de rester catholiques. Avec Uri, Schwytz, Unterwald et Zoug, elle remporte la seconde guerre de Kappel en 1531. La ville gouverne la campagne lucernoise, de l'Entlebuch au Seetal, dont la population est estimée à 20 000 habitants vers 1500 et 27 000 vers 1580. La paroisse de Hitzkirch reste un bailliage des Freie Ämter.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    }
+   ]
+  },
+  {
+   "id": "uri",
+   "nom": "Canton d'Uri",
+   "categorie": "canton",
+   "regime": "Démocratie de landsgemeinde",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand, italien en Léventine",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landamman et landsgemeinde d'Uri",
+   "resume": "Uri reste fidèle à l'ancienne foi avec les autres cantons de Suisse centrale et participe à la victoire catholique de Kappel en 1531. Le canton contrôle la route du Gothard et possède seul la Léventine, figurée ici dans sa couleur. Avec Schwytz et Nidwald, il administre Bellinzone, la Riviera et le val Blenio, et il est admis en 1532 à l'administration des Freie Ämter.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Léventine",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008543/"
+    },
+    {
+     "titre": "DHS, Freie Ämter",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008298/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "schwyz",
+   "nom": "Canton de Schwytz",
+   "categorie": "canton",
+   "regime": "Démocratie de landsgemeinde",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landamman et landsgemeinde de Schwytz",
+   "resume": "Schwytz est l'un des cinq cantons catholiques vainqueurs à Kappel en 1531. Il domine la March, les Höfe, Küssnacht et Einsiedeln, figurés ici dans sa couleur, et partage avec Glaris l'administration d'Uznach, du Gaster et de Weesen, où il s'oppose avec succès à la Réforme. La petite république de Gersau reste indépendante.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Uznach (comté, bailliage)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007643/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "unterwald",
+   "nom": "Canton d'Unterwald",
+   "categorie": "canton",
+   "regime": "Démocratie de landsgemeinde (deux demi-pays, Obwald et Nidwald)",
+   "chef_lieu": "Sarnen et Stans",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landammans et landsgemeinden d'Obwald et de Nidwald",
+   "resume": "Unterwald compte comme un seul canton à la Diète, mais Obwald et Nidwald ont chacun leur landsgemeinde. Les deux demi-pays restent catholiques et se rangent avec les cantons de Suisse centrale, et le soutien des Obwaldiens au soulèvement du Hasli contre Berne contribue à la crise de 1529. Nidwald participe avec Uri et Schwytz aux bailliages de Bellinzone, de la Riviera et du Blenio. La vallée d'Engelberg est figurée à part.",
+   "sources": [
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "glaris",
+   "nom": "Canton de Glaris",
+   "categorie": "canton",
+   "regime": "Démocratie de landsgemeinde",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Mixte (chaque commune choisit sa confession)",
+   "population": null,
+   "dirigeants": "Landamman et landsgemeinde de Glaris",
+   "resume": "À Glaris, la landsgemeinde laisse à chaque commune le choix de sa confession, ce qui fait du pays un canton mixte dont la landsgemeinde se divise selon la confession. Son landamman Hans Aebli conduit en 1529 la médiation qui évite l'affrontement lors de la première guerre de Kappel. En 1517, Glaris a acheté le comté de Werdenberg, administré désormais comme un bailliage et représenté ici dans la couleur du canton; la Réforme y est introduite en 1526. Avec Schwytz, il gouverne Uznach, le Gaster et Weesen.",
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    },
+    {
+     "titre": "DHS, Werdenberg",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007646/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "zoug",
+   "nom": "Canton de Zoug",
+   "categorie": "canton",
+   "regime": "Ville et communes rurales associées (landsgemeinde)",
+   "chef_lieu": "Zoug",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Ammann et conseil de la ville et du pays de Zoug",
+   "resume": "Zoug fait partie des cinq cantons catholiques de Suisse centrale. C'est à sa frontière, près de Kappel, que se déroulent les deux guerres de religion de 1529 et 1531, et la seconde paix de Kappel est conclue le 20 novembre 1531 à Deinikon, près de Baar. Le canton participe à l'administration des bailliages communs allemands et tessinois.",
+   "sources": [
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    }
+   ]
+  },
+  {
+   "id": "fribourg",
+   "nom": "Canton de Fribourg",
+   "categorie": "canton",
+   "regime": "République urbaine aristocratique (avoyer et conseils)",
+   "chef_lieu": "Fribourg",
+   "langues": "Allemand et français",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Avoyer et conseils de la ville de Fribourg",
+   "resume": "Fribourg réprime énergiquement la Réforme et reste catholique. Allié de Berne dans la conquête de 1536, il prend possession d'Estavayer, Saint-Aubin, Surpierre, Romont, Rue, Châtel-Saint-Denis, Attalens, Bossonnens, Vaulruz et Vuippens, sans atteindre le Léman. Bulle, Riaz, La Roche et Albeuve, terres de l'évêque de Lausanne, se placent sous sa protection en 1536 et deviennent bailliage fribourgeois en janvier 1537, ce qui les conserve au catholicisme. Le canton se trouve désormais enclavé dans le territoire bernois.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Bulle (bailliage)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008150/"
+    },
+    {
+     "titre": "DHS, Gruyère (comté, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008148/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "soleure",
+   "nom": "Canton de Soleure",
+   "categorie": "canton",
+   "regime": "République urbaine aristocratique (avoyer et conseils)",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 11000,
+    "annee": 1515,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007386/",
+    "note": "estimation très approximative du DHS pour le territoire actuel du canton"
+   },
+   "dirigeants": "Avoyer et conseils de la ville de Soleure",
+   "resume": "Soleure achève l'essentiel de sa formation territoriale au nord du Jura. Un arbitrage confédéral lui attribue en 1522 la seigneurie de Thierstein et l'avouerie de Beinwil, auxquelles s'ajoutent Bärschwil, Kleinlützel et la seigneurie de Gilgenberg en 1527. Neutre lors de la seconde guerre de Kappel, la ville reste catholique après l'échec d'un soulèvement des bourgeois réformés en novembre 1533. Le Bucheggberg et le Kriegstetten sont laissés à Soleure bien que Berne y conserve la haute juridiction.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "bale",
+   "nom": "Canton de Bâle",
+   "categorie": "canton",
+   "regime": "République urbaine de corporations (bourgmestre et conseils)",
+   "chef_lieu": "Bâle",
+   "langues": "Allemand",
+   "religion": "Réformé (1529)",
+   "population": null,
+   "dirigeants": "Bourgmestre et conseils de la ville de Bâle",
+   "resume": "Bâle adopte la Réforme en 1529, ce qui lui enlève l'autorité spirituelle de l'évêque après l'autorité temporelle perdue en 1501. La ville acquiert de l'évêque Riehen en 1522 et a acheté Münchenstein et Muttenz en 1515. Elle fait partie avec Zurich, Berne et Schaffhouse du camp protestant de la Combourgeoisie chrétienne, dissoute après Kappel.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Riehen",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001188/"
+    },
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Canton de Schaffhouse",
+   "categorie": "canton",
+   "regime": "République urbaine de corporations (bourgmestre et conseils)",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Réformé (1529)",
+   "population": null,
+   "dirigeants": "Bourgmestre et conseils de la ville de Schaffhouse",
+   "resume": "Schaffhouse passe à la Réforme en 1529, après des hésitations du Petit Conseil. La ville profite de la sécularisation des couvents et des querelles avec l'évêque de Constance pour étendre son territoire, prenant Hallau et achetant en 1525 la seigneurie épiscopale de Hallau-Neunkirch, après avoir acquis Buchberg et Rüdlingen en 1520. En 1530, elle obtient des comtes de Lupfen les justices de Schleitheim. Dans le Klettgau, la haute justice reste toutefois aux comtes de Sulz jusqu'en 1657, et le Reiat relève de la haute justice autrichienne de Nellenburg.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    },
+    {
+     "titre": "DHS, Klettgau",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007545/"
+    },
+    {
+     "titre": "DHS, Schleitheim",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001283/"
+    },
+    {
+     "titre": "DHS, Reiat",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007547/"
+    }
+   ]
+  },
+  {
+   "id": "appenzell",
+   "nom": "Canton d'Appenzell",
+   "categorie": "canton",
+   "regime": "Démocratie de landsgemeinde",
+   "chef_lieu": "Appenzell",
+   "langues": "Allemand",
+   "religion": "Mixte (choix de confession par paroisse depuis 1525)",
+   "population": null,
+   "dirigeants": "Landamman et landsgemeinde d'Appenzell",
+   "resume": "En avril 1525, la landsgemeinde d'Appenzell décide que chaque paroisse choisira sa confession. Les rhodes extérieures embrassent la Réforme, tandis que la majorité des rhodes intérieures, sauf Gais, reste catholique. Les décomptes de pensions de 1535 à 1547 permettent d'estimer la population entre 11 400 et 12 700 habitants au milieu du XVIe siècle. Appenzell participe avec sept cantons à l'administration du Rheintal.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007389/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "abbaye-saint-gall",
+   "nom": "Principauté abbatiale de Saint-Gall",
+   "categorie": "allie",
+   "regime": "Principauté ecclésiastique",
+   "chef_lieu": "Saint-Gall (abbaye), Wil et Rorschach",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Prince-abbé Diethelm Blarer von Wartensee (1530-1564)",
+   "resume": "La principauté abbatiale a traversé une crise grave pendant la Réforme, devenant un quasi-protectorat de Zurich, et l'abbé a dû fuir en 1527. La victoire catholique de Kappel la rétablit, et l'abbé Diethelm Blarer von Wartensee revient à Saint-Gall le 1er mars 1532, après un accord qui oblige la ville à restituer les bâtiments conventuels. Il force une partie de ses sujets à revenir à l'ancienne foi. L'abbé est aussi seigneur du Toggenbourg, figuré à part.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (principauté abbatiale)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008394/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ]
+  },
+  {
+   "id": "ville-saint-gall",
+   "nom": "Ville de Saint-Gall",
+   "categorie": "allie",
+   "regime": "République urbaine de corporations",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Réformé (1526-1528)",
+   "population": null,
+   "dirigeants": "Bourgmestre et conseils de la ville",
+   "resume": "Sous la conduite du réformateur Vadian, élu bourgmestre à la fin de 1525, les églises de la ville de Saint-Gall passent au culte réformé en 1526 et la messe cesse à l'abbatiale en 1528. La défaite de Kappel est désastreuse pour la ville, abandonnée par les cantons protestants, qui doit restituer les bâtiments conventuels et dédommager l'abbaye en 1532. Elle reste une enclave réformée au cœur des terres abbatiales.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001321/"
+    },
+    {
+     "titre": "DHS, Saint-Gall (principauté abbatiale)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008394/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "toggenbourg",
+   "nom": "Comté de Toggenbourg",
+   "categorie": "allie",
+   "regime": "Pays sujet de l'abbaye doté d'un statut de pays allié",
+   "chef_lieu": "Lichtensteig",
+   "langues": "Allemand",
+   "religion": "Mixte (majorité réformée)",
+   "population": null,
+   "dirigeants": "Prince-abbé de Saint-Gall, seigneur depuis 1468 ; combourgeoisie avec Schwytz et Glaris",
+   "resume": "Le comté de Toggenbourg appartient depuis 1468 au prince-abbé de Saint-Gall, mais ses habitants disposent d'un Conseil (Landrat) et, par leur combourgeoisie de 1436 avec Schwytz et Glaris, ont rang de pays allié. La Réforme y est introduite dès 1524 sous l'influence de Zwingli, natif de Wildhaus. En 1530, l'appui de Zurich permet au comté de se libérer de l'abbaye, mais l'abbé est remis en possession de ses droits en 1531, après la seconde guerre de Kappel.",
+   "sources": [
+    {
+     "titre": "DHS, Toggenbourg",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007642/"
+    },
+    {
+     "titre": "DHS, Saint-Gall (principauté abbatiale)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008394/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ]
+  },
+  {
+   "id": "valais",
+   "nom": "Valais (évêque de Sion et dizains)",
+   "categorie": "allie",
+   "regime": "Principauté épiscopale et communautés des dizains",
+   "chef_lieu": "Sion",
+   "langues": "Allemand et français",
+   "religion": "Catholique (cercles protestants influents)",
+   "population": null,
+   "dirigeants": "Prince-évêque de Sion et les sept dizains",
+   "resume": "Le Valais du prince-évêque de Sion et des dizains profite de l'offensive bernoise de 1536 pour occuper Monthey et Évian, sans tenir compte de son alliance de 1528 avec la Savoie. Il y crée les gouvernements de Monthey et d'Évian, qui s'ajoutent à celui de Saint-Maurice; ces terres sujettes sont figurées ici dans la couleur du Valais. La Réforme y suscite des cercles protestants influents dans les élites sans provoquer de rupture avec l'Église catholique.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Chablais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007039/"
+    },
+    {
+     "titre": "DHS, Savoie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/006641/"
+    }
+   ]
+  },
+  {
+   "id": "grisons",
+   "nom": "Trois Ligues (Grisons)",
+   "categorie": "allie",
+   "regime": "Fédération de communautés (Ligue grise, Ligue de la Maison-Dieu, Ligue des Dix-Juridictions)",
+   "chef_lieu": "Coire (Diète des Ligues)",
+   "langues": "Romanche, allemand et italien",
+   "religion": "Mixte (liberté religieuse des paroisses)",
+   "population": {
+    "valeur": 75000,
+    "annee": 1500,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007391/",
+    "note": "estimation du DHS vers 1500, plus de 20 ans avant la date"
+   },
+   "dirigeants": "Diètes des Trois Ligues",
+   "resume": "Les Trois Ligues sont pays allié de la Confédération depuis 1524. Les articles d'Ilanz de 1524 et 1526 dépouillent l'évêque de Coire de son pouvoir temporel et donnent aux paroisses le droit de nommer leur curé, si bien que la carte confessionnelle reste mouvante. En 1531, les Ligues mènent une guerre locale contre le châtelain de Musso, sur le lac de Côme. Elles gouvernent la Valteline, Chiavenna et Bormio, situés hors de la carte.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    },
+    {
+     "titre": "DHS, Valteline",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007135/"
+    }
+   ]
+  },
+  {
+   "id": "bienne",
+   "nom": "Ville de Bienne",
+   "categorie": "allie",
+   "regime": "Ville épiscopale autonome (maire de l'évêque et conseils)",
+   "chef_lieu": "Bienne",
+   "langues": "Allemand",
+   "religion": "Réformé (1528)",
+   "population": null,
+   "dirigeants": "Conseil de la ville, sous la seigneurie de l'évêque de Bâle",
+   "resume": "Bienne suit l'exemple de Berne et adopte la Réforme en 1528. La ville, alliée par combourgeoisie avec Berne, Fribourg et Soleure, siège assez régulièrement à la Diète comme pays allié. Elle relève toujours en principe du prince-évêque de Bâle, mais son influence s'étend sur l'Erguël.",
+   "sources": [
+    {
+     "titre": "DHS, Bienne (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000222/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "gruyere",
+   "nom": "Comté de Gruyère",
+   "categorie": "allie",
+   "regime": "Comté (fief savoyard) lié par combourgeoisie à Berne et Fribourg",
+   "chef_lieu": "Gruyères",
+   "langues": "Français, allemand à Saanen",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Comte Jean de Gruyère",
+   "resume": "Le comté de Gruyère, fief savoyard jusqu'en 1536, s'étend dans la haute vallée de la Sarine, du Gessenay (Saanen) à La Tour-de-Trême. Le comte prend position contre la Réforme, ce qui crée des tensions avec Berne. En 1536, ses seigneuries situées en terre vaudoise, comme Oron et Palézieux, passent sous la suzeraineté bernoise et sont fondues ici dans le canton de Berne. Albeuve, terre épiscopale, passe à Fribourg.",
+   "sources": [
+    {
+     "titre": "DHS, Gruyère (comté, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008148/"
+    },
+    {
+     "titre": "DHS, Oron-le-Châtel",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002563/"
+    }
+   ]
+  },
+  {
+   "id": "rapperswil",
+   "nom": "Ville de Rapperswil",
+   "categorie": "allie",
+   "regime": "Ville sous protectorat",
+   "chef_lieu": "Rapperswil",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Avoyer et conseil de la ville, sous la protection d'Uri, Schwytz, Unterwald et Glaris",
+   "resume": "La ville de Rapperswil est liée depuis 1464 par un traité de protectorat à Uri, Schwytz, Unterwald et Glaris. Pendant la Réforme, la majorité des bourgeois prend le parti de Zurich, dans l'espoir de devenir un canton de plein droit. Après la victoire catholique de 1531, les cantons protecteurs resserrent leur emprise, et la désignation du bailli du château et du curé exige désormais leur approbation.",
+   "sources": [
+    {
+     "titre": "DHS, Rapperswil (SG)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001371/"
+    }
+   ]
+  },
+  {
+   "id": "geneve",
+   "nom": "Seigneurie et République de Genève",
+   "categorie": "allie",
+   "regime": "République (Conseil général, syndics, Petit Conseil, Conseil des Deux-Cents)",
+   "chef_lieu": "Genève",
+   "langues": "Français",
+   "religion": "Réformé (1536)",
+   "dirigeants": "Syndics et conseils de Genève",
+   "population": {
+    "valeur": 13100,
+    "annee": 1550,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007398/",
+    "note": "estimation pour la seule ville vers 1550"
+   },
+   "resume": "Combourgeoise de Berne et de Fribourg depuis 1526, Genève est délivrée en janvier et février 1536 par les troupes bernoises du blocus des partisans de l'évêque et du duc de Savoie. L'évêque Pierre de La Baume ayant quitté la ville, la Seigneurie de Genève lui succède et adopte la Réforme en 1536. Elle prend possession des anciens mandements épiscopaux de Peney et de Jussy et des terres de Saint-Victor et du Chapitre, sur lesquelles Berne se réserve toutefois la haute justice. Par le traité du 7 août 1536, elle cède à Berne Gaillard et Bellerive et renouvelle la combourgeoisie.",
+   "sources": [
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    },
+    {
+     "titre": "DHS, Genève (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002903/"
+    },
+    {
+     "titre": "DHS, Cartigny",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002891/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ]
+  },
+  {
+   "id": "comte-neuchatel",
+   "nom": "Comté de Neuchâtel",
+   "categorie": "allie",
+   "regime": "Comté de la maison d'Orléans-Longueville, représentée par un gouverneur",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Réformé (1530)",
+   "population": null,
+   "dirigeants": "Maison d'Orléans-Longueville, représentée par un gouverneur depuis 1529",
+   "resume": "Occupé par les cantons de 1512 à 1529, le comté de Neuchâtel est rendu en 1529 aux Orléans-Longueville, qui s'y font représenter par un gouverneur. La Réforme y est introduite en 1530 avec le soutien de Berne. Lié par des combourgeoisies à Berne, Fribourg, Soleure et Lucerne, le comté est considéré comme un allié de Berne, sans siège à la Diète. La seigneurie vassale de Valangin est figurée à part.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ]
+  },
+  {
+   "id": "valangin",
+   "nom": "Seigneurie de Valangin",
+   "categorie": "autre",
+   "regime": "Seigneurie",
+   "chef_lieu": "Valangin",
+   "langues": "Français",
+   "religion": "Réformé (1536)",
+   "population": {
+    "valeur": 3600,
+    "annee": 1531,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007397/"
+   },
+   "dirigeants": "Guillemette de Vergy, veuve de Claude d'Aarberg",
+   "resume": "La seigneurie de Valangin, vassale du comté de Neuchâtel, couvre le Val-de-Ruz et les Montagnes neuchâteloises. La Réforme, introduite à Neuchâtel en 1530, s'y impose en 1536 malgré l'opposition vigoureuse de Guillemette de Vergy. La seigneurie compte 3600 habitants en 1531. Elle passera en 1543 à René de Challant.",
+   "sources": [
+    {
+     "titre": "DHS, Valangin (seigneurie)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007624/"
+    },
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    }
+   ]
+  },
+  {
+   "id": "eveche-bale",
+   "nom": "Principauté épiscopale de Bâle",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique d'Empire",
+   "chef_lieu": "Porrentruy",
+   "langues": "Français et allemand",
+   "religion": "Mixte (sud réformé, nord catholique)",
+   "population": null,
+   "dirigeants": "Prince-évêque de Bâle, établi à Porrentruy depuis 1528",
+   "resume": "Privé de la ville de Bâle, qui s'est affranchie de son autorité temporelle en 1501 puis spirituelle en 1529, le prince-évêque s'établit officiellement à Porrentruy en 1528. Le sud de la principauté, de l'Erguël à La Neuveville, adopte la Réforme sous l'influence de Berne, de Bienne et de Bâle et entre dans la mouvance helvétique. L'évêque a perdu Riehen au profit de Bâle et Thierstein au profit de Soleure en 1522.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    },
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    }
+   ]
+  },
+  {
+   "id": "gersau",
+   "nom": "République de Gersau",
+   "categorie": "autre",
+   "regime": "Petite république libre",
+   "chef_lieu": "Gersau",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landamman et assemblée de Gersau",
+   "resume": "Gersau, sur la rive du lac des Quatre-Cantons, est une république libre de 1390/1433 à 1817. L'empereur Sigismond a confirmé ses libertés en 1433.",
+   "sources": [
+    {
+     "titre": "DHS, Gersau",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000711/"
+    }
+   ]
+  },
+  {
+   "id": "abbaye-engelberg",
+   "nom": "Abbaye d'Engelberg",
+   "categorie": "autre",
+   "regime": "Seigneurie abbatiale sous protection des cantons voisins",
+   "chef_lieu": "Engelberg",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Abbé Barnabas Bürki (1505-1546)",
+   "resume": "L'abbaye bénédictine d'Engelberg possède la seigneurie de la vallée de l'Aa, constituée au XIIIe siècle. Elle est placée sous la tutelle de cantons protecteurs, qui interviennent dans l'élection des abbés.",
+   "sources": [
+    {
+     "titre": "DHS, Engelberg (abbaye)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008557/"
+    }
+   ]
+  },
+  {
+   "id": "sax-forstegg",
+   "nom": "Seigneurie de Sax-Forstegg",
+   "categorie": "autre",
+   "regime": "Seigneurie",
+   "chef_lieu": "Forstegg",
+   "langues": "Allemand",
+   "religion": "Mixte (Réforme définitivement adoptée en 1564)",
+   "population": null,
+   "dirigeants": "Barons de Sax",
+   "resume": "La seigneurie de Sax-Forstegg, qui correspond en gros à la commune de Sennwald, appartient aux barons de Sax, détenteurs de la haute justice et de la souveraineté militaire. Elle englobe en 1517 les villages de Sax, Frümsen, Salez, Haag, Sennwald et Lienz. La Réforme y progresse, mais ne sera définitivement adoptée qu'en 1564. Zurich l'achètera en 1615.",
+   "sources": [
+    {
+     "titre": "DHS, Sax-Forstegg",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007647/"
+    }
+   ]
+  },
+  {
+   "id": "rottweil",
+   "nom": "Ville de Rottweil",
+   "categorie": "allie",
+   "regime": "Ville impériale",
+   "chef_lieu": "Rottweil",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Conseil de la ville",
+   "resume": "La ville impériale souabe de Rottweil est pays allié des treize cantons par l'alliance perpétuelle de 1519. La Réforme met ces relations à rude épreuve, car la plupart des protestants sont expulsés de la ville en 1529. Pendant les guerres de Kappel, Rottweil sert d'abord de médiateur avant de se ranger aux côtés des cantons catholiques, et Zurich demande en 1531 la résiliation de l'alliance.",
+   "sources": [
+    {
+     "titre": "DHS, Rottweil",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007104/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ]
+  },
+  {
+   "id": "mulhouse",
+   "nom": "Ville de Mulhouse",
+   "categorie": "allie",
+   "regime": "Ville impériale",
+   "chef_lieu": "Mulhouse",
+   "langues": "Allemand (alsacien)",
+   "religion": "Réformé (1529)",
+   "population": null,
+   "dirigeants": "Conseil de la ville",
+   "resume": "Ville impériale alsacienne, Mulhouse devient pays allié de la Confédération par le pacte signé le 19 janvier 1515 à Zurich avec l'ensemble des Confédérés. Elle passe peu après à la Réforme, la messe étant abolie le 15 janvier 1529 devant les délégations de Zurich, Berne et Bâle. Elle est signataire de la Paix perpétuelle de 1516 avec la France.",
+   "sources": [
+    {
+     "titre": "DHS, Mulhouse",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007089/"
+    },
+    {
+     "titre": "DHS, Paix perpétuelle (1516)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008898/"
+    },
+    {
+     "titre": "DHS, Pays alliés",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009815/"
+    }
+   ]
+  },
+  {
+   "id": "bailliage-baden",
+   "nom": "Comté de Baden",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Baden",
+   "langues": "Allemand",
+   "religion": "Majoritairement catholique (minorités réformées)",
+   "population": null,
+   "dirigeants": "Les huit anciens cantons (Zurich, Berne, Lucerne, Uri, Schwytz, Unterwald, Zoug, Glaris)",
+   "resume": "Le comté de Baden est administré à tour de rôle par les huit cantons de l'ancienne Confédération, Berne compris, et la Diète s'y réunit. Après 1531, les paroisses qui avaient adopté la Réforme sont ramenées à l'ancienne foi, sauf à l'est de la Limmat, sous l'influence zurichoise. Des minorités protestantes subsistent en plusieurs lieux, et même des majorités à Tegerfelden et Zurzach.",
+   "sources": [
+    {
+     "titre": "DHS, Baden (comté, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008296/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "freie-aemter",
+   "nom": "Freie Ämter",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": null,
+   "langues": "Allemand",
+   "religion": "Catholique (restauré après 1531)",
+   "population": null,
+   "dirigeants": "Zurich, Lucerne, Uri, Schwytz, Unterwald, Zoug et Glaris",
+   "resume": "Les Freie Ämter, entre Reuss et Lindenberg, sont un bailliage commun de Zurich, Lucerne, Schwytz, Unterwald, Zoug et Glaris, auxquels s'ajoute Uri dès 1532. À la Réforme, les habitants des bailliages du nord et du centre se rallient majoritairement au protestantisme, mais après Kappel les cinq cantons catholiques marchent sur le bailliage et y restaurent l'ancienne foi, retirant certains droits aux communautés. Bremgarten et Muri y sont rattachés.",
+   "sources": [
+    {
+     "titre": "DHS, Freie Ämter",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008298/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    }
+   ]
+  },
+  {
+   "id": "bailliage-thurgovie",
+   "nom": "Landgraviat de Thurgovie",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Frauenfeld",
+   "langues": "Allemand",
+   "religion": "Mixte (largement protestant)",
+   "population": null,
+   "dirigeants": "Zurich, Lucerne, Uri, Schwytz, Unterwald, Zoug et Glaris",
+   "resume": "Le landgraviat de Thurgovie est un bailliage commun des sept cantons de l'ancienne Confédération moins Berne. La Réforme y gagne très tôt du terrain, sous l'influence de Constance, Zurich, Saint-Gall et Schaffhouse, et la chartreuse d'Ittingen est pillée en 1524. Après Kappel, la Thurgovie reste largement protestante, contrairement aux autres bailliages de Suisse orientale.",
+   "sources": [
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "sargans",
+   "nom": "Pays de Sargans",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Sargans",
+   "langues": "Allemand",
+   "religion": "Catholique (sauf Wartau)",
+   "population": null,
+   "dirigeants": "Zurich, Lucerne, Uri, Schwytz, Unterwald, Zoug et Glaris",
+   "resume": "Le pays de Sargans est un bailliage commun des sept cantons de l'ancienne Confédération moins Berne. Les baillis catholiques luttent contre la Réforme, et toutes les paroisses qui l'avaient adoptée reviennent à l'ancienne foi en 1531, à l'exception de Wartau.",
+   "sources": [
+    {
+     "titre": "DHS, Sarganserland",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007645/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "rheintal",
+   "nom": "Rheintal",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Rheineck",
+   "langues": "Allemand",
+   "religion": "Mixte",
+   "population": null,
+   "dirigeants": "Zurich, Lucerne, Uri, Schwytz, Unterwald, Zoug, Glaris et Appenzell",
+   "resume": "Le Rheintal est administré par les sept cantons de l'ancienne Confédération moins Berne, ainsi que par Appenzell. La Réforme s'y impose en 1529, sauf à Montlingen et Oberriet, avant une recatholicisation partielle en 1531. Dès lors, communes mixtes et communes catholiques, surtout dans l'Oberrheintal, cohabitent, et des églises servent aux deux cultes.",
+   "sources": [
+    {
+     "titre": "DHS, Rheintal",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007648/"
+    },
+    {
+     "titre": "DHS, Saint-Gall (principauté abbatiale)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008394/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "uznach",
+   "nom": "Comté d'Uznach",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Uznach",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Schwytz et Glaris",
+   "resume": "Le comté d'Uznach est un bailliage commun de Schwytz et de Glaris. Schwytz réussit à y empêcher la propagation de la Réforme. Les limites avec Rapperswil et le Gaster suivent ici approximativement les communes de 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Uznach (comté, bailliage)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007643/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "gaster",
+   "nom": "Gaster et Weesen",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun doté d'une landsgemeinde",
+   "chef_lieu": "Schänis",
+   "langues": "Allemand",
+   "religion": "Catholique (restauré en 1531)",
+   "population": null,
+   "dirigeants": "Schwytz et Glaris",
+   "resume": "Le Gaster et Weesen, avec Gams, forment un bailliage commun de Schwytz et de Glaris. Ses habitants embrassent la Réforme, dont ils attendent une pleine liberté, proclament leur indépendance et détruisent les images. L'ancienne foi et la sujétion sont rétablies en 1531 et l'autonomie locale est suspendue jusqu'en 1564.",
+   "sources": [
+    {
+     "titre": "DHS, Gaster",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007644/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "bailliage-lugano",
+   "nom": "Bailliage de Lugano",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun (bailliages italiens)",
+   "chef_lieu": "Lugano",
+   "langues": "Italien (lombard)",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 26000,
+    "annee": 1590,
+    "source": "https://hls-dhs-dss.ch/fr/articles/008545/",
+    "note": "chiffre de 1590, le plus proche que donne le DHS"
+   },
+   "dirigeants": "Les douze cantons (les treize sauf Appenzell)",
+   "resume": "Le bailliage de Lugano est l'un des quatre bailliages italiens des douze cantons, Appenzell excepté. La Paix perpétuelle de 1516 laisse ces territoires aux Confédérés, qui refusent de les céder à la France contre une indemnité. La pieve de Riva San Vitale lui est rattachée.",
+   "sources": [
+    {
+     "titre": "DHS, Lugano (pieve, bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008545/"
+    },
+    {
+     "titre": "DHS, Paix perpétuelle (1516)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008898/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "bailliage-locarno",
+   "nom": "Bailliage de Locarno",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun (bailliages italiens)",
+   "chef_lieu": "Locarno",
+   "langues": "Italien (lombard)",
+   "religion": "Catholique (communauté protestante vers 1540)",
+   "population": null,
+   "dirigeants": "Les douze cantons (les treize sauf Appenzell)",
+   "resume": "Le bailliage de Locarno appartient aux douze cantons depuis 1513. En 1521, Brissago, qui s'était proclamée république indépendante l'année précédente, se soumet aux douze cantons, qui l'annexent au bailliage avec une juridiction séparée. Une communauté protestante y apparaîtra vers 1540.",
+   "sources": [
+    {
+     "titre": "DHS, Locarno (pieve, bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008544/"
+    },
+    {
+     "titre": "DHS, Brissago",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002092/"
+    },
+    {
+     "titre": "DHS, Réforme",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013328/"
+    }
+   ]
+  },
+  {
+   "id": "vallemaggia",
+   "nom": "Bailliage du val Maggia",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun (bailliages italiens)",
+   "chef_lieu": "Cevio",
+   "langues": "Italien (lombard)",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 9000,
+    "annee": 1591,
+    "source": "https://hls-dhs-dss.ch/fr/articles/008548/",
+    "note": "estimation du DHS en 1591, plus de 20 ans après la date"
+   },
+   "dirigeants": "Les douze cantons (les treize sauf Appenzell)",
+   "resume": "Séparé de Locarno depuis 1403, le val Maggia forme à partir de 1513 un bailliage des douze cantons, en allemand Meiental. Le val Lavizzara y garde une juridiction propre.",
+   "sources": [
+    {
+     "titre": "DHS, Vallemaggia",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008548/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "mendrisio",
+   "nom": "Mendrisio et Balerna",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun (bailliages italiens)",
+   "chef_lieu": "Mendrisio",
+   "langues": "Italien (lombard)",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 7555,
+    "annee": 1591,
+    "source": "https://hls-dhs-dss.ch/fr/articles/008546/",
+    "note": "chiffre de 1591, le plus proche que donne le DHS"
+   },
+   "dirigeants": "Les douze cantons (les treize sauf Appenzell)",
+   "resume": "Occupé par les Français en 1499, le Mendrisiotto est définitivement conquis par les Confédérés après 1517 et reste en leurs mains après la Paix perpétuelle, dès 1521 selon le DHS. En 1522, les douze cantons y installent un bailli, en charge pour deux ans, qui administre la justice et préside la cour de Balerna. Le bailliage compte 7555 habitants en 1591.",
+   "sources": [
+    {
+     "titre": "DHS, Mendrisio (bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008546/"
+    },
+    {
+     "titre": "DHS, Paix perpétuelle (1516)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008898/"
+    }
+   ]
+  },
+  {
+   "id": "bellinzone",
+   "nom": "Bellinzone",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Bellinzone",
+   "langues": "Italien (lombard)",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Uri, Schwytz et Nidwald",
+   "resume": "Bellinzone se rend à Uri, Schwytz et Nidwald en avril 1500, alors que Louis XII conquiert le duché de Milan. Le traité d'Arona (1503) reconnaît cette conquête, qui devient le premier bailliage commun au sud des Alpes. Le bourg frappe encore monnaie, comme en témoigne un teston de 1506.",
+   "sources": [
+    {
+     "titre": "DHS, Bellinzone (pieve, bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008540/"
+    },
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    }
+   ]
+  },
+  {
+   "id": "riviera",
+   "nom": "Riviera",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": null,
+   "langues": "Italien (lombard)",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Uri, Schwytz et Nidwald",
+   "resume": "Occupée en 1495, la Riviera est attribuée aux cantons en 1499-1500 et reste jusqu'en 1798 un bailliage commun d'Uri, Schwytz et Nidwald. Elle s'étend de Biasca au pont de Claro.",
+   "sources": [
+    {
+     "titre": "DHS, Riviera (bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008547/"
+    }
+   ]
+  },
+  {
+   "id": "blenio",
+   "nom": "Val Blenio",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Lottigna",
+   "langues": "Italien (lombard)",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Uri, Schwytz et Nidwald",
+   "resume": "Les habitants du val Blenio jurent fidélité aux Uranais en 1495, et la paix d'Arona de 1503 donne la vallée à Uri, Schwytz et Nidwald. Elle est appelée Bollenz en allemand.",
+   "sources": [
+    {
+     "titre": "DHS, Blenio (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008541/"
+    }
+   ]
+  },
+  {
+   "id": "morat",
+   "nom": "Bailliage de Morat",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Morat",
+   "langues": "Allemand et français",
+   "religion": "Réformé (1530)",
+   "population": null,
+   "dirigeants": "Berne et Fribourg (avoyers en alternance pour cinq ans)",
+   "resume": "Le bailliage de Morat est administré en commun par Berne et Fribourg depuis les guerres de Bourgogne. Il se rallie à la Réforme en 1530, malgré l'appartenance catholique de Fribourg. Les limites suivent ici la liste des paroisses du bailliage.",
+   "sources": [
+    {
+     "titre": "DHS, Morat (bailliage)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/013097/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "grandson",
+   "nom": "Bailliage de Grandson",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Grandson",
+   "langues": "Français",
+   "religion": "Mixte (votes du «plus» à partir de 1531)",
+   "population": null,
+   "dirigeants": "Berne et Fribourg (baillis en alternance pour cinq ans)",
+   "resume": "Le bailliage de Grandson est commun à Berne et Fribourg. En 1531, les premiers partisans de la Réforme obtiennent l'envoi d'un prédicant, et les deux cantons conviennent que chaque paroisse décidera de sa confession par un vote appelé le «plus». La Réforme l'emportera partout entre 1531 et 1564.",
+   "sources": [
+    {
+     "titre": "DHS, Grandson (seigneurie, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007574/"
+    },
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    }
+   ]
+  },
+  {
+   "id": "orbe-echallens",
+   "nom": "Bailliage d'Orbe-Echallens",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Echallens",
+   "langues": "Français",
+   "religion": "Mixte",
+   "population": null,
+   "dirigeants": "Berne et Fribourg (baillis en alternance pour cinq ans)",
+   "resume": "Le bailliage d'Orbe-Echallens est administré en commun par Berne et Fribourg. L'adhésion de Berne à la Réforme en 1528 divise la communauté pendant plus de vingt ans, réformés et catholiques cohabitant avant que la foi réformée ne l'emporte dans la plupart des communes par des votes du «plus».",
+   "sources": [
+    {
+     "titre": "DHS, Orbe (seigneurie, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007580/"
+    },
+    {
+     "titre": "DHS, Echallens (bailliage, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007592/"
+    },
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    }
+   ]
+  },
+  {
+   "id": "schwarzenburg",
+   "nom": "Bailliage de Schwarzenburg",
+   "categorie": "bailliage-commun",
+   "regime": "Bailliage commun",
+   "chef_lieu": "Schwarzenburg",
+   "langues": "Allemand",
+   "religion": "Réformé (1529-1532)",
+   "population": null,
+   "dirigeants": "Berne et Fribourg",
+   "resume": "Le bailliage de Schwarzenburg, ou Grasbourg, est commun à Berne et Fribourg depuis 1423. Berne y exerce une influence prépondérante, son droit s'y applique et les appels lui sont portés. La Réforme y est introduite entre 1529 et 1532.",
+   "sources": [
+    {
+     "titre": "DHS, Schwarzenburg (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008452/"
+    },
+    {
+     "titre": "DHS, Bailliages communs",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009817/"
+    }
+   ]
+  },
+  {
+   "id": "habsbourg",
+   "nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
+   "categorie": "etranger",
+   "regime": "Possessions héréditaires de la maison d'Autriche",
+   "chef_lieu": "Ensisheim (Autriche antérieure)",
+   "langues": "Allemand, romanche à Tarasp",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Maison de Habsbourg, branche autrichienne",
+   "resume": "La maison de Habsbourg tient le Fricktal, l'abbaye d'Olsberg et la haute justice du Reiat et de Ramsen par le landgraviat de Nellenburg, ainsi que la seigneurie de Tarasp en Basse-Engadine. En 1529, les cinq cantons catholiques avaient conclu une alliance avec le futur empereur Ferdinand Ier, qu'ils durent abandonner à la première paix de Kappel.",
+   "sources": [
+    {
+     "titre": "DHS, Fricktal",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008297/"
+    },
+    {
+     "titre": "DHS, Reiat",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007547/"
+    },
+    {
+     "titre": "DHS, Tarasp (seigneurie, commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001524/"
+    },
+    {
+     "titre": "DHS, Kappel, guerres de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008903/"
+    }
+   ]
+  },
+  {
+   "id": "savoie",
+   "nom": "Duché de Savoie",
+   "categorie": "etranger",
+   "regime": "Duché",
+   "chef_lieu": "Chambéry",
+   "langues": "Français (francoprovençal)",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Duc Charles III de Savoie",
+   "resume": "Le duché de Savoie est presque entièrement dépecé en 1536. Lorsque Charles III tente de prendre Genève, Berne envahit le Pays de Vaud, le Pays de Gex et le Genevois, les Valaisans prennent le Chablais oriental et la France occupe la Savoie et le Piémont. Au printemps 1536, il ne reste au duc que Nice, Verceil et le val d'Aoste. Aucune commune du fond de carte ne lui appartient plus.",
+   "sources": [
+    {
+     "titre": "DHS, Savoie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/006641/"
+    },
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    }
+   ]
+  },
+  {
+   "id": "milan",
+   "nom": "Duché de Milan",
+   "categorie": "etranger",
+   "regime": "Duché sous domination espagnole",
+   "chef_lieu": "Milan",
+   "langues": "Italien (lombard)",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Domination espagnole depuis 1535",
+   "resume": "Après la défaite de Marignan en 1515, les Confédérés abandonnent leur protectorat sur Milan, que la Paix perpétuelle de 1516 reconnaît à François Ier. Le duché connaît ensuite la domination espagnole à partir de 1535. Il ne figure plus sur le fond de carte depuis l'annexion de Brissago au bailliage de Locarno en 1521.",
+   "sources": [
+    {
+     "titre": "DHS, Milan (duché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/006632/"
+    },
+    {
+     "titre": "DHS, Marignan, bataille de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008896/"
+    },
+    {
+     "titre": "DHS, Paix perpétuelle (1516)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008898/"
+    }
+   ]
+  }
+ ],
+ "regles": [
+  {
+   "niveau": "canton",
+   "cle": "ZH",
+   "territoire": "zurich",
+   "commentaire": "État de Zurich, y compris Kibourg, Grüningen, Eglisau et Winterthour"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10592,
+   "territoire": "zurich",
+   "commentaire": "Stein am Rhein ; souveraineté zurichoise depuis 1484"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12233,
+   "territoire": "zurich",
+   "commentaire": "Hemishofen ; terre de la ville de Stein am Rhein"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BE",
+   "territoire": "berne"
+  },
+  {
+   "niveau": "district",
+   "cle": 10056,
+   "territoire": "bienne",
+   "commentaire": "Amtsbezirk Biel"
+  },
+  {
+   "niveau": "district",
+   "cle": 10067,
+   "territoire": "eveche-bale",
+   "commentaire": "District de Courtelary"
+  },
+  {
+   "niveau": "district",
+   "cle": 10122,
+   "territoire": "eveche-bale",
+   "commentaire": "District de Moutier"
+  },
+  {
+   "niveau": "district",
+   "cle": 10124,
+   "territoire": "eveche-bale",
+   "commentaire": "District de la Neuveville"
+  },
+  {
+   "niveau": "district",
+   "cle": 10145,
+   "territoire": "eveche-bale",
+   "commentaire": "District de Delémont"
+  },
+  {
+   "niveau": "district",
+   "cle": 10159,
+   "territoire": "eveche-bale",
+   "commentaire": "District des Franches-Montagnes"
+  },
+  {
+   "niveau": "district",
+   "cle": 10147,
+   "territoire": "eveche-bale",
+   "commentaire": "District de Porrentruy"
+  },
+  {
+   "niveau": "district",
+   "cle": 10144,
+   "territoire": "eveche-bale",
+   "commentaire": "Amtsbezirk Laufen"
+  },
+  {
+   "niveau": "district",
+   "cle": 10153,
+   "territoire": "schwarzenburg",
+   "commentaire": "Amtsbezirk Schwarzenburg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10154,
+   "territoire": "gruyere",
+   "commentaire": "Amtsbezirk Saanen ; Saanen (Gessenay), terre du comté de Gruyère"
+  },
+  {
+   "niveau": "canton",
+   "cle": "LU",
+   "territoire": "lucerne"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16299,
+   "territoire": "freie-aemter",
+   "commentaire": "Hitzkirch ; bailliage de Richensee/Hitzkirch des Freie Ämter"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16300,
+   "territoire": "freie-aemter",
+   "commentaire": "Richensee ; bailliage de Richensee/Hitzkirch des Freie Ämter"
+  },
+  {
+   "niveau": "canton",
+   "cle": "UR",
+   "territoire": "uri"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SZ",
+   "territoire": "schwyz"
+  },
+  {
+   "niveau": "district",
+   "cle": 10059,
+   "territoire": "gersau",
+   "commentaire": "Bezirk Gersau"
+  },
+  {
+   "niveau": "canton",
+   "cle": "OW",
+   "territoire": "unterwald"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NW",
+   "territoire": "unterwald"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12287,
+   "territoire": "abbaye-engelberg",
+   "commentaire": "Engelberg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GL",
+   "territoire": "glaris"
+  },
+  {
+   "niveau": "canton",
+   "cle": "ZG",
+   "territoire": "zoug"
+  },
+  {
+   "niveau": "canton",
+   "cle": "FR",
+   "territoire": "fribourg"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11255,
+   "territoire": "morat",
+   "commentaire": "Murten"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12361,
+   "territoire": "morat",
+   "commentaire": "Muntelier"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11205,
+   "territoire": "morat",
+   "commentaire": "Burg bei Murten"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12107,
+   "territoire": "morat",
+   "commentaire": "Galmiz"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11750,
+   "territoire": "morat",
+   "commentaire": "Altavilla"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12728,
+   "territoire": "morat",
+   "commentaire": "Lurtigen"
+  },
+  {
+   "niveau": "commune",
+   "cle": 13015,
+   "territoire": "morat",
+   "commentaire": "Salvenach"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12646,
+   "territoire": "morat",
+   "commentaire": "Jeuss"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12437,
+   "territoire": "morat",
+   "commentaire": "Meyriez"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12078,
+   "territoire": "morat",
+   "commentaire": "Greng"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11534,
+   "territoire": "morat",
+   "commentaire": "Courgevaux"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11210,
+   "territoire": "morat",
+   "commentaire": "Courlevon"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11209,
+   "territoire": "morat",
+   "commentaire": "Coussiberlé"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10856,
+   "territoire": "morat",
+   "commentaire": "Ulmiz"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12102,
+   "territoire": "morat",
+   "commentaire": "Gempenach"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11466,
+   "territoire": "morat",
+   "commentaire": "Büchslen"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11724,
+   "territoire": "morat",
+   "commentaire": "Agriswil"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12689,
+   "territoire": "morat",
+   "commentaire": "Kerzers"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11969,
+   "territoire": "morat",
+   "commentaire": "Fräschels"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11365,
+   "territoire": "morat",
+   "commentaire": "Vully-le-Bas"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11341,
+   "territoire": "morat",
+   "commentaire": "Vully-le-Haut"
+  },
+  {
+   "niveau": "district",
+   "cle": 10107,
+   "territoire": "fribourg",
+   "commentaire": "District de la Broye ; Estavayer, Saint-Aubin, Surpierre, Vallon, Delley, La Molière, pris par Fribourg en 1536"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12337,
+   "territoire": "fribourg",
+   "commentaire": "Montagny-la-Ville ; seigneurie de Montagny achetée en 1478"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12338,
+   "territoire": "fribourg",
+   "commentaire": "Montagny-les-Monts ; seigneurie de Montagny achetée en 1478"
+  },
+  {
+   "niveau": "district",
+   "cle": 10106,
+   "territoire": "fribourg",
+   "commentaire": "District de la Glâne ; Romont et Rue, pris par Fribourg en 1536"
+  },
+  {
+   "niveau": "district",
+   "cle": 10101,
+   "territoire": "fribourg",
+   "commentaire": "District de la Veveyse ; Châtel-Saint-Denis, Attalens et Bossonnens, pris par Fribourg en 1536"
+  },
+  {
+   "niveau": "district",
+   "cle": 10105,
+   "territoire": "gruyere",
+   "commentaire": "District de la Gruyère"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11462,
+   "territoire": "fribourg",
+   "commentaire": "Bulle ; terre de l'évêque de Lausanne placée sous la protection de Fribourg en 1536, bailliage fribourgeois dès janvier 1537"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12909,
+   "territoire": "fribourg",
+   "commentaire": "Riaz ; terre de l'évêque de Lausanne placée sous la protection de Fribourg en 1536, bailliage fribourgeois dès janvier 1537"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12574,
+   "territoire": "fribourg",
+   "commentaire": "La Roche ; terre de l'évêque de Lausanne placée sous la protection de Fribourg en 1536, bailliage fribourgeois dès janvier 1537"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11729,
+   "territoire": "fribourg",
+   "commentaire": "Albeuve ; terre de l'évêque de Lausanne placée sous la protection de Fribourg en 1536, bailliage fribourgeois dès janvier 1537"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10906,
+   "territoire": "fribourg",
+   "commentaire": "Vaulruz ; seigneurie savoyarde prise par Fribourg en 1536"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10388,
+   "territoire": "fribourg",
+   "commentaire": "Vuippens ; seigneurie savoyarde prise par Fribourg en 1536"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12668,
+   "territoire": "fribourg",
+   "commentaire": "Jaun ; Bellegarde, achetée par Fribourg en 1502/1504"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11194,
+   "territoire": "fribourg",
+   "commentaire": "Pont-en-Ogoz ; seigneurie de Pont achetée en 1483"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SO",
+   "territoire": "soleure"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BS",
+   "territoire": "bale"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BL",
+   "territoire": "bale"
+  },
+  {
+   "niveau": "district",
+   "cle": 10092,
+   "territoire": "eveche-bale",
+   "commentaire": "Bezirk Arlesheim ; Birseck et terres de l'évêque"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12365,
+   "territoire": "bale",
+   "commentaire": "Münchenstein ; gage de la ville depuis 1470, achat en 1515"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16224,
+   "territoire": "bale",
+   "commentaire": "Muttenz ; gage de la ville depuis 1470, achat en 1515"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16256,
+   "territoire": "habsbourg",
+   "commentaire": "Olsberg (BL) ; abbaye d'Olsberg, Autriche antérieure"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SH",
+   "territoire": "schaffhouse"
+  },
+  {
+   "niveau": "district",
+   "cle": 10090,
+   "territoire": "habsbourg",
+   "commentaire": "Bezirk Reiat ; haute justice du landgraviat autrichien de Nellenburg"
+  },
+  {
+   "niveau": "commune",
+   "cle": 13170,
+   "territoire": "habsbourg",
+   "commentaire": "Ramsen ; haute justice autrichienne (Nellenburg)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11479,
+   "territoire": "habsbourg",
+   "commentaire": "Buch (SH) ; approximation, Hegau autrichien"
+  },
+  {
+   "niveau": "district",
+   "cle": 10091,
+   "territoire": "schaffhouse",
+   "commentaire": "Bezirk Oberklettgau ; Neunkirch acheté en 1525, haute justice des comtes de Sulz jusqu'en 1657"
+  },
+  {
+   "niveau": "district",
+   "cle": 10086,
+   "territoire": "schaffhouse",
+   "commentaire": "Bezirk Unterklettgau ; Hallau acheté en 1525, Wilchingen, haute justice des comtes de Sulz jusqu'en 1657"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12846,
+   "territoire": "schaffhouse",
+   "commentaire": "Rüdlingen ; acquis par Schaffhouse en 1520"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11474,
+   "territoire": "schaffhouse",
+   "commentaire": "Buchberg ; acquis par Schaffhouse en 1520"
+  },
+  {
+   "niveau": "district",
+   "cle": 10088,
+   "territoire": "schaffhouse",
+   "commentaire": "Bezirk Schleitheim ; justices obtenues des comtes de Lupfen en 1530"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AR",
+   "territoire": "appenzell"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AI",
+   "territoire": "appenzell"
+  },
+  {
+   "niveau": "district",
+   "cle": 10170,
+   "territoire": "abbaye-saint-gall",
+   "commentaire": "Bezirk St. Gallen"
+  },
+  {
+   "niveau": "district",
+   "cle": 10171,
+   "territoire": "abbaye-saint-gall",
+   "commentaire": "Bezirk Rorschach"
+  },
+  {
+   "niveau": "district",
+   "cle": 10195,
+   "territoire": "abbaye-saint-gall",
+   "commentaire": "Bezirk Gossau"
+  },
+  {
+   "niveau": "district",
+   "cle": 10204,
+   "territoire": "abbaye-saint-gall",
+   "commentaire": "Bezirk Wil"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16392,
+   "territoire": "ville-saint-gall",
+   "commentaire": "St. Gallen"
+  },
+  {
+   "niveau": "district",
+   "cle": 10196,
+   "territoire": "toggenbourg",
+   "commentaire": "Bezirk Alttoggenburg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10201,
+   "territoire": "toggenbourg",
+   "commentaire": "Bezirk Neutoggenburg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10202,
+   "territoire": "toggenbourg",
+   "commentaire": "Bezirk Obertoggenburg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10192,
+   "territoire": "toggenbourg",
+   "commentaire": "Bezirk Untertoggenburg"
+  },
+  {
+   "niveau": "district",
+   "cle": 10172,
+   "territoire": "rheintal",
+   "commentaire": "Bezirk Unterrheintal"
+  },
+  {
+   "niveau": "district",
+   "cle": 10173,
+   "territoire": "rheintal",
+   "commentaire": "Bezirk Oberrheintal"
+  },
+  {
+   "niveau": "district",
+   "cle": 10161,
+   "territoire": "sargans",
+   "commentaire": "Bezirk Sargans"
+  },
+  {
+   "niveau": "district",
+   "cle": 10174,
+   "territoire": "glaris",
+   "commentaire": "Bezirk Werdenberg ; comté de Werdenberg, acheté par Glaris en 1517 (Buchs, Grabs, Sevelen)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10072,
+   "territoire": "sargans",
+   "commentaire": "Wartau ; haute juridiction du bailliage de Sargans"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10061,
+   "territoire": "gaster",
+   "commentaire": "Gams ; achetée en 1497 par Schwytz et Glaris, rattachée au Gaster"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10090,
+   "territoire": "sax-forstegg",
+   "commentaire": "Sennwald"
+  },
+  {
+   "niveau": "district",
+   "cle": 10194,
+   "territoire": "gaster",
+   "commentaire": "Bezirk Gaster"
+  },
+  {
+   "niveau": "district",
+   "cle": 10203,
+   "territoire": "uznach",
+   "commentaire": "Bezirk See"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10112,
+   "territoire": "rapperswil",
+   "commentaire": "Rapperswil (SG)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10113,
+   "territoire": "rapperswil",
+   "commentaire": "Jona ; terre de la ville de Rapperswil"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GR",
+   "territoire": "grisons"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10145,
+   "territoire": "habsbourg",
+   "commentaire": "Tarasp ; seigneurie tyrolienne jusqu'en 1803"
+  },
+  {
+   "niveau": "district",
+   "cle": 10026,
+   "territoire": "berne",
+   "commentaire": "Bezirk Aarau ; Argovie bernoise"
+  },
+  {
+   "niveau": "district",
+   "cle": 10020,
+   "territoire": "berne",
+   "commentaire": "Bezirk Lenzburg ; Argovie bernoise"
+  },
+  {
+   "niveau": "district",
+   "cle": 10023,
+   "territoire": "berne",
+   "commentaire": "Bezirk Brugg ; Argovie bernoise"
+  },
+  {
+   "niveau": "district",
+   "cle": 10017,
+   "territoire": "berne",
+   "commentaire": "Bezirk Zofingen ; Argovie bernoise"
+  },
+  {
+   "niveau": "district",
+   "cle": 10022,
+   "territoire": "berne",
+   "commentaire": "Bezirk Kulm ; Argovie bernoise"
+  },
+  {
+   "niveau": "district",
+   "cle": 10025,
+   "territoire": "bailliage-baden",
+   "commentaire": "Bezirk Baden"
+  },
+  {
+   "niveau": "district",
+   "cle": 10016,
+   "territoire": "bailliage-baden",
+   "commentaire": "Bezirk Zurzach"
+  },
+  {
+   "niveau": "district",
+   "cle": 10024,
+   "territoire": "freie-aemter",
+   "commentaire": "Bezirk Bremgarten"
+  },
+  {
+   "niveau": "district",
+   "cle": 10019,
+   "territoire": "freie-aemter",
+   "commentaire": "Bezirk Muri"
+  },
+  {
+   "niveau": "district",
+   "cle": 10018,
+   "territoire": "habsbourg",
+   "commentaire": "Bezirk Rheinfelden ; Fricktal"
+  },
+  {
+   "niveau": "district",
+   "cle": 10021,
+   "territoire": "habsbourg",
+   "commentaire": "Bezirk Laufenburg ; Fricktal"
+  },
+  {
+   "niveau": "canton",
+   "cle": "TG",
+   "territoire": "bailliage-thurgovie"
+  },
+  {
+   "niveau": "district",
+   "cle": 10005,
+   "territoire": "uri",
+   "commentaire": "Distretto di Leventina ; Léventine, sujette d'Uri"
+  },
+  {
+   "niveau": "district",
+   "cle": 10007,
+   "territoire": "bellinzone",
+   "commentaire": "Distretto di Bellinzona"
+  },
+  {
+   "niveau": "district",
+   "cle": 10040,
+   "territoire": "riviera",
+   "commentaire": "Distretto di Riviera"
+  },
+  {
+   "niveau": "district",
+   "cle": 10006,
+   "territoire": "blenio",
+   "commentaire": "Distretto di Blenio"
+  },
+  {
+   "niveau": "district",
+   "cle": 10004,
+   "territoire": "bailliage-locarno",
+   "commentaire": "Distretto di Locarno"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11833,
+   "territoire": "bailliage-locarno",
+   "commentaire": "Brissago ; soumise aux douze cantons en 1521 et annexée au bailliage de Locarno"
+  },
+  {
+   "niveau": "district",
+   "cle": 10042,
+   "territoire": "vallemaggia",
+   "commentaire": "Distretto di Vallemaggia"
+  },
+  {
+   "niveau": "district",
+   "cle": 10003,
+   "territoire": "bailliage-lugano",
+   "commentaire": "Distretto di Lugano"
+  },
+  {
+   "niveau": "district",
+   "cle": 10002,
+   "territoire": "mendrisio",
+   "commentaire": "Distretto di Mendrisio"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12904,
+   "territoire": "bailliage-lugano",
+   "commentaire": "Riva San Vitale ; pieve de Riva San Vitale, communauté de Lugano jusqu'en 1814"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11672,
+   "territoire": "bailliage-lugano",
+   "commentaire": "Arzo ; pieve de Riva San Vitale, communauté de Lugano jusqu'en 1814"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11867,
+   "territoire": "bailliage-lugano",
+   "commentaire": "Besazio ; pieve de Riva San Vitale, communauté de Lugano jusqu'en 1814"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10885,
+   "territoire": "bailliage-lugano",
+   "commentaire": "Tremona ; pieve de Riva San Vitale, communauté de Lugano jusqu'en 1814"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12394,
+   "territoire": "bailliage-lugano",
+   "commentaire": "Meride ; pieve de Riva San Vitale, communauté de Lugano jusqu'en 1814"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11405,
+   "territoire": "bailliage-lugano",
+   "commentaire": "Capolago ; pieve de Riva San Vitale, communauté de Lugano jusqu'en 1814"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VD",
+   "territoire": "berne",
+   "commentaire": "Pays de Vaud conquis par Berne en 1536"
+  },
+  {
+   "niveau": "district",
+   "cle": 10015,
+   "territoire": "berne",
+   "commentaire": "District d'Aigle ; mandement d'Aigle, bernois depuis 1475"
+  },
+  {
+   "niveau": "district",
+   "cle": 10049,
+   "territoire": "grandson",
+   "commentaire": "District de Grandson"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11398,
+   "territoire": "grandson",
+   "commentaire": "Chamblon ; juridictions du bailliage de Grandson"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10307,
+   "territoire": "grandson",
+   "commentaire": "Yvonand ; juridictions du bailliage de Grandson"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12339,
+   "territoire": "grandson",
+   "commentaire": "Montagny-près-Yverdon ; juridictions du bailliage de Grandson"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10939,
+   "territoire": "grandson",
+   "commentaire": "Valeyres-sous-Montagny ; juridictions du bailliage de Grandson"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10452,
+   "territoire": "grandson",
+   "commentaire": "Vuiteboeuf ; relevait pour un tiers du bailliage de Grandson"
+  },
+  {
+   "niveau": "district",
+   "cle": 10050,
+   "territoire": "orbe-echallens",
+   "commentaire": "District d'Echallens"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12478,
+   "territoire": "orbe-echallens",
+   "commentaire": "Orbe"
+  },
+  {
+   "niveau": "district",
+   "cle": 10055,
+   "territoire": "gruyere",
+   "commentaire": "District du Pays-d'Enhaut"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VS",
+   "territoire": "valais"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NE",
+   "territoire": "comte-neuchatel"
+  },
+  {
+   "niveau": "district",
+   "cle": 10185,
+   "territoire": "valangin",
+   "commentaire": "District du Val-de-Ruz"
+  },
+  {
+   "niveau": "district",
+   "cle": 10191,
+   "territoire": "valangin",
+   "commentaire": "District de la Chaux-de-Fonds"
+  },
+  {
+   "niveau": "district",
+   "cle": 10183,
+   "territoire": "valangin",
+   "commentaire": "District du Locle"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12601,
+   "territoire": "comte-neuchatel",
+   "commentaire": "La Brévine ; approximation, partie du comté"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12604,
+   "territoire": "comte-neuchatel",
+   "commentaire": "La Chaux-du-Milieu ; approximation, partie du comté"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16346,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Les Ponts-de-Martel ; approximation, partie du comté"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16239,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Brot-Dessus ; approximation, partie du comté"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16240,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Plamboz ; approximation, partie du comté"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12610,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Le Cerneux-Péquignot ; approximation, partie du comté"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11841,
+   "territoire": "comte-neuchatel",
+   "commentaire": "Boudevilliers ; mairie du comté hors de la seigneurie de Valangin"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GE",
+   "territoire": "berne",
+   "commentaire": "Pays de Gex, bailliage de Ternier et mandement de Gaillard, occupés par Berne de 1536 à 1567"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16445,
+   "territoire": "geneve",
+   "commentaire": "Genève ; ville et faubourgs"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16448,
+   "territoire": "geneve",
+   "commentaire": "Plainpalais ; faubourgs de la ville"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16446,
+   "territoire": "geneve",
+   "commentaire": "Eaux-Vives ; faubourgs de la ville"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16447,
+   "territoire": "geneve",
+   "commentaire": "Le Petit-Saconnex ; cédé par Berne à Genève et intégré aux Franchises"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16140,
+   "territoire": "geneve",
+   "commentaire": "Jussy ; ancien mandement épiscopal de Jussy"
+  },
+  {
+   "niveau": "commune",
+   "cle": 13051,
+   "territoire": "geneve",
+   "commentaire": "Satigny ; ancien mandement épiscopal de Peney"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11582,
+   "territoire": "geneve",
+   "commentaire": "Dardagny ; ancien mandement épiscopal de Peney"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12872,
+   "territoire": "geneve",
+   "commentaire": "Russin ; droits genevois hérités de l'évêque et de Saint-Victor, contestés"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12097,
+   "territoire": "geneve",
+   "commentaire": "Genthod ; ancien mandement épiscopal de Peney"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11387,
+   "territoire": "geneve",
+   "commentaire": "Céligny ; ancien mandement de Peney, revendiqué par Berne"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11411,
+   "territoire": "geneve",
+   "commentaire": "Cartigny ; terre de Saint-Victor, sujets de Genève dès 1536"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11439,
+   "territoire": "geneve",
+   "commentaire": "Chancy ; terre de Saint-Victor, sujets de Genève dès 1536"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11664,
+   "territoire": "geneve",
+   "commentaire": "Avully ; terre de Saint-Victor, haute justice bernoise"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11599,
+   "territoire": "geneve",
+   "commentaire": "Cologny ; terre du chapitre, souveraineté partagée"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10942,
+   "territoire": "geneve",
+   "commentaire": "Vandoeuvres ; terres du chapitre et de Saint-Victor, souveraineté partagée"
+  }
+ ],
+ "hors_carte": [
+  {
+   "nom": "Valteline",
+   "rattachement": "grisons",
+   "note": "Pays sujet des Trois Ligues depuis 1512, hors de la Suisse actuelle."
+  },
+  {
+   "nom": "Comtés de Chiavenna et de Bormio",
+   "rattachement": "grisons",
+   "note": "Pays sujets des Trois Ligues depuis 1512, hors de la Suisse actuelle."
+  },
+  {
+   "nom": "Pays de Gex, bailliage de Ternier, Gaillard et Chablais jusqu'à Thonon",
+   "rattachement": "berne",
+   "note": "Conquis par Berne en 1536 et rendus à la Savoie en 1567 en vertu du traité de Lausanne; seules les communes genevoises de 1850 figurent sur le fond."
+  },
+  {
+   "nom": "Chablais oriental (Évian, vallée d'Aulps)",
+   "rattachement": "valais",
+   "note": "Occupé par le Valais en 1536, rendu à la Savoie au traité de Thonon en 1569."
+  },
+  {
+   "nom": "Mandement de Thiez",
+   "rattachement": "geneve",
+   "note": "Ancien mandement épiscopal situé en Haute-Savoie, dont la Seigneurie de Genève reprend l'administration."
+  },
+  {
+   "nom": "Mulhouse",
+   "rattachement": "mulhouse",
+   "note": "Ville impériale alsacienne, pays allié depuis 1515."
+  },
+  {
+   "nom": "Rottweil",
+   "rattachement": "rottweil",
+   "note": "Ville impériale souabe, alliance perpétuelle de 1519."
+  },
+  {
+   "nom": "États du duc de Savoie",
+   "rattachement": "savoie",
+   "note": "Au printemps 1536, il ne reste au duc que Nice, Verceil et le val d'Aoste; la Savoie et le Piémont sont occupés par la France."
+  },
+  {
+   "nom": "Duché de Milan",
+   "rattachement": "milan",
+   "note": "Sous domination espagnole depuis 1535, voisin des bailliages tessinois."
+  },
+  {
+   "nom": "Possessions de l'abbaye de Saint-Gall en Brisgau et en Souabe",
+   "rattachement": "abbaye-saint-gall",
+   "note": "Ebringen, Norsingen et Neuravensburg, hors de la Suisse actuelle."
+  },
+  {
+   "nom": "Autriche antérieure (Sundgau, Brisgau, Forêt-Noire)",
+   "rattachement": "habsbourg",
+   "note": "Possessions habsbourgeoises voisines, hors du fond de carte."
+  }
+ ],
+ "approximations": [
+  "Unterwald est représenté comme un seul canton, alors qu'Obwald et Nidwald ont chacun leur landsgemeinde.",
+  "Au Rafzerfeld (district de Bülach), Zurich ne détient que les basses justices, la haute juridiction appartenant aux comtes de Sulz jusqu'en 1651; la zone est néanmoins laissée à Zurich.",
+  "Le Bucheggberg et le Kriegstetten sont laissés à Soleure bien que la haute juridiction y soit encore bernoise.",
+  "Pratteln et Augst, seigneurie des Eptingen jusqu'en 1521-1525, sont laissés au canton de Bâle. Binningen, Bottmingen, Biel-Benken, Therwil et Ettingen sont tous attribués à l'évêque, même si certains relèvent encore des Thierstein ou d'autres seigneurs.",
+  "Petit-Huningue (Kleinhüningen), partagé entre Bâle et le margrave de Bade jusqu'en 1640, est laissé à Bâle.",
+  "Seules Hitzkirch et Richensee sont attribuées aux Freie Ämter; d'autres villages de la paroisse de Hitzkirch (Hämikon, Gelfingen, Altwis, Retschwil, Mosen, Müswangen) en faisaient sans doute aussi partie mais restent lucernois sur la carte.",
+  "Les villes de Bremgarten et Mellingen, très autonomes, sont fondues respectivement dans les Freie Ämter et le comté de Baden; les districts de Bremgarten et Muri sont entièrement attribués aux Freie Ämter.",
+  "Le district de Zurzach est entièrement attribué au comté de Baden, y compris Kaiserstuhl, Klingnau et la commanderie de Leuggern.",
+  "Les quatre districts toggenbourgeois sont attribués au Toggenbourg, alors qu'une partie du district d'Untertoggenburg (Flawil, Oberuzwil, Henau, Jonschwil) relevait probablement de l'Alte Landschaft abbatiale.",
+  "Le district de See est attribué au comté d'Uznach sauf Rapperswil et Jona; les limites exactes entre Uznach, Rapperswil et le Gaster n'ont pas été vérifiées commune par commune. Diepoldsau est laissé au Rheintal.",
+  "À Neuchâtel, le Val-de-Ruz (sauf Boudevilliers), le district de La Chaux-de-Fonds et Le Locle et Les Brenets forment la seigneurie de Valangin; le reste du district du Locle est attribué au comté par approximation.",
+  "La Montagne de Diesse et La Neuveville sont attribuées à la principauté épiscopale de Bâle, bien que Berne y possède des droits et une combourgeoisie.",
+  "Les territoires sujets d'un seul canton sont fondus dans ce canton, à savoir l'Argovie bernoise, le mandement d'Aigle et le Pays de Vaud (Berne), les terres prises par Fribourg en 1536, la Léventine (Uri), Stein am Rhein et Hemishofen (Zurich), la March, les Höfe, Küssnacht et Einsiedeln (Schwytz), le Bas-Valais avec Monthey (Valais) et le comté de Werdenberg (Glaris).",
+  "Les districts fribourgeois de la Broye, de la Glâne et de la Veveyse sont entièrement attribués à Fribourg; la liste exacte des villages pris en 1536 n'a pas été vérifiée commune par commune, et certaines terres comme Font ou Montagny étaient fribourgeoises auparavant.",
+  "Bulle, Riaz, La Roche et Albeuve sont attribuées à Fribourg, sous la protection duquel elles se placent en 1536, alors que le DHS date de janvier 1537 la constitution du bailliage fribourgeois (et de 1536 le passage d'Albeuve).",
+  "Le district de la Gruyère reste au comte de Gruyère, sauf Bulle, Riaz, La Roche, Albeuve, Vaulruz, Vuippens, Jaun et Pont-en-Ogoz (Fribourg). Corbières et Charmey, vendues à Fribourg en 1553 seulement, restent au comté. Les communes voisines de Vaulruz et de Pont n'ont pas été vérifiées.",
+  "Le district vaudois d'Oron, seigneurie des comtes de Gruyère passée sous suzeraineté bernoise en 1536, est attribué à Berne.",
+  "Dans le canton de Genève, la Seigneurie reçoit la ville, ses faubourgs, Le Petit-Saconnex (cédé par Berne en 1538 selon le DHS), les communes des anciens mandements de Peney et de Jussy (Satigny, Dardagny, Russin, Genthod, Céligny, Jussy) ainsi que les terres de Saint-Victor et du Chapitre où Genève exerce la basse justice (Cartigny, Chancy, Avully, Cologny, Vandœuvres), bien que Berne s'y réserve la haute justice. Toutes les autres communes, issues du Pays de Gex et des bailliages savoyards, sont attribuées à Berne. Onex-Confignon, Lancy, Troinex et Chêne-Bougeries, où Genève détient aussi quelques droits, sont laissées à Berne.",
+  "Les districts schaffhousois d'Oberklettgau et d'Unterklettgau sont attribués à Schaffhouse, qui y détient les basses justices et y a imposé la Réforme, alors que la haute justice reste aux comtes de Sulz jusqu'en 1657; le traitement est le même que pour le Rafzerfeld zurichois.",
+  "Le Reiat, Ramsen et Buch restent attribués à l'Autriche (haute justice de Nellenburg), bien que Schaffhouse y acquière des basses justices en 1521, 1529 et 1534.",
+  "Le district soleurois de Thierstein est entièrement attribué à Soleure, y compris la seigneurie de Gilgenberg (1527).",
+  "Le district de Werdenberg est partagé entre Glaris (Buchs, Grabs, Sevelen), Sargans (Wartau), le Gaster (Gams) et Sax-Forstegg (Sennwald), les limites suivant les communes de 1850.",
+  "Le district de Moësa, Rhäzüns (autrichien) et la Ligue des Dix-Juridictions, où l'Autriche garde des droits, sont fondus dans les Trois Ligues; Haldenstein est également laissé aux Ligues.",
+  "La religion indiquée est celle de la majorité ou de l'autorité en 1536; dans de nombreux territoires, la situation reste mouvante jusqu'à la fin du XVIe siècle.",
+  "Le prince-évêque de Bâle, allié des cantons catholiques seulement à partir de 1579, reste classé dans la catégorie 'autre', comme Valangin, Engelberg, Gersau et Sax-Forstegg."
+ ],
+ "confiance": "Sont sûrs la conquête bernoise du Pays de Vaud au printemps 1536, les terres prises par Fribourg et l'occupation de Monthey et d'Évian par le Valais, l'émancipation de Genève et son passage à la Réforme, la confession des cantons après la seconde paix de Kappel, les acquisitions de Werdenberg par Glaris (1517), de Riehen par Bâle et de Thierstein par Soleure (1522), de Schleitheim par Schaffhouse (1530) et l'entrée de Mendrisio et de Brissago dans les bailliages tessinois (1521). Sont moins sûrs les limites fines autour de Genève, où souverainetés et basses justices s'enchevêtrent, le statut exact de Bulle et des terres épiscopales entre 1536 et 1537, les limites du Klettgau schaffhousois et la religion des territoires où la Réforme progresse encore. Les populations ne sont données que lorsqu'un chiffre unique figure dans le DHS, souvent éloigné de la date."
+}

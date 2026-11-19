@@ -1,0 +1,1097 @@
+{
+ "date": 1803,
+ "titre": "L'acte de Médiation et la Suisse des dix-neuf cantons",
+ "recit": "En 1802, après le départ des troupes françaises, les fédéralistes se soulèvent contre la République helvétique, dont le gouvernement doit capituler à Berne en septembre lors de la guerre des Bâtons. Bonaparte, qui voit menacé l'ordre qu'il veut imposer au continent, envoie ses troupes et réunit à Paris une Consulta de délégués suisses. Le 19 février 1803, il leur remet l'acte de Médiation, qui recrée une Confédération de dix-neuf cantons souverains et égaux, sans pays sujets. Aux treize anciens cantons, qui retrouvent en partie leurs institutions d'avant 1798, s'ajoutent six nouveaux, Saint-Gall, les Grisons, l'Argovie avec le Fricktal, la Thurgovie, le Tessin et Vaud. La Diète siège à tour de rôle dans six cantons directeurs, dont le premier magistrat porte pour l'année le titre de Landamman de la Suisse. La carte montre cette Confédération, avec Unterwald et Appenzell partagés chacun en deux demi-cantons qui n'ont ensemble qu'une voix. Autour d'elle, Genève, Bienne et l'ancien évêché de Bâle restent français, le Valais forme une république indépendante et Neuchâtel demeure une principauté prussienne.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Médiation, acte de",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009808/"
+  },
+  {
+   "titre": "DHS, Médiation",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+  },
+  {
+   "titre": "DHS, Stecklikrieg (guerre des Bâtons)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/041551/"
+  },
+  {
+   "titre": "DHS, Landamman de la Suisse",
+   "url": "https://hls-dhs-dss.ch/fr/articles/010080/"
+  },
+  {
+   "titre": "DHS, Valais",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+  }
+ ],
+ "territoires": [
+  {
+   "id": "zurich",
+   "nom": "Canton de Zurich",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, régime de Petit et Grand Conseils favorisant le chef-lieu (cens et suffrage indirect)",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Réformée (culte catholique toléré à partir de 1807)",
+   "population": {
+    "valeur": 179000,
+    "annee": 1800,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007381/"
+   },
+   "dirigeants": "Petit Conseil et Grand Conseil de 195 membres",
+   "resume": "La Constitution zurichoise, dix-neuvième chapitre de l'acte de Médiation, fonde le canton moderne avec un Grand Conseil de 195 sièges. En 1803, Zurich perd Stein am Rhein, Sax-Forstegg, ses bailliages thurgoviens et Büsingen, mais acquiert Rheinau et Dietikon. Il devient l'un des six cantons directeurs qui accueillent à tour de rôle la Diète fédérale. Le rétablissement des dîmes et des cens provoque en 1804 le soulèvement de la campagne connu sous le nom de guerre de Bocken.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "berne",
+   "nom": "Canton de Berne",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, régime de Petit et Grand Conseils favorisant le chef-lieu (cens et suffrage indirect)",
+   "chef_lieu": "Berne",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Petit Conseil et Grand Conseil de 195 députés, dont 121 fournis par la ville de Berne et de nombreux patriciens",
+   "resume": "L'acte de Médiation confirme la perte du Pays de Vaud et de l'Argovie, mais rend l'Oberland au canton de Berne, qui devient l'un des six cantons directeurs. Le découpage des cercles électoraux et un système mêlant élection et tirage au sort assurent à la ville 121 des 195 sièges du Grand Conseil, et 21 des membres du gouvernement sont des patriciens. L'ancien évêché de Bâle et Bienne restent français. Münchenwiler et Clavaleyres, revendiqués aussi par Fribourg, ne seront attribués à Berne qu'en 1807.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Villars-les-Moines",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000399/"
+    },
+    {
+     "titre": "DHS, Clavaleyres",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000391/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "lucerne",
+   "nom": "Canton de Lucerne",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, régime de Petit et Grand Conseils favorisant le chef-lieu (cens et suffrage indirect)",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 90871,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007382/",
+    "note": "recensement de la République helvétique"
+   },
+   "dirigeants": "Petit Conseil et Grand Conseil",
+   "resume": "Sous l'acte de Médiation, Lucerne est l'un des six cantons directeurs. Il reçoit le bailliage de Hitzkirch, rattaché sous l'Helvétique au canton de Baden, et cède en échange celui de Merenschwand à l'Argovie. Les conditions d'âge et de fortune réduisent de moitié environ le nombre des électeurs par rapport à 1802. Selon le DHS, Lucerne est le seul des treize anciens cantons où les anciennes élites ne reprennent pas le pouvoir.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "uri",
+   "nom": "Canton d'Uri",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, démocratie d'assemblée (landsgemeinde rétablie)",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Landsgemeinde; magistrats partisans de l'ancien régime élus en 1803",
+   "resume": "Partie du canton des Waldstätten sous l'Helvétique, Uri redevient un canton en 1803. Le 27 avril 1803, la landsgemeinde accepte le nouveau régime mais élit des magistrats attachés à l'ancien ordre. L'acte de Médiation impose l'égalité des droits et la liberté d'établissement, mais la landsgemeinde confirme les «bonnes coutumes» et l'on revient aux structures d'avant la Révolution. La Léventine, ancien bailliage uranais, appartient désormais au Tessin.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "schwyz",
+   "nom": "Canton de Schwytz",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, démocratie d'assemblée (landsgemeinde rétablie)",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 34138,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007385/",
+    "note": "territoire de référence non précisé par le DHS"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "Partagé sous l'Helvétique entre les cantons des Waldstätten et de la Linth, Schwytz retrouve en 1803 ses anciennes limites. L'acte de Médiation lui adjoint Gersau et Reichenburg, mais abolit le statut de pays sujet, si bien que la Marche, Einsiedeln, Küssnacht et les Höfe deviennent des districts égaux en droit. La république libre de Gersau n'est rattachée que provisoirement, jusqu'en 1814. Depuis la Médiation, la vie politique ne connaît que deux niveaux, le canton et les districts.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Gersau",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000711/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "obwald",
+   "nom": "Obwald (Unterwald-le-Haut)",
+   "categorie": "canton",
+   "regime": "Demi-canton d'Unterwald sous l'acte de Médiation, démocratie d'assemblée (landsgemeinde)",
+   "chef_lieu": "Sarnen",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 10580,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007410/"
+   },
+   "dirigeants": "Landsgemeinde et landammans",
+   "resume": "Unterwald forme un seul canton de l'acte de Médiation (chapitre 15), avec une seule voix à la Diète, mais ce chapitre rétablit l'organisation et les autorités d'Ancien Régime séparément à Obwald et à Nidwald. Dès 1803, selon le DHS, Obwald et Nidwald sont des demi-cantons égaux en droit et Obwald perd le privilège des deux tiers qu'il détenait avant 1798. Son territoire se limite à la vallée de Sarnen et à ses vallées latérales, sans Engelberg, laissé à Nidwald.",
+   "sources": [
+    {
+     "titre": "DHS, Obwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007410/"
+    },
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    },
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    }
+   ]
+  },
+  {
+   "id": "nidwald",
+   "nom": "Nidwald (Unterwald-le-Bas)",
+   "categorie": "canton",
+   "regime": "Demi-canton d'Unterwald sous l'acte de Médiation, démocratie d'assemblée (landsgemeinde)",
+   "chef_lieu": "Stans",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 8496,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007411/",
+    "note": "territoire de référence non précisé par le DHS"
+   },
+   "dirigeants": "Landsgemeinde et landammans",
+   "resume": "L'acte de Médiation, qui contient la première Constitution écrite d'Unterwald, rend son autonomie à Nidwald sous le nom d'Unterwalden nid dem Wald, sur pied d'égalité avec Obwald. Il maintient le rattachement à Nidwald de la vallée et de l'abbaye d'Engelberg, réunies au district de Stans depuis 1798. Lors de la guerre des Bâtons, le 28 août 1802, les insurgés nidwaldiens avaient battu les troupes helvétiques au col de Rengg. Engelberg lui restera jusqu'en 1815.",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    },
+    {
+     "titre": "DHS, Stecklikrieg (guerre des Bâtons)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/041551/"
+    }
+   ]
+  },
+  {
+   "id": "glaris",
+   "nom": "Canton de Glaris",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, démocratie d'assemblée (landsgemeinde rétablie)",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire, minorité catholique",
+   "population": null,
+   "dirigeants": "Landsgemeinde",
+   "resume": "Partie du canton de la Linth sous l'Helvétique, Glaris redevient un canton en 1803. La Constitution incluse dans l'acte de Médiation ramène pour l'essentiel l'ordre antérieur à 1798. Les tâches de l'État se limitent à nouveau aux magistratures, à la représentation extérieure, à l'assistance publique et à l'approvisionnement. Le canton compte près de 23 000 âmes vers 1800 selon le DHS, et la correction de la Linth commence en 1807.",
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "zoug",
+   "nom": "Canton de Zoug",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, démocratie d'assemblée (landsgemeinde rétablie)",
+   "chef_lieu": "Zoug",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 12749,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007373/"
+   },
+   "dirigeants": "Conseil de la ville et bailliage (54 membres)",
+   "resume": "La brève Constitution contenue dans l'acte de Médiation, complétée par la loi d'organisation du 11 avril 1803, rétablit en grande partie les institutions d'avant la Révolution. Les anciens bailliages de Cham, Hünenberg, Steinhausen, Risch et Walchwil sont désormais des communes égales en droit. Le Conseil de la ville et bailliage, qui cumule les pouvoirs exécutif, judiciaire et législatif, passe pour cette raison à 54 membres.",
+   "sources": [
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "fribourg",
+   "nom": "Canton de Fribourg",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, régime de Petit et Grand Conseils favorisant le chef-lieu (cens et suffrage indirect)",
+   "chef_lieu": "Fribourg",
+   "langues": "Français et allemand (français langue du gouvernement de 1798 à 1814)",
+   "religion": "Catholique, minorité réformée dans le Moratois rattaché en 1803",
+   "population": {
+    "valeur": 67814,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007379/",
+    "note": "dans les frontières actuelles du canton"
+   },
+   "dirigeants": "Louis d'Affry, avoyer et premier Landamman de la Suisse (1803)",
+   "resume": "Fribourg est le canton pilote de la Médiation. Son avoyer Louis d'Affry, désigné par Bonaparte, est Landamman de la Suisse pour 1803 et la Diète des dix-neuf cantons s'ouvre à Fribourg le 4 juillet 1803. Morat devient définitivement fribourgeois, ce qui met fin à l'unité confessionnelle du canton, et Fribourg administre aussi Münchenwiler et Clavaleyres jusqu'en 1807. Le corps électoral tombe de 17 922 citoyens en 1802 à 6312 en 1803. Le régime, à tonalité franco-nobiliaire, sera qualifié de «petite restauration».",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Landamman de la Suisse",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010080/"
+    },
+    {
+     "titre": "DHS, Clavaleyres",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000391/"
+    }
+   ]
+  },
+  {
+   "id": "soleure",
+   "nom": "Canton de Soleure",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, régime de Petit et Grand Conseils favorisant le chef-lieu (cens et suffrage indirect)",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique, minorité réformée dans le Bucheggberg",
+   "population": {
+    "valeur": 45840,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007386/"
+   },
+   "dirigeants": "Petit Conseil et Grand Conseil",
+   "resume": "L'acte de Médiation, entré en vigueur le 10 mars 1803, fait de Soleure l'un des six cantons directeurs, et la Diète y siégera en 1805 et en 1811. Les privilèges des bourgeois, que l'Helvétique avait tenté de supprimer, sont rétablis. Le gouvernement rend à l'Église les biens nationalisés sous la République helvétique.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "bale",
+   "nom": "Canton de Bâle",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, Grand Conseil de 135 sièges élu par corporations, Petit Conseil présidé par deux bourgmestres",
+   "chef_lieu": "Bâle",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Deux bourgmestres alternant chaque année à la tête du Petit Conseil",
+   "resume": "La première Constitution cantonale au sens moderne, jointe à l'acte de Médiation et inspirée d'un projet de Hans Bernhard Sarasin, divise le canton en cinq districts. Le premier Grand Conseil compte 53 citadins et 82 campagnards, mais le cens d'éligibilité et un Petit Conseil où siègent seulement huit campagnards sur 25 favorisent la ville. Bâle est l'un des six cantons directeurs. Le Birseck et le Laufonnais, anciennes terres du prince-évêque, restent français. La campagne compte 26 235 âmes en 1798.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Birseck",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007560/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Canton de Schaffhouse",
+   "categorie": "canton",
+   "regime": "Canton souverain sous l'acte de Médiation, régime de Petit et Grand Conseils favorisant le chef-lieu (cens et suffrage indirect)",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 24889,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007388/",
+    "note": "population sur le territoire du canton actuel"
+   },
+   "dirigeants": "Petit Conseil et Grand Conseil",
+   "resume": "L'acte de Médiation donne au canton une nouvelle organisation, avec trois districts judiciaires. Le district de Stein am Rhein, enlevé à Zurich, est rattaché à Schaffhouse en 1803, ce qui rompt l'unité confessionnelle du canton. Depuis la Médiation, le peuple élit les autorités communales.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    },
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    }
+   ]
+  },
+  {
+   "id": "appenzell-rhodes-exterieures",
+   "nom": "Appenzell Rhodes-Extérieures",
+   "categorie": "canton",
+   "regime": "Demi-canton d'Appenzell sous l'acte de Médiation, démocratie d'assemblée (landsgemeinde)",
+   "chef_lieu": "Trogen et Hérisau (deux chancelleries)",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 39000,
+    "annee": 1794,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007476/",
+    "note": "chiffre arrondi donné par le DHS"
+   },
+   "dirigeants": "Landsgemeinde et Conseils",
+   "resume": "Partie du canton du Säntis sous l'Helvétique, les Rhodes-Extérieures sont rétablies dans leurs frontières par l'acte de Médiation, qui recrée les deux demi-cantons d'Appenzell. Les deux demi-cantons n'ont ensemble qu'une voix à la Diète. Le régime redevient autoritaire, mais le demi-canton réorganisera entre 1805 et 1810 les écoles, l'armée, les transports, les monnaies et la santé publique.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Extérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007476/"
+    },
+    {
+     "titre": "DHS, Appenzell Rhodes-Intérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007475/"
+    }
+   ]
+  },
+  {
+   "id": "appenzell-rhodes-interieures",
+   "nom": "Appenzell Rhodes-Intérieures",
+   "categorie": "canton",
+   "regime": "Demi-canton d'Appenzell sous l'acte de Médiation, démocratie d'assemblée (landsgemeinde)",
+   "chef_lieu": "Appenzell",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 8489,
+    "annee": 1801,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007475/"
+   },
+   "dirigeants": "Landsgemeinde",
+   "resume": "L'acte de Médiation du 19 février 1803, qui recrée les deux demi-cantons d'Appenzell avec une voix commune à la Diète, est adopté par la landsgemeinde le 23 octobre 1803. Vers 1800, le Pays Intérieur compte 7400 habitants et Hirschberg-Oberegg environ 1400. En 1803, la moitié de la population est pauvre et 5 % seulement disposent de réserves suffisantes.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Intérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007475/"
+    }
+   ]
+  },
+  {
+   "id": "saint-gall",
+   "nom": "Canton de Saint-Gall",
+   "categorie": "canton",
+   "regime": "Canton souverain créé par l'acte de Médiation, régime représentatif centralisé avec suffrage censitaire",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Mixte, catholiques et réformés",
+   "population": {
+    "valeur": 135209,
+    "annee": 1809,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007390/",
+    "note": "premier dénombrement de tout le canton"
+   },
+   "dirigeants": "Karl Müller-Friedberg, nommé par Bonaparte président du gouvernement provisoire",
+   "resume": "L'acte de Médiation crée le canton de Saint-Gall avec la ville, l'ancienne principauté abbatiale, le Rheintal, Sax, Gams, Werdenberg, Sargans, Gaster, Uznach et Rapperswil, soit les entités des cantons helvétiques de la Linth et du Säntis qui n'ont pas été rendues à Glaris et à Appenzell. Le Grand Conseil compte 150 membres et le canton est divisé en huit districts. Quatrième canton par la population après Zurich, Berne et Vaud, il dispose de deux voix à la Diète. Le prince-abbé Pankraz refuse de renoncer à ses droits de souveraineté, et l'abbaye sera supprimée en droit en 1805.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "grisons",
+   "nom": "Canton des Grisons",
+   "categorie": "canton",
+   "regime": "Canton souverain créé par l'acte de Médiation, Ligues et juridictions restaurées sous des autorités centrales",
+   "chef_lieu": "Coire",
+   "langues": "Allemand, romanche et italien",
+   "religion": "Mixte, réformés majoritaires et catholiques",
+   "population": {
+    "valeur": 72903,
+    "annee": 1800,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007391/",
+    "note": "recensement officieux"
+   },
+   "dirigeants": "Petit Conseil et Grand Conseil, issus pour la plupart des anciennes familles dirigeantes",
+   "resume": "Ancienne République des III Ligues et pays allié, les Grisons deviennent en 1803 un canton de la Confédération, sans la Valteline, Bormio et Chiavenna perdus en 1797. La Constitution de 1803 rétablit les Ligues, les juridictions et les hautes juridictions, et intègre au canton les seigneuries de Haldenstein, Rhäzüns et Tarasp ainsi que le quartier épiscopal de Coire. Une erreur de recensement lui vaut deux voix à la Diète. Les historiens y voient l'acte de fondation des Grisons modernes.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    },
+    {
+     "titre": "DHS, Tarasp (seigneurie, commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001524/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "argovie",
+   "nom": "Canton d'Argovie",
+   "categorie": "canton",
+   "regime": "Canton souverain créé par l'acte de Médiation, régime représentatif centralisé avec suffrage censitaire",
+   "chef_lieu": "Aarau",
+   "langues": "Allemand",
+   "religion": "Mixte, réformés et catholiques",
+   "population": {
+    "valeur": 131000,
+    "annee": 1803,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007392/",
+    "note": "chiffre arrondi"
+   },
+   "dirigeants": "Petit Conseil de neuf membres et Grand Conseil",
+   "resume": "Prévu dès 1801 par la Constitution de la Malmaison, le canton d'Argovie ne se réalise qu'en 1803 par l'union de trois cantons helvétiques, l'Argovie bernoise, Baden et le Fricktal. Il reçoit aussi Merenschwand, cédé par Lucerne. Le cens électoral réduit à 9233 personnes, soit 7 % de la population, le nombre de ceux qui peuvent voter et être élus, contre 14 561 en 1802. Comme l'un des six cantons les plus peuplés, l'Argovie dispose de deux voix à la Diète.",
+   "sources": [
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    },
+    {
+     "titre": "DHS, Fricktal",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008297/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "thurgovie",
+   "nom": "Canton de Thurgovie",
+   "categorie": "canton",
+   "regime": "Canton souverain créé par l'acte de Médiation, régime représentatif centralisé avec suffrage censitaire",
+   "chef_lieu": "Frauenfeld",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire, environ 20 % de catholiques en 1803",
+   "population": {
+    "valeur": 70878,
+    "annee": 1801,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007393/",
+    "note": "premier recensement"
+   },
+   "dirigeants": "Commission gouvernementale dirigée par Johann Ulrich Sauter, puis Petit Conseil",
+   "resume": "Ancien bailliage commun, la Thurgovie obtient avec l'acte de Médiation l'autonomie politique et l'égalité des droits face aux autres cantons. Une commission gouvernementale dirigée par Johann Ulrich Sauter met en œuvre l'acte du 10 mars au 14 avril 1803. Le canton doit fournir chaque année 111 hommes aux régiments suisses exigés par Napoléon. Il défend sa souveraineté sur les couvents contre les empiétements de la Diète.",
+   "sources": [
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "tessin",
+   "nom": "Canton du Tessin",
+   "categorie": "canton",
+   "regime": "Canton souverain créé par l'acte de Médiation, régime représentatif centralisé avec suffrage censitaire",
+   "chef_lieu": null,
+   "langues": "Italien",
+   "religion": "Catholique (religion cantonale reconnue par l'acte de Médiation)",
+   "population": {
+    "valeur": 90000,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007394/",
+    "note": "chiffre arrondi"
+   },
+   "dirigeants": "Petit Conseil de neuf membres, où se distingue Vincenzo Dalberti",
+   "resume": "C'est l'acte de Médiation qui donne naissance au canton du Tessin, en unissant les cantons helvétiques de Bellinzone et de Lugano. Sa Constitution de 1803 institue une démocratie représentative à suffrage indirect et cens élevé, réservée aux membres des communes bourgeoises. Le canton est divisé en huit districts correspondant aux anciens bailliages, 38 cercles et environ 250 communes, avec un Grand Conseil de 110 membres. Le gouvernement s'efforce de bâtir l'État et un esprit d'unité cantonale.",
+   "sources": [
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "vaud",
+   "nom": "Canton de Vaud",
+   "categorie": "canton",
+   "regime": "Canton souverain créé par l'acte de Médiation, régime représentatif centralisé avec suffrage censitaire",
+   "chef_lieu": "Lausanne",
+   "langues": "Français",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 148000,
+    "annee": 1815,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007395/",
+    "note": "chiffre arrondi de 1815, douze ans après la date"
+   },
+   "dirigeants": "Petit Conseil de neuf membres, dominé par Jules Muret, Henri Monod et Auguste Pidou",
+   "resume": "Canton du Léman sous l'Helvétique, le Pays de Vaud devient le canton de Vaud par l'acte de Médiation, dont le chapitre XVII contient sa Constitution. Le premier Grand Conseil se réunit le 14 avril 1803 et le Petit Conseil, avec les «Pères de la Patrie» Muret, Monod et Pidou, vise une large autonomie politique et économique. Avenches et Payerne, districts fribourgeois de 1798 à 1802, reviennent au canton, divisé en dix-neuf districts et soixante cercles. Vaud dispose de deux voix à la Diète.",
+   "sources": [
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "valais",
+   "nom": "République du Valais",
+   "categorie": "autre",
+   "regime": "République indépendante (1802-1810), Diète élue par les dizains et Conseil d'État permanent",
+   "chef_lieu": "Sion",
+   "langues": "Français et allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 60344,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007396/",
+    "note": "estimation de la population résidante"
+   },
+   "dirigeants": "Diète et Conseil d'État",
+   "resume": "Détaché de la République helvétique, le Valais est érigé en république indépendante le 30 août 1802 et reste hors de la Confédération de la Médiation. La souveraineté du peuple est proclamée, mais le système électoral et le cumul des mandats donnent au régime un caractère peu démocratique, et le monopole politique des bourgeoisies est rétabli. La France convoite le passage du Simplon, où une route militaire est aménagée en 1805. Napoléon annexera le pays en 1810 sous le nom de département du Simplon.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Simplon (département)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008643/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "neuchatel",
+   "nom": "Principauté de Neuchâtel",
+   "categorie": "autre",
+   "regime": "Principauté en union personnelle avec le royaume de Prusse",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Réformée, paroisses catholiques du Landeron et de Cressier",
+   "population": {
+    "valeur": 48700,
+    "annee": 1806,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007397/"
+   },
+   "dirigeants": "Frédéric-Guillaume III, roi de Prusse et prince de Neuchâtel (1797-1806)",
+   "resume": "Neuchâtel reste une principauté du roi de Prusse, gouvernée sur place par le Conseil d'État, et ne fait pas partie de la Confédération de la Médiation. Sa population passe de 32 300 habitants en 1752 à 48 700 en 1806, avec une forte proportion d'étrangers dans les centres horlogers et d'indiennage. Après Austerlitz, le roi cède la principauté à Napoléon, qui la donne en 1806 au maréchal Berthier. Le Cerneux-Péquignot est encore français.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Berthier, Louis-Alexandre",
+     "url": "https://hls-dhs-dss.ch/fr/articles/021253/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "id": "france",
+   "nom": "République française",
+   "categorie": "etranger",
+   "regime": "République du Consulat, départements du Haut-Rhin et du Léman",
+   "chef_lieu": "Paris",
+   "langues": "Français, allemand dans le Laufonnais et le Birseck",
+   "religion": "Catholique dans l'ancien évêché de Bâle, réformée à Genève, Bienne et dans le sud du Jura",
+   "population": null,
+   "dirigeants": "Napoléon Bonaparte, Premier consul et médiateur de la Suisse",
+   "resume": "Le Premier consul, qui dicte à la Suisse l'acte de Médiation, garde pour la France les territoires annexés depuis 1793. L'ancien évêché de Bâle, Bienne et le Birseck, d'abord compris dans le département du Mont-Terrible, sont rattachés depuis 1800 au département du Haut-Rhin, chef-lieu Colmar, avec des sous-préfectures à Delémont et à Porrentruy. Genève, annexée en 1798, fait partie du département du Léman, dirigé de 1803 à 1810 par le préfet Claude Ignace Brugière de Barante. Les communes savoyardes et gessiennes qui deviendront genevoises en 1815 et 1816 sont également françaises.",
+   "sources": [
+    {
+     "titre": "DHS, Haut-Rhin",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007563/"
+    },
+    {
+     "titre": "DHS, Mont-Terrible",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008642/"
+    },
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    },
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    },
+    {
+     "titre": "DHS, Bienne (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000222/"
+    },
+    {
+     "titre": "DHS, Médiation, acte de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009808/"
+    }
+   ]
+  }
+ ],
+ "regles": [
+  {
+   "niveau": "canton",
+   "cle": "ZH",
+   "territoire": "zurich"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BE",
+   "territoire": "berne"
+  },
+  {
+   "niveau": "canton",
+   "cle": "LU",
+   "territoire": "lucerne"
+  },
+  {
+   "niveau": "canton",
+   "cle": "UR",
+   "territoire": "uri"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SZ",
+   "territoire": "schwyz"
+  },
+  {
+   "niveau": "canton",
+   "cle": "OW",
+   "territoire": "obwald"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NW",
+   "territoire": "nidwald"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GL",
+   "territoire": "glaris"
+  },
+  {
+   "niveau": "canton",
+   "cle": "ZG",
+   "territoire": "zoug"
+  },
+  {
+   "niveau": "canton",
+   "cle": "FR",
+   "territoire": "fribourg"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SO",
+   "territoire": "soleure"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BS",
+   "territoire": "bale"
+  },
+  {
+   "niveau": "canton",
+   "cle": "BL",
+   "territoire": "bale"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SH",
+   "territoire": "schaffhouse"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AR",
+   "territoire": "appenzell-rhodes-exterieures"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AI",
+   "territoire": "appenzell-rhodes-interieures"
+  },
+  {
+   "niveau": "canton",
+   "cle": "SG",
+   "territoire": "saint-gall"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GR",
+   "territoire": "grisons"
+  },
+  {
+   "niveau": "canton",
+   "cle": "AG",
+   "territoire": "argovie"
+  },
+  {
+   "niveau": "canton",
+   "cle": "TG",
+   "territoire": "thurgovie"
+  },
+  {
+   "niveau": "canton",
+   "cle": "TI",
+   "territoire": "tessin"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VD",
+   "territoire": "vaud"
+  },
+  {
+   "niveau": "canton",
+   "cle": "VS",
+   "territoire": "valais"
+  },
+  {
+   "niveau": "canton",
+   "cle": "NE",
+   "territoire": "neuchatel"
+  },
+  {
+   "niveau": "canton",
+   "cle": "GE",
+   "territoire": "france"
+  },
+  {
+   "niveau": "district",
+   "cle": 10067,
+   "territoire": "france",
+   "commentaire": "District de Courtelary : ancien évêché de Bâle, département du Haut-Rhin"
+  },
+  {
+   "niveau": "district",
+   "cle": 10145,
+   "territoire": "france",
+   "commentaire": "District de Delémont : ancien évêché de Bâle, département du Haut-Rhin"
+  },
+  {
+   "niveau": "district",
+   "cle": 10122,
+   "territoire": "france",
+   "commentaire": "District de Moutier : ancien évêché de Bâle, département du Haut-Rhin"
+  },
+  {
+   "niveau": "district",
+   "cle": 10147,
+   "territoire": "france",
+   "commentaire": "District de Porrentruy : ancien évêché de Bâle, département du Haut-Rhin"
+  },
+  {
+   "niveau": "district",
+   "cle": 10124,
+   "territoire": "france",
+   "commentaire": "District de la Neuveville : ancien évêché de Bâle, département du Haut-Rhin"
+  },
+  {
+   "niveau": "district",
+   "cle": 10159,
+   "territoire": "france",
+   "commentaire": "District des Franches-Montagnes : ancien évêché de Bâle, département du Haut-Rhin"
+  },
+  {
+   "niveau": "district",
+   "cle": 10144,
+   "territoire": "france",
+   "commentaire": "Amtsbezirk Laufen : ancien évêché de Bâle, département du Haut-Rhin"
+  },
+  {
+   "niveau": "district",
+   "cle": 10056,
+   "territoire": "france",
+   "commentaire": "Amtsbezirk Biel : Bienne et sa mairie, département du Haut-Rhin"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16406,
+   "territoire": "berne",
+   "commentaire": "Mett : ancien comté bernois de Nidau"
+  },
+  {
+   "niveau": "commune",
+   "cle": 16407,
+   "territoire": "berne",
+   "commentaire": "Madretsch : ancien comté bernois de Nidau"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11747,
+   "territoire": "france",
+   "commentaire": "Aesch (BL) : bailliages épiscopaux de Birseck et Pfeffingen, département du Haut-Rhin (1800-1814)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11733,
+   "territoire": "france",
+   "commentaire": "Allschwil : bailliages épiscopaux de Birseck et Pfeffingen, département du Haut-Rhin (1800-1814)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 11765,
+   "territoire": "france",
+   "commentaire": "Arlesheim : bailliages épiscopaux de Birseck et Pfeffingen, département du Haut-Rhin (1800-1814)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12262,
+   "territoire": "france",
+   "commentaire": "Ettingen : bailliages épiscopaux de Birseck et Pfeffingen, département du Haut-Rhin (1800-1814)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12470,
+   "territoire": "france",
+   "commentaire": "Oberwil (BL) : bailliages épiscopaux de Birseck et Pfeffingen, département du Haut-Rhin (1800-1814)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 13146,
+   "territoire": "france",
+   "commentaire": "Pfeffingen : bailliages épiscopaux de Birseck et Pfeffingen, département du Haut-Rhin (1800-1814)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 13185,
+   "territoire": "france",
+   "commentaire": "Reinach (BL) : bailliages épiscopaux de Birseck et Pfeffingen, département du Haut-Rhin (1800-1814)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12973,
+   "territoire": "france",
+   "commentaire": "Schönenbuch : bailliages épiscopaux de Birseck et Pfeffingen, département du Haut-Rhin (1800-1814)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10566,
+   "territoire": "france",
+   "commentaire": "Therwil : bailliages épiscopaux de Birseck et Pfeffingen, département du Haut-Rhin (1800-1814)"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12287,
+   "territoire": "nidwald",
+   "commentaire": "Engelberg : rattaché à Nidwald de 1803 à 1815"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10699,
+   "territoire": "fribourg",
+   "commentaire": "Münchenwiler (Villars-les-Moines) : fribourgeois en 1803, bernois en 1807"
+  },
+  {
+   "niveau": "commune",
+   "cle": 10714,
+   "territoire": "fribourg",
+   "commentaire": "Clavaleyres : fribourgeois de 1798 à 1807"
+  },
+  {
+   "niveau": "commune",
+   "cle": 12610,
+   "territoire": "france",
+   "commentaire": "Le Cerneux-Péquignot : français jusqu'au traité de Paris de 1814"
+  }
+ ],
+ "hors_carte": [
+  {
+   "nom": "Mulhouse",
+   "rattachement": "france",
+   "note": "ancien allié des Confédérés réuni à la France en 1798, rattaché au département du Haut-Rhin, hors du fond de 1850"
+  },
+  {
+   "nom": "Nord de l'ancien évêché de Bâle et pays de Montbéliard",
+   "rattachement": "france",
+   "note": "parties du département du Haut-Rhin situées hors du fond de 1850"
+  },
+  {
+   "nom": "Pays de Gex et Savoie",
+   "rattachement": "france",
+   "note": "territoires français entourant Genève, hors du fond de 1850 sauf les communes réunies à Genève en 1815-1816, comptées dans la règle GE"
+  }
+ ],
+ "approximations": [
+  "Unterwald et Appenzell forment chacun un seul canton de l'acte de Médiation, avec une seule voix à la Diète, mais le DHS précise que les deux demi-cantons d'Appenzell sont recréés en 1803 et que, dès 1803, Obwald et Nidwald sont des demi-cantons égaux en droit. Ils sont donc représentés séparément, comme en 1848, avec les identifiants obwald, nidwald, appenzell-rhodes-exterieures et appenzell-rhodes-interieures.",
+  "Engelberg, rattaché à Nidwald de 1803 à 1815, est attribué à Nidwald (commune de 1850 située dans le canton d'Obwald).",
+  "Münchenwiler (Villars-les-Moines) et Clavaleyres, attribués au canton de Fribourg en 1803 et à Berne en 1807 seulement, sont comptés fribourgeois.",
+  "Comme pour 1798, Bienne, Bözingen, Vingelz et Evilard (Amtsbezirk Biel) sont comptés français, alors que Mett et Madretsch, villages de l'ancien comté bernois de Nidau, restent bernois.",
+  "Les neuf communes de 1850 issues des bailliages épiscopaux de Birseck et de Pfeffingen sont comptées françaises. Le DHS parle de neuf communes concernées par l'acte de réunion avec Bâle de 1815.",
+  "Lignières est laissé à Neuchâtel. Selon le DHS, Neuchâtel ne reprend l'ensemble du franc-alleu de Lignières qu'en 1815, mais la souveraineté sur la seigneurie appartenait au prince depuis 1625.",
+  "Le Cerneux-Péquignot est compté français, car il ne sera cédé à Neuchâtel que par le premier traité de Paris de 1814.",
+  "Gersau est compté dans le canton de Schwytz; l'article cantonal du DHS indique un rattachement provisoire de 1803 à 1814, l'article Gersau parle d'un district schwytzois de 1804 à 1814.",
+  "Rhäzüns, Bonaduz, Ems et Felsberg (seigneurie de Rhäzüns) sont inclus dans les Grisons, car la Constitution grisonne de 1803 intègre la seigneurie au canton. Le DHS la dit pourtant autrichienne jusqu'en 1819 (française de 1809 à 1814) et cédée aux Grisons en 1819 seulement.",
+  "Toutes les communes genevoises de 1850, y compris celles qui viendront du Pays de Gex et de la Savoie en 1815-1816, sont attribuées à la France, ce qui est exact pour 1803.",
+  "Les populations sont les chiffres du DHS les plus proches de 1803 (de 1794 à 1815); plusieurs portent sur le territoire actuel du canton ou sont arrondis. Pour Berne, Uri, Glaris et Bâle, aucun chiffre unique pour le territoire de 1803 n'a été trouvé.",
+  "Le chef-lieu du Tessin en 1803 n'est pas précisé par le DHS consulté (Bellinzone, Locarno et Lugano alternent selon la Constitution de 1814), d'où la valeur null."
+ ],
+ "confiance": "Sont sûrs d'après le DHS la liste des dix-neuf cantons et leur composition territoriale (Saint-Gall, Argovie, Tessin, Hitzkirch, Merenschwand, Stein am Rhein, Rheinau, Dietikon, Gersau, Reichenburg, Engelberg, Tarasp), le statut français de Genève, de Bienne, du Birseck et de l'ancien évêché de Bâle, l'indépendance du Valais et le statut prussien de Neuchâtel. Sont moins sûrs la limite exacte de Bienne, le cas de Lignières et le choix de représenter séparément les demi-cantons, juridiquement réunis en un seul canton à la Diète.",
+ "evenements": [
+  {
+   "annee": 1802,
+   "date_precise": "30 août 1802",
+   "type": "institution",
+   "titre": "Le Valais devient une république indépendante",
+   "lieu": "Sion (Valais)",
+   "texte": "Rattaché depuis 1798 à la République helvétique, le Valais est occupé par les Français à partir de novembre 1801, puis érigé en république indépendante le 30 août 1802. Il reste ainsi en dehors de la Confédération recréée en 1803, jusqu'à son annexion par Napoléon en 1810.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Simplon (département)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008643/"
+    }
+   ]
+  },
+  {
+   "annee": 1802,
+   "date_precise": "août à octobre 1802",
+   "type": "revolution",
+   "titre": "Stecklikrieg, la guerre des Bâtons",
+   "lieu": "Col de Rengg, Zurich, Berne et Faoug",
+   "texte": "Après le départ des troupes françaises, les fédéralistes se soulèvent contre la République helvétique, armés de moyens de fortune qui donnent son nom à la révolte. Vainqueurs au col de Rengg le 28 août, ils font capituler le gouvernement helvétique à Berne le 18 septembre et battent son armée à Faoug le 3 octobre. Bonaparte envoie alors ses troupes et impose sa médiation.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Stecklikrieg (guerre des Bâtons)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/041551/"
+    }
+   ]
+  },
+  {
+   "annee": 1803,
+   "date_precise": "19 février 1803",
+   "type": "institution",
+   "titre": "L'acte de Médiation",
+   "lieu": "Paris",
+   "texte": "Le Premier consul Napoléon Bonaparte remet aux délégués suisses de la Consulta une loi fondamentale qui met fin au conflit entre unitaires et fédéralistes. Elle contient les constitutions de dix-neuf cantons égaux, dont six nouveaux, et un Acte fédéral qui confie la direction de la Confédération à une Diète présidée par le Landamman de la Suisse. Elle entre en vigueur le 10 mars 1803.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Médiation, acte de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009808/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  },
+  {
+   "annee": 1803,
+   "date_precise": "25 février 1803",
+   "type": "traite",
+   "titre": "Recès de la Diète impériale",
+   "lieu": "Ratisbonne",
+   "texte": "En réorganisant l'Allemagne après la cession de la rive gauche du Rhin à la France, la Diète impériale sécularise notamment les évêchés de Bâle, Coire et Constance. La Suisse reçoit en dédommagement la seigneurie de Tarasp et le quartier épiscopal de Coire, aussitôt intégrés aux Grisons, et les derniers liens avec le Saint Empire sont rompus.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Recès de la Diète impériale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017222/"
+    },
+    {
+     "titre": "DHS, Tarasp (seigneurie, commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001524/"
+    }
+   ]
+  },
+  {
+   "annee": 1803,
+   "date_precise": "4 juillet et 27 septembre 1803",
+   "type": "traite",
+   "titre": "Première Diète et alliance avec la France",
+   "lieu": "Fribourg",
+   "texte": "La Diète des dix-neuf cantons s'ouvre solennellement à Fribourg le 4 juillet 1803, sous la présidence du Landamman Louis d'Affry. Le 27 septembre, la Suisse conclut avec la France une alliance défensive et une capitulation militaire qui l'oblige à fournir 16 000 hommes aux armées napoléoniennes.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Médiation",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009798/"
+    }
+   ]
+  }
+ ]
+}

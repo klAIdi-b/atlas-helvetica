@@ -566,7 +566,7 @@
    "nom": "Canton du Tessin",
    "categorie": "canton",
    "regime": "Démocratie représentative, gouvernement radical",
-   "chef_lieu": "Chef-lieu itinérant (Bellinzone, Locarno et Lugano par rotation de six ans)",
+   "chef_lieu": "Lugano (chef-lieu tournant, siège du gouvernement de 1845 à 1851)",
    "langues": "Italien",
    "religion": "Catholique quasi exclusive (100 % en 1850)",
    "population": {
@@ -588,6 +588,10 @@
     {
      "titre": "DHS, Constitution fédérale",
      "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    },
+    {
+     "titre": "DHS, Lugano (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002177/"
     }
    ]
   },
@@ -833,9 +837,114 @@
   "Population de 1850 tirée des tableaux statistiques des articles cantonaux du DHS (recensement fédéral). Pour Berne, le chiffre de 458'302 vient du fichier de données du graphique de l'article du DHS (territoire de l'époque, Jura compris); le tableau de l'article donne 413'468 pour le territoire cantonal de 1990.",
   "Les pourcentages confessionnels sont calculés à partir des effectifs de protestants et de catholiques du recensement de 1850 donnés par le DHS (pour les Grisons, pourcentages donnés directement par le DHS).",
   "Les langues indiquées sont les langues officielles selon le DHS, car la composition linguistique de 1850 n'est pas donnée (les tableaux commencent en 1880). Fribourg est qualifié de bilingue de fait entre 1798 et 1856.",
-  "Pour le Tessin, le DHS indique un chef-lieu tournant entre Bellinzone, Locarno et Lugano selon une rotation de six ans (Constitution de 1814) jusqu'à l'établissement d'un chef-lieu permanent à Bellinzone en 1878; le chef-lieu en fonction en 1848 n'a pas été vérifié.",
   "Pour Zoug, le DHS donne le 22 novembre 1847 (article cantonal) et le 21 novembre (article Sonderbund) pour la capitulation; le résumé mentionne les deux dates.",
   "Pour les Grisons, Schaffhouse et l'Argovie, le DHS ne nomme pas les dirigeants de 1848, d'où la valeur null."
  ],
- "confiance": "Sont sûrs le découpage cantonal (identique au fond de 1850), rôle de chaque canton dans le Sonderbund et vote sur la Constitution fédérale, populations du recensement de 1850, chronologie fédérale (12 septembre, 6 et 16 novembre, 28 novembre 1848) et affaire de Neuchâtel. Sont moins sûrs la formulation synthétique des régimes (étiquettes résumant les constitutions décrites par le DHS), rôle militaire exact de Zurich et de Vaud en 1847 (le DHS cantonal ne le détaille pas, déduit de l'article Sonderbund qui parle de tous les cantons radicaux), chef-lieu du Tessin en 1848."
+ "confiance": "Sont sûrs le découpage cantonal (identique au fond de 1850), rôle de chaque canton dans le Sonderbund et vote sur la Constitution fédérale, populations du recensement de 1850, chronologie fédérale (12 septembre, 6 et 16 novembre, 28 novembre 1848) et affaire de Neuchâtel. Sont moins sûrs la formulation synthétique des régimes (étiquettes résumant les constitutions décrites par le DHS), rôle militaire exact de Zurich et de Vaud en 1847 (le DHS cantonal ne le détaille pas, déduit de l'article Sonderbund qui parle de tous les cantons radicaux), chef-lieu du Tessin en 1848.",
+ "evenements": [
+  {
+   "annee": 1841,
+   "date_precise": "13 janvier 1841",
+   "type": "autre",
+   "titre": "Affaire des couvents d'Argovie",
+   "lieu": "Argovie",
+   "texte": "Après l'écrasement à Villmergen d'un soulèvement des conservateurs catholiques du Freiamt, le Grand Conseil argovien vote le 13 janvier 1841, sur proposition d'Augustin Keller, la suppression de tous les couvents du canton, dont Muri, Wettingen et Fahr. La Diète juge cette décision contraire au Pacte de 1815, qui garantit les couvents, puis déclare l'affaire réglée en 1843 après le rétablissement des quatre couvents de femmes. Les tensions confessionnelles n'en sont pas apaisées.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Argovie, affaire des couvents d'",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017240/"
+    }
+   ]
+  },
+  {
+   "annee": 1845,
+   "date_precise": "8 décembre 1844 et 31 mars 1845",
+   "type": "bataille",
+   "titre": "Expéditions des corps francs",
+   "lieu": "Lucerne, Emmenbrücke et Malters",
+   "texte": "Pour protester contre l'appel aux jésuites et renverser le gouvernement conservateur de Lucerne, des francs-tireurs radicaux de Lucerne, d'Argovie, de Soleure et de Bâle-Campagne lancent deux expéditions. La première, le 8 décembre 1844, tourne court. La seconde, menée par Ulrich Ochsenbein avec 3500 hommes, atteint les portes de Lucerne le 31 mars 1845, puis se débande dans la nuit, laissant plus de 120 victimes et environ 2000 prisonniers.",
+   "camps": "Corps francs radicaux contre les troupes du gouvernement lucernois",
+   "issue": "Échec des corps francs",
+   "sources": [
+    {
+     "titre": "DHS, Corps francs, expéditions des",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008682/"
+    }
+   ]
+  },
+  {
+   "annee": 1845,
+   "date_precise": "11 décembre 1845",
+   "type": "alliance",
+   "titre": "Fondation du Sonderbund",
+   "lieu": "Lucerne",
+   "texte": "En réaction à l'affaire des couvents et aux expéditions des corps francs, sept cantons conservateurs catholiques concluent à Lucerne une alliance de défense mutuelle dotée d'un Conseil de guerre. Défensif, ce pacte contrevient pourtant au Pacte fédéral par les pouvoirs extraordinaires qu'il confère à ce Conseil. D'abord secret, il est rendu public en juin 1846, et la Diète en décide la dissolution le 20 juillet 1847.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ]
+  },
+  {
+   "annee": 1847,
+   "date_precise": "3 au 29 novembre 1847",
+   "type": "bataille",
+   "titre": "Guerre du Sonderbund",
+   "lieu": "Fribourg, Lucerne (Gisikon et Meierskappel), Tessin",
+   "texte": "Après l'échec d'une attaque du Sonderbund au Tessin par le Gothard, l'armée fédérale du général Guillaume-Henri Dufour fait capituler Fribourg le 14 novembre, puis Zoug, et remporte le 23 novembre les combats de Gisikon et de Meierskappel devant Lucerne. Entre le 25 et le 29 novembre, les cantons primitifs et le Valais se soumettent sans combattre. Cette guerre de vingt-cinq jours fait 93 morts et 510 blessés.",
+   "camps": "Armée de la Diète, commandée par le général Dufour, contre les troupes des sept cantons du Sonderbund",
+   "issue": "Victoire de l'armée fédérale et dissolution du Sonderbund",
+   "sources": [
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ]
+  },
+  {
+   "annee": 1848,
+   "date_precise": "12 septembre 1848",
+   "type": "institution",
+   "titre": "Constitution fédérale",
+   "lieu": "Berne",
+   "texte": "Dès février 1848, une commission de la Diète rédige en quelques semaines une Constitution qui crée l'État fédéral, profitant des révolutions qui paralysent les grandes puissances. Acceptée par le peuple dans la majorité des cantons en juillet et août, elle est déclarée par la Diète, le 12 septembre 1848, loi fondamentale de la Confédération. Le Conseil national et le Conseil des États, élus en octobre, se réunissent à Berne le 6 novembre.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ]
+  },
+  {
+   "annee": 1848,
+   "date_precise": "16 novembre 1848",
+   "type": "institution",
+   "titre": "Élection du premier Conseil fédéral",
+   "lieu": "Berne",
+   "texte": "Réunis en Assemblée fédérale, le Conseil national et le Conseil des États désignent le 16 novembre 1848 les sept premiers conseillers fédéraux. Tous radicaux, ce sont Jonas Furrer (Zurich), Ulrich Ochsenbein (Berne), Henri Druey (Vaud), Josef Munzinger (Soleure), Stefano Franscini (Tessin), Friedrich Frey-Herosé (Argovie) et Wilhelm Mathias Näff (Saint-Gall).",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Conseil fédéral",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010085/"
+    },
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    }
+   ]
+  }
+ ]
 }

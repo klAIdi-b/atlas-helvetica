@@ -3,27 +3,27 @@
   {
    "date": 1291,
    "titre": "Alliance des Waldstätten",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1353,
    "titre": "Confédération des huit cantons",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1415,
    "titre": "Conquête de l'Argovie",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1460,
    "titre": "Conquête de la Thurgovie",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1481,
    "titre": "Convenant de Stans",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1513,
@@ -33,17 +33,17 @@
   {
    "date": 1536,
    "titre": "Conquête du Pays de Vaud",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1648,
    "titre": "Traités de Westphalie",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1797,
    "titre": "Perte de la Valteline",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1798,
@@ -53,17 +53,17 @@
   {
    "date": 1803,
    "titre": "Acte de médiation",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1815,
    "titre": "Congrès de Vienne",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1833,
    "titre": "Partage de Bâle",
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1848,
@@ -74,13 +74,13 @@
    "date": 1857,
    "titre": "Neuchâtel quitte la Prusse",
    "epilogue": true,
-   "disponible": false
+   "disponible": true
   },
   {
    "date": 1979,
    "titre": "Création du canton du Jura",
    "epilogue": true,
-   "disponible": false
+   "disponible": true
   }
  ]
 }

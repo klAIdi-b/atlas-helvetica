@@ -1,0 +1,1299 @@
+{
+ "date": 1353,
+ "titre": "La Confédération des huit cantons",
+ "recit": "En 1353, la ville impériale de Berne conclut une alliance perpétuelle avec Uri, Schwytz et Unterwald, qui l'avaient soutenue à Laupen en 1339. L'historiographie nationale a fait de cette date l'entrée de Berne dans la Confédération, et le DHS parle de huit cantons de pleins droits dès 1353. En réalité, ces huit cantons forment six réseaux d'alliances partiels, puisque Berne n'est liée qu'aux trois Waldstätten et ni à Zurich ni à Lucerne. Le statut des derniers venus reste fragile, car Zoug, contraint à l'alliance en 1352, demeure soumis aux droits des Habsbourg, et Glaris, lié par une alliance inégale qui en fait un protectorat, est rendu à l'Autriche par la paix de Brandebourg en septembre 1352. La carte montre des cantons encore minuscules, réduits pour Zurich et Lucerne à leur ville, au milieu de terres habsbourgeoises qui couvrent l'Argovie, la Thurgovie et les campagnes lucernoise, zougoise et zurichoise. À l'ouest, la Savoie domine le Pays de Vaud et occupe depuis 1352 le Valais épiscopal, au sud les Visconti de Milan tiennent désormais tout le Tessin, et à l'est les comtes de Toggenbourg et de Werdenberg se sont partagé l'héritage des barons de Vaz. La guerre avec l'Autriche ne s'achève qu'en 1355 par la paix de Ratisbonne.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Confédération",
+   "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+  },
+  {
+   "titre": "DHS, Berne (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+  },
+  {
+   "titre": "DHS, Glaris (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+  },
+  {
+   "titre": "DHS, Zoug (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+  },
+  {
+   "titre": "DHS, Brandebourg, paix de",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008729/"
+  },
+  {
+   "titre": "DHS, Ratisbonne, paix de",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008730/"
+  }
+ ],
+ "hors_carte": [
+  {
+   "nom": "Duchés d'Autriche et Autriche antérieure (Alsace, Sundgau, Brisgau, Forêt-Noire)",
+   "rattachement": "habsbourg",
+   "note": "Possessions des ducs d'Autriche hors du fond de carte, avec le comté de Ferrette acquis en 1324."
+  },
+  {
+   "nom": "Comté de Savoie, Chablais au sud du Léman, Pays de Gex (acquis en 1353), Bugey et Piémont",
+   "rattachement": "savoie",
+   "note": "Cœur des États savoyards, hors du fond de carte."
+  },
+  {
+   "nom": "Comté de Genevois (Annecy)",
+   "rattachement": "comte-genevois",
+   "note": "Centre du comté des comtes de Genève, en Haute-Savoie actuelle."
+  },
+  {
+   "nom": "Duché et villes lombardes des Visconti, dont Côme depuis 1335",
+   "rattachement": "milan",
+   "note": "Hors du fond de carte."
+  },
+  {
+   "nom": "Ville de Constance et terres épiscopales au nord du lac",
+   "rattachement": "eveche-constance",
+   "note": "Hors du fond de carte."
+  },
+  {
+   "nom": "Seigneuries franc-comtoises des comtes de Neuchâtel",
+   "rattachement": "comte-neuchatel",
+   "note": "Acquises par le mariage de Louis avec Jeanne de Montfaucon (1325), hors du fond de carte."
+  },
+  {
+   "nom": "Possessions de l'abbaye de Saint-Gall en Souabe et au Vorarlberg",
+   "rattachement": "abbaye-saint-gall",
+   "note": "Hors du fond de carte."
+  }
+ ],
+ "approximations": [
+  "Zurich et Lucerne sont réduits à la commune de la ville, alors que leur influence s'étend déjà par des bourgeois forains et des combourgeoisies sur la campagne voisine.",
+  "Le territoire bernois figuré (districts de Berne, Laupen et Oberhasli) approxime la ville, les quatre paroisses acquises vers 1300, la seigneurie de Laupen et le Hasli; Thoune, fief bernois des Kibourg-Berthoud, reste dans leur couleur.",
+  "Zoug est réduit au bailliage habsbourgeois (ville, Baar, Menzingen, Neuheim, Oberägeri et Unterägeri); Cham, Hünenberg, Risch, Steinhausen et Walchwil sont comptés aux Habsbourg, alors qu'ils relèvent des seigneurs de Hünenberg ou de seigneuries voisines.",
+  "Glaris est figuré comme allié bien que l'Autriche l'ait récupéré en septembre 1352; Zoug est compté comme canton, conformément au DHS, malgré la persistance des droits habsbourgeois.",
+  "La vallée d'Urseren est laissée aux Habsbourg, héritiers du bailliage impérial en 1283, sans vérification de son statut exact en 1353.",
+  "La couleur des Habsbourg regroupe les ducs d'Autriche, la branche des Habsbourg-Laufenbourg (sauf Rapperswil), les villes gagées de Schaffhouse et Rheinfelden, ainsi que de nombreuses seigneuries nobles et ecclésiastiques sous leur suzeraineté.",
+  "Le Rheintal saint-gallois est attribué aux Habsbourg par déduction, les comtes de Toggenbourg y achetant plus tard des gages habsbourgeois à Altstätten et Rheineck.",
+  "Aux Grisons, l'héritage des Vaz (1338) est partagé par districts entre Toggenbourg (Albula, Oberlandquart) et Werdenberg (Heinzenberg, Hinterrhein, Obervaz), ce qui simplifie un partage plus fin; le Prättigau inférieur et Maienfeld restent dans les seigneuries rhétiques.",
+  "La ville de Bâle et le Sisgau sont fondus dans la principauté épiscopale.",
+  "Le canton de Fribourg hors Gruyère, Singine et ville de Fribourg est attribué à la Savoie, et Grandson, Orbe, Échallens et la vallée de Joux sont fondus dans la couleur savoyarde.",
+  "La seigneurie de Cerlier (district d'Erlach) est laissée à la Savoie comme en 1265 sans vérification de son statut en 1353.",
+  "La limite du Valais savoyard suit les districts de 1850, ce qui approxime les châtellenies; le reste du Valais est figuré comme épiscopal malgré l'occupation savoyarde de 1352-1361.",
+  "La Marche et les Höfe sont attribués respectivement à Rapperswil et à l'abbaye d'Einsiedeln sans vérification commune par commune."
+ ],
+ "confiance": "Sont sûrs l'alliance de Berne avec les trois Waldstätten en 1353, les alliances de Lucerne (1332) et de Zurich (1351), la conquête puis la perte de Glaris en 1352, le maintien des droits habsbourgeois à Zoug, la domination des Visconti sur le Tessin et l'occupation savoyarde du Valais en 1352. Sont moins sûrs l'étendue réelle des territoires des villes, réduites ici à leur commune, le statut d'Urseren, de Cerlier et du Rheintal, ainsi que les limites internes des seigneuries du Plateau et de Rhétie. Aucune population n'est donnée, faute de chiffre précis dans le DHS pour cette date.",
+ "evenements": [
+  {
+   "annee": 1315,
+   "date_precise": "15 novembre 1315",
+   "type": "bataille",
+   "titre": "Bataille de Morgarten",
+   "lieu": "Près de Schornen, au sud du lac d'Ägeri (Schwytz et Zoug)",
+   "texte": "Le duc Léopold d'Autriche, parti de Zoug pour châtier les Schwytzois qui avaient attaqué l'abbaye d'Einsiedeln et pris le parti de Louis de Bavière, est surpris au bord du lac d'Ägeri. Après un corps-à-corps bref mais sanglant, son armée de quelques milliers d'hommes est mise en fuite et perd quelques centaines de morts. Les recherches récentes relativisent la portée de cette victoire, longtemps vue comme la première bataille pour la liberté.",
+   "camps": "Waldstätten, en majorité Schwytzois, contre le duc Léopold d'Autriche",
+   "issue": "Victoire des Waldstätten",
+   "sources": [
+    {
+     "titre": "DHS, Morgarten, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008726/"
+    }
+   ]
+  },
+  {
+   "annee": 1315,
+   "date_precise": "9 décembre 1315",
+   "type": "alliance",
+   "titre": "Pacte de Brunnen",
+   "lieu": "Brunnen (Schwytz)",
+   "texte": "Trois semaines après Morgarten, Uri, Schwytz et Unterwald renouvellent leur alliance par un pacte rédigé en allemand. Il ajoute une politique extérieure commune, observée pendant des siècles, et supprime la garantie des droits seigneuriaux envers un seigneur qui attaquerait l'un des alliés. Jusqu'à la fin du XIXe siècle, ce pacte passe pour la charte fondatrice de la Confédération.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Morgarten, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008726/"
+    },
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Confédération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+    }
+   ]
+  },
+  {
+   "annee": 1332,
+   "date_precise": "13 novembre 1332",
+   "type": "alliance",
+   "titre": "Alliance de Lucerne avec les Waldstätten",
+   "lieu": "Lucerne",
+   "texte": "La ville de Lucerne, sujette des Habsbourg, s'allie à perpétuité avec Uri, Schwytz et Unterwald, tout en réservant expressément les droits de l'Autriche. Ses bourgeois cherchent ainsi un appui militaire dans un contexte de guerre entre Louis de Bavière et Frédéric le Beau. La réserve autrichienne ne disparaîtra qu'avec la réécriture du pacte dans les années 1450.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    },
+    {
+     "titre": "DHS, Pactes fédéraux",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009600/"
+    },
+    {
+     "titre": "DHS, Confédération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+    }
+   ]
+  },
+  {
+   "annee": 1339,
+   "date_precise": "21 juin 1339",
+   "type": "bataille",
+   "titre": "Bataille de Laupen",
+   "lieu": "Près de Laupen (Berne)",
+   "texte": "Inquiets de l'expansion bernoise, Fribourg, les comtes de Nidau et de Kibourg et la noblesse du Pays de Vaud assiègent la garnison bernoise de Laupen. Commandée par Rodolphe d'Erlach et renforcée par des contingents d'Uri, de Schwytz, d'Unterwald et de Soleure, l'armée bernoise détruit presque entièrement la cavalerie adverse. Cette victoire consolide la prépondérance de Berne et prépare son alliance de 1353 avec les Waldstätten.",
+   "camps": "Berne, avec les Waldstätten et Soleure, contre Fribourg et une coalition de nobles",
+   "issue": "Victoire bernoise",
+   "sources": [
+    {
+     "titre": "DHS, Laupen, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008728/"
+    },
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    }
+   ]
+  },
+  {
+   "annee": 1351,
+   "date_precise": "1351",
+   "type": "alliance",
+   "titre": "Alliance de Zurich avec les Waldstätten et Lucerne",
+   "lieu": "Zurich",
+   "texte": "Après avoir occupé Rapperswil et détruit ses châteaux, la ville de Zurich, menacée par les Habsbourg, s'allie avec Uri, Schwytz, Unterwald et Lucerne en se réservant le droit de conclure d'autres alliances. Ce traité définit clairement le territoire où l'entraide est due, et c'est là qu'apparaît pour la première fois le terme de confédération. Il sert de modèle aux alliances avec Zoug, Glaris et Berne.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    },
+    {
+     "titre": "DHS, Confédération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+    }
+   ]
+  },
+  {
+   "annee": 1352,
+   "date_precise": "4 juin 1352 pour Glaris",
+   "type": "alliance",
+   "titre": "Alliances forcées de Glaris et de Zoug",
+   "lieu": "Glaris et Zoug",
+   "texte": "Conquis en novembre 1351, Glaris signe avec Zurich et les Waldstätten une alliance inégale qui en fait un protectorat, tandis que la ville de Zoug, assiégée en 1352, est contrainte à une alliance avec Zurich et la Suisse centrale. La paix de Brandebourg, enregistrée en septembre 1352, rend à l'Autriche ses droits seigneuriaux, si bien que Glaris repasse sous domination habsbourgeoise et que Zoug reste soumis aux droits des ducs.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    },
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    },
+    {
+     "titre": "DHS, Brandebourg, paix de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008729/"
+    }
+   ]
+  },
+  {
+   "annee": 1353,
+   "date_precise": "1353",
+   "type": "alliance",
+   "titre": "Alliance perpétuelle de Berne avec les Waldstätten",
+   "lieu": "Berne et Suisse centrale",
+   "texte": "Berne conclut avec Uri, Schwytz et Unterwald une alliance perpétuelle, qui succède à des pactes temporaires d'assistance militaire remontant à 1323. Elle délimite les zones d'influence dans l'Oberland et rapproche la Confédération du réseau bourguignon dirigé par Berne. L'historiographie nationale en a fait l'entrée de Berne dans la Confédération des huit cantons, même si Berne n'est alors liée qu'indirectement à Zurich et à Lucerne.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Confédération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+    },
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    }
+   ]
+  }
+ ],
+ "territoires": [
+  {
+   "id": "habsbourg",
+   "nom": "Maison de Habsbourg (ducs d'Autriche)",
+   "categorie": "etranger",
+   "regime": "Possessions patrimoniales des ducs d'Autriche",
+   "chef_lieu": "Vienne pour les ducs, Lenzbourg en Argovie",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Duc Albert II d'Autriche",
+   "resume": "Après Morgarten et la perte de la couronne impériale, les ducs d'Autriche restent les principaux seigneurs du Plateau. Ils tiennent l'Argovie, Rheinfelden depuis 1330, Schaffhouse en gage depuis 1330, la Thurgovie, les campagnes zurichoise, lucernoise et zougoise, ainsi que Glaris, récupéré par la paix de Brandebourg en 1352. Le duc Albert II mène en 1351-1352 la guerre contre Zurich et ses alliés, qui ne s'achèvera qu'en 1355 par la paix de Ratisbonne.",
+   "sources": [
+    {
+     "titre": "DHS, Habsbourg, maison de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019506/"
+    },
+    {
+     "titre": "DHS, Brandebourg, paix de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008729/"
+    },
+    {
+     "titre": "DHS, Ratisbonne, paix de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008730/"
+    },
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    },
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    },
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    }
+   ],
+   "superficie_km2": 6021,
+   "communes": 783,
+   "couleur": "#8f8a83"
+  },
+  {
+   "id": "savoie",
+   "nom": "Comté de Savoie",
+   "categorie": "etranger",
+   "regime": "Principauté comtale structurée en bailliages et châtellenies",
+   "chef_lieu": "Moudon pour le bailliage de Vaud, Chillon pour le Chablais",
+   "langues": "Français (parlers romands)",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Comte Amédée VI; baronnie de Vaud aux Savoie-Vaud jusqu'en 1359",
+   "resume": "La Savoie domine le Pays de Vaud, dont l'apanage des Savoie-Vaud va de Vevey à Nyon, ainsi que le Chablais et, depuis 1310, la Grasbourg. Depuis les années 1320, la rivalité avec l'évêque de Lausanne s'apaise au profit de la suprématie savoyarde. En 1352, le comte Amédée VI intervient en Valais pour soutenir l'évêque Guichard Tavel et occupe le pays, et en 1353 il acquiert le Pays de Gex.",
+   "sources": [
+    {
+     "titre": "DHS, Savoie, maison de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019505/"
+    },
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    },
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Schwarzenburg (district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008452/"
+    },
+    {
+     "titre": "DHS, Genève, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019515/"
+    }
+   ],
+   "superficie_km2": 4757,
+   "communes": 628,
+   "couleur": "#a7a29b"
+  },
+  {
+   "id": "valais",
+   "nom": "Comté épiscopal de Sion (Valais), occupé par la Savoie",
+   "categorie": "autre",
+   "regime": "Principauté épiscopale avec dizains",
+   "chef_lieu": "Sion",
+   "langues": "Français et allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Évêque Guichard Tavel (1342-1375), soutenu par le comte Amédée VI",
+   "resume": "L'évêque Guichard Tavel, partisan des Savoie, s'est aliéné le clergé, la noblesse et les dizains. En 1352, le comte Amédée VI vient à son aide, pille Sion et occupe le pays, une domination qui dure jusqu'en 1361. Les dizains alémaniques, réunis dans l'éphémère rectorat du Haut-Valais dirigé par le landamman d'Uri Johannes d'Attinghausen, se rapprochent alors des Waldstätten.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Sion (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008560/"
+    }
+   ],
+   "superficie_km2": 3961,
+   "communes": 142,
+   "couleur": "#e07a5f"
+  },
+  {
+   "id": "milan",
+   "nom": "Seigneurie des Visconti de Milan",
+   "categorie": "etranger",
+   "regime": "Seigneurie princière des Visconti",
+   "chef_lieu": "Milan",
+   "langues": "Lombard",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Les Visconti, seigneurs de Milan",
+   "resume": "Les Visconti ont soumis Côme et le Sottoceneri en 1335, pris Bellinzone en 1340 et Locarno en 1342, puis obtenu du chapitre cathédral de Milan la charge de podestat de la Léventine en 1344 et celle du val Blenio. Tout le Tessin actuel est désormais rattaché à l'État régional milanais et gouverné par des fonctionnaires étrangers.",
+   "sources": [
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    }
+   ],
+   "superficie_km2": 2759,
+   "communes": 263,
+   "couleur": "#a39383"
+  },
+  {
+   "id": "seigneuries-aar",
+   "nom": "Seigneuries de la région de l'Aar",
+   "categorie": "autre",
+   "regime": "Mosaïque de seigneuries nobles",
+   "chef_lieu": "Aucun",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Hors des terres bernoises et des grands comtes, la région de l'Aar reste morcelée en seigneuries nobles, comme celles des barons de Weissenburg, contraints en 1334 à une combourgeoisie avec Berne, du couvent d'Interlaken ou des comtes de Buchegg, qui vendent en 1344 à Soleure la seigneurie de Balm. Cette couleur les regroupe faute de pouvoir figurer chaque seigneurie.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    }
+   ],
+   "superficie_km2": 2660,
+   "communes": 162,
+   "couleur": "#c4b8a4"
+  },
+  {
+   "id": "eveche-coire",
+   "nom": "Principauté épiscopale de Coire",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique",
+   "chef_lieu": "Coire",
+   "langues": "Romanche, allemand, lombard",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "L'évêque de Coire a repris aux barons de Vaz le bailliage impérial de Coire en 1300. L'évêque Ulrich Ribi, partisan de Charles IV contre Louis de Bavière en 1347, en reçoit de grands privilèges, mais perd au profit du margrave Louis de Brandebourg certains biens du chapitre. La couleur englobe par approximation le val de Poschiavo.",
+   "sources": [
+    {
+     "titre": "DHS, Coire (diocèse, évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/011403/"
+    },
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ],
+   "superficie_km2": 2614,
+   "communes": 55,
+   "couleur": "#c2a7c7"
+  },
+  {
+   "id": "eveche-bale",
+   "nom": "Principauté épiscopale de Bâle",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique d'Empire",
+   "chef_lieu": "Bâle",
+   "langues": "Français, allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Au XIVe siècle, l'évêché manque de moyens et subit les pressions de ses voisins et des villes qui veulent s'émanciper. Les Habsbourg se sont emparés en 1324 du comté de Ferrette, et la ville de Bienne, combourgeoise de Berne depuis 1352, relaie l'influence bernoise dans le sud. La ville de Bâle, encore soumise à l'évêque, ne rachète ses droits qu'à partir de la seconde moitié du siècle et reste comprise dans sa couleur.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    },
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    }
+   ],
+   "superficie_km2": 1855,
+   "communes": 217,
+   "couleur": "#8fb3c9"
+  },
+  {
+   "id": "toggenbourg",
+   "nom": "Comté de Toggenbourg",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale",
+   "chef_lieu": null,
+   "langues": "Allemand, romanche",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les comtes de Toggenbourg étendent leur pouvoir au XIVe siècle, du Haut-Toggenbourg aux Grisons. En 1338, ils recueillent par mariage la plupart des alleux des barons de Vaz, avec Davos, la moyenne vallée de l'Albula, le haut Prättigau et Churwalden, puis se partagent en 1344 avec les von Matsch le reste du Prättigau.",
+   "sources": [
+    {
+     "titre": "DHS, Toggenbourg, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019545/"
+    },
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    },
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    }
+   ],
+   "superficie_km2": 1753,
+   "communes": 60,
+   "couleur": "#9fc5e8"
+  },
+  {
+   "id": "werdenberg",
+   "nom": "Comtes de Werdenberg",
+   "categorie": "autre",
+   "regime": "Seigneuries comtales",
+   "chef_lieu": "Werdenberg et Sargans",
+   "langues": "Allemand, romanche",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les Werdenberg-Sargans acquièrent au XIVe siècle la suzeraineté complète sur Sargans et l'avouerie de Pfäfers. En 1338, ils héritent des barons de Vaz le Schams, le Rheinwald, Safien, Obervaz et le Heinzenberg. La branche de Heiligenberg, avouée de Disentis, est battue en 1352 dans la Lumnezia par les Belmont.",
+   "sources": [
+    {
+     "titre": "DHS, Werdenberg, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019548/"
+    },
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    },
+    {
+     "titre": "DHS, Sarganserland",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007645/"
+    }
+   ],
+   "superficie_km2": 1454,
+   "communes": 58,
+   "couleur": "#c2a5a0"
+  },
+  {
+   "id": "seigneuries-rhetiques",
+   "nom": "Seigneuries laïques de Rhétie",
+   "categorie": "autre",
+   "regime": "Petites seigneuries nobles",
+   "chef_lieu": "Aucun",
+   "langues": "Romanche, allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les petites seigneuries des Belmont, des Rhäzüns ou des Aspermont se maintiennent entre les grandes familles. En 1352, les Belmont, aidés des Rhäzüns et des gens de la vallée, battent les Werdenberg-Heiligenberg dans la Lumnezia.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ],
+   "superficie_km2": 1248,
+   "communes": 62,
+   "couleur": "#c9b3c3"
+  },
+  {
+   "id": "kibourg-berthoud",
+   "nom": "Comté de Kibourg-Berthoud",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale vassale de l'Autriche",
+   "chef_lieu": "Berthoud",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Lignée du comte Eberhard II de Kibourg",
+   "resume": "Vassaux de l'Autriche depuis 1313, les Kibourg-Berthoud tiennent d'elle le landgraviat de Bourgogne depuis 1314. Après le fratricide du château de Thoune en 1322, Eberhard II a dû vendre Thoune à Berne en 1323 et la recevoir d'elle en fief. Lourdement endettés envers des bourgeois bernois, ils sont alliés aux Fribourgeois à Laupen en 1339.",
+   "sources": [
+    {
+     "titre": "DHS, Kibourg, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019520/"
+    },
+    {
+     "titre": "DHS, Laupen, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008728/"
+    }
+   ],
+   "superficie_km2": 1062,
+   "communes": 148,
+   "couleur": "#a99886"
+  },
+  {
+   "id": "abbaye-saint-gall",
+   "nom": "Principauté abbatiale de Saint-Gall",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique d'Empire",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Abbé Hermann von Bonstetten",
+   "resume": "L'abbé Hermann von Bonstetten a racheté en 1344-1345 l'avouerie impériale sur Appenzell, Hundwil et Teufen, malgré la promesse faite en 1333 par Louis de Bavière de ne jamais la détacher de l'Empire. Le 23 septembre 1353, il obtient pour le bourg d'Appenzell un droit de foire qui confirme sa suzeraineté. La ville de Saint-Gall, en voie d'émancipation, reste liée à l'abbaye et figure dans sa couleur.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007389/"
+    },
+    {
+     "titre": "DHS, Saint-Gall (principauté abbatiale)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008394/"
+    }
+   ],
+   "superficie_km2": 921,
+   "communes": 64,
+   "couleur": "#e9c75e"
+  },
+  {
+   "id": "gruyere",
+   "nom": "Comté de Gruyère",
+   "categorie": "autre",
+   "regime": "Comté vassal de la Savoie",
+   "chef_lieu": "Gruyères",
+   "langues": "Français (parlers romands), allemand à Gessenay",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Comtes Pierre IV et Jean Ier de Montsalvens",
+   "resume": "Les comtes de Gruyère, vassaux de la Savoie, ont été plusieurs fois battus aux côtés des adversaires de Berne. Le comté sort affaibli de la guerre d'Everdes contre Fribourg et Berne (1349-1350), de la peste et du déclin économique.",
+   "sources": [
+    {
+     "titre": "DHS, Gruyère, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019516/"
+    }
+   ],
+   "superficie_km2": 888,
+   "communes": 45,
+   "couleur": "#b6d7a8"
+  },
+  {
+   "id": "uri",
+   "nom": "Canton d'Uri",
+   "categorie": "canton",
+   "regime": "Communauté de vallée d'Empire, landsgemeinde",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Landammans de la famille d'Attinghausen (1294-1358/1359)",
+   "resume": "Uri a vu son immédiateté impériale confirmée par Henri VII en 1309, puis par Louis de Bavière en 1327-1328. Membre du pacte de 1315, il est allié à Lucerne (1332), à Zurich (1351), à Glaris et Zoug (1352) et à Berne (1353). Son système politique, avec landsgemeinde, landamman et conseil, s'achève dans la seconde moitié du XIVe siècle. La vallée d'Urseren, qui ne recevra la haute justice qu'en 1382, est figurée à part.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Henri VII",
+     "url": "https://hls-dhs-dss.ch/fr/articles/029203/"
+    },
+    {
+     "titre": "DHS, Confédération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+    }
+   ],
+   "superficie_km2": 883,
+   "communes": 16,
+   "couleur": "#e3b93c"
+  },
+  {
+   "id": "berne",
+   "nom": "Ville impériale de Berne",
+   "categorie": "canton",
+   "regime": "Ville d'Empire gouvernée par son avoyer et son Conseil",
+   "chef_lieu": "Berne",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Avoyer et Conseil",
+   "resume": "Victorieuse à Laupen en 1339 avec l'aide des Waldstätten, Berne domine désormais la région de l'Aar et reprend son expansion. Elle a acquis vers 1300 quatre paroisses voisines, tient en gage Laupen depuis 1324 et le Hasli depuis 1334, et exerce la suzeraineté sur Thoune depuis 1323. L'alliance perpétuelle de 1353 avec Uri, Schwytz et Unterwald la relie aux Waldstätten, mais elle n'est alors alliée qu'indirectement à Zurich et à Lucerne.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Laupen",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008447/"
+    },
+    {
+     "titre": "DHS, Oberhasli",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008451/"
+    },
+    {
+     "titre": "DHS, Confédération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+    }
+   ],
+   "superficie_km2": 872,
+   "communes": 30,
+   "couleur": "#d8574f"
+  },
+  {
+   "id": "glaris",
+   "nom": "Pays de Glaris",
+   "categorie": "allie",
+   "regime": "Communauté de vallée sous bailliage habsbourgeois, liée aux Confédérés par une alliance inégale",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Bailli des ducs d'Autriche",
+   "resume": "Conquis en novembre 1351 par Zurich et les Waldstätten, Glaris signe le 4 juin 1352 une alliance inégale, un véritable protectorat qui lui interdit toute autre alliance sans l'accord de ses partenaires. L'Autriche récupère cependant le pays en septembre 1352 par la paix de Brandebourg, et cette alliance sera annulée en 1355. Glaris n'est traité en égal des Confédérés qu'à partir de 1388-1393. Il est figuré ici comme allié et non comme canton.",
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    },
+    {
+     "titre": "DHS, Brandebourg, paix de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008729/"
+    },
+    {
+     "titre": "DHS, Confédération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+    }
+   ],
+   "superficie_km2": 681,
+   "communes": 25,
+   "couleur": "#5b9a4b"
+  },
+  {
+   "id": "unterwald",
+   "nom": "Canton d'Unterwald",
+   "categorie": "canton",
+   "regime": "Communautés de vallée d'Obwald et de Nidwald, une seule voix dans les alliances",
+   "chef_lieu": "Sarnen et Stans",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Henri VII a reconnu en 1309, pour la première fois, l'immédiateté impériale d'Unterwald. Dans le pacte de 1315 comme dans les alliances suivantes, Obwald et Nidwald apparaissent ensemble sous le nom de gens d'Unterwald, avec une seule voix répartie aux deux tiers pour Obwald. Des communautés distinctes se forment dans les deux vallées aux XIVe et XVe siècles, sur fond d'effacement de la souveraineté habsbourgeoise après les années 1320.",
+   "sources": [
+    {
+     "titre": "DHS, Unterwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007409/"
+    },
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, Obwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007410/"
+    }
+   ],
+   "superficie_km2": 647,
+   "communes": 17,
+   "couleur": "#c97b95"
+  },
+  {
+   "id": "abbaye-disentis",
+   "nom": "Abbaye de Disentis (Cadi)",
+   "categorie": "autre",
+   "regime": "Seigneurie abbatiale",
+   "chef_lieu": "Disentis",
+   "langues": "Romanche",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "La seigneurie abbatiale de la Cadi, sur la route du Lukmanier, reste sous l'avouerie des comtes de Werdenberg-Heiligenberg, avec qui les rapports sont toujours tendus.",
+   "sources": [
+    {
+     "titre": "DHS, Disentis",
+     "url": "https://hls-dhs-dss.ch/fr/articles/011490/"
+    },
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ],
+   "superficie_km2": 566,
+   "communes": 7,
+   "couleur": "#b9a3c9"
+  },
+  {
+   "id": "seigneurie-sax",
+   "nom": "Barons de Sax (Misox et Sax)",
+   "categorie": "autre",
+   "regime": "Seigneurie baronniale",
+   "chef_lieu": "Mesocco",
+   "langues": "Lombard, allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les von Sax détiennent toujours les principaux droits souverains dans la Mesolcina et la Calanca, avec le château de Mesocco, ainsi que la seigneurie de Sax dans la vallée du Rhin.",
+   "sources": [
+    {
+     "titre": "DHS, Sax, von",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019541/"
+    }
+   ],
+   "superficie_km2": 538,
+   "communes": 21,
+   "couleur": "#b7c4a4"
+  },
+  {
+   "id": "schwyz",
+   "nom": "Canton de Schwytz",
+   "categorie": "canton",
+   "regime": "Communauté de vallée d'Empire, landsgemeinde",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Landamman et gens de Schwytz",
+   "resume": "Vainqueurs à Morgarten en 1315, les Schwytzois mènent une politique d'alliances et d'expansion assez active pour que leur nom serve déjà, au XIVe siècle, à désigner tous les Confédérés. Arth, incorporé au pays au cours du XIVe siècle, est compté ici dans le canton. Einsiedeln, la Marche, Küssnacht et Gersau restent hors de la souveraineté schwytzoise, et les droits autrichiens sur Schwytz demeurent ambigus après la paix de Brandebourg de 1352.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Brandebourg, paix de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008729/"
+    }
+   ],
+   "superficie_km2": 494,
+   "communes": 14,
+   "couleur": "#a8679a"
+  },
+  {
+   "id": "comte-neuchatel",
+   "nom": "Comté de Neuchâtel",
+   "categorie": "autre",
+   "regime": "Comté vassal des Chalon",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Comte Louis de Neuchâtel",
+   "resume": "Rodolphe IV, dit Rollin, a rétabli le titre comtal en 1296 et soumis Valangin, puis Louis a renforcé l'administration et octroyé des franchises à Boudry (1343) et au Landeron (1350). Les comtes, combourgeois de Fribourg et de Berne, prennent aussi pied en Franche-Comté par le mariage de Louis avec Jeanne de Montfaucon en 1325.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Neuchâtel, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019528/"
+    }
+   ],
+   "superficie_km2": 470,
+   "communes": 51,
+   "couleur": "#8e7cc3"
+  },
+  {
+   "id": "frobourg",
+   "nom": "Comtes de Frobourg",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale tenue en partie en fief de l'évêque de Bâle",
+   "chef_lieu": "Château de Frohburg",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les derniers Frobourg tiennent encore de l'évêque de Bâle la seigneurie de Waldenburg et leurs droits dans le Buchsgau, jusqu'à leur extinction en 1366. Ils ont vendu Zofingue et Aarbourg aux Habsbourg vers 1300.",
+   "sources": [
+    {
+     "titre": "DHS, Frobourg, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019513/"
+    },
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    }
+   ],
+   "superficie_km2": 456,
+   "communes": 60,
+   "couleur": "#bfae8f"
+  },
+  {
+   "id": "neuchatel-nidau",
+   "nom": "Comtes de Neuchâtel-Nidau et branches apparentées",
+   "categorie": "autre",
+   "regime": "Seigneuries comtales",
+   "chef_lieu": "Nidau",
+   "langues": "Allemand, français",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Comte Rodolphe IV de Nidau",
+   "resume": "Les comtes de Nidau ont étendu leurs possessions le long du Jura et de l'Aar jusqu'à Olten, mais la mort de Rodolphe III à Laupen en 1339 aggrave leurs difficultés financières et les pousse dans la sphère de Berne et des Habsbourg. La couleur regroupe aussi les branches d'Aarberg et de Strassberg, Aarberg devant passer à Berne en 1358.",
+   "sources": [
+    {
+     "titre": "DHS, Nidau, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019530/"
+    },
+    {
+     "titre": "DHS, Laupen, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008728/"
+    },
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    }
+   ],
+   "superficie_km2": 443,
+   "communes": 68,
+   "couleur": "#a597d0"
+  },
+  {
+   "id": "fribourg",
+   "nom": "Ville de Fribourg (sous les Habsbourg)",
+   "categorie": "autre",
+   "regime": "Ville seigneuriale autonome sous suzeraineté habsbourgeoise",
+   "chef_lieu": "Fribourg",
+   "langues": "Français et allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Avoyer et Conseil, sous l'autorité des Habsbourg",
+   "resume": "Fribourg, ville habsbourgeoise qui jouit de fait d'un statut proche de celui d'une ville d'Empire, consolide au XIVe siècle sa position sur les petites villes voisines malgré ses défaites contre Berne en 1331 et 1339. Une ordonnance de 1347 fixe l'élection annuelle de l'avoyer et des conseils. Le territoire figuré est une approximation de sa zone d'influence.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Laupen, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008728/"
+    }
+   ],
+   "superficie_km2": 274,
+   "communes": 20,
+   "couleur": "#3f8a86"
+  },
+  {
+   "id": "rapperswil",
+   "nom": "Seigneurie de Rapperswil (Habsbourg-Laufenbourg)",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale",
+   "chef_lieu": "Rapperswil",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Fils de Rodolphe III de Habsbourg-Laufenbourg",
+   "resume": "À la mort de la comtesse Elisabeth en 1309, la seigneurie de Rapperswil a été partagée entre les fils de son second mari, Rodolphe III de Habsbourg-Laufenbourg. Refuge des adversaires du régime de Brun, la ville a été occupée en 1350 puis détruite avec son château par les Zurichois. Le duc Albert II d'Autriche l'acquerra en 1354 et la reconstruira.",
+   "sources": [
+    {
+     "titre": "DHS, Rapperswil (SG)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001371/"
+    },
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    }
+   ],
+   "superficie_km2": 254,
+   "communes": 14,
+   "couleur": "#a2c4c9"
+  },
+  {
+   "id": "valangin",
+   "nom": "Seigneurie de Valangin",
+   "categorie": "autre",
+   "regime": "Seigneurie vassale des comtes de Neuchâtel",
+   "chef_lieu": "Valangin",
+   "langues": "Français",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Battus à Coffrane en 1296, les Aarberg-Valangin ont dû reconnaître la suzeraineté des comtes de Neuchâtel. Leur seigneurie conserve néanmoins son identité jusqu'à sa réunion au comté en 1592.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Aarberg, d'",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019508/"
+    }
+   ],
+   "superficie_km2": 243,
+   "communes": 22,
+   "couleur": "#b39ddb"
+  },
+  {
+   "id": "eveche-lausanne",
+   "nom": "Terres de l'évêque de Lausanne",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique",
+   "chef_lieu": "Lausanne",
+   "langues": "Français (parlers romands)",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Depuis les années 1320, des compromis consacrent la suprématie territoriale des Savoie tout en garantissant l'autonomie du petit État épiscopal, qui comprend Lausanne, Lavaux, Lucens, Bulle, Avenches et La Roche. Vers 1336, l'évêque admet une administration communale dans sa ville de Lausanne.",
+   "sources": [
+    {
+     "titre": "DHS, Lausanne (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008559/"
+    },
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    }
+   ],
+   "superficie_km2": 222,
+   "communes": 28,
+   "couleur": "#c5b358"
+  },
+  {
+   "id": "comte-genevois",
+   "nom": "Comté de Genevois et seigneuries ecclésiastiques genevoises",
+   "categorie": "autre",
+   "regime": "Comté, seigneuries du chapitre et du prieuré de Saint-Victor",
+   "chef_lieu": "Annecy",
+   "langues": "Français (parlers romands)",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Comte Amédée III de Genève",
+   "resume": "Sous Amédée III (1320-1367), le comté de Genevois, gouverné depuis le château d'Annecy, compte une trentaine de mandements. L'acquisition du Pays de Gex par les Savoie en 1353 et du Faucigny en 1355 achève son encerclement. Dans la campagne genevoise, le chapitre et le prieuré de Saint-Victor tiennent de nombreux villages dont le comte garde la haute justice.",
+   "sources": [
+    {
+     "titre": "DHS, Genève, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019515/"
+    },
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    }
+   ],
+   "superficie_km2": 202,
+   "communes": 35,
+   "couleur": "#b3aca2"
+  },
+  {
+   "id": "eveche-constance",
+   "nom": "Principauté épiscopale de Constance",
+   "categorie": "autre",
+   "regime": "Principauté ecclésiastique",
+   "chef_lieu": "Constance",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "L'évêché de Constance, à son apogée territorial depuis le début du XIVe siècle, tient sur le territoire suisse Bischofszell, la seigneurie d'Arbon, dont l'évêque Rudolf von Montfort a fait reconstruire le château en 1322-1334, et le bailliage de Zurzach.",
+   "sources": [
+    {
+     "titre": "DHS, Constance (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008561/"
+    },
+    {
+     "titre": "DHS, Arbon",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001852/"
+    },
+    {
+     "titre": "DHS, Zurzach",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001851/"
+    }
+   ],
+   "superficie_km2": 179,
+   "communes": 45,
+   "couleur": "#9fb8c0"
+  },
+  {
+   "id": "thierstein",
+   "nom": "Comtes de Thierstein",
+   "categorie": "autre",
+   "regime": "Seigneurie comtale",
+   "chef_lieu": null,
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Divisés entre 1300 et 1350 en branches de Farnsburg et de Pfeffingen, les Thierstein tiennent la vallée de la Birse, le Schwarzbubenland et, depuis vers 1330, le château de Farnsburg qui administre l'héritage des Neu-Homberg.",
+   "sources": [
+    {
+     "titre": "DHS, Thierstein, de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019544/"
+    }
+   ],
+   "superficie_km2": 177,
+   "communes": 23,
+   "couleur": "#a7b7a0"
+  },
+  {
+   "id": "zoug",
+   "nom": "Ville et bailliage de Zoug",
+   "categorie": "canton",
+   "regime": "Ville et communes rurales d'un bailliage habsbourgeois",
+   "chef_lieu": "Zoug",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Amman habsbourgeois et Conseil de la ville",
+   "resume": "Assiégée en 1352 sous la conduite de Zurich, la ville de Zoug est contrainte à une alliance avec Zurich et les cantons de Suisse centrale, renouvelée en 1365. Cette alliance n'a aucune conséquence immédiate sur les droits des Habsbourg, qui restent souverains du bailliage de Zoug, formé de la ville, d'Ägeri, de Baar et du Berg. Le DHS le compte comme canton dès 1352, sous réserve des droits des Habsbourg. Cham, Hünenberg, Risch et Steinhausen relèvent encore des seigneurs de Hünenberg.",
+   "sources": [
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    },
+    {
+     "titre": "DHS, Confédération",
+     "url": "https://hls-dhs-dss.ch/fr/articles/026413/"
+    }
+   ],
+   "superficie_km2": 137,
+   "communes": 6,
+   "couleur": "#93c47d"
+  },
+  {
+   "id": "abbaye-einsiedeln",
+   "nom": "Abbaye d'Einsiedeln",
+   "categorie": "autre",
+   "regime": "Seigneurie abbatiale, principauté d'Empire",
+   "chef_lieu": "Einsiedeln",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "L'abbaye princière reste sous l'avouerie des Habsbourg, qui ne passera aux Schwytzois qu'en 1424. L'attaque du couvent par les Schwytzois pendant la nuit des Rois de 1314 a été l'une des causes de la guerre de Morgarten. Les Höfe lui sont rattachés ici par approximation.",
+   "sources": [
+    {
+     "titre": "DHS, Einsiedeln (abbaye de bénédictins)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/011491/"
+    },
+    {
+     "titre": "DHS, Morgarten, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008726/"
+    }
+   ],
+   "superficie_km2": 137,
+   "communes": 4,
+   "couleur": "#a8b6d8"
+  },
+  {
+   "id": "abbaye-engelberg",
+   "nom": "Abbaye d'Engelberg",
+   "categorie": "autre",
+   "regime": "Seigneurie abbatiale",
+   "chef_lieu": "Engelberg",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "L'abbaye garde la seigneurie de la vallée de l'Aa, mais ses domaines sont de plus en plus exposés aux pressions émancipatrices des Confédérés. Endettée après l'incendie de 1306 et frappée par la peste de 1349, elle a dû confier ses finances à l'abbé d'Einsiedeln en 1330-1331.",
+   "sources": [
+    {
+     "titre": "DHS, Engelberg (abbaye)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008557/"
+    }
+   ],
+   "superficie_km2": 75,
+   "communes": 1,
+   "couleur": "#a7c3a0"
+  },
+  {
+   "id": "eveche-geneve",
+   "nom": "Ville et terres de l'évêque de Genève",
+   "categorie": "autre",
+   "regime": "Seigneurie épiscopale",
+   "chef_lieu": "Genève",
+   "langues": "Français (parlers romands)",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "L'évêque reste seigneur de la cité de Genève et de quelques mandements, mais les Savoie imposent au XIVe siècle des protectorats au comte de Genève et aux évêques de la région.",
+   "sources": [
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    },
+    {
+     "titre": "DHS, Savoie, maison de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/019505/"
+    }
+   ],
+   "superficie_km2": 43,
+   "communes": 5,
+   "couleur": "#d4a017"
+  },
+  {
+   "id": "lucerne",
+   "nom": "Ville de Lucerne",
+   "categorie": "canton",
+   "regime": "Ville sujette des Habsbourg gouvernée par ses Conseils",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Conseils de la ville",
+   "resume": "Lucerne s'est alliée en 1332 aux trois Waldstätten tout en réservant expressément les droits de l'Autriche, sa souveraine. Elle refuse la paix territoriale autrichienne de 1333 et combat les ducs avec les Waldstätten et Zurich en 1351-1352, mais doit abandonner ses bourgeois forains à la paix de Brandebourg. Elle n'acquiert ses premiers droits seigneuriaux qu'en 1380, aussi seule la ville est figurée, la campagne restant habsbourgeoise.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    },
+    {
+     "titre": "DHS, Brandebourg, paix de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008729/"
+    }
+   ],
+   "superficie_km2": 16,
+   "communes": 1,
+   "couleur": "#59a6a0"
+  },
+  {
+   "id": "soleure",
+   "nom": "Ville impériale de Soleure",
+   "categorie": "autre",
+   "regime": "Ville d'Empire alliée de Berne",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Alliée de Berne depuis la fin du XIIIe siècle, Soleure a renouvelé cette alliance pour une durée illimitée en 1351 et envoyé des troupes à Laupen en 1339. Elle inaugure en 1344 sa politique territoriale en achetant la seigneurie de Balm aux comtes de Buchegg, mais son territoire reste minuscule.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    },
+    {
+     "titre": "DHS, Laupen, guerre de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008728/"
+    }
+   ],
+   "superficie_km2": 6,
+   "communes": 1,
+   "couleur": "#ea8a32"
+  },
+  {
+   "id": "zurich",
+   "nom": "Ville impériale de Zurich",
+   "categorie": "canton",
+   "regime": "Ville d'Empire à régime corporatif",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Catholique (avant la Réforme)",
+   "population": null,
+   "dirigeants": "Bourgmestre Rodolphe Brun",
+   "resume": "Depuis la révolution corporative de Rodolphe Brun en 1336, Zurich est gouverné par ses corporations. Menacée par les nobles exilés à Rapperswil, la ville occupe celle-ci en 1350 et détruit ses châteaux, puis s'allie en 1351 avec Uri, Schwytz, Unterwald et Lucerne en se réservant le droit de conclure d'autres alliances. Elle subit trois sièges dans la guerre qui suit et ne commence qu'en 1358 à acquérir un territoire, d'où une figuration limitée à la ville.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    },
+    {
+     "titre": "DHS, Ratisbonne, paix de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008730/"
+    }
+   ],
+   "superficie_km2": 2,
+   "communes": 1,
+   "couleur": "#4e79a7"
+  }
+ ],
+ "superficie_totale_km2": 39969,
+ "changements": {
+  "depuis": 1291,
+  "liste": [
+   {
+    "de": "barons-vaz",
+    "de_nom": "Barons de Vaz",
+    "vers": "toggenbourg",
+    "vers_nom": "Comté de Toggenbourg",
+    "communes": 42,
+    "superficie_km2": 1392
+   },
+   {
+    "de": "seigneuries-aar",
+    "de_nom": "Terres d'Empire et seigneuries de la région de l'Aar",
+    "vers": "berne",
+    "vers_nom": "Ville impériale de Berne",
+    "communes": 29,
+    "superficie_km2": 840
+   },
+   {
+    "de": "barons-vaz",
+    "de_nom": "Barons de Vaz",
+    "vers": "werdenberg",
+    "vers_nom": "Comtes de Werdenberg",
+    "communes": 45,
+    "superficie_km2": 772
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg",
+    "vers": "glaris",
+    "vers_nom": "Pays de Glaris",
+    "communes": 25,
+    "superficie_km2": 681
+   },
+   {
+    "de": "come",
+    "de_nom": "Commune de Côme",
+    "vers": "milan",
+    "vers_nom": "Seigneurie des Visconti de Milan",
+    "communes": 155,
+    "superficie_km2": 614
+   },
+   {
+    "de": "obwald",
+    "de_nom": "Obwald (vallée supérieure d'Unterwald)",
+    "vers": "unterwald",
+    "vers_nom": "Canton d'Unterwald",
+    "communes": 6,
+    "superficie_km2": 406
+   },
+   {
+    "de": "seigneuries-aar",
+    "de_nom": "Terres d'Empire et seigneuries de la région de l'Aar",
+    "vers": "savoie",
+    "vers_nom": "Comté de Savoie",
+    "communes": 3,
+    "superficie_km2": 157
+   },
+   {
+    "de": "frobourg",
+    "de_nom": "Comtes de Frobourg",
+    "vers": "habsbourg",
+    "vers_nom": "Maison de Habsbourg (ducs d'Autriche)",
+    "communes": 21,
+    "superficie_km2": 142
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg",
+    "vers": "zoug",
+    "vers_nom": "Ville et bailliage de Zoug",
+    "communes": 6,
+    "superficie_km2": 137
+   },
+   {
+    "de": "schaffhouse",
+    "de_nom": "Ville de Schaffhouse",
+    "vers": "habsbourg",
+    "vers_nom": "Maison de Habsbourg (ducs d'Autriche)",
+    "communes": 1,
+    "superficie_km2": 23
+   },
+   {
+    "de": "habsbourg",
+    "de_nom": "Maison de Habsbourg",
+    "vers": "lucerne",
+    "vers_nom": "Ville de Lucerne",
+    "communes": 1,
+    "superficie_km2": 16
+   }
+  ]
+ }
+}

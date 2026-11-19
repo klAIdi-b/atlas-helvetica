@@ -70,6 +70,128 @@
   "Le canton de Baden comprend les districts argoviens de Baden, Zurzach, Bremgarten et Muri de 1850, moins le bailliage lucernois de Merenschwand (Merenschwand et Benzenschwil, restés lucernois)."
  ],
  "confiance": "Sont sûrs d'après le DHS la liste des dix-huit cantons et leurs chefs-lieux, la composition des cantons créés en 1798 (Oberland, Baden, Waldstätten, Linth, Säntis, Bellinzone, Lugano, Léman), les dates d'annexion de Genève, Mulhouse, Bienne et du sud de l'évêché, le statut de Neuchâtel, du Fricktal, de Tarasp et des Grisons, ainsi que les cas de Hitzkirch, Merenschwand, Dietikon, Schlieren, Hüttikon, Dörflingen, Ramsen et Diessenhofen. Sont moins sûrs le partage exact du district de Thoune, la limite Linth-Säntis dans le Toggenbourg, la frontière de Bienne et quelques communes isolées (Rheinau, Schwarzenburg, Urdorf). Les noms des préfets ne sont donnés que lorsque le DHS les cite.",
+ "evenements": [
+  {
+   "annee": 1798,
+   "date_precise": "24 janvier 1798",
+   "type": "revolution",
+   "titre": "Révolution vaudoise",
+   "lieu": "Lausanne et Pays de Vaud",
+   "texte": "Encouragés par la présence d'une division française près de Versoix, les patriotes vaudois font éclater la révolution le 24 janvier 1798. À Lausanne, les délégués des villes et des villages se constituent en Assemblée représentative provisoire du Pays de Vaud et les baillis bernois se retirent. Le nom de République lémanique, employé dès 1790 par Frédéric-César de La Harpe, n'est pas officiellement proclamé, et l'incident de Thierrens (25 janvier) sert de prétexte à l'entrée des troupes françaises le 28 janvier.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Révolution helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017217/"
+    },
+    {
+     "titre": "DHS, République lémanique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/022729/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "1er au 5 mars 1798",
+   "type": "conquete",
+   "titre": "Invasion française et chute de Berne",
+   "lieu": "Soleure, Fribourg et Berne",
+   "texte": "Les troupes françaises attaquent le 1er mars 1798 à la fois depuis l'ancien évêché de Bâle et depuis le Pays de Vaud. Soleure capitule, Fribourg et Morat sont pris, et le gouvernement bernois abdique le 4 mars. Le 5 mars, le général Schauenburg reçoit la capitulation de Berne, dont les trésors seront emportés en France.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, Invasion française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008915/"
+    },
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "Début mars 1798",
+   "type": "bataille",
+   "titre": "Batailles du Grauholz et de Neuenegg",
+   "lieu": "Grauholz et Neuenegg (Berne)",
+   "texte": "Après l'abdication de leur gouvernement, les troupes bernoises tentent encore d'arrêter l'avance française. Au nord, battues près de Fraubrunnen, elles subissent une défaite définitive au Grauholz, tandis qu'au sud elles arrêtent les Français près de Neuenegg, un succès qui n'a plus d'influence sur le cours de la guerre. Les combats font 700 morts du côté bernois.",
+   "camps": "Troupes bernoises contre l'armée française",
+   "issue": "Défaite bernoise au Grauholz, succès bernois sans lendemain à Neuenegg, occupation de Berne le 5 mars",
+   "sources": [
+    {
+     "titre": "DHS, Invasion française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008915/"
+    },
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "12 avril 1798",
+   "type": "institution",
+   "titre": "Proclamation de la République helvétique",
+   "lieu": "Aarau",
+   "texte": "Le 12 avril 1798, des députés de dix cantons réunis à Aarau proclament la République helvétique. Sa Constitution, octroyée par la France, adapte la Constitution française de 1795 et fait de la Suisse un État unitaire. Dès le 4 avril, la Suisse ne comptait déjà plus aucun pays sujet.",
+   "camps": null,
+   "issue": null,
+   "sources": [
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    },
+    {
+     "titre": "DHS, Révolution helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017217/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "Avril au 4 mai 1798",
+   "type": "bataille",
+   "titre": "Résistance de la Suisse centrale",
+   "lieu": "Schwytz, Rothenthurm et Morgarten",
+   "texte": "Schwytz, Nidwald et Uri refusent la nouvelle Constitution et lèvent 10 000 hommes sous le commandement d'Alois Reding. La contre-attaque du général Schauenburg fait capituler Zoug, Lucerne et Glaris, et les victoires schwytzoises de Rothenthurm et de Morgarten ne renversent pas la situation. Le 4 mai 1798, la landsgemeinde de Schwytz abandonne la lutte, et le même jour le commissaire Rapinat crée le canton des Waldstätten pour réduire le poids des cantons récalcitrants.",
+   "camps": "Schwytz, Nidwald, Uri et leurs alliés contre l'armée française du général Schauenburg",
+   "issue": "Victoire française, capitulation de Schwytz le 4 mai 1798",
+   "sources": [
+    {
+     "titre": "DHS, Invasion française",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008915/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ]
+  },
+  {
+   "annee": 1798,
+   "date_precise": "9 septembre 1798",
+   "type": "bataille",
+   "titre": "Journées de terreur de Nidwald",
+   "lieu": "Stans, Ennetmoos, Stansstad et Buochs (Nidwald)",
+   "texte": "Le serment civique imposé le 12 juillet 1798 provoque une insurrection à Nidwald, dont une landsgemeinde refuse le 29 août l'ultimatum des autorités helvétiques. Le 9 septembre, l'armée française du général Schauenburg écrase la révolte, puis se livre à des massacres qui font environ 300 victimes, hommes, femmes et enfants, en plus d'une centaine de morts au combat dans chaque camp. Ennetmoos, Stansstad, Buochs et Stans sont dévastés.",
+   "camps": "Insurgés nidwaldiens contre l'armée française du général Schauenburg, appelée par les autorités helvétiques",
+   "issue": "Victoire française suivie de massacres",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ]
+  }
+ ],
  "territoires": [
   {
    "id": "grisons",
@@ -762,31 +884,23 @@
  ],
  "superficie_totale_km2": 39969,
  "changements": {
-  "depuis": 1513,
+  "depuis": 1797,
   "liste": [
    {
     "de": "berne",
     "de_nom": "Canton de Berne",
     "vers": "canton-oberland",
     "vers_nom": "Canton d'Oberland",
-    "communes": 58,
-    "superficie_km2": 2433
+    "communes": 61,
+    "superficie_km2": 2674
    },
    {
-    "de": "eveche-bale",
-    "de_nom": "Principauté épiscopale de Bâle",
-    "vers": "france",
-    "vers_nom": "République française",
-    "communes": 157,
-    "superficie_km2": 1528
-   },
-   {
-    "de": "savoie",
-    "de_nom": "Duché de Savoie",
+    "de": "berne",
+    "de_nom": "Canton de Berne",
     "vers": "leman",
     "vers_nom": "Canton du Léman",
-    "communes": 258,
-    "superficie_km2": 1514
+    "communes": 302,
+    "superficie_km2": 2304
    },
    {
     "de": "uri",
@@ -809,16 +923,8 @@
     "de_nom": "Canton de Glaris",
     "vers": "canton-linth",
     "vers_nom": "Canton de la Linth",
-    "communes": 25,
-    "superficie_km2": 681
-   },
-   {
-    "de": "unterwald",
-    "de_nom": "Canton d'Unterwald",
-    "vers": "canton-waldstatten",
-    "vers_nom": "Canton des Waldstätten",
-    "communes": 17,
-    "superficie_km2": 647
+    "communes": 28,
+    "superficie_km2": 781
    },
    {
     "de": "schwyz",
@@ -829,12 +935,12 @@
     "superficie_km2": 622
    },
    {
-    "de": "savoie",
-    "de_nom": "Duché de Savoie",
-    "vers": "fribourg",
-    "vers_nom": "Canton de Fribourg",
-    "communes": 152,
-    "superficie_km2": 615
+    "de": "eveche-bale",
+    "de_nom": "Sud de l'évêché de Bâle (bailliages helvétiques)",
+    "vers": "france",
+    "vers_nom": "République française",
+    "communes": 58,
+    "superficie_km2": 608
    },
    {
     "de": "berne",
@@ -865,8 +971,8 @@
     "de_nom": "Bailliage de Locarno",
     "vers": "canton-lugano",
     "vers_nom": "Canton de Lugano",
-    "communes": 42,
-    "superficie_km2": 533
+    "communes": 43,
+    "superficie_km2": 551
    },
    {
     "de": "uri",
@@ -877,36 +983,12 @@
     "superficie_km2": 480
    },
    {
-    "de": "comte-neuchatel",
-    "de_nom": "Comté de Neuchâtel (occupé par les cantons)",
-    "vers": "neuchatel",
-    "vers_nom": "Principauté de Neuchâtel",
-    "communes": 51,
-    "superficie_km2": 470
-   },
-   {
-    "de": "berne",
-    "de_nom": "Canton de Berne",
-    "vers": "leman",
-    "vers_nom": "Canton du Léman",
-    "communes": 16,
-    "superficie_km2": 435
-   },
-   {
-    "de": "appenzell",
-    "de_nom": "Canton d'Appenzell",
-    "vers": "canton-santis",
-    "vers_nom": "Canton du Säntis",
-    "communes": 28,
-    "superficie_km2": 415
-   },
-   {
-    "de": "gruyere",
-    "de_nom": "Comté de Gruyère",
-    "vers": "fribourg",
-    "vers_nom": "Canton de Fribourg",
-    "communes": 33,
-    "superficie_km2": 371
+    "de": "obwald",
+    "de_nom": "Obwald",
+    "vers": "canton-waldstatten",
+    "vers_nom": "Canton des Waldstätten",
+    "communes": 6,
+    "superficie_km2": 406
    },
    {
     "de": "blenio",
@@ -937,8 +1019,8 @@
     "de_nom": "Comté de Baden",
     "vers": "canton-baden",
     "vers_nom": "Canton de Baden",
-    "communes": 52,
-    "superficie_km2": 281
+    "communes": 56,
+    "superficie_km2": 301
    },
    {
     "de": "abbaye-saint-gall",
@@ -949,44 +1031,20 @@
     "superficie_km2": 274
    },
    {
-    "de": "habsbourg",
-    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
-    "vers": "fricktal",
-    "vers_nom": "Fricktal autrichien",
-    "communes": 38,
-    "superficie_km2": 266
-   },
-   {
-    "de": "savoie",
-    "de_nom": "Duché de Savoie",
-    "vers": "valais",
-    "vers_nom": "Canton du Valais",
-    "communes": 9,
-    "superficie_km2": 257
-   },
-   {
-    "de": "freie-aemter",
-    "de_nom": "Freie Ämter",
-    "vers": "canton-baden",
-    "vers_nom": "Canton de Baden",
-    "communes": 48,
+    "de": "appenzell-rhodes-exterieures",
+    "de_nom": "Appenzell Rhodes-Extérieures",
+    "vers": "canton-santis",
+    "vers_nom": "Canton du Säntis",
+    "communes": 20,
     "superficie_km2": 246
    },
    {
-    "de": "valangin",
-    "de_nom": "Seigneurie de Valangin",
-    "vers": "neuchatel",
-    "vers_nom": "Principauté de Neuchâtel",
-    "communes": 22,
-    "superficie_km2": 243
-   },
-   {
-    "de": "gruyere",
-    "de_nom": "Comté de Gruyère",
-    "vers": "canton-oberland",
-    "vers_nom": "Canton d'Oberland",
-    "communes": 3,
-    "superficie_km2": 241
+    "de": "nidwald",
+    "de_nom": "Nidwald",
+    "vers": "canton-waldstatten",
+    "vers_nom": "Canton des Waldstätten",
+    "communes": 11,
+    "superficie_km2": 242
    },
    {
     "de": "toggenbourg",
@@ -1021,14 +1079,6 @@
     "superficie_km2": 207
    },
    {
-    "de": "savoie",
-    "de_nom": "Duché de Savoie",
-    "vers": "france",
-    "vers_nom": "République française",
-    "communes": 35,
-    "superficie_km2": 202
-   },
-   {
     "de": "grandson",
     "de_nom": "Bailliage de Grandson",
     "vers": "leman",
@@ -1037,20 +1087,12 @@
     "superficie_km2": 200
    },
    {
-    "de": "gruyere",
-    "de_nom": "Comté de Gruyère",
-    "vers": "leman",
-    "vers_nom": "Canton du Léman",
-    "communes": 3,
-    "superficie_km2": 186
-   },
-   {
-    "de": "eveche-lausanne",
-    "de_nom": "Principauté épiscopale de Lausanne",
-    "vers": "leman",
-    "vers_nom": "Canton du Léman",
-    "communes": 25,
-    "superficie_km2": 170
+    "de": "appenzell-rhodes-interieures",
+    "de_nom": "Appenzell Rhodes-Intérieures",
+    "vers": "canton-santis",
+    "vers_nom": "Canton du Säntis",
+    "communes": 8,
+    "superficie_km2": 169
    },
    {
     "de": "riviera",
@@ -1059,6 +1101,22 @@
     "vers_nom": "Canton de Bellinzone",
     "communes": 6,
     "superficie_km2": 166
+   },
+   {
+    "de": "freie-aemter",
+    "de_nom": "Freie Ämter supérieurs",
+    "vers": "canton-baden",
+    "vers_nom": "Canton de Baden",
+    "communes": 30,
+    "superficie_km2": 161
+   },
+   {
+    "de": "berne",
+    "de_nom": "Canton de Berne",
+    "vers": "fribourg",
+    "vers_nom": "Canton de Fribourg",
+    "communes": 33,
+    "superficie_km2": 160
    },
    {
     "de": "schwarzenburg",
@@ -1070,7 +1128,7 @@
    },
    {
     "de": "gaster",
-    "de_nom": "Gaster et Weesen",
+    "de_nom": "Gaster et Gams",
     "vers": "canton-linth",
     "vers_nom": "Canton de la Linth",
     "communes": 7,
@@ -1093,28 +1151,20 @@
     "superficie_km2": 139
    },
    {
-    "de": "seigneuries-souabes",
-    "de_nom": "Seigneuries souabes du Klettgau et de Stühlingen",
-    "vers": "schaffhouse",
-    "vers_nom": "Canton de Schaffhouse",
-    "communes": 14,
-    "superficie_km2": 138
+    "de": "freie-aemter-inferieurs",
+    "de_nom": "Freie Ämter inférieurs",
+    "vers": "canton-baden",
+    "vers_nom": "Canton de Baden",
+    "communes": 25,
+    "superficie_km2": 108
    },
    {
-    "de": "eveche-bale",
-    "de_nom": "Principauté épiscopale de Bâle",
-    "vers": "soleure",
-    "vers_nom": "Canton de Soleure",
-    "communes": 12,
-    "superficie_km2": 102
-   },
-   {
-    "de": "werdenberg",
-    "de_nom": "Comté de Werdenberg",
-    "vers": "canton-linth",
-    "vers_nom": "Canton de la Linth",
-    "communes": 3,
-    "superficie_km2": 101
+    "de": "geneve",
+    "de_nom": "République de Genève",
+    "vers": "france",
+    "vers_nom": "République française",
+    "communes": 16,
+    "superficie_km2": 97
    },
    {
     "de": "uznach",
@@ -1126,7 +1176,7 @@
    },
    {
     "de": "mendrisio",
-    "de_nom": "Mendrisio et Balerna",
+    "de_nom": "Bailliage de Mendrisio",
     "vers": "canton-lugano",
     "vers_nom": "Canton de Lugano",
     "communes": 22,
@@ -1149,52 +1199,20 @@
     "superficie_km2": 75
    },
    {
-    "de": "eveche-lausanne",
-    "de_nom": "Principauté épiscopale de Lausanne",
-    "vers": "fribourg",
-    "vers_nom": "Canton de Fribourg",
-    "communes": 5,
-    "superficie_km2": 73
+    "de": "rhazuns",
+    "de_nom": "Seigneurie de Rhäzüns",
+    "vers": "grisons",
+    "vers_nom": "République des III Ligues (Grisons)",
+    "communes": 4,
+    "superficie_km2": 66
    },
    {
-    "de": "habsbourg",
-    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
-    "vers": "schaffhouse",
-    "vers_nom": "Canton de Schaffhouse",
-    "communes": 12,
-    "superficie_km2": 57
-   },
-   {
-    "de": "habsbourg",
-    "de_nom": "Maison de Habsbourg (Autriche antérieure et Tyrol)",
-    "vers": "tarasp",
-    "vers_nom": "Seigneurie de Tarasp",
-    "communes": 1,
-    "superficie_km2": 47
-   },
-   {
-    "de": "eveche-geneve",
-    "de_nom": "Ville et terres de l'évêque de Genève",
-    "vers": "france",
-    "vers_nom": "République française",
-    "communes": 5,
-    "superficie_km2": 43
-   },
-   {
-    "de": "sax-forstegg",
-    "de_nom": "Seigneurie de Sax-Forstegg",
+    "de": "zurich",
+    "de_nom": "Canton de Zurich",
     "vers": "canton-linth",
     "vers_nom": "Canton de la Linth",
     "communes": 1,
     "superficie_km2": 42
-   },
-   {
-    "de": "lucerne",
-    "de_nom": "Canton de Lucerne",
-    "vers": "canton-baden",
-    "vers_nom": "Canton de Baden",
-    "communes": 11,
-    "superficie_km2": 41
    },
    {
     "de": "bailliage-thurgovie",
@@ -1205,12 +1223,12 @@
     "superficie_km2": 41
    },
    {
-    "de": "eveche-bale",
-    "de_nom": "Principauté épiscopale de Bâle",
-    "vers": "bale",
-    "vers_nom": "Canton de Bâle",
-    "communes": 5,
-    "superficie_km2": 22
+    "de": "zurich",
+    "de_nom": "Canton de Zurich",
+    "vers": "schaffhouse",
+    "vers_nom": "Canton de Schaffhouse",
+    "communes": 4,
+    "superficie_km2": 33
    },
    {
     "de": "rapperswil",
@@ -1221,14 +1239,6 @@
     "superficie_km2": 22
    },
    {
-    "de": "zurich",
-    "de_nom": "Canton de Zurich",
-    "vers": "canton-baden",
-    "vers_nom": "Canton de Baden",
-    "communes": 4,
-    "superficie_km2": 20
-   },
-   {
     "de": "bienne",
     "de_nom": "Ville de Bienne",
     "vers": "france",
@@ -1237,11 +1247,11 @@
     "superficie_km2": 18
    },
    {
-    "de": "milan",
-    "de_nom": "Duché de Milan",
-    "vers": "canton-lugano",
-    "vers_nom": "Canton de Lugano",
-    "communes": 1,
+    "de": "zurich",
+    "de_nom": "Canton de Zurich",
+    "vers": "canton-baden",
+    "vers_nom": "Canton de Baden",
+    "communes": 4,
     "superficie_km2": 18
    },
    {
@@ -1253,20 +1263,12 @@
     "superficie_km2": 14
    },
    {
-    "de": "zurich",
-    "de_nom": "Canton de Zurich",
-    "vers": "schaffhouse",
-    "vers_nom": "Canton de Schaffhouse",
-    "communes": 2,
-    "superficie_km2": 14
-   },
-   {
-    "de": "freie-aemter",
-    "de_nom": "Freie Ämter",
-    "vers": "lucerne",
-    "vers_nom": "Canton de Lucerne",
-    "communes": 2,
-    "superficie_km2": 14
+    "de": "bailliage-thurgovie",
+    "de_nom": "Landgraviat de Thurgovie",
+    "vers": "zurich",
+    "vers_nom": "Canton de Zurich",
+    "communes": 1,
+    "superficie_km2": 9
    },
    {
     "de": "rheintal",
@@ -1275,14 +1277,6 @@
     "vers_nom": "Canton de la Linth",
     "communes": 1,
     "superficie_km2": 9
-   },
-   {
-    "de": "bienne",
-    "de_nom": "Ville de Bienne",
-    "vers": "berne",
-    "vers_nom": "Canton de Berne",
-    "communes": 2,
-    "superficie_km2": 6
    },
    {
     "de": "ville-saint-gall",
