@@ -1,0 +1,790 @@
+{
+ "date": 1848,
+ "titre": "La Constitution fédérale et le nouvel État fédéral",
+ "recit": "En novembre 1847, l'armée fédérale du général Guillaume-Henri Dufour défait en moins d'un mois le Sonderbund, l'alliance séparée conclue en 1845 par sept cantons catholiques conservateurs (Lucerne, Uri, Schwytz, Obwald, Nidwald, Zoug, Fribourg et Valais). La guerre civile, qui fait 93 morts, permet aux radicaux d'imposer des gouvernements à leur convenance dans presque tous les cantons vaincus. Profitant des révolutions de février 1848 qui paralysent les monarchies européennes, une commission de la Diète rédige en quelques semaines une Constitution fédérale, acceptée par quinze cantons et demi contre six et demi lors des votations de l'été. Le 12 septembre 1848, la Diète la déclare acceptée comme loi fondamentale, et la Suisse passe d'une confédération d'États à un État fédéral doté d'un Parlement à deux chambres et d'un Conseil fédéral de sept membres, élu le 16 novembre. Le 28 novembre 1848, l'Assemblée fédérale choisit Berne comme ville fédérale, de préférence à Zurich et à Lucerne. La carte montre les vingt-deux cantons, dont trois divisés en demi-cantons, avec des frontières pratiquement identiques à celles du fond communal de 1850. Les couleurs distinguent ces vingt-cinq territoires, parmi lesquels Neuchâtel, devenu république le 1er mars 1848, mais encore revendiqué par le roi de Prusse jusqu'en 1857.",
+ "sources_recit": [
+  {
+   "titre": "DHS, Sonderbund",
+   "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+  },
+  {
+   "titre": "DHS, Constitution fédérale",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+  },
+  {
+   "titre": "DHS, Ville fédérale",
+   "url": "https://hls-dhs-dss.ch/fr/articles/010102/"
+  },
+  {
+   "titre": "DHS, Affaire de Neuchâtel",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+  },
+  {
+   "titre": "DHS, Berne (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+  }
+ ],
+ "hors_carte": [],
+ "approximations": [
+  "Une règle par canton (colonne KTKZ du fond de 1850). Aucune différence de frontière cantonale entre 1848 et 1850 n'a été relevée dans les articles du DHS consultés; les modifications connues sont antérieures (partage de Bâle en 1833) ou postérieures (Jura, Laufon, Vellerat, Moutier).",
+  "Population de 1850 tirée des tableaux statistiques des articles cantonaux du DHS (recensement fédéral). Pour Berne, le chiffre de 458'302 vient du fichier de données du graphique de l'article du DHS (territoire de l'époque, Jura compris); le tableau de l'article donne 413'468 pour le territoire cantonal de 1990.",
+  "Les pourcentages confessionnels sont calculés à partir des effectifs de protestants et de catholiques du recensement de 1850 donnés par le DHS (pour les Grisons, pourcentages donnés directement par le DHS).",
+  "Les langues indiquées sont les langues officielles selon le DHS, car la composition linguistique de 1850 n'est pas donnée (les tableaux commencent en 1880). Fribourg est qualifié de bilingue de fait entre 1798 et 1856.",
+  "Pour le Tessin, le DHS indique un chef-lieu tournant entre Bellinzone, Locarno et Lugano selon une rotation de six ans (Constitution de 1814) jusqu'à l'établissement d'un chef-lieu permanent à Bellinzone en 1878; le chef-lieu en fonction en 1848 n'a pas été vérifié.",
+  "Pour Zoug, le DHS donne le 22 novembre 1847 (article cantonal) et le 21 novembre (article Sonderbund) pour la capitulation; le résumé mentionne les deux dates.",
+  "Pour les Grisons, Schaffhouse et l'Argovie, le DHS ne nomme pas les dirigeants de 1848, d'où la valeur null."
+ ],
+ "confiance": "Sont sûrs le découpage cantonal (identique au fond de 1850), rôle de chaque canton dans le Sonderbund et vote sur la Constitution fédérale, populations du recensement de 1850, chronologie fédérale (12 septembre, 6 et 16 novembre, 28 novembre 1848) et affaire de Neuchâtel. Sont moins sûrs la formulation synthétique des régimes (étiquettes résumant les constitutions décrites par le DHS), rôle militaire exact de Zurich et de Vaud en 1847 (le DHS cantonal ne le détaille pas, déduit de l'article Sonderbund qui parle de tous les cantons radicaux), chef-lieu du Tessin en 1848.",
+ "territoires": [
+  {
+   "id": "grisons",
+   "nom": "Canton des Grisons",
+   "categorie": "canton",
+   "regime": "Démocratie représentative à structure très fédéraliste (Constitution de 1814/1820, juridictions autonomes)",
+   "chef_lieu": "Coire",
+   "langues": "Allemand, romanche, italien",
+   "religion": "Confession mixte, réformés majoritaires (58 %) et catholiques (42 %) en 1850",
+   "population": {
+    "valeur": 89895,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007391/"
+   },
+   "dirigeants": null,
+   "resume": "Ancienne République des III Ligues devenue canton en 1803, les Grisons conservent des structures très fédéralistes où chaque juridiction garde une large autonomie. Le commandant en chef des troupes du Sonderbund, Johann Ulrich von Salis-Soglio, est un conservateur protestant grison. La Constitution fédérale de 1848 est acceptée dans la majorité des juridictions grisonnes, mais elle oblige le canton à réviser une constitution devenue incompatible, ce qui n'aboutit qu'en 1853. Le pays trilingue connaît alors une forte émigration, notamment lors des disettes de 1848 à 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 7087,
+   "communes": 231,
+   "couleur": "#c993bd"
+  },
+  {
+   "id": "berne",
+   "nom": "Canton de Berne",
+   "categorie": "canton",
+   "regime": "Démocratie représentative radicale (Constitution de 1846, Grand Conseil élu au suffrage direct)",
+   "chef_lieu": "Berne",
+   "langues": "Allemand, français (Jura bernois)",
+   "religion": "Réformée très majoritaire (88 % de protestants en 1850), minorité catholique surtout dans le Jura",
+   "population": {
+    "valeur": 458302,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/download/Articles/007383/2026-02-04/med007383-008/DHS%20-%20Population%20du%20canton%20de%20Berne.xlsx"
+   },
+   "dirigeants": "Gouvernement radical de neuf membres, dominé par Jakob Stämpfli et Ulrich Ochsenbein",
+   "resume": "Les radicaux conduits par Jakob Stämpfli et Ulrich Ochsenbein conquièrent le Grand Conseil en 1845 et imposent la Constitution de 1846. Canton directeur en 1847, Berne accueille la Diète qui décide la dissolution du Sonderbund, et Ochsenbein y présente le programme radical d'un État fédéral. Le 6 août 1848, les Bernois acceptent pourtant la Constitution fédérale sans enthousiasme, avec la plus faible participation de Suisse, car les radicaux la jugeaient trop fédéraliste. Le 28 novembre 1848, l'Assemblée fédérale choisit la ville de Berne comme ville fédérale, de préférence à Zurich et à Lucerne. Le canton, qui englobe alors tout le Jura bernois, est de loin le plus peuplé de Suisse.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Ville fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010102/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 6752,
+   "communes": 519,
+   "couleur": "#d8574f"
+  },
+  {
+   "id": "valais",
+   "nom": "Canton du Valais",
+   "categorie": "canton",
+   "regime": "Démocratie représentative radicale (Constitution du 10 janvier 1848)",
+   "chef_lieu": "Sion",
+   "langues": "Français et allemand",
+   "religion": "Catholique quasi exclusive (99 % en 1850)",
+   "population": {
+    "valeur": 81559,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007396/"
+   },
+   "dirigeants": "Gouvernement radical installé en décembre 1847 sous occupation fédérale",
+   "resume": "Repris par les conservateurs après la bataille du Trient en 1844, le Valais adhère au Sonderbund en 1845. Ses troupes participent à l'attaque du Tessin par le Gothard, puis le canton se soumet sans combattre à la fin de novembre 1847. Sous occupation fédérale, les radicaux reviennent au pouvoir et la Constitution du 10 janvier 1848 renforce l'Etat central, prive les ecclésiastiques de leurs droits politiques et ouvre la voie à la sécularisation des biens d'Eglise. Le Valais refuse la Constitution fédérale et doit assumer environ un million de francs de dette de guerre.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    },
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    }
+   ],
+   "superficie_km2": 5223,
+   "communes": 168,
+   "couleur": "#e07a5f"
+  },
+  {
+   "id": "vaud",
+   "nom": "Canton de Vaud",
+   "categorie": "canton",
+   "regime": "Démocratie représentative radicale (Constitution du 10 août 1845, avec référendum et initiative)",
+   "chef_lieu": "Lausanne",
+   "langues": "Français",
+   "religion": "Réformée très majoritaire (96 % de protestants en 1850)",
+   "population": {
+    "valeur": 199575,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007395/"
+   },
+   "dirigeants": "Gouvernement radical dirigé par Henri Druey, élu au Conseil fédéral en 1848, puis par Louis-Henri Delarageaz",
+   "resume": "La révolution radicale de février 1845, menée par Henri Druey, renverse le gouvernement libéral qui refusait de s'opposer aux Lucernois et à leurs jésuites. La Constitution de 1845 introduit à la fois le référendum législatif et l'initiative populaire. La politique religieuse du nouveau régime provoque une scission de l'Eglise nationale et la fondation de l'Eglise libre en 1847. Druey entre au premier Conseil fédéral en 1848, et le canton perd au profit de la Confédération ses péages et la plupart de ses régales.",
+   "sources": [
+    {
+     "titre": "DHS, Vaud",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007395/"
+    }
+   ],
+   "superficie_km2": 2809,
+   "communes": 389,
+   "couleur": "#6f9f5f"
+  },
+  {
+   "id": "tessin",
+   "nom": "Canton du Tessin",
+   "categorie": "canton",
+   "regime": "Démocratie représentative, gouvernement radical",
+   "chef_lieu": "Chef-lieu itinérant (Bellinzone, Locarno et Lugano par rotation de six ans)",
+   "langues": "Italien",
+   "religion": "Catholique quasi exclusive (100 % en 1850)",
+   "population": {
+    "valeur": 117759,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007394/"
+   },
+   "dirigeants": "Gouvernement radical; Stefano Franscini entre au Conseil fédéral en 1848",
+   "resume": "Catholique mais gouverné par les radicaux, le Tessin prend position contre le Sonderbund et mobilise 3000 hommes en 1847. Ses troupes sont battues à Airolo par une attaque surprise des Uranais et des Valaisans venus par le Gothard. En 1848, le canton refuse pourtant la Constitution fédérale, surtout parce que l'abolition des douanes l'oblige à introduire des impôts directs. L'accueil de réfugiés lombards après les Cinq Journées de Milan lui vaut la même année, après le retour des Autrichiens à Milan, une fermeture des frontières.",
+   "sources": [
+    {
+     "titre": "DHS, Tessin (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007394/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    },
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    }
+   ],
+   "superficie_km2": 2759,
+   "communes": 263,
+   "couleur": "#cf9f8a"
+  },
+  {
+   "id": "saint-gall",
+   "nom": "Canton de Saint-Gall",
+   "categorie": "canton",
+   "regime": "Démocratie représentative, majorité radicale depuis 1847",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Confession mixte, catholiques majoritaires (62 %) et forte minorité réformée (38 %) en 1850",
+   "population": {
+    "valeur": 169625,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007390/"
+   },
+   "dirigeants": "Grand Conseil à majorité radicale élu en mai 1847",
+   "resume": "Canton créé en 1803 et confessionnellement mixte, Saint-Gall joue un rôle décisif en 1847. La courte victoire des radicaux aux élections de mai donne à la Diète la majorité nécessaire pour décider la dissolution du Sonderbund. Malgré l'opposition de régions catholiques et une rébellion d'une partie de sa milice, le canton se range dans le camp de la Diète. Le diocèse de Saint-Gall est érigé la même année, et la Constitution fédérale est approuvée avec netteté en 1848.",
+   "sources": [
+    {
+     "titre": "DHS, Saint-Gall (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007390/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 1951,
+   "communes": 92,
+   "couleur": "#e9c75e"
+  },
+  {
+   "id": "zurich",
+   "nom": "Canton de Zurich",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de la Régénération de 1831)",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Réformée très majoritaire (97 % de protestants en 1850)",
+   "population": {
+    "valeur": 250698,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007381/"
+   },
+   "dirigeants": "Grand Conseil et Conseil d'Etat à majorité libérale-radicale; Alfred Escher entre au Conseil d'Etat en 1848",
+   "resume": "Depuis 1831, Zurich vit sous un régime de démocratie représentative fondé sur la souveraineté populaire. Après le Züriputsch conservateur de 1839, les libéraux-radicaux reconquièrent le Grand Conseil en 1844 et Zurich se range dans le camp majoritaire de la Diète face au Sonderbund. Canton directeur en alternance avec Berne et Lucerne jusqu'en 1848, il inaugure en 1847 la ligne Zurich-Baden, premier chemin de fer de Suisse. Candidat au rang de ville fédérale en novembre 1848, Zurich est battu par Berne et devra se contenter de la promesse de l'Ecole polytechnique.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    },
+    {
+     "titre": "DHS, Ville fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/010102/"
+    }
+   ],
+   "superficie_km2": 1661,
+   "communes": 196,
+   "couleur": "#4e79a7"
+  },
+  {
+   "id": "fribourg",
+   "nom": "Canton de Fribourg",
+   "categorie": "canton",
+   "regime": "Démocratie représentative radicale (Constitution du 4 mars 1848, non soumise au peuple)",
+   "chef_lieu": "Fribourg",
+   "langues": "Français et allemand (bilinguisme de fait, français langue du gouvernement)",
+   "religion": "Catholique majoritaire (88 % en 1850), minorité réformée dans le Moratois",
+   "population": {
+    "valeur": 99891,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007379/"
+   },
+   "dirigeants": "Gouvernement provisoire puis Grand Conseil radical; l'évêque Etienne Marilley est exilé dès 1848",
+   "resume": "Gouverné par les conservateurs de Louis Fournier, Fribourg adhère au Sonderbund en 1845 et devient le premier objectif du général Dufour. Encerclée, la ville capitule le 14 novembre 1847. Une assemblée populaire nomme dès le lendemain un gouvernement provisoire, et un Grand Conseil radical adopte la Constitution du 4 mars 1848 sans la soumettre au peuple. Le nouveau régime, très anticlérical, interdit les jésuites et exile l'évêque, ce qui le rend vite impopulaire. Seul le Grand Conseil se prononce sur la Constitution fédérale.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    },
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    }
+   ],
+   "superficie_km2": 1593,
+   "communes": 286,
+   "couleur": "#3f8a86"
+  },
+  {
+   "id": "lucerne",
+   "nom": "Canton de Lucerne",
+   "categorie": "canton",
+   "regime": "Démocratie représentative, gouvernement radical installé après la défaite du Sonderbund",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99 % en 1850)",
+   "population": {
+    "valeur": 132843,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007382/"
+   },
+   "dirigeants": "Grand Conseil presque entièrement radical élu en décembre 1847 sous la protection des troupes fédérales",
+   "resume": "Le rappel des jésuites par le gouvernement conservateur provoque les expéditions des Corps francs de 1844 et 1845. Lucerne est le cœur du Sonderbund, conclu sur son sol le 11 décembre 1845, et son conseiller d'Etat Konstantin Siegwart-Müller préside le Conseil de guerre de l'alliance. Après les combats de Gisikon et de Meierskappel le 23 novembre 1847, la ville est remise aux troupes fédérales et un Grand Conseil radical est élu en décembre. La Constitution fédérale n'y passe qu'en comptant les abstentions comme des oui, et la dette de guerre entraîne la suppression des abbayes de Saint-Urbain et de Rathausen.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 1429,
+   "communes": 110,
+   "couleur": "#59a6a0"
+  },
+  {
+   "id": "argovie",
+   "nom": "Canton d'Argovie",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution de 1841)",
+   "chef_lieu": "Aarau",
+   "langues": "Allemand",
+   "religion": "Confession mixte, réformés majoritaires (54 %) et forte minorité catholique (46 %) en 1850",
+   "population": {
+    "valeur": 199852,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007392/"
+   },
+   "dirigeants": null,
+   "resume": "La suppression des couvents d'Argovie en 1841 est l'une des causes directes de la crise qui mène au Sonderbund. Des Argoviens sont au premier rang des expéditions des Corps francs et de l'agitation contre les jésuites. Le canton est l'un des douze qui décident et réalisent en 1847 la dissolution du Sonderbund, dont les troupes tentent en vain une attaque dans le Freiamt. La Constitution fédérale de 1848 y est acceptée par 70 % des votants.",
+   "sources": [
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 1395,
+   "communes": 246,
+   "couleur": "#f2a7bf"
+  },
+  {
+   "id": "uri",
+   "nom": "Canton d'Uri",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde)",
+   "chef_lieu": "Altdorf",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,9 % en 1850)",
+   "population": {
+    "valeur": 14505,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007384/"
+   },
+   "dirigeants": "Landsgemeinde; exécutif élu en mai 1848, entièrement conservateur",
+   "resume": "Cofondateur du Sonderbund, Uri envoie des troupes sur la ligne Reuss-Emme et participe à l'attaque du Tessin par le Gothard en novembre 1847. Après la défaite de Gisikon, il capitule le 28 novembre et les troupes fédérales entrent dans le canton. Sous l'occupation, il adopte quelques réformes libérales, mais la Landsgemeinde de mai 1848 élit un exécutif entièrement conservateur. La Landsgemeinde extraordinaire du 27 août 1848 rejette à une forte majorité la Constitution fédérale.",
+   "sources": [
+    {
+     "titre": "DHS, Uri",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007384/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    },
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    }
+   ],
+   "superficie_km2": 1058,
+   "communes": 19,
+   "couleur": "#e3b93c"
+  },
+  {
+   "id": "thurgovie",
+   "nom": "Canton de Thurgovie",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale (Constitution de la Régénération)",
+   "chef_lieu": "Frauenfeld",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (75 % en 1850), minorité catholique (25 %)",
+   "population": {
+    "valeur": 88908,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007393/"
+   },
+   "dirigeants": "Le \"triumvirat\" Johann Konrad Kern, Johann Melchior Gräflein et Johann Baptist von Streng domine la politique jusqu'en 1849",
+   "resume": "Ancien bailliage commun devenu canton en 1803, la Thurgovie avait demandé dès 1831 la révision du Pacte fédéral. En 1846, elle est le premier canton à exiger la dissolution du Sonderbund et approuve en 1847 le recours à la force. Les Thurgoviens acceptent la Constitution fédérale le 20 août 1848 à une écrasante majorité. La même année, presque tous les couvents du canton sont supprimés.",
+   "sources": [
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 863,
+   "communes": 213,
+   "couleur": "#a89f9a"
+  },
+  {
+   "id": "schwyz",
+   "nom": "Canton de Schwytz",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution du 27 février 1848, Landsgemeinde abolie)",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,6 % en 1850)",
+   "population": {
+    "valeur": 44168,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007385/"
+   },
+   "dirigeants": "Conseil d'Etat à prédominance libérale et radicale élu en 1848 par un Grand Conseil à majorité conservatrice",
+   "resume": "Gouverné par les conservateurs jusqu'en 1847, Schwytz adhère au Sonderbund en 1845 pour défendre la souveraineté cantonale et la religion catholique. Quatre jours après la défaite de Gisikon, son Grand Conseil approuve la capitulation. La Constitution cantonale du 27 février 1848 abolit la Landsgemeinde, sépare les pouvoirs et crée le district des Höfe. Les Schwytzois refusent la Constitution fédérale à 75 % des voix, et le nouveau gouvernement doit intégrer à contrecœur le canton dans l'État fédéral.",
+   "sources": [
+    {
+     "titre": "DHS, Schwytz (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007385/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 851,
+   "communes": 29,
+   "couleur": "#a8679a"
+  },
+  {
+   "id": "soleure",
+   "nom": "Canton de Soleure",
+   "categorie": "canton",
+   "regime": "Démocratie représentative libérale",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique majoritaire (88 % en 1850), minorité réformée (12 %)",
+   "population": {
+    "valeur": 69674,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007386/"
+   },
+   "dirigeants": "Gouvernement libéral de Josef Munzinger, élu au Conseil fédéral en 1848",
+   "resume": "Bien que majoritairement catholique, Soleure est gouverné par les libéraux de Josef Munzinger. En 1847, il est l'un des douze cantons qui décident et imposent la dissolution du Sonderbund. Munzinger joue un rôle décisif dans la négociation du nouvel État fédéral, cherchant un équilibre entre fédéralisme et centralisme. La Constitution fédérale est acceptée à Soleure par deux tiers des voix et Munzinger entre au premier Conseil fédéral.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 791,
+   "communes": 132,
+   "couleur": "#ea8a32"
+  },
+  {
+   "id": "neuchatel",
+   "nom": "République et Canton de Neuchâtel",
+   "categorie": "canton",
+   "regime": "République démocratique représentative depuis la révolution du 1er mars 1848 (ancienne principauté prussienne)",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Réformée majoritaire (92 % de protestants en 1850)",
+   "population": {
+    "valeur": 70753,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007397/"
+   },
+   "dirigeants": "Gouvernement républicain présidé par Alexis-Marie Piaget; le roi de Prusse Frédéric-Guillaume IV ne renonce pas à ses droits",
+   "resume": "Neuchâtel est depuis 1814 un cas unique, à la fois canton suisse et principauté du roi de Prusse. Resté neutre pendant la guerre du Sonderbund, il se discrédite aux yeux des vainqueurs. Le 1er mars 1848, les républicains des Montagnes descendent sur Neuchâtel, prennent le château et proclament la République, dont la Constitution est acceptée de justesse. Le roi Frédéric-Guillaume IV délie ses sujets de leur serment sans renoncer à ses droits, confirmés par les puissances en 1852. Après l'échec d'une insurrection royaliste en septembre 1856 et une crise qui fait craindre la guerre avec la Prusse, le roi renonce à Neuchâtel par le traité de Paris du 26 mai 1857.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, Affaire de Neuchâtel",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008923/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 713,
+   "communes": 73,
+   "couleur": "#8e7cc3"
+  },
+  {
+   "id": "glaris",
+   "nom": "Canton de Glaris",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde, Constitution de 1837)",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (87 % de protestants en 1850), minorité catholique",
+   "population": {
+    "valeur": 30213,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007374/"
+   },
+   "dirigeants": "Landsgemeinde; gouvernement conservateur-libéral",
+   "resume": "Depuis la Constitution de 1837, qui a supprimé les institutions confessionnelles séparées, Glaris passe pour la plus achevée des démocraties suisses, la Landsgemeinde se prononçant sur toutes les questions importantes. Partisan de la révision du Pacte fédéral dès les années 1830, le canton envoie ses troupes dans la guerre contre le Sonderbund en 1847. Ses électeurs approuvent clairement la Constitution fédérale de 1848. La même année, la Landsgemeinde confirme une loi pionnière qui interdit le travail des enfants dans les filatures et limite la journée de travail.",
+   "sources": [
+    {
+     "titre": "DHS, Glaris (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007374/"
+    }
+   ],
+   "superficie_km2": 681,
+   "communes": 25,
+   "couleur": "#5b9a4b"
+  },
+  {
+   "id": "obwald",
+   "nom": "Obwald (Unterwald-le-Haut)",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton",
+   "chef_lieu": "Sarnen",
+   "langues": "Allemand",
+   "religion": "Catholique (100 % en 1848 selon le DHS)",
+   "population": {
+    "valeur": 13799,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007410/"
+   },
+   "dirigeants": "Landsgemeinde; le landamman Nikodem Spichtig, artisan de l'adhésion au Sonderbund, démissionne après la défaite",
+   "resume": "Demi-canton d'Unterwald, Obwald a adhéré à la Ligue de Sarnen puis au Sonderbund sous l'influence du landamman Nikodem Spichtig. Après la défaite de 1847, les radicaux exigent la suppression de la charge de banneret et des mandats à vie, et Spichtig abandonne toutes ses charges. Le canton refuse à une large majorité la Constitution fédérale de 1848 et ne s'y soumet qu'à contrecœur. Une nouvelle constitution cantonale suivra en 1850.",
+   "sources": [
+    {
+     "titre": "DHS, Obwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007410/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    },
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    }
+   ],
+   "superficie_km2": 481,
+   "communes": 7,
+   "couleur": "#c97b95"
+  },
+  {
+   "id": "bale-campagne",
+   "nom": "Bâle-Campagne",
+   "categorie": "canton",
+   "regime": "Démocratie représentative radicale, demi-canton (Constitution de 1832)",
+   "chef_lieu": "Liestal",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (81 % de protestants en 1850), minorité catholique",
+   "population": {
+    "valeur": 47885,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007477/"
+   },
+   "dirigeants": "Gouvernement issu du \"parti de l'ordre\", face au \"parti du mouvement\" d'Emil Remigius Frey",
+   "resume": "Demi-canton depuis 1833, Bâle-Campagne est l'un des cantons les plus ardemment radicaux de Suisse. Des contingents communaux participent aux expéditions des Corps francs en 1844 et 1845, puis à la guerre du Sonderbund en 1847. Il envoie deux conseillers nationaux à Berne en 1848. La liberté d'établissement de 1848 et le chemin de fer déclenchent ensuite un exode vers les villes.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle-Campagne",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007477/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 428,
+   "communes": 74,
+   "couleur": "#9cc5e6"
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Canton de Schaffhouse",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Petit Conseil et Grand Conseil)",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Réformée très majoritaire (96 % de protestants en 1850)",
+   "population": {
+    "valeur": 35300,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007388/"
+   },
+   "dirigeants": null,
+   "resume": "Placé en première ligne face au Zollverein allemand, Schaffhouse mise sur un État fédéral fort et un espace économique suisse unifié. Il envoie un contingent qui contribue à la victoire des troupes fédérales contre le Sonderbund en 1847. Il approuve à 79 % la Constitution fédérale de 1848. La crise agricole de 1846 et 1847 provoque une forte émigration outre-mer.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    }
+   ],
+   "superficie_km2": 298,
+   "communes": 36,
+   "couleur": "#f0b26e"
+  },
+  {
+   "id": "appenzell-rhodes-exterieures",
+   "nom": "Appenzell Rhodes-Extérieures",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton",
+   "chef_lieu": "Hérisau et Trogen (aucun chef-lieu officiel)",
+   "langues": "Allemand",
+   "religion": "Réformée quasi exclusive (98 % de protestants en 1850)",
+   "population": {
+    "valeur": 43621,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007476/"
+   },
+   "dirigeants": "Landsgemeinde; double gouvernement jusqu'en 1858",
+   "resume": "Demi-canton protestant issu du partage de 1597, les Rhodes-Extérieures s'intéressent vivement aux affaires fédérales sous la Régénération. Leurs troupes combattent dans l'armée fédérale lors de la guerre du Sonderbund en 1847. La Landsgemeinde approuve la Constitution fédérale de 1848 et s'ouvre en 1849 à tous les citoyens suisses établis. Le canton ne désigne aucun chef-lieu, les autorités siégeant à Hérisau et les tribunaux à Trogen.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Extérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007476/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 246,
+   "communes": 20,
+   "couleur": "#7eb7ae"
+  },
+  {
+   "id": "geneve",
+   "nom": "République et canton de Genève",
+   "categorie": "canton",
+   "regime": "Démocratie représentative radicale (Constitution du 24 mai 1847)",
+   "chef_lieu": "Genève",
+   "langues": "Français",
+   "religion": "Confession mixte, réformés majoritaires (53 %) et forte minorité catholique (46 %) en 1850",
+   "population": {
+    "valeur": 64146,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007398/"
+   },
+   "dirigeants": "Gouvernement radical de James Fazy",
+   "resume": "La révolution radicale d'octobre 1846, conduite par James Fazy, renverse le régime de la Restauration, jugé trop timide face au Sonderbund. Les députés radicaux genevois votent à la Diète la dissolution du Sonderbund, et c'est un Genevois, Guillaume-Henri Dufour, qui commande l'armée fédérale. La Constitution du 24 mai 1847 accorde le droit de vote aux Suisses des autres cantons et l'égalité des confessions est proclamée la même année. Le régime favorise l'accueil des réfugiés des révolutions de 1848 et la démolition des fortifications.",
+   "sources": [
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 246,
+   "communes": 40,
+   "couleur": "#d4a017"
+  },
+  {
+   "id": "nidwald",
+   "nom": "Nidwald (Unterwald-le-Bas)",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton",
+   "chef_lieu": "Stans",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,9 % en 1850)",
+   "population": {
+    "valeur": 11339,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007411/"
+   },
+   "dirigeants": "Landsgemeinde à majorité conservatrice; quelques radicaux comme Kaspar Blättler accèdent aux charges après 1847",
+   "resume": "Hostile à la transformation de la Confédération en État fédéral, Nidwald adhère à la Ligue de Sarnen puis au Sonderbund. La défaite de 1847 ne fait pas taire les conservateurs, soutenus par un clergé influent qui dénonce la liberté de la presse et la liberté d'établissement. En 1848, la Landsgemeinde rejette nettement la Constitution fédérale, mais le canton se rallie à l'avis de la majorité. Le journal radical Nidwaldner Wochenblatt reparaît en 1848 grâce à la liberté de la presse garantie par la Constitution fédérale.",
+   "sources": [
+    {
+     "titre": "DHS, Nidwald",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007411/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    },
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    }
+   ],
+   "superficie_km2": 242,
+   "communes": 11,
+   "couleur": "#8f6a55"
+  },
+  {
+   "id": "zoug",
+   "nom": "Canton de Zoug",
+   "categorie": "canton",
+   "regime": "Démocratie représentative (Constitution radicale du 16 janvier 1848, Landsgemeinde supprimée)",
+   "chef_lieu": "Zoug",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99 % en 1850)",
+   "population": {
+    "valeur": 17461,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007373/"
+   },
+   "dirigeants": "Gouvernement radical issu de l'assemblée populaire du 5 décembre 1847",
+   "resume": "Membre du Sonderbund depuis 1845, Zoug y prône une attitude défensive et capitule sans combattre le 21 ou 22 novembre 1847. Le 5 décembre, une assemblée populaire radicale renverse le gouvernement conservateur. La Constitution du 16 janvier 1848 supprime la Landsgemeinde et place les écoles sous le contrôle du canton, avant que les conservateurs ne reprennent le pouvoir dès 1850. Zoug est alors le plus industrialisé des anciens cantons du Sonderbund.",
+   "sources": [
+    {
+     "titre": "DHS, Zoug (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007373/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 207,
+   "communes": 11,
+   "couleur": "#93c47d"
+  },
+  {
+   "id": "appenzell-rhodes-interieures",
+   "nom": "Appenzell Rhodes-Intérieures",
+   "categorie": "canton",
+   "regime": "Démocratie d'assemblée (Landsgemeinde), demi-canton",
+   "chef_lieu": "Appenzell",
+   "langues": "Allemand",
+   "religion": "Catholique quasi exclusive (99,6 % en 1850)",
+   "population": {
+    "valeur": 11272,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007475/"
+   },
+   "dirigeants": "Landsgemeinde, landamman et Grand Conseil (double Landrat)",
+   "resume": "Demi-canton catholique et conservateur, les Rhodes-Intérieures soutiennent sans réserve les cantons de Suisse centrale dans les années 1830 et 1840. Elles n'adhèrent pas au Sonderbund mais restent neutres pendant la guerre de 1847, ce qui leur vaut une amende de 15'000 francs. Elles rejettent nettement la Constitution fédérale de 1848, rédigée sans leur collaboration. La création du Conseil des États met fin au système qui alternait chaque année avec les Rhodes-Extérieures la désignation du délégué à la Diète.",
+   "sources": [
+    {
+     "titre": "DHS, Appenzell Rhodes-Intérieures",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007475/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    },
+    {
+     "titre": "DHS, Constitution fédérale",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009811/"
+    }
+   ],
+   "superficie_km2": 169,
+   "communes": 8,
+   "couleur": "#b49a3a"
+  },
+  {
+   "id": "bale-ville",
+   "nom": "Bâle-Ville",
+   "categorie": "canton",
+   "regime": "République représentative conservatrice, demi-canton (Constitution de 1847)",
+   "chef_lieu": "Bâle",
+   "langues": "Allemand",
+   "religion": "Réformée majoritaire (81 % de protestants en 1850), minorité catholique",
+   "population": {
+    "valeur": 29698,
+    "annee": 1850,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007478/"
+   },
+   "dirigeants": "Grand Conseil et Petit Conseil dominés par la classe dirigeante conservatrice",
+   "resume": "Né en 1833 de la division du canton de Bâle, le demi-canton se réduit à la ville et à quelques communes. Sa Constitution du 8 avril 1847 supprime les juges élus à vie mais protège les corporations contre la liberté d'industrie. Conservateur protestant, Bâle-Ville reste neutre dans la guerre du Sonderbund et propose une conférence de conciliation qui échoue. Il n'a qu'un siège au Conseil national en 1848, et les catholiques n'y sont admis à la bourgeoisie qu'à partir de cette année.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle-Ville",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007478/"
+    },
+    {
+     "titre": "DHS, Sonderbund",
+     "url": "https://hls-dhs-dss.ch/fr/articles/017241/"
+    }
+   ],
+   "superficie_km2": 37,
+   "communes": 4,
+   "couleur": "#5b8fc6"
+  }
+ ],
+ "superficie_totale_km2": 39969
+}
