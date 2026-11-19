@@ -1,0 +1,764 @@
+{
+ "date": 1798,
+ "titre": "La République helvétique une et indivisible",
+ "recit": "Après l'invasion française et la chute de l'ancienne Confédération au printemps 1798, la Constitution helvétique entre en vigueur le 12 avril 1798 et transforme la Suisse en un État unitaire sur le modèle du Directoire français. Les cantons ne sont plus que des circonscriptions administratives, dirigées chacune par un préfet national et une Chambre administrative, et il n'y a plus aucun pays sujet. Le commissaire Le Carlier ajoute les cantons d'Oberland et de Baden, puis son successeur Rapinat crée le 4 mai 1798 les cantons des Waldstätten, de la Linth et du Säntis, ce qui porte le total à dix-huit. La carte montre la situation de l'été 1798, vers la fin de juillet, lorsque les cantons de la Linth et du Säntis sont installés (17 et 21 juin) et que Dörflingen vient d'être attribué à Schaffhouse (24 juillet). Aarau sert alors de capitale avant Lucerne à partir de septembre. Autour de la République, Genève, Mulhouse, Bienne et tout l'ancien évêché de Bâle sont devenus français, Neuchâtel reste prussien, le Fricktal et Tarasp autrichiens. Les III Ligues grisonnes refusent l'adhésion en juillet 1798 et ne rejoindront la République qu'en avril 1799.",
+ "sources_recit": [
+  {
+   "titre": "DHS, République helvétique",
+   "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+  },
+  {
+   "titre": "DHS, Linth (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008632/"
+  },
+  {
+   "titre": "DHS, Säntis (canton)",
+   "url": "https://hls-dhs-dss.ch/fr/articles/008634/"
+  },
+  {
+   "titre": "DHS, Dörflingen",
+   "url": "https://hls-dhs-dss.ch/fr/articles/001268/"
+  },
+  {
+   "titre": "DHS, Grisons",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+  }
+ ],
+ "hors_carte": [
+  {
+   "nom": "Mulhouse",
+   "rattachement": "france",
+   "note": "ancien allié des Confédérés, réuni à la France par l'acte du 29 janvier 1798 (6018 habitants en 1798 selon le DHS), hors du fond de 1850"
+  },
+  {
+   "nom": "Nord de l'évêché de Bâle situé hors de Suisse et pays de Montbéliard",
+   "rattachement": "france",
+   "note": "partie du département du Mont-Terrible hors du fond de 1850"
+  },
+  {
+   "nom": "Valteline, Chiavenna et Bormio",
+   "rattachement": "republique-cisalpine",
+   "note": "anciens pays sujets des III Ligues, rattachés à la République cisalpine le 10 octobre 1797, hors du fond de 1850"
+  },
+  {
+   "nom": "Paroisses de Kadelburg, Lienheim et Hohentengen (rive droite du Rhin)",
+   "rattachement": "canton-baden",
+   "note": "dépendaient avant 1798 du comté de Baden. Selon le DHS, Kaiserstuhl fut coupé de ses territoires d'outre-Rhin en 1798, leur statut exact n'a pas été vérifié; hors du fond de 1850"
+  },
+  {
+   "nom": "Pays de Gex et Savoie (département du Léman)",
+   "rattachement": "france",
+   "note": "territoires français entourant Genève, hors du fond de 1850 sauf les communes réunies à Genève en 1815-1816, comptées dans la règle GE"
+  }
+ ],
+ "approximations": [
+  "Les communes genevoises de 1850 issues de la Savoie et du Pays de Gex sont attribuées à la France comme la ville de Genève; elles étaient françaises en 1798, mais à d'autres titres (département du Mont-Blanc ou de l'Ain), ce qui n'a pas été vérifié commune par commune.",
+  "La France est représentée par un seul territoire; le Jura et Bienne relèvent du département du Mont-Terrible, Genève du département du Léman créé en 1798.",
+  "Dans l'Amtsbezirk Biel, Bienne, Bözingen, Vingelz et Evilard (mairie de Bienne) sont comptés français; Mett et Madretsch, anciens villages du comté bernois de Nidau, sont laissés au canton de Berne. Le DHS dit seulement que Bienne et les communes environnantes formèrent un canton du Mont-Terrible.",
+  "Dans l'Amtsbezirk Thun, Thoune, Strättligen, Goldiwil, Sigriswil, Hilterfingen et Oberhofen sont attribués à l'Oberland (Sigriswil, Hilterfingen et Oberhofen sont confirmés par le DHS, Goldiwil et Strättligen déduits). Le reste du district (juridiction de Steffisbourg, district helvétique d'Oberseftigen autour d'Amsoldingen) est laissé à Berne; Höfen, Pohlern, Tannenbühl et Thungschneit n'ont pas été vérifiés individuellement.",
+  "Zwieselberg, ancien bailliage de Wimmis, est rattaché à l'Oberland par hypothèse (district de Niedersimmental).",
+  "Amtsbezirk Schwarzenburg (ancien bailliage commun de Berne et Fribourg) est laissé au canton de Berne sans confirmation explicite du DHS pour 1798.",
+  "Le canton du Léman est formé des districts vaudois de 1850 sauf Avenches et Payerne, attribués à Fribourg; les limites des districts helvétiques d'Avenches et de Payerne ne coïncident pas forcément avec celles de 1850 (Cudrefin est confirmé dans le district d'Avenches).",
+  "Bezirk Diessenhofen entier est attribué à Schaffhouse d'après la notice Diessenhofen du DHS (Schaffhouse en 1798, Thurgovie en 1800); toutes ses communes n'ont pas été vérifiées.",
+  "Bezirk Stein (Stein am Rhein, Hemishofen, Ramsen, Buch) est attribué à Schaffhouse selon la notice du canton de Schaffhouse; la notice de Stein am Rhein précise que la ville changea plusieurs fois de canton entre 1798 et 1802.",
+  "Rheinau, dépendant de son abbaye jusqu'en 1803, est laissé au canton de Zurich sans vérification de son rattachement en 1798.",
+  "Urdorf, Weiningen, Geroldswil et les Engstringen sont laissés à Zurich (Weiningen est confirmé dans le district helvétique zurichois de Regensdorf); seuls Dietikon, Schlieren, Oetwil an der Limmat et Hüttikon sont attestés dans le canton de Baden.",
+  "A Saint-Gall, la limite entre Linth et Säntis dans le Toggenbourg suit la ligne Hemberg-Hummelwald; tout le Bezirk Neutoggenburg (dont Hemberg et Wattwil, situés près de cette ligne) est donné au Säntis et tout l'Obertoggenburg à la Linth.",
+  "Dans le Rheintal, seule Rüthi est attribuée à la Linth; Lienz, mentionné par le DHS avec Rüthi, n'est pas une commune de 1850 et reste compris dans Altstätten (Säntis).",
+  "Dans le Bezirk Laufenburg, Unterleibstadt, dont l'appartenance au Fricktal ou au comté de Baden était controversée, est compté autrichien avec tout le district.",
+  "La seigneurie de Rhäzüns (autrichienne mais membre de la Ligue grise) est incluse dans les Grisons.",
+  "Le canton de Baden comprend les districts argoviens de Baden, Zurzach, Bremgarten et Muri de 1850, moins le bailliage lucernois de Merenschwand (Merenschwand et Benzenschwil, restés lucernois)."
+ ],
+ "confiance": "Sont sûrs d'après le DHS la liste des dix-huit cantons et leurs chefs-lieux, la composition des cantons créés en 1798 (Oberland, Baden, Waldstätten, Linth, Säntis, Bellinzone, Lugano, Léman), les dates d'annexion de Genève, Mulhouse, Bienne et du sud de l'évêché, le statut de Neuchâtel, du Fricktal, de Tarasp et des Grisons, ainsi que les cas de Hitzkirch, Merenschwand, Dietikon, Schlieren, Hüttikon, Dörflingen, Ramsen et Diessenhofen. Sont moins sûrs le partage exact du district de Thoune, la limite Linth-Säntis dans le Toggenbourg, la frontière de Bienne et quelques communes isolées (Rheinau, Schwarzenburg, Urdorf). Les noms des préfets ne sont donnés que lorsque le DHS les cite.",
+ "territoires": [
+  {
+   "id": "grisons",
+   "nom": "République des III Ligues (Grisons)",
+   "categorie": "autre",
+   "regime": "République des III Ligues, fédération de juridictions souveraines, hors de la République helvétique",
+   "chef_lieu": "Coire",
+   "langues": "Romanche, allemand, italien",
+   "religion": "Réformée et catholique",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Les III Ligues, pays allié de l'ancienne Confédération, ont perdu la Valteline, Chiavenna et Bormio en octobre 1797. En juillet 1798, les juridictions refusent clairement d'adhérer à la République helvétique. Le pays, déchiré entre patriotes et parti autrichien, sera occupé tour à tour par les Français et les Autrichiens. Il ne sera rattaché à la République helvétique que le 21 avril 1799, sous le nom de canton de Rhétie.",
+   "sources": [
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    },
+    {
+     "titre": "DHS, Rhäzüns (seigneurie)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008080/"
+    }
+   ],
+   "superficie_km2": 7040,
+   "communes": 230,
+   "couleur": "#c993bd"
+  },
+  {
+   "id": "valais",
+   "nom": "Canton du Valais",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Sion",
+   "langues": "Français, allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Préfet national et Chambre administrative",
+   "resume": "Après l'émancipation du Bas-Valais au début de 1798, une éphémère République valaisanne de dix dizains est intégrée à la République helvétique en avril 1798 sous la pression française. Le canton réunit pour la première fois sur un pied d'égalité le Haut-Valais et les anciens pays sujets. Il quittera la République en 1802 pour devenir une république indépendante.",
+   "sources": [
+    {
+     "titre": "DHS, Valais",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007396/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ],
+   "superficie_km2": 5223,
+   "communes": 168,
+   "couleur": "#e07a5f"
+  },
+  {
+   "id": "canton-oberland",
+   "nom": "Canton d'Oberland",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Thoune",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Préfet national Samuel Joneli",
+   "resume": "Créé le 28 mars 1798 par le commissaire français Le Carlier pour démanteler la puissance bernoise, le canton d'Oberland réunit les vallées alpines bernoises. Il compte dix districts (Saanen, Obersimmental, Niedersimmental, Frutigen, Aeschi, Thoune, Unterseen, Interlaken, Brienz et Oberhasli) et a Thoune pour chef-lieu. L'ancien bailliage de Thoune a été partagé, sa partie occidentale et Steffisbourg restant au canton de Berne. Le canton sera réuni à Berne en 1803.",
+   "sources": [
+    {
+     "titre": "DHS, Oberland",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008633/"
+    },
+    {
+     "titre": "DHS, Thoune (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000541/"
+    },
+    {
+     "titre": "DHS, Sigriswil",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000537/"
+    }
+   ],
+   "superficie_km2": 2674,
+   "communes": 61,
+   "couleur": "#ef9a8e"
+  },
+  {
+   "id": "leman",
+   "nom": "Canton du Léman",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Lausanne",
+   "langues": "Français",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Préfet national, Chambre administrative et tribunal siégeant à Lausanne",
+   "resume": "Le Pays de Vaud, détaché de Berne après la révolution de janvier 1798, forme le canton du Léman, l'une des circonscriptions de l'État unitaire. Il comprend aussi les anciens bailliages communs d'Orbe-Echallens et de Grandson, mais pas les districts d'Avenches et de Payerne, attribués à Fribourg. Le canton est divisé en dix-sept districts dirigés par des sous-préfets.",
+   "sources": [
+    {
+     "titre": "DHS, Léman (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008631/"
+    },
+    {
+     "titre": "DHS, Château-d'Œx",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002593/"
+    },
+    {
+     "titre": "DHS, Echallens (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/002361/"
+    }
+   ],
+   "superficie_km2": 2648,
+   "communes": 356,
+   "couleur": "#6f9f5f"
+  },
+  {
+   "id": "canton-waldstatten",
+   "nom": "Canton des Waldstätten",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Schwytz",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": {
+    "valeur": 67558,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/008639/"
+   },
+   "dirigeants": "Préfet national Melchior Joseph Alois von Matt, de Stans",
+   "resume": "Formé en mai et juin 1798 sur ordre du commissaire français Rapinat, ce canton fusionne les cantons primitifs vaincus (Uri avec l'Urseren, Schwytz sans la Marche ni les Höfe, Obwald, Nidwald avec Engelberg) et Zoug. Le but est d'affaiblir au Parlement la voix des adversaires du régime. Il compte huit districts et a Schwytz pour chef-lieu jusqu'en mai 1799. Il deviendra le principal foyer d'opposition, avec le soulèvement de Nidwald réprimé en septembre 1798.",
+   "sources": [
+    {
+     "titre": "DHS, Waldstätten (République helvétique)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008639/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ],
+   "superficie_km2": 2624,
+   "communes": 65,
+   "couleur": "#c9a36b"
+  },
+  {
+   "id": "berne",
+   "nom": "Canton de Berne",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Berne",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Préfet national et Chambre administrative",
+   "resume": "L'ancienne République patricienne, vaincue par la France en mars 1798, est réduite à son noyau du Plateau. Elle a perdu le Pays de Vaud (canton du Léman), l'Argovie bernoise (canton d'Argovie) et l'Oberland, érigé en canton distinct avec Thoune pour chef-lieu. Le canton helvétique de Berne garde le Mittelland, l'Emmental, la Haute-Argovie et le Seeland, avec les districts de Steffisbourg et d'Oberseftigen aux portes de Thoune.",
+   "sources": [
+    {
+     "titre": "DHS, Berne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007383/"
+    },
+    {
+     "titre": "DHS, Oberland",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008633/"
+    },
+    {
+     "titre": "DHS, Steffisbourg",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000538/"
+    }
+   ],
+   "superficie_km2": 2590,
+   "communes": 306,
+   "couleur": "#d8574f"
+  },
+  {
+   "id": "canton-linth",
+   "nom": "Canton de la Linth",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Glaris",
+   "langues": "Allemand",
+   "religion": "Catholique en majorité, réformée à Glaris, Werdenberg et dans le Haut-Toggenbourg",
+   "population": {
+    "valeur": 78000,
+    "annee": null,
+    "source": "https://hls-dhs-dss.ch/fr/articles/008632/",
+    "note": "chiffre donné par le DHS pour la période helvétique, sans année précise"
+   },
+   "dirigeants": "Préfet national Joachim Heer (1798), puis Johann Jakob Heussi",
+   "resume": "Créé le 4 mai 1798, ce canton réunit Glaris, Rapperswil, le Rheintal au sud du Hirschensprung, Sax, Gams, Werdenberg, Sargans, le Gaster, Uznach, le Haut-Toggenbourg, la Marche et les Höfe. Son organisation entre en vigueur le 17 juin 1798. Il compte sept districts (Werdenberg, Mels, Neu Sankt Johann, Glaris, Schwanden, Schänis et Rapperswil). La population, majoritairement catholique, reste hostile à l'État central.",
+   "sources": [
+    {
+     "titre": "DHS, Linth (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008632/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ],
+   "superficie_km2": 2098,
+   "communes": 74,
+   "couleur": "#5b9a4b"
+  },
+  {
+   "id": "france",
+   "nom": "République française",
+   "categorie": "etranger",
+   "regime": "République française (régime du Directoire), départements du Mont-Terrible et du Léman",
+   "chef_lieu": "Paris",
+   "langues": "Français, allemand",
+   "religion": "Catholique et réformée",
+   "population": null,
+   "dirigeants": "Directoire exécutif français",
+   "resume": "Plusieurs anciens alliés de la Confédération sont devenus français. Le nord de l'évêché de Bâle forme depuis 1793 le département du Mont-Terrible, auquel la France a ajouté le sud de l'évêché (Erguël, prévôté de Moutier, Montagne de Diesse, La Neuveville) occupé en décembre 1797, puis Bienne, occupée le 6 février 1798. Mulhouse a signé son acte de réunion le 29 janvier 1798. Genève, occupée le 15 avril 1798, est annexée par le traité de réunion du 26 avril 1798 et devient le chef-lieu du département du Léman.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (évêché)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008558/"
+    },
+    {
+     "titre": "DHS, Mont-Terrible",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008642/"
+    },
+    {
+     "titre": "DHS, Bienne (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000222/"
+    },
+    {
+     "titre": "DHS, Erguël",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008439/"
+    },
+    {
+     "titre": "DHS, Diesse, Montagne de",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008502/"
+    },
+    {
+     "titre": "DHS, Neuveville, La (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000431/"
+    },
+    {
+     "titre": "DHS, Genève (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007398/"
+    },
+    {
+     "titre": "DHS, Mulhouse",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007089/"
+    }
+   ],
+   "superficie_km2": 1792,
+   "communes": 201,
+   "couleur": "#9aa0a6"
+  },
+  {
+   "id": "fribourg",
+   "nom": "Canton de Fribourg",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Fribourg",
+   "langues": "Français, allemand",
+   "religion": "Catholique (réformée dans l'ancien bailliage de Morat et dans la Broye vaudoise)",
+   "population": null,
+   "dirigeants": "Préfet national et Chambre administrative",
+   "resume": "Occupé par les Français en mars 1798, Fribourg devient un canton helvétique et fournit au nouveau régime plusieurs magistrats de premier plan. Il absorbe l'ancien bailliage commun de Morat et reçoit les districts vaudois d'Avenches et de Payerne, qui ne reviendront au canton du Léman qu'en 1801-1802.",
+   "sources": [
+    {
+     "titre": "DHS, Fribourg (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007379/"
+    },
+    {
+     "titre": "DHS, Morat (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001014/"
+    },
+    {
+     "titre": "DHS, Léman (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008631/"
+    }
+   ],
+   "superficie_km2": 1754,
+   "communes": 319,
+   "couleur": "#3f8a86"
+  },
+  {
+   "id": "zurich",
+   "nom": "Canton de Zurich",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Zurich",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Préfet national (nom non relevé dans le DHS consulté) et Chambre administrative",
+   "resume": "L'ancienne ville-État a reconnu l'égalité entre ville et campagne le 5 février 1798, puis a été occupée par les troupes françaises le 27 avril. Devenu canton de la République helvétique, Zurich est divisé en quinze districts et administré par un préfet national. Il a perdu au profit du canton de Baden quelques villages du Limmattal (Dietikon, Schlieren, Oetwil an der Limmat, Hüttikon) et a cédé Stein am Rhein, Ramsen, Hemishofen et Dörflingen à Schaffhouse, recevant en échange Ellikon am Rhein.",
+   "sources": [
+    {
+     "titre": "DHS, Zurich (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007381/"
+    },
+    {
+     "titre": "DHS, Baden (comté, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008296/"
+    },
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    }
+   ],
+   "superficie_km2": 1640,
+   "communes": 192,
+   "couleur": "#4e79a7"
+  },
+  {
+   "id": "canton-lugano",
+   "nom": "Canton de Lugano",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Lugano",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Préfet national Giacomo Buonvicini",
+   "resume": "Créé le 14 avril 1798 en même temps que celui de Bellinzone, ce canton réunit les anciens bailliages de Lugano, Locarno, Mendrisio et du val Maggia. Il est dirigé par une Chambre administrative et un préfet nommé par le Directoire. La vie politique y est marquée par l'opposition entre partisans de la République cisalpine et traditionalistes, et par l'occupation française.",
+   "sources": [
+    {
+     "titre": "DHS, Lugano (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008637/"
+    }
+   ],
+   "superficie_km2": 1541,
+   "communes": 196,
+   "couleur": "#b07a64"
+  },
+  {
+   "id": "lucerne",
+   "nom": "Canton de Lucerne",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Lucerne",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Préfet national et Chambre administrative",
+   "resume": "L'ancienne république patricienne devient un canton de la République helvétique. Lucerne garde son bailliage de Merenschwand, au bord de la Reuss, qui ne passera à l'Argovie qu'en 1803. En revanche, le bailliage de Hitzkirch, qui faisait partie des Freie Ämter, appartient au canton de Baden. La ville de Lucerne deviendra capitale de la République de septembre 1798 à mai 1799.",
+   "sources": [
+    {
+     "titre": "DHS, Lucerne (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007382/"
+    },
+    {
+     "titre": "DHS, Merenschwand",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001789/"
+    },
+    {
+     "titre": "DHS, Benzenschwil",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001780/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ],
+   "superficie_km2": 1398,
+   "communes": 99,
+   "couleur": "#59a6a0"
+  },
+  {
+   "id": "canton-bellinzone",
+   "nom": "Canton de Bellinzone",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Bellinzone",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Préfet national Giuseppe Antonio Rusconi",
+   "resume": "Circonscription créée le 14 avril 1798, elle réunit les anciens bailliages de Bellinzone, de la Léventine, de la Riviera et de Blenio. Une fusion avec le canton de Lugano, votée quelques jours plus tard, est aussitôt annulée. Le canton envoie deux sénateurs et huit députés au Parlement helvétique, mais la population se montre largement hostile aux nouveautés.",
+   "sources": [
+    {
+     "titre": "DHS, Bellinzone (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008636/"
+    }
+   ],
+   "superficie_km2": 1219,
+   "communes": 67,
+   "couleur": "#d9a38c"
+  },
+  {
+   "id": "canton-santis",
+   "nom": "Canton du Säntis",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Saint-Gall",
+   "langues": "Allemand",
+   "religion": "Catholique et réformée",
+   "population": {
+    "valeur": 140000,
+    "annee": null,
+    "source": "https://hls-dhs-dss.ch/fr/articles/008634/",
+    "note": "chiffre donné par le DHS pour la période helvétique, sans année précise"
+   },
+   "dirigeants": "Préfet national Johann Kaspar Bolt",
+   "resume": "Créé le 4 mai 1798, ce canton réunit l'Alte Landschaft de l'abbaye de Saint-Gall, le bas Toggenbourg, la ville de Saint-Gall, les deux Rhodes d'Appenzell et le Rheintal au nord du Hirschensprung. Son administration entre en fonction le 21 juin 1798. Il compte treize districts et a Saint-Gall pour chef-lieu. L'adhésion à la Constitution s'est faite à contrecœur dans une partie des communes et des landsgemeinde.",
+   "sources": [
+    {
+     "titre": "DHS, Säntis (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008634/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ],
+   "superficie_km2": 1163,
+   "communes": 83,
+   "couleur": "#e9c75e"
+  },
+  {
+   "id": "thurgovie",
+   "nom": "Canton de Thurgovie",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Frauenfeld",
+   "langues": "Allemand",
+   "religion": "Réformée et catholique",
+   "population": null,
+   "dirigeants": "Préfet national Gonzenbach, de Hauptwil",
+   "resume": "L'ancien bailliage commun, libéré dès l'assemblée de Weinfelden du 1er février 1798, accepte sans grande opposition la Constitution du 12 avril. Les Conseils helvétiques font de Frauenfeld le chef-lieu d'un canton de sept districts (Arbon, Bischofszell, Frauenfeld, Gottlieben, Steckborn, Tobel et Weinfelden). Le district de Diessenhofen ne s'y ajoutera qu'en 1800.",
+   "sources": [
+    {
+     "titre": "DHS, Thurgovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007393/"
+    },
+    {
+     "titre": "DHS, Arbon",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001852/"
+    }
+   ],
+   "superficie_km2": 821,
+   "communes": 207,
+   "couleur": "#a89f9a"
+  },
+  {
+   "id": "soleure",
+   "nom": "Canton de Soleure",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Soleure",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Préfet national et Chambre administrative",
+   "resume": "Soleure capitule devant les Français au début de mars 1798. Le général Schauenburg y installe un gouvernement provisoire qui, après l'adoption de la Constitution helvétique, remet le pouvoir à la Chambre administrative et au préfet national. Le territoire cantonal reste celui de l'ancienne république.",
+   "sources": [
+    {
+     "titre": "DHS, Soleure (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007386/"
+    }
+   ],
+   "superficie_km2": 791,
+   "communes": 132,
+   "couleur": "#ea8a32"
+  },
+  {
+   "id": "neuchatel",
+   "nom": "Principauté de Neuchâtel",
+   "categorie": "autre",
+   "regime": "Principauté en union personnelle avec le royaume de Prusse",
+   "chef_lieu": "Neuchâtel",
+   "langues": "Français",
+   "religion": "Réformée (catholique au Landeron et à Cressier)",
+   "population": null,
+   "dirigeants": "Frédéric-Guillaume III, roi de Prusse et prince de Neuchâtel (1797-1806)",
+   "resume": "Ancien pays allié des Confédérés, la principauté appartient à la maison royale de Prusse depuis 1707. Elle n'est jamais entrée dans la République helvétique et traverse la période révolutionnaire sous l'autorité de son prince.",
+   "sources": [
+    {
+     "titre": "DHS, Neuchâtel (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007397/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ],
+   "superficie_km2": 713,
+   "communes": 73,
+   "couleur": "#8e7cc3"
+  },
+  {
+   "id": "argovie",
+   "nom": "Canton d'Argovie",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Aarau",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Préfet national et Chambre administrative",
+   "resume": "L'Argovie bernoise, dite Basse-Argovie, se libère de Berne au printemps 1798 et forme un canton de cinq districts (Aarau, Brugg, Kulm, Lenzbourg et Zofingue). Aarau en est le chef-lieu et sert de capitale à la République helvétique jusqu'en septembre 1798. Le comté de Baden et les Freie Ämter forment un canton distinct, et le Fricktal reste autrichien.",
+   "sources": [
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    },
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    }
+   ],
+   "superficie_km2": 591,
+   "communes": 108,
+   "couleur": "#f2a7bf"
+  },
+  {
+   "id": "canton-baden",
+   "nom": "Canton de Baden",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Baden",
+   "langues": "Allemand",
+   "religion": "Catholique (minorités réformées et juives)",
+   "population": {
+    "valeur": 45982,
+    "annee": 1799,
+    "source": "https://hls-dhs-dss.ch/fr/articles/008635/",
+    "note": "sans la population juive"
+   },
+   "dirigeants": "Préfet national et Chambre administrative",
+   "resume": "Créé le 11 avril 1798 par le commissaire français Le Carlier, ce canton réunit l'ancien comté de Baden, les Freie Ämter et le Kelleramt, anciens bailliages communs. Il compte cinq districts (Baden, Zurzach, Bremgarten, Muri et Sarmenstorf). Catholique et conservateur, financièrement faible, il comprend aussi des villages du Limmattal aujourd'hui zurichois et le bailliage de Hitzkirch, aujourd'hui lucernois. Il sera fondu dans l'Argovie en 1803.",
+   "sources": [
+    {
+     "titre": "DHS, Baden (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008635/"
+    },
+    {
+     "titre": "DHS, Baden (comté, district)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008296/"
+    },
+    {
+     "titre": "DHS, Freie Ämter",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008298/"
+    },
+    {
+     "titre": "DHS, Kelleramt",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008509/"
+    },
+    {
+     "titre": "DHS, Hitzkirch (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/000601/"
+    }
+   ],
+   "superficie_km2": 588,
+   "communes": 115,
+   "couleur": "#c47fa5"
+  },
+  {
+   "id": "bale",
+   "nom": "Canton de Bâle",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Bâle",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": null,
+   "dirigeants": "Préfet national, sous-préfets dans les districts et agents nationaux dans les communes",
+   "resume": "Bâle a été la première ville touchée par la révolution en janvier 1798 et a reconnu l'égalité de la campagne. Le canton helvétique compte quatre districts (Bâle avec onze communes, Liestal, Gelterkinden et Waldenburg). L'ancien bailliage épiscopal de Birseck, autour d'Arlesheim, reste français depuis 1793.",
+   "sources": [
+    {
+     "titre": "DHS, Bâle (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007387/"
+    },
+    {
+     "titre": "DHS, Birseck (bailliage)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007560/"
+    }
+   ],
+   "superficie_km2": 407,
+   "communes": 69,
+   "couleur": "#7fb2dc"
+  },
+  {
+   "id": "schaffhouse",
+   "nom": "Canton de Schaffhouse",
+   "categorie": "canton",
+   "regime": "Canton de la République helvétique une et indivisible, simple circonscription administrative dirigée par un préfet national et une Chambre administrative de cinq membres",
+   "chef_lieu": "Schaffhouse",
+   "langues": "Allemand",
+   "religion": "Réformée",
+   "population": {
+    "valeur": 24889,
+    "annee": 1798,
+    "source": "https://hls-dhs-dss.ch/fr/articles/007388/",
+    "note": "population sur le territoire du canton actuel"
+   },
+   "dirigeants": "Préfet national",
+   "resume": "Après le congrès de Neunkirch de février 1798, la ville accepte l'égalité avec la campagne, puis la France impose la Constitution helvétique le 2 avril. En 1798, le canton reçoit Stein am Rhein avec Hemishofen et Ramsen, et Dörflingen en échange d'Ellikon am Rhein (décret du 24 juillet 1798). Le district de Diessenhofen, ancien bailliage commun de Thurgovie, lui est aussi attribué en 1798 avant de passer à la Thurgovie en 1800.",
+   "sources": [
+    {
+     "titre": "DHS, Schaffhouse (canton)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007388/"
+    },
+    {
+     "titre": "DHS, Dörflingen",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001268/"
+    },
+    {
+     "titre": "DHS, Ramsen",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001287/"
+    },
+    {
+     "titre": "DHS, Diessenhofen",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001891/"
+    },
+    {
+     "titre": "DHS, Stein am Rhein (commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001288/"
+    }
+   ],
+   "superficie_km2": 339,
+   "communes": 42,
+   "couleur": "#f0b26e"
+  },
+  {
+   "id": "fricktal",
+   "nom": "Fricktal autrichien",
+   "categorie": "etranger",
+   "regime": "Territoire de l'Autriche antérieure, promis à la France par le traité de Campoformio",
+   "chef_lieu": "Rheinfelden",
+   "langues": "Allemand",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Maison d'Autriche",
+   "resume": "Le Fricktal, avec les seigneuries de Rheinfelden et de Laufenburg, appartient aux Habsbourg depuis le Moyen Age. Cédé à la France par le traité de Campoformio en 1797, il reste en fait autrichien jusqu'au traité de Lunéville en 1801. Il formera un canton éphémère en 1802 avant d'être rattaché à l'Argovie en 1803.",
+   "sources": [
+    {
+     "titre": "DHS, Fricktal",
+     "url": "https://hls-dhs-dss.ch/fr/articles/008297/"
+    },
+    {
+     "titre": "DHS, Argovie",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007392/"
+    }
+   ],
+   "superficie_km2": 266,
+   "communes": 38,
+   "couleur": "#8a8178"
+  },
+  {
+   "id": "tarasp",
+   "nom": "Seigneurie de Tarasp",
+   "categorie": "etranger",
+   "regime": "Seigneurie appartenant à l'Autriche",
+   "chef_lieu": "Tarasp",
+   "langues": "Romanche",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": "Maison d'Autriche",
+   "resume": "Enclave catholique de Basse-Engadine, la seigneurie de Tarasp appartient à l'Autriche depuis 1464. Elle ne sera cédée à la République helvétique qu'en 1803, par le recès de la Diète impériale de Ratisbonne.",
+   "sources": [
+    {
+     "titre": "DHS, Tarasp (seigneurie, commune)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/001524/"
+    }
+   ],
+   "superficie_km2": 47,
+   "communes": 1,
+   "couleur": "#a39383"
+  },
+  {
+   "id": "republique-cisalpine",
+   "nom": "République cisalpine",
+   "categorie": "etranger",
+   "regime": "République sœur de la France",
+   "chef_lieu": "Milan",
+   "langues": "Italien",
+   "religion": "Catholique",
+   "population": null,
+   "dirigeants": null,
+   "resume": "Le 10 octobre 1797, la France a imposé le rattachement de la Valteline, de Chiavenna et de Bormio, anciens pays sujets des III Ligues, à la République cisalpine.",
+   "sources": [
+    {
+     "titre": "DHS, République helvétique",
+     "url": "https://hls-dhs-dss.ch/fr/articles/009797/"
+    },
+    {
+     "titre": "DHS, Grisons",
+     "url": "https://hls-dhs-dss.ch/fr/articles/007391/"
+    }
+   ],
+   "superficie_km2": null,
+   "communes": 0,
+   "couleur": "#b0a89f"
+  }
+ ],
+ "superficie_totale_km2": 39969
+}

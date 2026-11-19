@@ -311,8 +311,10 @@
     fait("Langues", t.langues);
     fait("Religion", t.religion);
     if (t.population && t.population.valeur) {
-      var pop = el("span", { texte: nombre.format(t.population.valeur) + " hab. (" + t.population.annee + ")" });
-      fait("Population", pop);
+      var texte = nombre.format(t.population.valeur) + " hab." +
+        (t.population.annee ? " (" + t.population.annee + ")" : " (vers " + etat.date + ", année non précisée)");
+      if (t.population.note) texte += ". " + t.population.note.charAt(0).toUpperCase() + t.population.note.slice(1);
+      fait("Population", texte);
     } else {
       fait("Population", "Non documentée pour cette date");
     }

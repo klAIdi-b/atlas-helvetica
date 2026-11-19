@@ -786,5 +786,234 @@
    "couleur": "#5b8fc6"
   }
  ],
- "superficie_totale_km2": 39969
+ "superficie_totale_km2": 39969,
+ "changements": {
+  "depuis": 1798,
+  "liste": [
+   {
+    "de": "canton-oberland",
+    "de_nom": "Canton d'Oberland",
+    "vers": "berne",
+    "vers_nom": "Canton de Berne",
+    "communes": 61,
+    "superficie_km2": 2674
+   },
+   {
+    "de": "leman",
+    "de_nom": "Canton du Léman",
+    "vers": "vaud",
+    "vers_nom": "Canton de Vaud",
+    "communes": 356,
+    "superficie_km2": 2648
+   },
+   {
+    "de": "canton-lugano",
+    "de_nom": "Canton de Lugano",
+    "vers": "tessin",
+    "vers_nom": "Canton du Tessin",
+    "communes": 196,
+    "superficie_km2": 1541
+   },
+   {
+    "de": "france",
+    "de_nom": "République française",
+    "vers": "berne",
+    "vers_nom": "Canton de Berne",
+    "communes": 152,
+    "superficie_km2": 1488
+   },
+   {
+    "de": "canton-bellinzone",
+    "de_nom": "Canton de Bellinzone",
+    "vers": "tessin",
+    "vers_nom": "Canton du Tessin",
+    "communes": 67,
+    "superficie_km2": 1219
+   },
+   {
+    "de": "canton-linth",
+    "de_nom": "Canton de la Linth",
+    "vers": "saint-gall",
+    "vers_nom": "Canton de Saint-Gall",
+    "communes": 37,
+    "superficie_km2": 1203
+   },
+   {
+    "de": "canton-waldstatten",
+    "de_nom": "Canton des Waldstätten",
+    "vers": "uri",
+    "vers_nom": "Canton d'Uri",
+    "communes": 19,
+    "superficie_km2": 1058
+   },
+   {
+    "de": "canton-santis",
+    "de_nom": "Canton du Säntis",
+    "vers": "saint-gall",
+    "vers_nom": "Canton de Saint-Gall",
+    "communes": 55,
+    "superficie_km2": 747
+   },
+   {
+    "de": "canton-linth",
+    "de_nom": "Canton de la Linth",
+    "vers": "glaris",
+    "vers_nom": "Canton de Glaris",
+    "communes": 25,
+    "superficie_km2": 681
+   },
+   {
+    "de": "canton-waldstatten",
+    "de_nom": "Canton des Waldstätten",
+    "vers": "schwyz",
+    "vers_nom": "Canton de Schwytz",
+    "communes": 17,
+    "superficie_km2": 637
+   },
+   {
+    "de": "canton-baden",
+    "de_nom": "Canton de Baden",
+    "vers": "argovie",
+    "vers_nom": "Canton d'Argovie",
+    "communes": 98,
+    "superficie_km2": 524
+   },
+   {
+    "de": "canton-waldstatten",
+    "de_nom": "Canton des Waldstätten",
+    "vers": "obwald",
+    "vers_nom": "Obwald (Unterwald-le-Haut)",
+    "communes": 7,
+    "superficie_km2": 481
+   },
+   {
+    "de": "bale",
+    "de_nom": "Canton de Bâle",
+    "vers": "bale-campagne",
+    "vers_nom": "Bâle-Campagne",
+    "communes": 65,
+    "superficie_km2": 370
+   },
+   {
+    "de": "fricktal",
+    "de_nom": "Fricktal autrichien",
+    "vers": "argovie",
+    "vers_nom": "Canton d'Argovie",
+    "communes": 38,
+    "superficie_km2": 266
+   },
+   {
+    "de": "canton-santis",
+    "de_nom": "Canton du Säntis",
+    "vers": "appenzell-rhodes-exterieures",
+    "vers_nom": "Appenzell Rhodes-Extérieures",
+    "communes": 20,
+    "superficie_km2": 246
+   },
+   {
+    "de": "france",
+    "de_nom": "République française",
+    "vers": "geneve",
+    "vers_nom": "République et canton de Genève",
+    "communes": 40,
+    "superficie_km2": 246
+   },
+   {
+    "de": "canton-waldstatten",
+    "de_nom": "Canton des Waldstätten",
+    "vers": "nidwald",
+    "vers_nom": "Nidwald (Unterwald-le-Bas)",
+    "communes": 11,
+    "superficie_km2": 242
+   },
+   {
+    "de": "canton-linth",
+    "de_nom": "Canton de la Linth",
+    "vers": "schwyz",
+    "vers_nom": "Canton de Schwytz",
+    "communes": 12,
+    "superficie_km2": 214
+   },
+   {
+    "de": "canton-waldstatten",
+    "de_nom": "Canton des Waldstätten",
+    "vers": "zoug",
+    "vers_nom": "Canton de Zoug",
+    "communes": 11,
+    "superficie_km2": 207
+   },
+   {
+    "de": "canton-santis",
+    "de_nom": "Canton du Säntis",
+    "vers": "appenzell-rhodes-interieures",
+    "vers_nom": "Appenzell Rhodes-Intérieures",
+    "communes": 8,
+    "superficie_km2": 169
+   },
+   {
+    "de": "fribourg",
+    "de_nom": "Canton de Fribourg",
+    "vers": "vaud",
+    "vers_nom": "Canton de Vaud",
+    "communes": 33,
+    "superficie_km2": 160
+   },
+   {
+    "de": "france",
+    "de_nom": "République française",
+    "vers": "bale-campagne",
+    "vers_nom": "Bâle-Campagne",
+    "communes": 9,
+    "superficie_km2": 58
+   },
+   {
+    "de": "tarasp",
+    "de_nom": "Seigneurie de Tarasp",
+    "vers": "grisons",
+    "vers_nom": "Canton des Grisons",
+    "communes": 1,
+    "superficie_km2": 47
+   },
+   {
+    "de": "canton-baden",
+    "de_nom": "Canton de Baden",
+    "vers": "lucerne",
+    "vers_nom": "Canton de Lucerne",
+    "communes": 13,
+    "superficie_km2": 44
+   },
+   {
+    "de": "schaffhouse",
+    "de_nom": "Canton de Schaffhouse",
+    "vers": "thurgovie",
+    "vers_nom": "Canton de Thurgovie",
+    "communes": 6,
+    "superficie_km2": 41
+   },
+   {
+    "de": "bale",
+    "de_nom": "Canton de Bâle",
+    "vers": "bale-ville",
+    "vers_nom": "Bâle-Ville",
+    "communes": 4,
+    "superficie_km2": 37
+   },
+   {
+    "de": "canton-baden",
+    "de_nom": "Canton de Baden",
+    "vers": "zurich",
+    "vers_nom": "Canton de Zurich",
+    "communes": 4,
+    "superficie_km2": 20
+   },
+   {
+    "de": "lucerne",
+    "de_nom": "Canton de Lucerne",
+    "vers": "argovie",
+    "vers_nom": "Canton d'Argovie",
+    "communes": 2,
+    "superficie_km2": 14
+   }
+  ]
+ }
 }
