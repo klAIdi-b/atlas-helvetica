@@ -8,7 +8,7 @@
    selon les règles (commune > district > canton), vérifie la couverture,
    fusionne les communes par territoire et écrit la carte de la date.
 4. Calcule superficies, nombre de communes et changements entre dates.
-5. Écrit site/data/*.json et copie Leaflet dans site/vendor/.
+5. Écrit docs/data/*.json et copie Leaflet dans docs/vendor/.
 
 Usage: python3 scripts/build.py   (depuis la racine du dépôt)
 """
@@ -27,7 +27,7 @@ import geopandas as gpd
 RACINE = Path(__file__).resolve().parent.parent
 CACHE = RACINE / ".cache"
 SRC = RACINE / "data-src"
-SITE = RACINE / "site"
+SITE = RACINE / "docs"
 SORTIE = SITE / "data"
 MAPSHAPER = RACINE / "node_modules" / ".bin" / "mapshaper"
 

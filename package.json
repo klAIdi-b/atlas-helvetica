@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "build": "python3 scripts/build.py",
-    "serve": "python3 -m http.server 8000 --directory site"
+    "serve": "python3 -m http.server 8000 --directory docs"
   },
   "devDependencies": {
     "leaflet": "1.9.4",

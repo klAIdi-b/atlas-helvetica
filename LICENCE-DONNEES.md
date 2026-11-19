@@ -2,7 +2,7 @@
 
 Le code de ce dépôt est publié sous licence MIT (voir `LICENSE`).
 
-Les données historiques et les textes (dossiers `data-src/` et `site/data/`) sont publiés sous licence
+Les données historiques et les textes (dossiers `data-src/` et `docs/data/`) sont publiés sous licence
 [Creative Commons Attribution, Partage dans les mêmes conditions 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 
 Ce choix découle des sources utilisées.

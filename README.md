@@ -1,5 +1,7 @@
 # Atlas Helvetica
 
+
+Site en ligne : https://klaidi-b.github.io/atlas-helvetica/
 Atlas historique interactif de la Suisse. Pour chaque date clé, de l'alliance de 1291 à l'État fédéral de 1848,
 la carte montre qui gouvernait chaque région : cantons, pays alliés, bailliages communs et puissances étrangères.
 Chaque territoire a sa fiche (régime, chef-lieu, langues, religion, population, sources).
@@ -19,7 +21,7 @@ en réunissant leurs communes. C'est une approximation au niveau local, signalé
 | `data-src/chronologie.json` | Liste des dates clés prévues |
 | `data-src/couleurs.json` | Couleur de chaque territoire |
 | `scripts/build.py` | Construit les cartes et les données du site à partir de `data-src/` |
-| `site/` | Le site statique publié (HTML, CSS, JavaScript, données générées) |
+| `docs/` | Le site statique publié sur GitHub Pages (HTML, CSS, JavaScript, données générées) |
 
 ## Construire et lancer le site en local
 
