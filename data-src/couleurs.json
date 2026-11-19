@@ -1,0 +1,19 @@
+{
+ "territoires": {
+  "zurich": "#4e79a7", "berne": "#d8574f", "lucerne": "#59a6a0", "uri": "#e3b93c",
+  "schwyz": "#a8679a", "unterwald": "#c97b95", "obwald": "#c97b95", "nidwald": "#8f6a55",
+  "glaris": "#5b9a4b", "zoug": "#93c47d", "fribourg": "#3f8a86", "soleure": "#ea8a32",
+  "bale": "#7fb2dc", "bale-ville": "#5b8fc6", "bale-campagne": "#9cc5e6",
+  "schaffhouse": "#f0b26e", "appenzell": "#7eb7ae", "appenzell-rhodes-exterieures": "#7eb7ae",
+  "appenzell-rhodes-interieures": "#b49a3a", "saint-gall": "#e9c75e", "grisons": "#c993bd",
+  "argovie": "#f2a7bf", "thurgovie": "#a89f9a", "tessin": "#cf9f8a", "vaud": "#6f9f5f",
+  "valais": "#e07a5f", "neuchatel": "#8e7cc3", "geneve": "#d4a017"
+ },
+ "palettes": {
+  "canton": ["#4e79a7", "#59a6a0", "#e3b93c", "#a8679a", "#5b9a4b", "#ea8a32", "#8e7cc3", "#d8574f"],
+  "allie": ["#9fc5e8", "#b6d7a8", "#f9cb9c", "#d5a6bd", "#a2c4c9", "#ffe599", "#b4a7d6"],
+  "bailliage-commun": ["#c8a96e", "#b9935a", "#d6bf8a", "#a98551", "#cdb27a"],
+  "etranger": ["#9e9e9e", "#8a8178", "#b0a89f", "#7d7d7d", "#a39383"],
+  "autre": ["#c0c0c0", "#b5b0a8"]
+ }
+}

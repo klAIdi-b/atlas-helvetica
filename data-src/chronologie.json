@@ -1,0 +1,20 @@
+{
+ "dates": [
+  {"date": 1291, "titre": "Alliance des Waldstätten"},
+  {"date": 1353, "titre": "Confédération des huit cantons"},
+  {"date": 1415, "titre": "Conquête de l'Argovie"},
+  {"date": 1460, "titre": "Conquête de la Thurgovie"},
+  {"date": 1481, "titre": "Convenant de Stans"},
+  {"date": 1513, "titre": "Confédération des XIII cantons"},
+  {"date": 1536, "titre": "Conquête du Pays de Vaud"},
+  {"date": 1648, "titre": "Traités de Westphalie"},
+  {"date": 1797, "titre": "Perte de la Valteline"},
+  {"date": 1798, "titre": "République helvétique"},
+  {"date": 1803, "titre": "Acte de médiation"},
+  {"date": 1815, "titre": "Congrès de Vienne"},
+  {"date": 1833, "titre": "Partage de Bâle"},
+  {"date": 1848, "titre": "État fédéral"},
+  {"date": 1857, "titre": "Neuchâtel quitte la Prusse", "epilogue": true},
+  {"date": 1979, "titre": "Création du canton du Jura", "epilogue": true}
+ ]
+}

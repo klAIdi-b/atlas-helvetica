@@ -1,0 +1,15 @@
+{
+  "name": "atlas-helvetica",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Atlas historique interactif de la Suisse",
+  "license": "MIT",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "serve": "python3 -m http.server 8000 --directory site"
+  },
+  "devDependencies": {
+    "leaflet": "1.9.4",
+    "mapshaper": "0.7.86"
+  }
+}

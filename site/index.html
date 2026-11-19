@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atlas Helvetica</title>
+  <meta name="description" content="Atlas historique interactif de la Suisse. Qui gouvernait chaque région, de l'Ancienne Confédération à l'État fédéral de 1848.">
+  <meta name="theme-color" content="#1f2a3a">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="entete">
+    <a class="marque" href="#">
+      <svg class="marque-logo" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="6" fill="#d52b1e"/><path d="M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z" fill="#fff"/></svg>
+      <span>Atlas Helvetica</span>
+    </a>
+    <nav class="entete-liens" aria-label="Liens principaux">
+      <a href="#sources">Sources</a>
+      <a href="#a-propos">À propos</a>
+    </nav>
+  </header>
+
+  <main class="grille">
+    <section class="colonne colonne-gauche" aria-label="La date choisie">
+      <div class="carte-bloc">
+        <p class="surtitre" id="date-surtitre">Date clé</p>
+        <h1 class="date-titre"><span id="date-annee">…</span> <span id="date-nom"></span></h1>
+        <p class="recit" id="date-recit"></p>
+        <details class="fiabilite" id="fiabilite">
+          <summary>Fiabilité de la carte</summary>
+          <p id="fiabilite-confiance"></p>
+          <ul id="fiabilite-approx"></ul>
+        </details>
+        <p class="sources-courtes" id="date-sources"></p>
+      </div>
+
+      <div class="carte-bloc">
+        <h2 class="bloc-titre">Qui gouverne</h2>
+        <p class="bloc-sous-titre" id="qui-sous-titre"></p>
+        <div id="liste-territoires"></div>
+        <div id="hors-carte"></div>
+      </div>
+
+      <div class="carte-bloc" id="bloc-changements" hidden>
+        <h2 class="bloc-titre">Ce qui a changé</h2>
+        <p class="bloc-sous-titre" id="changements-sous-titre"></p>
+        <ol class="changements" id="liste-changements"></ol>
+        <p class="note">Calculé automatiquement à partir des cartes.</p>
+      </div>
+    </section>
+
+    <section class="colonne colonne-centre" aria-label="Carte">
+      <div class="carte-cadre">
+        <div id="carte" role="application" aria-label="Carte des territoires"></div>
+        <div class="carte-annee" id="carte-annee" aria-hidden="true"></div>
+        <div class="legende" id="legende" aria-label="Légende"></div>
+      </div>
+      <div class="frise" aria-label="Frise chronologique">
+        <button class="frise-fleche" id="precedent" aria-label="Date précédente">‹</button>
+        <div class="frise-piste" id="frise"></div>
+        <button class="frise-fleche" id="suivant" aria-label="Date suivante">›</button>
+      </div>
+      <p class="frise-aide">Cliquez sur une date ou utilisez les flèches du clavier. Les dates grisées sont en préparation.</p>
+    </section>
+
+    <aside class="colonne colonne-droite" aria-label="Fiche du territoire">
+      <div class="carte-bloc fiche" id="fiche">
+        <p class="fiche-vide">Cliquez sur une région de la carte ou sur un nom de la liste pour lire sa fiche.</p>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="pied">
+    <section id="sources">
+      <h2>Sources et licences</h2>
+      <ul>
+        <li><strong>Textes historiques.</strong> Rédigés à partir du <a href="https://hls-dhs-dss.ch/fr/">Dictionnaire historique de la Suisse (DHS)</a>, sous licence CC BY-SA 4.0. Chaque fiche renvoie aux articles consultés.</li>
+        <li><strong>Fond de carte.</strong> Office fédéral de la statistique (OFS), <a href="https://data.geo.admin.ch/browser/index.html#/collections/ch.bfs.historisierte-administrative_grenzen_g0">Limites communales G0, série chronologique depuis 1850</a>, état au 1er janvier 1850.</li>
+        <li><strong>Bibliothèque cartographique.</strong> <a href="https://leafletjs.com/">Leaflet</a>, licence BSD 2.</li>
+        <li><strong>Ce site.</strong> Code sous licence MIT, données et textes sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC BY-SA 4.0</a>.</li>
+      </ul>
+    </section>
+    <section id="a-propos">
+      <h2>À propos et méthode</h2>
+      <p>Les frontières anciennes ne sont pas redessinées. Chaque commune telle qu'elle existait en 1850 est attribuée, pour chaque date, au territoire dont elle relevait. Les territoires sont ensuite obtenus en réunissant leurs communes. La méthode est fiable à l'échelle d'un canton ou d'un bailliage, mais elle reste une approximation au niveau local. Chaque date indique ses approximations.</p>
+      <p>Les territoires situés hors de la Suisse actuelle, comme la Valteline ou Mulhouse, n'apparaissent pas sur la carte. Ils sont signalés sous la liste « Qui gouverne ».</p>
+    </section>
+  </footer>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
