@@ -3,84 +3,938 @@
   {
    "date": 1291,
    "titre": "Alliance des Waldstätten",
-   "disponible": true
+   "disponible": true,
+   "territoires": 38,
+   "evenements": 6
   },
   {
    "date": 1353,
    "titre": "Confédération des huit cantons",
-   "disponible": true
+   "disponible": true,
+   "territoires": 37,
+   "evenements": 7
   },
   {
    "date": 1415,
    "titre": "Conquête de l'Argovie",
-   "disponible": true
+   "disponible": true,
+   "territoires": 41,
+   "evenements": 5
   },
   {
    "date": 1460,
    "titre": "Conquête de la Thurgovie",
-   "disponible": true
+   "disponible": true,
+   "territoires": 46,
+   "evenements": 5
   },
   {
    "date": 1481,
    "titre": "Convenant de Stans",
-   "disponible": true
+   "disponible": true,
+   "territoires": 47,
+   "evenements": 5
   },
   {
    "date": 1513,
    "titre": "Confédération des XIII cantons",
-   "disponible": true
+   "disponible": true,
+   "territoires": 52,
+   "evenements": 6
   },
   {
    "date": 1536,
    "titre": "Conquête du Pays de Vaud",
-   "disponible": true
+   "disponible": true,
+   "territoires": 47,
+   "evenements": 6
   },
   {
    "date": 1648,
    "titre": "Traités de Westphalie",
-   "disponible": true
+   "disponible": true,
+   "territoires": 47,
+   "evenements": 6
   },
   {
    "date": 1797,
    "titre": "Perte de la Valteline",
-   "disponible": true
+   "disponible": true,
+   "territoires": 50,
+   "evenements": 6
   },
   {
    "date": 1798,
    "titre": "République helvétique",
-   "disponible": true
+   "disponible": true,
+   "territoires": 23,
+   "evenements": 6
   },
   {
    "date": 1803,
    "titre": "Acte de médiation",
-   "disponible": true
+   "disponible": true,
+   "territoires": 24,
+   "evenements": 5
   },
   {
    "date": 1815,
    "titre": "Congrès de Vienne",
-   "disponible": true
+   "disponible": true,
+   "territoires": 26,
+   "evenements": 6
   },
   {
    "date": 1833,
    "titre": "Partage de Bâle",
-   "disponible": true
+   "disponible": true,
+   "territoires": 26,
+   "evenements": 6
   },
   {
    "date": 1848,
    "titre": "État fédéral",
-   "disponible": true
+   "disponible": true,
+   "territoires": 25,
+   "evenements": 6
   },
   {
    "date": 1857,
    "titre": "Neuchâtel quitte la Prusse",
    "epilogue": true,
-   "disponible": true
+   "disponible": true,
+   "territoires": 25,
+   "evenements": 5
   },
   {
    "date": 1979,
    "titre": "Création du canton du Jura",
    "epilogue": true,
-   "disponible": true
+   "disponible": true,
+   "territoires": 26,
+   "evenements": 5
   }
- ]
+ ],
+ "epoques": [
+  {
+   "nom": "Premières alliances",
+   "de": 1291,
+   "a": 1415
+  },
+  {
+   "nom": "Conquêtes",
+   "de": 1415,
+   "a": 1536
+  },
+  {
+   "nom": "Ancien Régime",
+   "de": 1536,
+   "a": 1798
+  },
+  {
+   "nom": "Révolution",
+   "de": 1798,
+   "a": 1815
+  },
+  {
+   "nom": "Restauration",
+   "de": 1815,
+   "a": 1848
+  },
+  {
+   "nom": "État fédéral",
+   "de": 1848,
+   "a": 1979
+  }
+ ],
+ "presence": {
+  "habsbourg": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648
+  ],
+  "savoie": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1648,
+   1815
+  ],
+  "valais": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "seigneuries-aar": [
+   1291,
+   1353
+  ],
+  "eveche-coire": [
+   1291,
+   1353
+  ],
+  "barons-vaz": [
+   1291
+  ],
+  "milan": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513
+  ],
+  "eveche-bale": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "seigneuries-rhetiques": [
+   1291,
+   1353
+  ],
+  "kibourg-berthoud": [
+   1291,
+   1353
+  ],
+  "abbaye-saint-gall": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "gruyere": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536
+  ],
+  "uri": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "werdenberg": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513
+  ],
+  "come": [
+   1291
+  ],
+  "frobourg": [
+   1291,
+   1353
+  ],
+  "abbaye-disentis": [
+   1291,
+   1353
+  ],
+  "seigneurie-sax": [
+   1291,
+   1353
+  ],
+  "schwyz": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "comte-neuchatel": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648
+  ],
+  "neuchatel-nidau": [
+   1291,
+   1353
+  ],
+  "obwald": [
+   1291,
+   1797,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "toggenbourg": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "fribourg": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "rapperswil": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "valangin": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536
+  ],
+  "unterwald": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648
+  ],
+  "eveche-lausanne": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513
+  ],
+  "comte-genevois": [
+   1291,
+   1353
+  ],
+  "eveche-constance": [
+   1291,
+   1353
+  ],
+  "thierstein": [
+   1291,
+   1353
+  ],
+  "abbaye-einsiedeln": [
+   1291,
+   1353
+  ],
+  "abbaye-engelberg": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "eveche-geneve": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513
+  ],
+  "berne": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "schaffhouse": [
+   1291,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "soleure": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "zurich": [
+   1291,
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "glaris": [
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "zoug": [
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "lucerne": [
+   1353,
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "grisons": [
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "sax-misox": [
+   1415,
+   1460
+  ],
+  "leventine": [
+   1415
+  ],
+  "appenzell": [
+   1415,
+   1460,
+   1481,
+   1513,
+   1536
+  ],
+  "bailliage-baden": [
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "chalon": [
+   1415,
+   1460
+  ],
+  "bale": [
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1798,
+   1803,
+   1815
+  ],
+  "seigneuries-souabes": [
+   1415,
+   1460,
+   1481,
+   1513
+  ],
+  "freie-aemter": [
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "sax-forstegg": [
+   1415,
+   1460,
+   1481,
+   1513,
+   1536
+  ],
+  "eglisau": [
+   1415,
+   1460,
+   1481
+  ],
+  "bienne": [
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "stein-am-rhein": [
+   1415,
+   1460,
+   1481
+  ],
+  "gersau": [
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797,
+   1815
+  ],
+  "ville-saint-gall": [
+   1415,
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "bailliage-thurgovie": [
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "sargans": [
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "comte-sargans": [
+   1460,
+   1481
+  ],
+  "schwarzenburg": [
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "gaster": [
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "uznach": [
+   1460,
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "grandson": [
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "orbe-echallens": [
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "morat": [
+   1481,
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "vallemaggia": [
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "bailliage-locarno": [
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "blenio": [
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "bailliage-lugano": [
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "bellinzone": [
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "riviera": [
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "rheintal": [
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "mendrisio": [
+   1513,
+   1536,
+   1648,
+   1797
+  ],
+  "geneve": [
+   1536,
+   1648,
+   1797,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "appenzell-rhodes-exterieures": [
+   1648,
+   1797,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "appenzell-rhodes-interieures": [
+   1648,
+   1797,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "france": [
+   1648,
+   1797,
+   1798,
+   1803
+  ],
+  "neuchatel": [
+   1797,
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "fricktal": [
+   1797,
+   1798
+  ],
+  "nidwald": [
+   1797,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "freie-aemter-inferieurs": [
+   1797
+  ],
+  "rhazuns": [
+   1797
+  ],
+  "tarasp": [
+   1797,
+   1798
+  ],
+  "canton-oberland": [
+   1798
+  ],
+  "leman": [
+   1798
+  ],
+  "canton-waldstatten": [
+   1798
+  ],
+  "canton-linth": [
+   1798
+  ],
+  "canton-lugano": [
+   1798
+  ],
+  "canton-bellinzone": [
+   1798
+  ],
+  "canton-santis": [
+   1798
+  ],
+  "thurgovie": [
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "argovie": [
+   1798,
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "canton-baden": [
+   1798
+  ],
+  "vaud": [
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "tessin": [
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "saint-gall": [
+   1803,
+   1815,
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "bale-campagne": [
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "schwytz-exterieur": [
+   1833
+  ],
+  "bale-ville": [
+   1833,
+   1848,
+   1857,
+   1979
+  ],
+  "jura": [
+   1979
+  ]
+ },
+ "statistiques": {
+  "dates": 16,
+  "communes": 3193,
+  "fiches": 594,
+  "territoires_distincts": 104,
+  "evenements": 91,
+  "sources": 263
+ }
 }

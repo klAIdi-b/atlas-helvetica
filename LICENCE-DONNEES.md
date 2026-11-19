@@ -11,6 +11,9 @@ Ce choix découle des sources utilisées.
 |---|---|---|
 | Dictionnaire historique de la Suisse (DHS), https://hls-dhs-dss.ch | Textes des fiches et des récits, rédigés à partir des articles cités dans chaque fiche | CC BY-SA 4.0, citer l'auteur et l'article |
 | Office fédéral de la statistique (OFS), limites communales G0, série chronologique depuis 1850 | Géométrie des communes au 1.1.1850, base de toutes les cartes | Utilisation libre, source obligatoire. L'usage commercial demande l'autorisation de l'OFS |
+| swisstopo, ombrage du relief (leichte Basiskarte) | Relief affiché sous les territoires | Géodonnées libres, source à mentionner |
+| Natural Earth (paquet world-atlas) | Contour des pays voisins | Domaine public |
+| Polices Cormorant Garamond et Inter | Typographie | SIL Open Font License |
 | Leaflet | Affichage de la carte | Licence BSD 2 |
 
 En conséquence, ce site ne doit pas être utilisé à des fins commerciales sans l'accord de l'OFS.

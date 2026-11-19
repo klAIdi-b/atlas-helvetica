@@ -191,6 +191,10 @@
    ],
    "superficie_km2": 7040,
    "communes": 230,
+   "etiquette": [
+    46.7578,
+    9.8563
+   ],
    "couleur": "#c993bd"
   },
   {
@@ -224,6 +228,10 @@
    ],
    "superficie_km2": 5886,
    "communes": 483,
+   "etiquette": [
+    46.6409,
+    8.2127
+   ],
    "couleur": "#d8574f"
   },
   {
@@ -249,6 +257,10 @@
    ],
    "superficie_km2": 4967,
    "communes": 159,
+   "etiquette": [
+    46.0327,
+    7.3195
+   ],
    "couleur": "#e07a5f"
   },
   {
@@ -278,6 +290,10 @@
    ],
    "superficie_km2": 2588,
    "communes": 454,
+   "etiquette": [
+    46.6803,
+    6.4354
+   ],
    "couleur": "#a7a29b"
   },
   {
@@ -307,6 +323,10 @@
    ],
    "superficie_km2": 2279,
    "communes": 243,
+   "etiquette": [
+    46.3238,
+    8.6882
+   ],
    "couleur": "#a39383"
   },
   {
@@ -336,6 +356,10 @@
    ],
    "superficie_km2": 1748,
    "communes": 187,
+   "etiquette": [
+    47.3266,
+    7.3081
+   ],
    "couleur": "#8fb3c9"
   },
   {
@@ -370,6 +394,10 @@
    ],
    "superficie_km2": 1629,
    "communes": 192,
+   "etiquette": [
+    47.6074,
+    8.6688
+   ],
    "couleur": "#4e79a7"
   },
   {
@@ -399,6 +427,10 @@
    ],
    "superficie_km2": 1538,
    "communes": 39,
+   "etiquette": [
+    46.6003,
+    8.5409
+   ],
    "couleur": "#e3b93c"
   },
   {
@@ -424,6 +456,10 @@
    ],
    "superficie_km2": 1437,
    "communes": 109,
+   "etiquette": [
+    46.8734,
+    7.9566
+   ],
    "couleur": "#59a6a0"
   },
   {
@@ -449,6 +485,10 @@
    ],
    "superficie_km2": 863,
    "communes": 213,
+   "etiquette": [
+    47.5818,
+    9.1562
+   ],
    "couleur": "#d6bf8a"
   },
   {
@@ -478,6 +518,10 @@
    ],
    "superficie_km2": 855,
    "communes": 41,
+   "etiquette": [
+    46.4851,
+    7.1829
+   ],
    "couleur": "#b6d7a8"
   },
   {
@@ -511,6 +555,10 @@
    ],
    "superficie_km2": 837,
    "communes": 28,
+   "etiquette": [
+    47.0204,
+    8.7994
+   ],
    "couleur": "#a8679a"
   },
   {
@@ -536,6 +584,10 @@
    ],
    "superficie_km2": 681,
    "communes": 25,
+   "etiquette": [
+    47.0543,
+    9.0515
+   ],
    "couleur": "#5b9a4b"
   },
   {
@@ -561,6 +613,10 @@
    ],
    "superficie_km2": 647,
    "communes": 17,
+   "etiquette": [
+    46.8268,
+    8.2873
+   ],
    "couleur": "#c97b95"
   },
   {
@@ -586,6 +642,10 @@
    ],
    "superficie_km2": 614,
    "communes": 109,
+   "etiquette": [
+    47.2297,
+    7.5247
+   ],
    "couleur": "#ea8a32"
   },
   {
@@ -611,6 +671,10 @@
    ],
    "superficie_km2": 564,
    "communes": 41,
+   "etiquette": [
+    47.3054,
+    9.3134
+   ],
    "couleur": "#7eb7ae"
   },
   {
@@ -640,6 +704,10 @@
    ],
    "superficie_km2": 562,
    "communes": 106,
+   "etiquette": [
+    46.8155,
+    7.2418
+   ],
    "couleur": "#3f8a86"
   },
   {
@@ -665,6 +733,10 @@
    ],
    "superficie_km2": 554,
    "communes": 25,
+   "etiquette": [
+    47.2322,
+    9.1816
+   ],
    "couleur": "#9fc5e8"
   },
   {
@@ -690,6 +762,10 @@
    ],
    "superficie_km2": 470,
    "communes": 51,
+   "etiquette": [
+    46.9917,
+    6.7006
+   ],
    "couleur": "#8e7cc3"
   },
   {
@@ -731,6 +807,10 @@
    ],
    "superficie_km2": 388,
    "communes": 52,
+   "etiquette": [
+    47.5252,
+    8.0455
+   ],
    "couleur": "#8f8a83"
   },
   {
@@ -756,6 +836,10 @@
    ],
    "superficie_km2": 363,
    "communes": 61,
+   "etiquette": [
+    47.4648,
+    7.8494
+   ],
    "couleur": "#7fb2dc"
   },
   {
@@ -777,6 +861,10 @@
    ],
    "superficie_km2": 281,
    "communes": 52,
+   "etiquette": [
+    47.5203,
+    8.2848
+   ],
    "couleur": "#c8a96e"
   },
   {
@@ -802,6 +890,10 @@
    ],
    "superficie_km2": 274,
    "communes": 24,
+   "etiquette": [
+    47.4501,
+    9.2166
+   ],
    "couleur": "#e9c75e"
   },
   {
@@ -823,6 +915,10 @@
    ],
    "superficie_km2": 272,
    "communes": 4,
+   "etiquette": [
+    46.9853,
+    9.328
+   ],
    "couleur": "#b9935a"
   },
   {
@@ -844,6 +940,10 @@
    ],
    "superficie_km2": 249,
    "communes": 49,
+   "etiquette": [
+    47.2976,
+    8.3172
+   ],
    "couleur": "#a98551"
   },
   {
@@ -865,6 +965,10 @@
    ],
    "superficie_km2": 246,
    "communes": 4,
+   "etiquette": [
+    46.9253,
+    9.4273
+   ],
    "couleur": "#c1a49a"
   },
   {
@@ -886,6 +990,10 @@
    ],
    "superficie_km2": 243,
    "communes": 22,
+   "etiquette": [
+    47.0854,
+    6.8045
+   ],
    "couleur": "#b39ddb"
   },
   {
@@ -911,6 +1019,10 @@
    ],
    "superficie_km2": 242,
    "communes": 30,
+   "etiquette": [
+    46.541,
+    6.6517
+   ],
    "couleur": "#c5b358"
   },
   {
@@ -936,6 +1048,10 @@
    ],
    "superficie_km2": 207,
    "communes": 11,
+   "etiquette": [
+    47.1846,
+    8.5564
+   ],
    "couleur": "#93c47d"
   },
   {
@@ -961,6 +1077,10 @@
    ],
    "superficie_km2": 200,
    "communes": 25,
+   "etiquette": [
+    46.8541,
+    6.6194
+   ],
    "couleur": "#c8a96e"
   },
   {
@@ -986,6 +1106,10 @@
    ],
    "superficie_km2": 157,
    "communes": 3,
+   "etiquette": [
+    46.7543,
+    7.3695
+   ],
    "couleur": "#cdb27a"
   },
   {
@@ -1011,6 +1135,10 @@
    ],
    "superficie_km2": 144,
    "communes": 29,
+   "etiquette": [
+    46.665,
+    6.63
+   ],
    "couleur": "#d6bf8a"
   },
   {
@@ -1032,6 +1160,10 @@
    ],
    "superficie_km2": 142,
    "communes": 4,
+   "etiquette": [
+    47.1548,
+    9.4373
+   ],
    "couleur": "#c2a5a0"
   },
   {
@@ -1053,6 +1185,10 @@
    ],
    "superficie_km2": 138,
    "communes": 14,
+   "etiquette": [
+    47.7403,
+    8.5016
+   ],
    "couleur": "#b5aea5"
   },
   {
@@ -1074,6 +1210,10 @@
    ],
    "superficie_km2": 135,
    "communes": 6,
+   "etiquette": [
+    47.1864,
+    9.0632
+   ],
    "couleur": "#d9c28f"
   },
   {
@@ -1099,6 +1239,10 @@
    ],
    "superficie_km2": 89,
    "communes": 8,
+   "etiquette": [
+    47.7235,
+    8.5995
+   ],
    "couleur": "#f0b26e"
   },
   {
@@ -1120,6 +1264,10 @@
    ],
    "superficie_km2": 89,
    "communes": 7,
+   "etiquette": [
+    47.2605,
+    8.9935
+   ],
    "couleur": "#b38b5d"
   },
   {
@@ -1145,6 +1293,10 @@
    ],
    "superficie_km2": 75,
    "communes": 21,
+   "etiquette": [
+    46.937,
+    7.1616
+   ],
    "couleur": "#b9935a"
   },
   {
@@ -1166,6 +1318,10 @@
    ],
    "superficie_km2": 75,
    "communes": 1,
+   "etiquette": [
+    46.8189,
+    8.433
+   ],
    "couleur": "#a7c3a0"
   },
   {
@@ -1191,6 +1347,10 @@
    ],
    "superficie_km2": 43,
    "communes": 5,
+   "etiquette": [
+    46.2163,
+    6.0332
+   ],
    "couleur": "#d4a017"
   },
   {
@@ -1212,6 +1372,10 @@
    ],
    "superficie_km2": 42,
    "communes": 1,
+   "etiquette": [
+    47.2431,
+    9.4782
+   ],
    "couleur": "#b7c4a4"
   },
   {
@@ -1237,6 +1401,10 @@
    ],
    "superficie_km2": 38,
    "communes": 5,
+   "etiquette": [
+    47.5985,
+    8.5128
+   ],
    "couleur": "#b3a28a"
   },
   {
@@ -1262,6 +1430,10 @@
    ],
    "superficie_km2": 25,
    "communes": 6,
+   "etiquette": [
+    47.151,
+    7.2575
+   ],
    "couleur": "#b4a7d6"
   },
   {
@@ -1283,6 +1455,10 @@
    ],
    "superficie_km2": 22,
    "communes": 2,
+   "etiquette": [
+    47.2331,
+    8.8385
+   ],
    "couleur": "#a2c4c9"
   },
   {
@@ -1304,6 +1480,10 @@
    ],
    "superficie_km2": 14,
    "communes": 2,
+   "etiquette": [
+    47.6718,
+    8.8523
+   ],
    "couleur": "#c9b48c"
   },
   {
@@ -1325,6 +1505,10 @@
    ],
    "superficie_km2": 14,
    "communes": 1,
+   "etiquette": [
+    47.007,
+    8.5317
+   ],
    "couleur": "#9b8ec7"
   },
   {
@@ -1350,6 +1534,10 @@
    ],
    "superficie_km2": 4,
    "communes": 1,
+   "etiquette": [
+    47.4227,
+    9.3769
+   ],
    "couleur": "#f3a64b"
   },
   {

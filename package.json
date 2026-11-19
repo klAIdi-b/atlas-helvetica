@@ -9,7 +9,10 @@
     "serve": "python3 -m http.server 8000 --directory docs"
   },
   "devDependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
     "leaflet": "1.9.4",
-    "mapshaper": "0.7.86"
+    "mapshaper": "0.7.86",
+    "world-atlas": "^2.0.2"
   }
 }

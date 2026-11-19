@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sources et méthode · Atlas Helvetica</title>
+  <meta name="description" content="Comment l'Atlas Helvetica a été construit : méthode, limites, licences et liste complète des articles du Dictionnaire historique de la Suisse consultés.">
+  <meta name="theme-color" content="#16202e">
+  <link rel="icon" href="img/emblem.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="page-texte">
+  <header class="entete">
+    <a class="marque" href="./" aria-label="Atlas Helvetica, retour à la carte">
+      <img class="marque-embleme" src="img/emblem.svg" alt="" width="40" height="40">
+      <span class="marque-texte">
+        <span class="marque-nom">Atlas Helvetica</span>
+        <span class="marque-devise">Sept siècles de territoires suisses</span>
+      </span>
+    </a>
+    <nav class="entete-liens" aria-label="Pages" style="margin-left:auto">
+      <a class="bouton-entete" href="./">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6l6-3 6 3 6-3v15l-6 3-6-3-6 3z" fill="none" stroke="currentColor" stroke-width="2"/></svg><span>Retour à la carte</span>
+      </a>
+    </nav>
+  </header>
+
+  <main class="article">
+    <p class="epoque">Sources et méthode</p>
+    <h1>Comment cet atlas a été construit</h1>
+    <p class="chapeau">L'Atlas Helvetica raconte sept siècles d'histoire territoriale suisse en seize cartes. Chaque carte repose sur des règles explicites et chaque fiche renvoie aux articles qui l'appuient. Voici la méthode, ses limites et la liste complète des sources.</p>
+
+    <div class="bandeau-grille" id="chiffres"></div>
+
+    <h2>La méthode</h2>
+    <p>Redessiner à la main des frontières médiévales serait à la fois long et invérifiable. L'atlas procède autrement. Il part du découpage le plus fin et le plus ancien disponible sous forme numérique, celui des communes suisses au 1er janvier 1850, publié par l'Office fédéral de la statistique. Pour chaque date, chacune de ces communes est attribuée au territoire dont elle relevait : canton, pays allié, bailliage commun, seigneurie ou puissance étrangère.</p>
+    <p>Ces attributions sont écrites sous forme de règles, du plus général au plus précis. Une règle peut viser un canton de 1850 tout entier, un district, ou une seule commune. La règle la plus précise l'emporte. Un programme réunit ensuite les communes de chaque territoire pour dessiner la carte, calcule les superficies et compare les dates entre elles pour établir ce qui a changé.</p>
+    <p>Un exemple. En 1513, le district de Lugano de 1850 est attribué en bloc au bailliage commun de Lugano. Les quelques communes qui relevaient d'un autre bailliage font l'objet d'une règle communale qui corrige l'attribution générale.</p>
+
+    <h2>Les limites</h2>
+    <ul>
+      <li><strong>Une approximation au niveau local.</strong> Les juridictions anciennes ne suivent pas toujours les limites des communes de 1850. La carte est fiable à l'échelle d'un canton ou d'un bailliage, moins pour un village frontalier. Chaque date détaille ses approximations dans l'encadré « Fiabilité de cette carte ».</li>
+      <li><strong>Un cadre fixé par la Suisse de 1850.</strong> Les territoires situés hors de ce cadre, comme la Valteline, Mulhouse ou Rottweil, ne sont pas dessinés. Ils sont signalés dans la liste des pouvoirs de chaque date.</li>
+      <li><strong>Les territoires sujets d'un seul canton</strong> sont représentés avec ce canton (par exemple le Pays de Vaud avec Berne après 1536). Leur statut est précisé dans la fiche.</li>
+      <li><strong>Les populations anciennes sont rares.</strong> Un chiffre n'est donné que s'il figure dans une source, avec son année. Sinon la fiche indique « non documentée » plutôt qu'une estimation.</li>
+      <li><strong>Les textes sont des synthèses.</strong> Ils résument les articles cités et ne les remplacent pas. Pour approfondir, suivez les liens vers le Dictionnaire historique de la Suisse.</li>
+    </ul>
+
+    <h2>Licences et crédits</h2>
+    <ul>
+      <li><strong>Textes.</strong> Rédigés d'après le <a href="https://hls-dhs-dss.ch/fr/">Dictionnaire historique de la Suisse</a> (DHS), dont les contenus sont publiés sous licence CC BY-SA 4.0.</li>
+      <li><strong>Fond communal.</strong> Office fédéral de la statistique, <a href="https://data.geo.admin.ch/browser/index.html#/collections/ch.bfs.historisierte-administrative_grenzen_g0">limites communales G0, série chronologique depuis 1850</a>. Utilisation libre avec mention de la source. L'usage commercial demande l'autorisation de l'OFS.</li>
+      <li><strong>Relief.</strong> Ombrage du relief de <a href="https://www.swisstopo.admin.ch/">swisstopo</a>, géodonnées libres avec mention de la source.</li>
+      <li><strong>Pays voisins.</strong> Natural Earth, domaine public.</li>
+      <li><strong>Polices.</strong> Cormorant Garamond et Inter, licence SIL Open Font License.</li>
+      <li><strong>Ce site.</strong> Code sous licence MIT, données et textes sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC BY-SA 4.0</a>. <a href="https://github.com/klAIdi-b/atlas-helvetica">Code source sur GitHub</a>.</li>
+    </ul>
+
+    <h2 id="articles">Les articles consultés</h2>
+    <p>Tous les articles du Dictionnaire historique de la Suisse cités dans les fiches, les récits et les événements, avec les dates de l'atlas où ils sont utilisés.</p>
+    <label class="filtre"><span class="visuellement-cache">Filtrer les articles</span>
+      <input type="search" id="filtre" placeholder="Filtrer les articles, par exemple Berne, bataille, bailliage…">
+    </label>
+    <p class="note" id="compte"></p>
+    <ol class="liste-sources" id="liste"></ol>
+  </main>
+
+  <footer class="pied">
+    <p><a href="./">Retour à la carte</a></p>
+  </footer>
+
+  <script src="js/sources.js"></script>
+</body>
+</html>

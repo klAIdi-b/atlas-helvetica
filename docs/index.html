@@ -2,91 +2,157 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Atlas Helvetica</title>
-  <meta name="description" content="Atlas historique interactif de la Suisse. Qui gouvernait chaque région, de l'Ancienne Confédération à l'État fédéral de 1848.">
-  <meta name="theme-color" content="#1f2a3a">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Atlas Helvetica · Sept siècles de territoires suisses</title>
+  <meta name="description" content="Atlas historique interactif de la Suisse, de l'alliance de 1291 au canton du Jura. Seize cartes, plus de 3200 communes, des centaines de fiches et d'événements, d'après le Dictionnaire historique de la Suisse.">
+  <meta name="theme-color" content="#16202e">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Atlas Helvetica">
+  <meta property="og:title" content="Atlas Helvetica · Sept siècles de territoires suisses">
+  <meta property="og:description" content="Qui gouvernait votre commune en 1291, en 1513 ou en 1798 ? Seize cartes interactives de la Suisse, d'après le Dictionnaire historique de la Suisse.">
+  <meta property="og:image" content="https://klaidi-b.github.io/atlas-helvetica/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="img/emblem.svg" type="image/svg+xml">
+  <link rel="preload" href="fonts/cormorant-garamond-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <a class="evitement" href="#carte">Aller à la carte</a>
+
   <header class="entete">
-    <a class="marque" href="#">
-      <svg class="marque-logo" viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="6" fill="#d52b1e"/><path d="M13 7h6v6h6v6h-6v6h-6v-6H7v-6h6z" fill="#fff"/></svg>
-      <span>Atlas Helvetica</span>
+    <a class="marque" href="./" aria-label="Atlas Helvetica, accueil">
+      <img class="marque-embleme" src="img/emblem.svg" alt="" width="40" height="40">
+      <span class="marque-texte">
+        <span class="marque-nom">Atlas Helvetica</span>
+        <span class="marque-devise">Sept siècles de territoires suisses</span>
+      </span>
     </a>
-    <nav class="entete-liens" aria-label="Liens principaux">
-      <a href="#sources">Sources</a>
-      <a href="#a-propos">À propos</a>
+
+    <div class="recherche" role="search">
+      <label class="visuellement-cache" for="recherche-commune">Chercher une commune</label>
+      <svg class="recherche-icone" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+      <input id="recherche-commune" type="search" autocomplete="off" spellcheck="false"
+             placeholder="Votre commune à travers les siècles…" aria-autocomplete="list" aria-controls="suggestions" aria-expanded="false">
+      <ul class="suggestions" id="suggestions" role="listbox" hidden></ul>
+    </div>
+
+    <nav class="entete-liens" aria-label="Pages">
+      <button class="bouton-entete" id="bouton-visite" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg><span>Visite guidée</span>
+      </button>
+      <a class="bouton-entete discret" href="sources.html">Sources et méthode</a>
     </nav>
   </header>
 
-  <main class="grille">
-    <section class="colonne colonne-gauche" aria-label="La date choisie">
-      <div class="carte-bloc">
-        <p class="surtitre" id="date-surtitre">Date clé</p>
-        <h1 class="date-titre"><span id="date-annee">…</span> <span id="date-nom"></span></h1>
-        <p class="recit" id="date-recit"></p>
-        <details class="fiabilite" id="fiabilite">
-          <summary>Fiabilité de la carte</summary>
-          <p id="fiabilite-confiance"></p>
-          <ul id="fiabilite-approx"></ul>
-        </details>
-        <p class="sources-courtes" id="date-sources"></p>
+  <main class="app">
+    <!-- Panneau gauche : la date -->
+    <section class="panneau panneau-gauche" aria-label="La date choisie">
+      <div class="date-entete">
+        <p class="epoque" id="date-epoque"></p>
+        <h1 class="date-titre"><span class="date-annee" id="date-annee">…</span><span class="date-nom" id="date-nom"></span></h1>
       </div>
 
-      <div class="carte-bloc">
-        <h2 class="bloc-titre">Qui gouverne</h2>
-        <p class="bloc-sous-titre" id="qui-sous-titre"></p>
-        <div id="liste-territoires"></div>
-        <div id="hors-carte"></div>
+      <div class="onglets" role="tablist" aria-label="Contenu de la date">
+        <button role="tab" id="onglet-recit" aria-controls="vue-recit" aria-selected="true">Récit</button>
+        <button role="tab" id="onglet-pouvoirs" aria-controls="vue-pouvoirs" aria-selected="false">Pouvoirs</button>
+        <button role="tab" id="onglet-evenements" aria-controls="vue-evenements" aria-selected="false">Événements <span class="pastille-nombre" id="nb-evenements"></span></button>
+        <button role="tab" id="onglet-changements" aria-controls="vue-changements" aria-selected="false">Changements</button>
       </div>
 
-      <div class="carte-bloc" id="bloc-changements" hidden>
-        <h2 class="bloc-titre">Ce qui a changé</h2>
-        <p class="bloc-sous-titre" id="changements-sous-titre"></p>
-        <ol class="changements" id="liste-changements"></ol>
-        <p class="note">Ancien territoire → nouveau territoire. Calculé automatiquement à partir des cartes.</p>
+      <div class="vues">
+        <div class="vue" role="tabpanel" id="vue-recit" aria-labelledby="onglet-recit">
+          <div class="chiffres" id="chiffres"></div>
+          <p class="recit" id="date-recit"></p>
+          <details class="fiabilite" id="fiabilite">
+            <summary>Fiabilité de cette carte</summary>
+            <p id="fiabilite-confiance"></p>
+            <ul id="fiabilite-approx"></ul>
+          </details>
+          <p class="sources-courtes" id="date-sources"></p>
+        </div>
+        <div class="vue" role="tabpanel" id="vue-pouvoirs" aria-labelledby="onglet-pouvoirs" hidden>
+          <p class="vue-intro" id="pouvoirs-intro"></p>
+          <div id="liste-territoires"></div>
+          <div id="hors-carte"></div>
+        </div>
+        <div class="vue" role="tabpanel" id="vue-evenements" aria-labelledby="onglet-evenements" hidden>
+          <p class="vue-intro" id="evenements-intro"></p>
+          <ol class="frise-evenements" id="liste-evenements"></ol>
+        </div>
+        <div class="vue" role="tabpanel" id="vue-changements" aria-labelledby="onglet-changements" hidden>
+          <p class="vue-intro" id="changements-intro"></p>
+          <ol class="changements" id="liste-changements"></ol>
+          <p class="note">Calculé automatiquement en comparant les deux cartes, commune par commune.</p>
+        </div>
       </div>
     </section>
 
-    <section class="colonne colonne-centre" aria-label="Carte">
+    <!-- Centre : carte et frise -->
+    <section class="centre" aria-label="Carte et frise chronologique">
       <div class="carte-cadre">
-        <div id="carte" role="application" aria-label="Carte des territoires"></div>
-        <div class="carte-annee" id="carte-annee" aria-hidden="true"></div>
+        <div id="carte" role="application" aria-label="Carte des territoires. Cliquez sur une région pour lire sa fiche."></div>
+        <div class="carte-annee" aria-hidden="true"><span id="carte-annee"></span><small id="carte-titre"></small></div>
         <div class="legende" id="legende" aria-label="Légende"></div>
+        <div class="visite-bandeau" id="visite-bandeau" hidden>
+          <div class="visite-progression"><span id="visite-barre"></span></div>
+          <p id="visite-texte"></p>
+          <div class="visite-actions">
+            <button type="button" id="visite-pause">Pause</button>
+            <button type="button" id="visite-quitter">Quitter la visite</button>
+          </div>
+        </div>
       </div>
+
       <div class="frise" aria-label="Frise chronologique">
-        <button class="frise-fleche" id="precedent" aria-label="Date précédente">‹</button>
-        <div class="frise-piste" id="frise"></div>
-        <button class="frise-fleche" id="suivant" aria-label="Date suivante">›</button>
+        <button class="frise-bouton" id="precedent" type="button" aria-label="Date précédente">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15 6-6 6 6 6"/></svg>
+        </button>
+        <div class="frise-defile" id="frise-defile">
+        <div class="frise-axe" id="frise">
+          <div class="frise-epoques" id="frise-epoques"></div>
+          <div class="frise-rail"></div>
+          <div class="frise-points" id="frise-points"></div>
+          <div class="frise-curseur" id="frise-curseur" role="slider" tabindex="0" aria-label="Date affichée"
+               aria-valuemin="1291" aria-valuemax="1979"></div>
+        </div>
+        </div>
+        <button class="frise-bouton" id="suivant" type="button" aria-label="Date suivante">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg>
+        </button>
       </div>
-      <p class="frise-aide">Cliquez sur une date ou utilisez les flèches du clavier. Les dates grisées sont en préparation.</p>
     </section>
 
-    <aside class="colonne colonne-droite" aria-label="Fiche du territoire">
-      <div class="carte-bloc fiche" id="fiche">
-        <p class="fiche-vide">Cliquez sur une région de la carte ou sur un nom de la liste pour lire sa fiche.</p>
-      </div>
-    </aside>
+    <!-- Panneau droit : fiche -->
+    <aside class="panneau panneau-droit" aria-label="Fiche" id="fiche" aria-live="polite"></aside>
   </main>
 
+  <section class="bandeau-chiffres" aria-label="Le projet en chiffres">
+    <h2>Le projet en chiffres</h2>
+    <div class="bandeau-grille" id="bandeau-chiffres"></div>
+    <p>Chaque carte attribue chacune des communes suisses de 1850 au territoire dont elle relevait. Chaque fiche renvoie aux articles du Dictionnaire historique de la Suisse qui l'appuient. <a href="sources.html">Voir toutes les sources et la méthode</a>.</p>
+  </section>
+
   <footer class="pied">
-    <section id="sources">
-      <h2>Sources et licences</h2>
-      <ul>
-        <li><strong>Textes historiques.</strong> Rédigés à partir du <a href="https://hls-dhs-dss.ch/fr/">Dictionnaire historique de la Suisse (DHS)</a>, sous licence CC BY-SA 4.0. Chaque fiche renvoie aux articles consultés.</li>
-        <li><strong>Fond de carte.</strong> Office fédéral de la statistique (OFS), <a href="https://data.geo.admin.ch/browser/index.html#/collections/ch.bfs.historisierte-administrative_grenzen_g0">Limites communales G0, série chronologique depuis 1850</a>, état au 1er janvier 1850.</li>
-        <li><strong>Bibliothèque cartographique.</strong> <a href="https://leafletjs.com/">Leaflet</a>, licence BSD 2.</li>
-        <li><strong>Ce site.</strong> Code sous licence MIT, données et textes sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">CC BY-SA 4.0</a>.</li>
-      </ul>
-    </section>
-    <section id="a-propos">
-      <h2>À propos et méthode</h2>
-      <p>Les frontières anciennes ne sont pas redessinées. Chaque commune telle qu'elle existait en 1850 est attribuée, pour chaque date, au territoire dont elle relevait. Les territoires sont ensuite obtenus en réunissant leurs communes. La méthode est fiable à l'échelle d'un canton ou d'un bailliage, mais elle reste une approximation au niveau local. Chaque date indique ses approximations.</p>
-      <p>Les territoires situés hors de la Suisse actuelle, comme la Valteline ou Mulhouse, n'apparaissent pas sur la carte. Ils sont signalés sous la liste « Qui gouverne ».</p>
-    </section>
+    <p><strong>Atlas Helvetica</strong>. Textes rédigés d'après le <a href="https://hls-dhs-dss.ch/fr/">Dictionnaire historique de la Suisse</a> (CC BY-SA 4.0). Fond communal de 1850 © <a href="https://data.geo.admin.ch/browser/index.html#/collections/ch.bfs.historisierte-administrative_grenzen_g0">Office fédéral de la statistique</a>. Relief © <a href="https://www.swisstopo.admin.ch/">swisstopo</a>. Pays voisins © Natural Earth. Carte réalisée avec <a href="https://leafletjs.com/">Leaflet</a>.</p>
+    <p>Code sous licence MIT, données et textes sous licence CC BY-SA 4.0. <a href="https://github.com/klAIdi-b/atlas-helvetica">Code source</a>.</p>
   </footer>
+
+  <div class="accueil" id="accueil" hidden>
+    <div class="accueil-boite" role="dialog" aria-modal="true" aria-labelledby="accueil-titre">
+      <img src="img/emblem.svg" alt="" width="64" height="64">
+      <h2 id="accueil-titre">Bienvenue dans l'Atlas Helvetica</h2>
+      <p>Sept siècles d'histoire territoriale suisse, de l'alliance de 1291 à la création du canton du Jura. Faites glisser le curseur doré sous la carte pour voyager dans le temps, cliquez sur une région pour lire son histoire, ou cherchez votre commune.</p>
+      <div class="accueil-chiffres" id="accueil-chiffres"></div>
+      <div class="accueil-actions">
+        <button type="button" class="principal" id="accueil-visite">Commencer la visite guidée</button>
+        <button type="button" id="accueil-explorer">Explorer librement</button>
+      </div>
+    </div>
+  </div>
 
   <script src="vendor/leaflet/leaflet.js"></script>
   <script src="js/app.js"></script>

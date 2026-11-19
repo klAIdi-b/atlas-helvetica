@@ -6,6 +6,16 @@ Atlas historique interactif de la Suisse. Pour chaque date clé, de l'alliance d
 la carte montre qui gouvernait chaque région : cantons, pays alliés, bailliages communs et puissances étrangères.
 Chaque territoire a sa fiche (régime, chef-lieu, langues, religion, population, sources).
 
+## Ce que propose le site
+
+- **Seize cartes datées**, de l'alliance de 1291 à la création du canton du Jura en 1979, avec le relief des Alpes en fond.
+- **Une fiche par territoire et par date** : régime, dirigeants, chef-lieu, langues, religion, population, superficie, résumé et sources.
+- **Les événements marquants** de chaque période (batailles, traités, alliances, révolutions).
+- **Les changements** entre deux dates, calculés commune par commune.
+- **« Votre commune à travers les siècles »** : la recherche d'une commune montre à qui elle appartenait à chaque date.
+- **Une visite guidée** qui fait défiler les seize dates avec leur récit.
+- **Une page Sources et méthode** qui liste tous les articles du Dictionnaire historique de la Suisse consultés.
+
 ## Méthode
 
 Les frontières anciennes ne sont pas redessinées à la main. Le fond de carte est celui des communes suisses
@@ -21,7 +31,8 @@ en réunissant leurs communes. C'est une approximation au niveau local, signalé
 | `data-src/chronologie.json` | Liste des dates clés prévues |
 | `data-src/couleurs.json` | Couleur de chaque territoire |
 | `scripts/build.py` | Construit les cartes et les données du site à partir de `data-src/` |
-| `docs/` | Le site statique publié sur GitHub Pages (HTML, CSS, JavaScript, données générées) |
+| `docs/` | Le site statique publié sur GitHub Pages (HTML, CSS, JavaScript, polices, données générées) |
+| `docs/data/` | Données générées : une fiche JSON et une carte GeoJSON par date, l'index des communes, les sources, la chronologie |
 
 ## Construire et lancer le site en local
 
