@@ -52,6 +52,7 @@
   }
   function sansAccents(s) { return s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase(); }
   function court(nom) {
+    if (/^Principauté épiscopale de /i.test(nom)) return nom.replace(/^Principauté épiscopale de /i, "Évêché de ").replace(/\s*\(.*\)\s*$/, "");
     return nom
       .replace(/^(République et canton|Canton|Bailliage commun|Bailliage|Comté|Landgraviat|Principauté abbatiale|Principauté épiscopale|Principauté|Seigneurie|Ville et terres de l'évêque)\s+(de la |de l'|des |du |d'|de )/i, "")
       .replace(/\s*\(.*\)\s*$/, "");
